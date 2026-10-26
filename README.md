@@ -113,6 +113,29 @@ present:
 Without the secret the script simply fails loudly, and the workflow keeps the
 previous feed in place.
 
+### Cost: free by construction
+
+Only **one** TinyFish product is ever called — the Fetch API:
+
+```
+POST https://api.fetch.tinyfish.ai
+```
+
+- Free tier: **1,000 URLs/day**, 150 fetches/min. No card needed in that range.
+- **Search** is not used (the site's own API already does the searching).
+- **Agent / Research / Browser / Monitor** endpoints are never called — those
+  are the metered ones.
+- Enforced twice: an import-time check plus a per-call check that fail closed if
+  `TINYFISH_FETCH` is ever pointed at anything else.
+- Hard cap of **4 fetches per run** (`TINYFISH_MAX_CALLS`). A healthy run makes
+  **0**; a blocked run makes 1–2. At the 3-hourly schedule the worst case is
+  ~16 URLs/day ≈ **1.6 %** of the free quota.
+- `--no-tinyfish` (or simply no secret) makes the process incapable of calling
+  it at all. The workflow never retries in a loop, so a bad day can't multiply
+  the count.
+- If the free quota were somehow exhausted, requests fail instead of billing,
+  the build exits non-zero, and the previously deployed feed stays live.
+
 ### Secret hygiene
 
 The key is treated as radioactive:

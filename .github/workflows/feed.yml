@@ -36,6 +36,9 @@ jobs:
         # The API key is scoped to this one step: the commit step below never
         # gets it in its environment, and the script only reads it from env
         # (never argv, never a file, never a URL).
+        # Cost policy: the script only calls the free TinyFish Fetch API
+        # (1,000 URLs/day, capped at 4 calls per run) -- no agent, research,
+        # browser or monitor endpoints, which are the metered products.
         env:
           TINYFISH_API_KEY: ${{ secrets.TINYFISH_API_KEY }}
         run: |

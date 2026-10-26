@@ -14,6 +14,9 @@ Outputs (written next to each other by `gen`):
 Usage:
   python tfa_rss.py gen --out . --base-url https://raw.githubusercontent.com/<u>/<r>/main
   python tfa_rss.py serve --port 8787
+
+TinyFish (optional, only when a request fails) is used exclusively through its
+free Fetch API: 1,000 URLs/day, max 4 calls per run. Nothing metered is called.
 """
 from __future__ import annotations
 
@@ -35,7 +38,19 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
 SITE = "https://todayforai.com"
+# Cost policy: TinyFish is used for ONE product only -- the Fetch API, which is
+# free up to 1,000 URLs/day (150 fetches/min). Never agent / research / browser /
+# monitor endpoints: those are metered. Both the import-time check and the
+# runtime check below fail closed if this constant is ever pointed elsewhere.
+_TINYFISH_ALLOWED = {"https://api.fetch.tinyfish.ai"}
 TINYFISH_FETCH = "https://api.fetch.tinyfish.ai"
+TINYFISH_MAX_CALLS = 4  # hard cap per process; a normal run needs 0, worst case 2
+_TINYFISH_CALLS = 0
+_TINYFISH_OFF = False
+
+if TINYFISH_FETCH not in _TINYFISH_ALLOWED:
+    raise RuntimeError("only the free TinyFish Fetch endpoint may be used")
+
 UA = "tfa-rss/2.0 (github.com feed builder)"
 TIMEOUT = 25
 
@@ -57,24 +72,45 @@ def _key() -> str:
     return os.environ.get("TINYFISH_API_KEY", "").strip()
 
 
+def _can_tinyfish() -> bool:
+    """Fallback is opt-in by secret presence and can be force-disabled with --no-tinyfish."""
+    return not _TINYFISH_OFF and bool(_key())
+
+
+def disable_tinyfish(off: bool = True) -> None:
+    global _TINYFISH_OFF
+    _TINYFISH_OFF = off
+
+
 def redact(text: str) -> str:
     """Last-line defence: strip the key from anything we print or write."""
     key = _key()
     return text.replace(key, "[redacted]") if key and key in text else text
 
 
+def _fetch_endpoint() -> str:
+    """Fail closed unless the endpoint is the free Fetch API."""
+    if TINYFISH_FETCH not in _TINYFISH_ALLOWED:
+        raise RuntimeError("only the free TinyFish Fetch endpoint may be used")
+    return TINYFISH_FETCH
+
+
 def _tinyfish(url: str) -> str:
-    """Fetch through TinyFish when the site blocks the runner (optional)."""
+    """Free-tier Fetch API only (1,000 URLs/day). Nothing metered is ever called."""
+    global _TINYFISH_CALLS
     key = _key()
     if not key:
         raise RuntimeError("TINYFISH_API_KEY not set")
+    if _TINYFISH_CALLS >= TINYFISH_MAX_CALLS:
+        raise RuntimeError(f"tinyfish budget for this run exhausted ({TINYFISH_MAX_CALLS})")
     body = json.dumps({"urls": [url], "format": "markdown"}).encode()
     req = urllib.request.Request(
-        TINYFISH_FETCH,
+        _fetch_endpoint(),
         data=body,
         headers={"X-API-Key": key, "Content-Type": "application/json"},
     )
     opener = urllib.request.build_opener(_NoRedirect)
+    _TINYFISH_CALLS += 1
     try:
         with opener.open(req, timeout=60) as r:  # nosemgrep: python.lang.security.audit.dynamic-urllib-use-detected.dynamic-urllib-use-detected
             payload = json.loads(r.read().decode("utf-8", "replace"))
@@ -111,8 +147,8 @@ def _get(url: str) -> str:
             if attempt < 2:
                 time.sleep(2)
 
-    if _key():
-        print(f"[warn] {url} failed ({redact(str(last))}); retrying via TinyFish", file=sys.stderr)
+    if _can_tinyfish():
+        print(f"[warn] {url} failed ({redact(str(last))}); retrying via TinyFish Fetch", file=sys.stderr)
         return _tinyfish(url)
     raise last or RuntimeError(f"fetch failed: {url}")
 
@@ -473,6 +509,9 @@ def main(argv=None) -> int:
     g.add_argument("--limit", type=int, default=30)
     g.add_argument("--hot-limit", type=int, default=10)
     g.add_argument("--no-en", action="store_true", help="skip English enrichment")
+    g.add_argument(
+        "--no-tinyfish", action="store_true", help="never call TinyFish, even if a key is set"
+    )
 
     s = sub.add_parser("serve", help="serve feeds over HTTP")
     s.add_argument("--host", default="127.0.0.1")
@@ -483,8 +522,12 @@ def main(argv=None) -> int:
     s.add_argument("--category", default=None)
     s.add_argument("--limit", type=int, default=30)
     s.add_argument("--no-en", action="store_true")
+    s.add_argument("--no-tinyfish", action="store_true")
 
     a = p.parse_args(argv)
+
+    if getattr(a, "no_tinyfish", False):
+        disable_tinyfish()
 
     if a.cmd == "gen":
         base = a.base_url.rstrip("/") or None
