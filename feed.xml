@@ -5,370 +5,372 @@
 <link>https://todayforai.com/en/news</link>
 <description>Curated frontier AI news, 24h window, from todayforai.com.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 23:58:27 +0800</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 05:05:15 +0800</lastBuildDate>
 <ttl>10</ttl>
 <generator>tfa_rss.py</generator>
 <atom:link href="https://raw.githubusercontent.com/lan956/today4ai/main/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Microsoft Offers Voluntary Buyouts to 60,000 Employees Across AI and Core Units</title>
-<link>https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible</guid>
-<pubDate>Mon, 26 Oct 2026 23:58:27 +0800</pubDate>
-<description>&lt;p&gt;Microsoft has launched a voluntary buyout program for up to 60,000 employees in the US, UK, Canada, and India to avoid further layoffs. The initiative covers key divisions including Copilot, CoreAI, and Windows, signaling a strategic workforce restructuring amid the ongoing AI transition.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;微软向 6 万员工提供自愿买断 涵盖 AI 与核心业务部门&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;涉及全球最大科技公司之一的大规模人员结构调整，直接反映 AI 产业扩张期的成本压力与组织变革趋势。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible">The Verge AI</source>
+<title>Microsoft Offers Voluntary Buyouts to Quarter of Workforce</title>
+<link>https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce</link>
+<guid isPermaLink="true">https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce</guid>
+<pubDate>Tue, 27 Oct 2026 05:05:15 +0800</pubDate>
+<description>&lt;p&gt;Microsoft has announced voluntary buyout offers for approximately 25% of its workforce, aiming to optimize staffing structures amid AI-driven organizational shifts. This large-scale restructuring reflects tech giants&amp;#x27; urgent need for cost control and efficiency in the generative AI era.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;微软向四分之一员工提供自愿买断计划&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部科技公司大规模裁员/买断直接反映AI产业对劳动力市场的结构性冲击，具有极高行业关注度。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 78/100&lt;/p&gt;</description>
+<source url="https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce">Hacker News AI</source>
 <category>微软</category>
 <category>裁员</category>
+<category>AI产业</category>
 <category>人力资源</category>
-<category>AI 产业</category>
 </item>
 <item>
-<title>Sebastian Raschka Releases Video Course on Building Reasoning Models from Scratch</title>
-<link>https://magazine.sebastianraschka.com/p/building-reasoning-models</link>
-<guid isPermaLink="true">https://magazine.sebastianraschka.com/p/building-reasoning-models</guid>
-<pubDate>Mon, 26 Oct 2026 23:11:59 +0800</pubDate>
-<description>&lt;p&gt;AI expert Sebastian Raschka released an accompanying video course titled &amp;#x27;Build a Reasoning Model (From Scratch)&amp;#x27;, featuring 11 hours of content. The course uses PyTorch to demonstrate core techniques such as inference scaling, reinforcement learning, and distillation, aiming to help developers deeply understand the implementation details of LLM reasoning mechanisms.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Raschka 发布推理模型从零构建视频课&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;对于希望掌握大模型推理底层实现而非仅调用 API 的高级开发者具有极高的学习价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 68/100&lt;/p&gt;</description>
-<source url="https://magazine.sebastianraschka.com/p/building-reasoning-models">Hacker News AI</source>
-<category>教育</category>
-<category>PyTorch</category>
-<category>推理模型</category>
-<category>开源社区</category>
+<title>Pasta Lab Joins Artificial Analysis Cyber Index Alliance</title>
+<link>https://x.com/ArtificialAnlys/status/2114817771188175007</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2114817771188175007</guid>
+<pubDate>Tue, 27 Oct 2026 04:33:42 +0800</pubDate>
+<description>&lt;p&gt;Academic research group Pasta Lab has joined the Artificial Analysis Cyber Index Alliance. Composed of members from Columbia, Tufts, and UCLA, the group previously developed SRE-Bench for reverse engineering evaluation. This collaboration aims to advance standards for assessing AI models on real-world cybersecurity tasks.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Pasta Lab 加入 AI 网络安全基准联盟&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;属于行业生态合作新闻，虽涉及知名高校背景与特定基准工具，但缺乏具体的技术突破或产品发布，对重度读者的即时注意力价值有限。&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys) · industry · signal 35/100&lt;/p&gt;</description>
+<source url="https://x.com/ArtificialAnlys/status/2114817771188175007">Artificial Analysis (@ArtificialAnlys)</source>
+<category>AI安全</category>
+<category>基准测试</category>
+<category>行业合作</category>
 </item>
 <item>
-<title>Everything Project Open-Sources MIT-Licensed Alternatives to Major Software</title>
-<link>https://github.com/HeyPuter/everything</link>
-<guid isPermaLink="true">https://github.com/HeyPuter/everything</guid>
-<pubDate>Mon, 26 Oct 2026 22:50:21 +0800</pubDate>
-<description>&lt;p&gt;The Everything Project has open-sourced its effort to rebuild and provide free, MIT-licensed alternatives to proprietary software like Office, Slack, Photoshop, and AutoCAD. Hosted as a monorepo, the project allows developers to clone and run applications locally using Node.js 22.12 or newer.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Everything 项目开源 复刻 Office 等主流软件&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;大规模开源替代方案对开发者生态具有显著吸引力，且提供了可直接运行的代码库。&lt;/p&gt;&lt;p&gt;Hacker News AI · opensource · signal 68/100&lt;/p&gt;</description>
-<source url="https://github.com/HeyPuter/everything">Hacker News AI</source>
-<category>开源</category>
-<category>Node.js</category>
-<category>MIT License</category>
-<category>软件替代</category>
-</item>
-<item>
-<title>Anthropic Files for Nasdaq IPO: H1 Revenue Hits $16.3B as Compute Costs Drop to 48%</title>
-<link>https://x.com/dotey/status/2114730719255695729</link>
-<guid isPermaLink="true">https://x.com/dotey/status/2114730719255695729</guid>
-<pubDate>Mon, 26 Oct 2026 22:47:47 +0800</pubDate>
-<description>&lt;p&gt;Anthropic has officially filed its S-1 registration statement with the SEC, planning a Nasdaq IPO under the ticker &amp;#x27;ANT&amp;#x27;. The filing reveals explosive revenue growth ($16.3B in H1 2026) and operational profitability, driven by compute costs dropping from 250% to 48% of revenue. While accounting losses stem from convertible note revaluations, the company maintains strong cash reserves and disclosed massive long-term compute procurement contracts with vendors like Broadcom and SpaceXAI.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 递交 IPO 招股书：上半年营收 163 亿 算力成本占比降至 48%&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部 AI 实验室首次公开财务细节，揭示算力成本优化对盈利的决定性影响及巨额基础设施投入规模。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · industry · signal 92/100&lt;/p&gt;</description>
-<source url="https://x.com/dotey/status/2114730719255695729">宝玉 (@dotey)</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>算力成本</category>
-<category>商业模型</category>
-</item>
-<item>
-<title>Anthropic Files for IPO with $16.3B H1 Revenue and Existential Risk Disclosures</title>
-<link>https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</guid>
-<pubDate>Mon, 26 Oct 2026 22:35:22 +0800</pubDate>
-<description>&lt;p&gt;Anthropic has officially filed for an initial public offering under the ticker &amp;#x27;ANT&amp;#x27;, reporting $16.3 billion in revenue for the first half of 2026, a massive increase from the previous year. Despite narrowing operating losses, the company recorded a net loss of $80.7 billion driven by noncash accounting adjustments. The prospectus notably includes warnings about potential &amp;#x27;catastrophic or existential risks&amp;#x27; posed by its AI technology.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 正式递交 IPO 申请 上半年营收 163 亿美元&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部大模型公司首次公开财务细节与风险披露，对 AI 行业估值逻辑与监管风向具有标杆意义。&lt;/p&gt;&lt;p&gt;TechCrunch AI · industry · signal 85/100&lt;/p&gt;</description>
-<source url="https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/">TechCrunch AI</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>大模型商业化</category>
-<category>AI 风险</category>
-</item>
-<item>
-<title>Meta Plans $95B Stock Sale to Fund Massive AI Infrastructure Buildout</title>
-<link>https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/</link>
-<guid isPermaLink="true">https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/</guid>
-<pubDate>Mon, 26 Oct 2026 22:21:23 +0800</pubDate>
-<description>&lt;p&gt;Meta has announced plans to raise up to $95 billion through new stock and preferred share offerings to fund its massive AI infrastructure expansion. The financing structure includes Class A common stock, convertible preferred shares, and future sales of non-voting Class C shares, designed to secure capital without diluting CEO Mark Zuckerberg&amp;#x27;s control. Chip giants Nvidia, AMD, and Broadcom have expressed non-binding interest in purchasing up to $5 billion of Meta stock.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Meta 拟售股募资 950 亿美元加速 AI 基建&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该事件标志着超大规模科技公司为应对 AI 算力需求而进行的史上最大规模之一股权融资，直接反映行业资本流向与算力军备竞赛现状。&lt;/p&gt;&lt;p&gt;The Decoder · industry · signal 78/100&lt;/p&gt;</description>
-<source url="https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/">The Decoder</source>
-<category>Meta</category>
-<category>AI 基建</category>
-<category>融资</category>
-<category>算力</category>
-</item>
-<item>
-<title>Anthropic IPO Filing Reveals $16.3B Revenue and Massive Compute Costs</title>
-<link>https://www.ithome.com/1/018/171.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/018/171.htm</guid>
-<pubDate>Mon, 26 Oct 2026 22:19:11 +0800</pubDate>
-<description>&lt;p&gt;Anthropic&amp;#x27;s latest IPO filing reveals $16.3 billion in revenue for the first half of the year, offset by an $80.7 billion net loss primarily due to accounting charges related to financing notes. The company has secured multi-billion dollar compute agreements, with projected spending reaching up to $120.5 billion by 2029. The filing highlights AI&amp;#x27;s potential to solve major scientific challenges and boost economic growth while warning of catastrophic risks.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic IPO 文件披露：上半年营收 163 亿，算力支出超千亿&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部大模型厂商首次公开详细财务与算力成本数据，揭示行业巨额投入现状。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 78/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/171.htm">IT之家 · 智能时代</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>AI 基础设施</category>
-<category>商业财务</category>
-</item>
-<item>
-<title>Tencent Open-Sources Hy-SimulMT: 3s Latency Beats Human Interpreters</title>
-<link>https://www.ithome.com/1/018/168.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/018/168.htm</guid>
-<pubDate>Mon, 26 Oct 2026 22:09:04 +0800</pubDate>
-<description>&lt;p&gt;Tencent has open-sourced Hy-SimulMT, a simultaneous interpretation LLM supporting real-time Chinese-English speech-to-speech translation with voice cloning. With a latency of ~3 seconds, it outperforms the average human interpreter and matches or exceeds expert-level translation quality. The model is now available for free via the Tencent Hy Translation app.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;腾讯开源 Hy-SimulMT 同传大模型 3 秒响应超人类译员&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;开源同传模型在延迟和质量上双双超越人类专家基准，具备极高的工程落地价值和技术参考意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · llm · signal 85/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/168.htm">IT之家 · 智能时代</source>
-<category>腾讯混元</category>
-<category>开源模型</category>
-<category>同声传译</category>
-<category>语音识别</category>
-</item>
-<item>
-<title>Anthropic Files S-1 for IPO with $16.3B Half-Year Revenue</title>
-<link>https://x.com/rohanpaul_ai/status/2114718715162014008</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114718715162014008</guid>
-<pubDate>Mon, 26 Oct 2026 22:00:05 +0800</pubDate>
-<description>&lt;p&gt;Anthropic has filed an S-1 registration statement with the SEC to initiate its IPO. The company reported $16.3 billion in revenue over the past six months (a 14x year-over-year increase) and narrowed its operating loss to $693 million. The $80.7 billion net loss is primarily driven by non-cash accounting charges related to Amazon&amp;#x27;s convertible notes, while a dual-class share structure preserves founder control.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 提交 S-1 拟 IPO，半年营收 163 亿美元&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部 AI 实验室正式进入公开市场，其财务数据为行业提供了罕见的真实增长与成本基准。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 88/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2114718715162014008">Rohan Paul (@rohanpaul_ai)</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>S-1</category>
-<category>AI 商业化</category>
-</item>
-<item>
-<title>Kevin Roose Launches Book &#x27;The AGI Chronicles&#x27; and Independent Podcast Machine Gods</title>
-<link>https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic</link>
-<guid isPermaLink="true">https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic</guid>
-<pubDate>Mon, 26 Oct 2026 22:00:00 +0800</pubDate>
-<description>&lt;p&gt;Former New York Times journalist Kevin Roose has published a new book, &amp;#x27;The AGI Chronicles,&amp;#x27; detailing the industry&amp;#x27;s race toward Artificial General Intelligence. Alongside Casey Newton, he left the Times to launch the independent tech podcast &amp;#x27;Machine Gods,&amp;#x27; marking a significant shift from traditional media to independent creation.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Kevin Roose 发布新书《AGI 编年史》并创办独立播客 Machine Gods&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;知名记者转型独立创作并发布关于 AGI 行业的深度报道书籍，具有行业风向标意义，但缺乏具体技术突破或产品数据。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 35/100&lt;/p&gt;</description>
-<source url="https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic">The Verge AI</source>
-<category>AGI</category>
-<category>Media</category>
-<category>Podcast</category>
-<category>Book Release</category>
-</item>
-<item>
-<title>Anthropic Files S-1 for Nasdaq IPO Under Ticker &#x27;ANT&#x27;</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec</guid>
-<pubDate>Mon, 26 Oct 2026 21:32:49 +0800</pubDate>
-<description>&lt;p&gt;Anthropic has officially filed its S-1 prospectus with the SEC, planning to list on Nasdaq under the ticker &amp;#x27;ANT&amp;#x27;. The filing reveals $16.3 billion in revenue and an $80.7 billion net loss for the first half of the year, largely driven by accounting charges related to funding notes. This move positions Anthropic to potentially go public ahead of OpenAI, outlining its vision to revolutionize human endeavors with AI.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 提交 IPO 申请 拟纳斯达克上市代码 ANT&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部大模型公司首次公开财务细节与上市计划，对 AI 行业资本格局具有标志性意义。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 85/100&lt;/p&gt;</description>
-<source url="https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec">The Verge AI</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>资本市场</category>
-<category>OpenAI</category>
-</item>
-<item>
-<title>Anthropic Files S-1: $6.6M Revenue Per Employee Revealed</title>
-<link>https://x.com/gregisenberg/status/2114711399620333841</link>
-<guid isPermaLink="true">https://x.com/gregisenberg/status/2114711399620333841</guid>
-<pubDate>Mon, 26 Oct 2026 21:31:01 +0800</pubDate>
-<description>&lt;p&gt;Anthropic has filed its S-1 for an IPO, revealing exceptional financial efficiency with $6.6M revenue per employee and ~900% net revenue retention. The filing highlights rapid growth in consumer products like Cowork and notes that nearly half of its revenue comes through cloud marketplaces.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 提交 S-1 招股书 人均营收达 660 万美元&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;首次公开 Anthropic 核心财务数据与增长曲线，为评估 AI 头部厂商商业化能力提供关键基准。&lt;/p&gt;&lt;p&gt;GREG ISENBERG (@gregisenberg) · industry · signal 78/100&lt;/p&gt;</description>
-<source url="https://x.com/gregisenberg/status/2114711399620333841">GREG ISENBERG (@gregisenberg)</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>S-1</category>
-<category>AI 商业化</category>
-<category>财务数据</category>
-</item>
-<item>
-<title>Anthropic Files for Nasdaq IPO as H1 Revenue Surges 13x</title>
-<link>https://www.ithome.com/1/018/162.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/018/162.htm</guid>
-<pubDate>Mon, 26 Oct 2026 21:29:45 +0800</pubDate>
-<description>&lt;p&gt;AI unicorn Anthropic has filed for a Nasdaq IPO under the ticker &amp;#x27;ANT&amp;#x27;. The prospectus reveals that H1 2026 revenue surged to $16.286 billion, a 13x year-over-year increase, with adjusted operating profit turning positive. While net losses widened due to convertible note fair value changes, the company holds over $100 billion in cash and has signed long-term compute leasing agreements totaling more than $500 billion to fuel future growth.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 提交纳斯达克 IPO 申请，上半年营收暴涨 13 倍&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部 AI 实验室上市进程启动，财务数据揭示大模型商业化拐点与巨额算力资本开支趋势，对行业格局影响深远。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 92/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/162.htm">IT之家 · IT业界</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>大模型商业化</category>
-<category>算力成本</category>
-</item>
-<item>
-<title>OpenAI Claims Substantial Gains in Migrating Legacy COBOL Code</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic</guid>
-<pubDate>Mon, 26 Oct 2026 21:15:00 +0800</pubDate>
-<description>&lt;p&gt;OpenAI announced substantial improvements in its latest models&amp;#x27; ability to migrate legacy software written in low-resource languages like COBOL into modern code, aiming to address the maintenance crisis of critical global infrastructure. While this capability holds massive potential for financial and government sectors, the article highlights that fully automated migration still struggles with the remaining 1% of complex logic.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 宣称提升 COBOL 等遗留代码迁移能力&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;针对全球 IT 痛点（遗留代码）的实质性技术进展报道，兼具行业影响力与技术局限性分析。&lt;/p&gt;&lt;p&gt;The Verge AI · llm · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic">The Verge AI</source>
-<category>OpenAI</category>
-<category>COBOL</category>
-<category>代码迁移</category>
-<category>遗留系统</category>
-</item>
-<item>
-<title>Anthropic Files S-1 with SEC to Initiate IPO Process</title>
-<link>https://x.com/AnthropicAI/status/2114705042817110293</link>
-<guid isPermaLink="true">https://x.com/AnthropicAI/status/2114705042817110293</guid>
-<pubDate>Mon, 26 Oct 2026 21:05:46 +0800</pubDate>
-<description>&lt;p&gt;AI unicorn Anthropic has officially filed an S-1 registration statement with the U.S. Securities and Exchange Commission (SEC), marking a significant milestone in its Initial Public Offering (IPO) process. This move solidifies its status as a leading AI infrastructure provider in capital markets and sets the stage for future valuation disclosures and listing timelines.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 向 SEC 提交 S-1 文件 启动 IPO 进程&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部大模型厂商正式启动上市流程，是 AI 行业资本化进程的标志性事件，对投资者与从业者具有极高关注度。&lt;/p&gt;&lt;p&gt;Anthropic AI (@AnthropicAI) · industry · signal 85/100&lt;/p&gt;</description>
-<source url="https://x.com/AnthropicAI/status/2114705042817110293">Anthropic AI (@AnthropicAI)</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>资本市场</category>
-<category>大模型公司</category>
-</item>
-<item>
-<title>Anthropic Files S-1 to Initiate Public Offering Process</title>
-<link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</link>
-<guid isPermaLink="true">https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</guid>
-<pubDate>Mon, 26 Oct 2026 21:04:50 +0800</pubDate>
-<description>&lt;p&gt;AI unicorn Anthropic has officially filed its Form S-1 registration statement with the SEC, marking a significant step toward an Initial Public Offering (IPO). The document outlines the company&amp;#x27;s leadership under co-founders Dario and Daniela Amodei and details its business model combining the Claude Platform with first-party applications. This move signals that leading large model vendors are turning to capital markets for scaled expansion.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 提交 S-1 招股书 启动 IPO 进程&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部 AI 实验室上市是行业资本化的重要里程碑，对评估 AI 商业成熟度具有极高参考价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 85/100&lt;/p&gt;</description>
-<source url="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm">Hacker News AI</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>S-1</category>
-<category>资本市场</category>
-</item>
-<item>
-<title>vLLM Achieves 100% Tool-Call Accuracy via Constrained Decoding</title>
-<link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
-<guid isPermaLink="true">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
-<pubDate>Mon, 26 Oct 2026 20:59:48 +0800</pubDate>
-<description>&lt;p&gt;To address frequent tool-call failures in open-weight model inference, vLLM version 0.31 introduced server-side constrained decoding support. This feature enforces schema adherence, boosting the accuracy of models like Kimi K2.6 from 92% to 100%, thereby significantly enhancing the reliability of agentic workflows.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;vLLM 启用约束解码 将工具调用准确率提至 100%&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;解决了 Agent 开发中工具调用不稳定的核心痛点，提供了明确的版本升级路径与量化效果。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm">Hacker News AI</source>
-<category>vLLM</category>
-<category>工具调用</category>
-<category>约束解码</category>
-<category>智能体</category>
-</item>
-<item>
-<title>Brown Student Maps Global Data Labor Powering AI</title>
-<link>https://www.brown.edu/news/2026-10-26/ai-data-workers</link>
-<guid isPermaLink="true">https://www.brown.edu/news/2026-10-26/ai-data-workers</guid>
-<pubDate>Mon, 26 Oct 2026 20:58:27 +0800</pubDate>
-<description>&lt;p&gt;Brown University undergraduate Cunyan Ma developed an interactive map visualizing the connections between tech companies, intermediaries, and low-wage data workers in the Global South. The tool aims to expose the hidden human labor structure underpinning everyday AI algorithms and is now freely available online.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;布朗大学学生发布 AI 全球数据劳工地图&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽非技术突破，但提供了关于 AI 供应链伦理与劳动力结构的独特可视化视角，适合关注 AI 社会影响的读者。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 42/100&lt;/p&gt;</description>
-<source url="https://www.brown.edu/news/2026-10-26/ai-data-workers">Hacker News AI</source>
-<category>AI伦理</category>
-<category>数据标注</category>
-<category>可视化工具</category>
-<category>社会影响</category>
-</item>
-<item>
-<title>SpaceX Secures $40B GPU Financing from Apollo for Vera Rubin Deployment</title>
-<link>https://www.ithome.com/1/018/150.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/018/150.htm</guid>
-<pubDate>Mon, 26 Oct 2026 20:42:47 +0800</pubDate>
-<description>&lt;p&gt;SpaceX has entered a binding $40 billion master lease agreement with Apollo Global Management, marking the largest GPU financing deal to date. The funds will procure next-generation NVIDIA Vera Rubin chips for ground-based computing infrastructure, with deliveries expected in H1 2027 to support Grok services and cloud clients.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;SpaceX 获 Apollo 400 亿美元 GPU 融资 部署 Vera Rubin 芯片&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;单笔 400 亿美元的算力融资规模空前，直接关联下一代旗舰芯片 Vera Rubin 的落地节奏，对 AI 基础设施资本流向具有标志性意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · compute · signal 85/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/150.htm">IT之家 · 智能时代</source>
-<category>SpaceX</category>
-<category>Apollo</category>
-<category>NVIDIA</category>
-<category>GPU</category>
-<category>Infrastructure</category>
-</item>
-<item>
-<title>MIT Tech Review Daily: AI Everyday Harms and Nuclear Spaceflight</title>
-<link>https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/</link>
-<guid isPermaLink="true">https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/</guid>
-<pubDate>Mon, 26 Oct 2026 20:40:00 +0800</pubDate>
-<description>&lt;p&gt;This newsletter edition highlights the oversight of everyday AI harms, arguing that the focus on catastrophic safety risks ignores how AI companions and chatbots subtly erode teen socialization and learning. It also touches on nuclear spaceflight developments, urging the industry to address non-extreme societal impacts.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;MIT Tech Review 日报：AI 日常危害与核太空竞赛&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为多主题打包的新闻早报，缺乏单一技术突破或可操作信息，主要价值在于引发对 AI 社会影响的反思。&lt;/p&gt;&lt;p&gt;MIT Technology Review · industry · signal 35/100&lt;/p&gt;</description>
-<source url="https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/">MIT Technology Review</source>
-<category>AI 伦理</category>
-<category>社会影响</category>
-<category>新闻简报</category>
-</item>
-<item>
-<title>Opinion: Writing Is Closer to Thought Than Code in AI Development</title>
-<link>https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code</link>
-<guid isPermaLink="true">https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code</guid>
-<pubDate>Mon, 26 Oct 2026 20:32:15 +0800</pubDate>
-<description>&lt;p&gt;The article argues that natural language writing should serve as the &amp;#x27;source of truth&amp;#x27; in AI-assisted development, as it reflects human intent more directly than code. Through a debate with Matt Pocock, the author outlines the hierarchy from thought to text to code, advocating for spec-driven workflows.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;观点：自然语言写作比代码更接近思维本质&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了关于 AI 编程工作流中抽象层级的独特视角，适合关注开发者工具与提示工程演进的读者。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 42/100&lt;/p&gt;</description>
-<source url="https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code">Hacker News AI</source>
-<category>AI编程</category>
-<category>开发范式</category>
-<category>观点评论</category>
-</item>
-<item>
-<title>Resolution Publishes Work on AI-Automated Mathematical Formalization</title>
-<link>https://importai.substack.com/p/import-ai-478-math-for-alignment</link>
-<guid isPermaLink="true">https://importai.substack.com/p/import-ai-478-math-for-alignment</guid>
-<pubDate>Mon, 26 Oct 2026 20:31:52 +0800</pubDate>
-<description>&lt;p&gt;AI safety startup Resolution demonstrated the use of agents to automatically formalize complex mathematical statements from statistical learning theory, such as resolution of singularities. This work aims to establish a rigorous science of research automation through the &amp;#x27;industrialization of mathematics,&amp;#x27; laying groundwork for understanding the relationship between loss landscape geometry and generalization.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Resolution 发布 AI 自动形式化数学研究进展&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了 AI 在前沿数学证明自动化方面的具体应用路径，对理解 AI 辅助科研及对齐技术有参考价值。&lt;/p&gt;&lt;p&gt;Import AI (Jack Clark) · llm · signal 68/100&lt;/p&gt;</description>
-<source url="https://importai.substack.com/p/import-ai-478-math-for-alignment">Import AI (Jack Clark)</source>
-<category>AI Safety</category>
-<category>Mathematical Reasoning</category>
-<category>Research Automation</category>
-</item>
-<item>
-<title>Meta Announces Up to $95B Financing Plan to Fund AI Expansion</title>
-<link>https://www.ithome.com/1/018/144.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/018/144.htm</guid>
-<pubDate>Mon, 26 Oct 2026 20:26:21 +0800</pubDate>
-<description>&lt;p&gt;Meta has announced a financing plan of up to $95 billion to fund its core business and emerging AI initiatives. The package includes forward sales of Class A common stock, mandatory convertible preferred stock, and potential ATM offerings of Class C shares, with NVIDIA, AMD, and Broadcom expressing interest in purchasing equity. Meta projects capital expenditures of $135-145 billion for 2026, aiming to sustain its AI investments which have reportedly driven user engagement and profitability.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Meta 宣布至多 950 亿美元融资计划 加码 AI 基础设施&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;巨额融资规模及芯片巨头参与认购凸显了 AI 基础设施建设的资金密集度与产业链深度绑定趋势。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 85/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/144.htm">IT之家 · IT业界</source>
-<category>Meta</category>
-<category>AI 融资</category>
-<category>资本支出</category>
-<category>英伟达</category>
-<category>AMD</category>
-</item>
-<item>
-<title>iFlytek Launches Spark X2.6 with Domestic Compute and Edge-Cloud Synergy</title>
-<link>https://www.ithome.com/1/018/141.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/018/141.htm</guid>
-<pubDate>Mon, 26 Oct 2026 20:11:38 +0800</pubDate>
-<description>&lt;p&gt;iFlytek unveiled Spark X2.6 at its 1024 Developer Festival, marking the first breakthrough in coding and agent capabilities on fully domestic compute infrastructure. By leveraging dynamic parallel training for long-range tasks and a four-layer KVCache technique, inference efficiency improved by 4.5x. The release also introduces an edge-cloud synergy architecture with 96.1% routing accuracy to address memory and bandwidth constraints of domestic chips.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;讯飞发布星火 X2.6 实现全国产算力端云协同突破&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了国产算力在大模型训练与推理优化上的实质性工程进展，特别是针对显存瓶颈的解决方案具有行业参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · llm · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/141.htm">IT之家 · 智能时代</source>
-<category>科大讯飞</category>
-<category>国产算力</category>
+<title>OpenAI Releases GPT-6.1 Terra with Halved API Prices and Improved Performance</title>
+<link>https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/</link>
+<guid isPermaLink="true">https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/</guid>
+<pubDate>Tue, 27 Oct 2026 04:30:55 +0800</pubDate>
+<description>&lt;p&gt;OpenAI has released GPT-6.1 Terra, halving its API input and output prices compared to the previous generation while enhancing performance in visual reasoning, computer control, and writing. The model also demonstrates significantly improved defense against indirect prompt injection attacks, positioning it as a highly cost-effective mid-tier competitor.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 发布 GPT-6.1 Terra API 价格减半且性能提升&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;API 价格减半直接降低开发者成本，同时性能与安全防御能力的双重提升使其具备极高的实用价值与行业影响力。&lt;/p&gt;&lt;p&gt;The Decoder · llm · signal 88/100&lt;/p&gt;</description>
+<source url="https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/">The Decoder</source>
 <category>大模型</category>
-<category>端云协同</category>
+<category>OpenAI</category>
+<category>API定价</category>
+<category>安全防御</category>
 </item>
 <item>
-<title>Cambricon Denies Rumor of Over 1 Million Chip Shipments Next Year</title>
-<link>https://www.ithome.com/1/018/135.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/018/135.htm</guid>
-<pubDate>Mon, 26 Oct 2026 19:42:22 +0800</pubDate>
-<description>&lt;p&gt;Cambricon Chairman Chen Tianshi denied rumors regarding over 1 million chip shipments in the coming year, stating no such communication occurred. The company also reported that revenue and net profit for the first three quarters of 2026 doubled year-over-year, indicating rapid expansion in its AI computing business.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;寒武纪辟谣明年芯片出货超百万颗传闻&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;澄清关键市场谣言并展示强劲财务数据，对关注国产算力供应链的投资者具有参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 45/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/135.htm">IT之家 · IT业界</source>
-<category>寒武纪</category>
+<title>Cadence Q3 Revenue Up 22% Driven by AI Design Demand</title>
+<link>https://www.ithome.com/1/018/193.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/018/193.htm</guid>
+<pubDate>Tue, 27 Oct 2026 04:06:48 +0800</pubDate>
+<description>&lt;p&gt;EDA giant Cadence reported a 22% YoY revenue increase to $1.63B in FY2026 Q3, with record backlog orders. While net income grew marginally by 0.9%, the company highlighted AI chip and hyperscale computing demand as key growth drivers, accelerating the deployment of its Maestro AI models and Super Agents.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Cadence Q3 营收增 22% AI 设计需求驱动增长&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为 EDA 双寡头之一，其财务表现直接反映 AI 芯片上游设计工具链的市场热度与基础设施投资趋势。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 35/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/018/193.htm">IT之家 · IT业界</source>
+<category>EDA</category>
+<category>Cadence</category>
+<category>财报</category>
 <category>AI芯片</category>
-<category>财报</category>
-<category>辟谣</category>
 </item>
 <item>
-<title>香农芯创 Q3 净利增 743% 受益 AI 存储需求</title>
-<link>https://www.ithome.com/1/018/134.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/018/134.htm</guid>
-<pubDate>Mon, 26 Oct 2026 19:36:34 +0800</pubDate>
-<description>&lt;p&gt;香农芯创发布 2026 年第三季度财报，归母净利润达 16.99 亿元，同比激增 743.02%，主要得益于 AI 服务器带动的存储芯片量价齐升。公司作为 SK 海力士等一线产品线分销商，前三季度累计净利润已超全年预期六成，经营性现金流大幅转正，显示盈利质量显著提升。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;AI 基础设施上游供应链业绩爆发，验证了算力建设对存储硬件的巨大拉动效应。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/134.htm">IT之家 · IT业界</source>
-<category>香农芯创</category>
-<category>存储芯片</category>
-<category>AI 服务器</category>
-<category>财报</category>
+<title>Anthropic Files IPO Prospectus with $16.3B H1 Revenue</title>
+<link>https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/</link>
+<guid isPermaLink="true">https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/</guid>
+<pubDate>Tue, 27 Oct 2026 03:14:45 +0800</pubDate>
+<description>&lt;p&gt;Anthropic has become the first major AI lab to publicly file an S-1 with the SEC, planning a Nasdaq listing under ticker &amp;#x27;ANT&amp;#x27;. The company reported $16.3 billion in revenue for the first half of 2026, a massive year-over-year increase, with Wall Street projecting a valuation near $2 trillion.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 递交 IPO 招股书 上半年营收达 163 亿美元&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;这是 AI 行业首个头部实验室正式进入公开资本市场的里程碑事件，财务数据揭示了大模型商业化的真实规模与增速。&lt;/p&gt;&lt;p&gt;The Decoder · industry · signal 92/100&lt;/p&gt;</description>
+<source url="https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/">The Decoder</source>
+<category>Anthropic</category>
+<category>IPO</category>
+<category>OpenAI</category>
+<category>Nasdaq</category>
+<category>Revenue</category>
 </item>
 <item>
-<title>协创数据前三季度净利增 338% 算力业务放量驱动高增长</title>
-<link>https://www.ithome.com/1/018/129.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/018/129.htm</guid>
-<pubDate>Mon, 26 Oct 2026 19:20:42 +0800</pubDate>
-<description>&lt;p&gt;协创数据发布2026年三季报，归母净利润达30.62亿元，同比增长338.77%，主要受AI算力需求爆发及存储行业上行推动。公司智能算力集群进入计费运营阶段成为核心增长引擎，同时拟募资80亿元扩建智算中心以巩固基础设施优势。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映国内二线算力服务商在AI基建浪潮中的业绩兑现能力与扩张节奏，对关注算力产业链投资逻辑的读者具有参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 45/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/129.htm">IT之家 · IT业界</source>
-<category>协创数据</category>
-<category>财报</category>
-<category>AI算力</category>
-<category>智算中心</category>
-<category>业绩增长</category>
+<title>Boston Dynamics Staff Protest Sale of Robot Dogs to ICE</title>
+<link>https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/</link>
+<guid isPermaLink="true">https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/</guid>
+<pubDate>Tue, 27 Oct 2026 02:50:41 +0800</pubDate>
+<description>&lt;p&gt;Hundreds of Boston Dynamics employees signed a petition demanding the halt of robot dog sales to US Immigration and Customs Enforcement (ICE) via a contractor. While executives upheld the deal and assured non-weaponization, internal concerns over ethical risks and reputational damage persist.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;波士顿动力员工抗议向 ICE 出售机器狗&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映了前沿机器人技术在政府敏感场景应用中的伦理争议与内部治理冲突。&lt;/p&gt;&lt;p&gt;Ars Technica AI · industry · signal 42/100&lt;/p&gt;</description>
+<source url="https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/">Ars Technica AI</source>
+<category>波士顿动力</category>
+<category>机器人伦理</category>
+<category>行业争议</category>
 </item>
 <item>
-<title>任务即代码：将工单存入 Git 仓库以适配 AI 代理</title>
-<link>https://typemill.net/knowledge-hub/tasks-as-code</link>
-<guid isPermaLink="true">https://typemill.net/knowledge-hub/tasks-as-code</guid>
-<pubDate>Mon, 26 Oct 2026 19:15:43 +0800</pubDate>
-<description>&lt;p&gt;文章提出“任务即代码”理念，建议将 Jira 等外部工单转为 Markdown 文件存入 Git 仓库。此举旨在让 AI 编码代理能在同一上下文中读取需求与代码，实现版本化追踪，并借鉴 Docs as Code 模式提供 Web 界面以降低非技术人员的使用门槛。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了优化 AI 代理上下文获取的工程实践思路，但属于方法论探讨而非具体工具发布，实操性中等。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 42/100&lt;/p&gt;</description>
-<source url="https://typemill.net/knowledge-hub/tasks-as-code">Hacker News AI</source>
+<title>OpenAI GPT-6.1 Terra Live on OpenRouter with Lower Costs</title>
+<link>https://x.com/OpenRouter/status/2114791584755839168</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2114791584755839168</guid>
+<pubDate>Tue, 27 Oct 2026 02:49:39 +0800</pubDate>
+<description>&lt;p&gt;OpenAI&amp;#x27;s latest model, GPT-6.1 Terra, is now live on OpenRouter. It matches GPT-6 Astra on the Agents&amp;#x27; Last Exam benchmark at one-tenth the cost per token and completes tasks over 3x faster than Astra and GPT-6.1 Sol. Pricing is set at $1/M input and $5/M output with a 1.05M context window.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI GPT-6.1 Terra 上线 OpenRouter，性能持平且成本大幅降低&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;显著的成本优势与性能保持平衡，对开发者选型具有直接参考价值。&lt;/p&gt;&lt;p&gt;OpenRouter (@OpenRouter) · llm · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/OpenRouter/status/2114791584755839168">OpenRouter (@OpenRouter)</source>
+<category>大模型</category>
+<category>OpenAI</category>
+<category>OpenRouter</category>
+<category>性价比</category>
+</item>
+<item>
+<title>SpaceX SEC Filing Reveals $40B Nvidia GPU Lease Deal with Apollo</title>
+<link>https://x.com/rohanpaul_ai/status/2114791389783601622</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114791389783601622</guid>
+<pubDate>Tue, 27 Oct 2026 02:48:52 +0800</pubDate>
+<description>&lt;p&gt;SpaceX&amp;#x27;s latest SEC filing reveals a binding $40 billion commitment to lease Nvidia GPUs from Apollo. The deal involves purchasing equipment via private bonds and leasing it in tranches, surpassing the previous $36 billion GPU financing for Anthropic.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;SpaceX SEC 文件披露 400 亿美元 Nvidia GPU 租赁协议&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 AI 基础设施巨额资本运作的新模式及算力需求的极端规模。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · compute · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2114791389783601622">Rohan Paul (@rohanpaul_ai)</source>
+<category>SpaceX</category>
+<category>Nvidia</category>
+<category>Apollo</category>
+<category>AI Infrastructure</category>
+<category>Finance</category>
+</item>
+<item>
+<title>OpenAI Launches GPT-6.1 Terra: Halves API Price, Matches Astra on Computer Use</title>
+<link>https://x.com/dotey/status/2114790675279413738</link>
+<guid isPermaLink="true">https://x.com/dotey/status/2114790675279413738</guid>
+<pubDate>Tue, 27 Oct 2026 02:46:02 +0800</pubDate>
+<description>&lt;p&gt;OpenAI has released the mid-tier model GPT-6.1 Terra, focusing on &amp;#x27;Computer Use&amp;#x27; capabilities. It scores approximately 60% on the Agents&amp;#x27; Last Exam benchmark, matching the top-tier GPT-6 Astra. Available to Plus and higher subscribers at no extra cost, its API pricing is halved compared to the previous generation, offering efficient automation for daily tasks at a lower price point.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 发布 GPT-6.1 Terra：主打电脑操作，API 降价一半&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;GPT-6.1 Terra 通过大幅降价和追平旗舰模型的电脑操作能力，显著降低了 AI Agent 落地的门槛，对开发者和企业用户具有极高的实用价值。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · llm · signal 85/100&lt;/p&gt;</description>
+<source url="https://x.com/dotey/status/2114790675279413738">宝玉 (@dotey)</source>
+<category>大模型</category>
+<category>OpenAI</category>
+<category>Agent</category>
+<category>Computer Use</category>
+<category>API 定价</category>
+</item>
+<item>
+<title>Meta Plans $95B Equity Raise to Fund AI Data Centers and Superintelligence</title>
+<link>https://x.com/rohanpaul_ai/status/2114789264936534183</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114789264936534183</guid>
+<pubDate>Tue, 27 Oct 2026 02:40:26 +0800</pubDate>
+<description>&lt;p&gt;Meta filed with the SEC a plan to raise $95 billion in new equity to fund AI data centers and its superintelligence initiatives. The offering includes an initial $35 billion underwritten deal followed by a $60 billion at-the-market program, with chip suppliers Nvidia, AMD, and Broadcom indicating interest in purchasing up to $5 billion in shares. This capital push aligns with Meta&amp;#x27;s raised 2026 capex forecast of $135-145 billion amid negative free cash flow.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Meta 拟募资 950 亿美元 加码 AI 数据中心与超级智能&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;巨额融资规模直接关联算力基础设施扩张，且涉及核心芯片供应链的深度绑定，对行业资金流向具有标志性意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 85/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2114789264936534183">Rohan Paul (@rohanpaul_ai)</source>
+<category>Meta</category>
+<category>AI Infrastructure</category>
+<category>Capital Markets</category>
+<category>Nvidia</category>
+<category>Data Centers</category>
+</item>
+<item>
+<title>Microsoft Offers Voluntary Buyouts to 60,000 Employees</title>
+<link>https://x.com/rohanpaul_ai/status/2114787832413991405</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114787832413991405</guid>
+<pubDate>Tue, 27 Oct 2026 02:34:44 +0800</pubDate>
+<description>&lt;p&gt;Microsoft has offered voluntary buyout packages to approximately 60,000 employees across the US, Canada, India, and the UK, representing 27% of its workforce. Eligible staff can choose to accept a cash severance package and leave by December 31 or decline and retain their current roles, with no forced layoffs involved.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;微软向 6 万员工开放自愿离职买断计划&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;大型科技巨头罕见的大规模自愿离职计划，反映行业人力结构潜在调整趋势。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2114787832413991405">Rohan Paul (@rohanpaul_ai)</source>
+<category>微软</category>
+<category>人力资源</category>
+<category>企业动态</category>
+</item>
+<item>
+<title>DeepMind Study: LLMs Fail to Generate True Randomness Autonomously</title>
+<link>https://x.com/rohanpaul_ai/status/2114785180653437126</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114785180653437126</guid>
+<pubDate>Tue, 27 Oct 2026 02:24:12 +0800</pubDate>
+<description>&lt;p&gt;A new Google DeepMind paper reveals that LLMs cannot generate true random choices autonomously. Experiments show models favor specific numbers regardless of temperature or sampling settings, but larger models succeed when provided with external random seeds. This finding has direct engineering implications for agent security and decision-making mechanisms relying on randomness.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;DeepMind 研究：LLM 无法自主生成真随机数&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 LLM 在概率性任务中的根本局限，为智能体开发提供了明确的“代码生成随机数”最佳实践。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2114785180653437126">Rohan Paul (@rohanpaul_ai)</source>
+<category>DeepMind</category>
+<category>LLM Limitations</category>
+<category>Agent Engineering</category>
+<category>Randomness</category>
+</item>
+<item>
+<title>GPT-6.1 Terra Debuts in Agent Arena for Long-Horizon Task Testing</title>
+<link>https://x.com/arena/status/2114783414771437852</link>
+<guid isPermaLink="true">https://x.com/arena/status/2114783414771437852</guid>
+<pubDate>Tue, 27 Oct 2026 02:17:11 +0800</pubDate>
+<description>&lt;p&gt;OpenAI&amp;#x27;s new model, GPT-6.1 Terra, is now live on Agent Arena, allowing users to test it against millions of real-world long-horizon agentic tasks. The model emphasizes efficient computer use at a lower price point, though specific performance scores are yet to be released.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;GPT-6.1 Terra 上线 Agent Arena 支持长程任务测试&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽为新模型发布，但缺乏具体参数与基准分数，仅处于早期测试阶段，信息增量有限。&lt;/p&gt;&lt;p&gt;Arena.ai (@arena) · llm · signal 45/100&lt;/p&gt;</description>
+<source url="https://x.com/arena/status/2114783414771437852">Arena.ai (@arena)</source>
+<category>OpenAI</category>
+<category>GPT-6.1</category>
+<category>Agent Arena</category>
+<category>Benchmark</category>
+</item>
+<item>
+<title>OpenAI Releases GPT-6.1 Terra with Triple Cost Efficiency</title>
+<link>https://x.com/ArtificialAnlys/status/2114781865811063259</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2114781865811063259</guid>
+<pubDate>Tue, 27 Oct 2026 02:11:02 +0800</pubDate>
+<description>&lt;p&gt;OpenAI launched GPT-6.1 Terra, achieving a 6-13 point gain in the Artificial Analysis Intelligence Index while reducing per-task costs to less than one-third of its predecessor. The model demonstrates Pareto-optimal efficiency at low-to-medium reasoning efforts and significantly advances coding agent benchmarks.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 发布 GPT-6.1 Terra 智能提升成本降至三分之一&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;大幅降低高性能模型使用门槛，重塑开发者对算力成本的预期。&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys) · llm · signal 88/100&lt;/p&gt;</description>
+<source url="https://x.com/ArtificialAnlys/status/2114781865811063259">Artificial Analysis (@ArtificialAnlys)</source>
+<category>OpenAI</category>
+<category>GPT-6.1</category>
+<category>Cost Efficiency</category>
+<category>LLM</category>
+</item>
+<item>
+<title>OpenAI Releases GPT-6.1 Terra with Enhanced Visual Reasoning and Computer Use</title>
+<link>https://openai.com/index/introducing-gpt-6-1-terra/</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-terra/</guid>
+<pubDate>Tue, 27 Oct 2026 02:01:17 +0800</pubDate>
+<description>&lt;p&gt;OpenAI introduces GPT-6.1 Terra, a fast and efficient model that significantly advances visual reasoning and computer-use capabilities. With API pricing reduced by 50% compared to its predecessor, it aims to make high-volume automation tasks like invoice processing more practical for developers.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 发布 GPT-6.1 Terra 强化视觉推理与计算机操作&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;新模型在保持高性能的同时大幅降低价格，并强化了 Agent 核心能力，对开发者构建自动化工作流具有直接价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 85/100&lt;/p&gt;</description>
+<source url="https://openai.com/index/introducing-gpt-6-1-terra/">Hacker News AI</source>
+<category>大模型</category>
+<category>OpenAI</category>
+<category>Agent</category>
+<category>API定价</category>
+</item>
+<item>
+<title>OpenAI Releases GPT-6.1 Terra for Visual Reasoning and Computer Use</title>
+<link>https://developers.openai.com/api/docs/models/gpt-6.1-terra</link>
+<guid isPermaLink="true">https://developers.openai.com/api/docs/models/gpt-6.1-terra</guid>
+<pubDate>Tue, 27 Oct 2026 01:58:24 +0800</pubDate>
+<description>&lt;p&gt;OpenAI has released GPT-6.1 Terra, a fast and efficient model optimized for visual reasoning and precise computer use. Featuring a 1.05M context window and pricing at $1/$5 per million input/output tokens, it targets tasks like product catalog matching, technical drawing interpretation, and application screen interaction.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 发布 GPT-6.1 Terra 主打视觉推理与计算机操作&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为 OpenAI 最新发布的特定领域优化模型，其在视觉推理和计算机使用方面的明确参数与低成本策略对开发者具有直接参考价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 78/100&lt;/p&gt;</description>
+<source url="https://developers.openai.com/api/docs/models/gpt-6.1-terra">Hacker News AI</source>
+<category>大模型</category>
+<category>OpenAI</category>
+<category>视觉推理</category>
+<category>API</category>
+</item>
+<item>
+<title>SageMaker SDK v3 Updates Edge CV Model Lifecycle Pattern</title>
+<link>https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/</guid>
+<pubDate>Tue, 27 Oct 2026 01:56:58 +0800</pubDate>
+<description>&lt;p&gt;AWS updates the best practice for edge computer vision model lifecycle management using SageMaker Python SDK v3. The pattern addresses large-scale quality inspection scenarios where environmental variations require camera-specific fine-tuned models, replacing deprecated SDK workflows.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;SageMaker SDK v3 更新边缘视觉模型全生命周期管理方案&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;属于厂商绑定的工程实践更新，对使用 AWS 生态的 MLOps 工程师有直接参考价值，但通用性有限。&lt;/p&gt;&lt;p&gt;AWS Machine Learning Blog · tools · signal 45/100&lt;/p&gt;</description>
+<source url="https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/">AWS Machine Learning Blog</source>
+<category>AWS</category>
+<category>SageMaker</category>
+<category>Computer Vision</category>
+<category>MLOps</category>
+<category>Edge AI</category>
+</item>
+<item>
+<title>NYU Study Identifies Six Patterns Making AI Text Hard to Read</title>
+<link>https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/</link>
+<guid isPermaLink="true">https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/</guid>
+<pubDate>Tue, 27 Oct 2026 01:50:15 +0800</pubDate>
+<description>&lt;p&gt;A joint study by NYU and UT Austin analyzed text from 14 LLMs, identifying six linguistic patterns that cause reader fatigue. The research highlights issues like rare word combinations, distant syntactic dependencies, and dropped connectors, noting that Anthropic successfully addressed sentence clarity in Opus 5.5.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;NYU 研究揭示 AI 文本难读六大模式&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了量化数据支撑的AI文本风格缺陷分析，对提示工程与模型评估有直接参考价值。&lt;/p&gt;&lt;p&gt;The Decoder · llm · signal 68/100&lt;/p&gt;</description>
+<source url="https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/">The Decoder</source>
+<category>大模型</category>
+<category>文本生成</category>
+<category>用户体验</category>
+<category>学术研究</category>
+</item>
+<item>
+<title>Anthropic Files for IPO Amid Criticism of Narrative Strategy</title>
+<link>https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/</link>
+<guid isPermaLink="true">https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/</guid>
+<pubDate>Tue, 27 Oct 2026 01:45:43 +0800</pubDate>
+<description>&lt;p&gt;Anthropic has filed its IPO prospectus, detailing its vision and risks. Industry commentary criticizes the company&amp;#x27;s reliance on curated public narratives, such as claims that &amp;#x27;the singularity is here,&amp;#x27; suggesting this multi-faceted storytelling may undermine transparency compared to traditional tech firms.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 提交 IPO 招股书 评论质疑其叙事策略&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;IPO 事件本身具有商业重要性，但文章核心在于对 Anthropic 公关叙事策略的批判性分析，而非技术突破或产品发布，故注意力评分中等偏下。&lt;/p&gt;&lt;p&gt;MIT Technology Review · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/">MIT Technology Review</source>
+<category>Anthropic</category>
+<category>IPO</category>
+<category>行业观察</category>
+<category>公关叙事</category>
+</item>
+<item>
+<title>Skyfall AI Unveils SKY-001 Engineering World Model for Text-to-CAD</title>
+<link>https://x.com/rohanpaul_ai/status/2114773953680154996</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114773953680154996</guid>
+<pubDate>Tue, 27 Oct 2026 01:39:35 +0800</pubDate>
+<description>&lt;p&gt;Skyfall AI has launched SKY-001, the first &amp;#x27;Engineering World Model,&amp;#x27; which converts text prompts or 2D sketches into full CAD build sequences compatible with Autodesk Fusion. By using visual planning instead of iterative LLM calls, it achieves a ~50x speedup over GPT-6 Astra (3.9s vs 199s) and addresses the lack of ordered assembly states in LLM-generated shapes.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Skyfall AI 发布 SKY-001 工程世界模型 支持文本转 CAD&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了世界模型在垂直工程领域的落地潜力，显著提升了设计自动化效率。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2114773953680154996">Rohan Paul (@rohanpaul_ai)</source>
+<category>世界模型</category>
+<category>CAD</category>
+<category>Skyfall AI</category>
+<category>工程软件</category>
+<category>多模态</category>
+</item>
+<item>
+<title>ChatGPT Hallucinates Media Contacts for Tech Support</title>
+<link>https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/</link>
+<guid isPermaLink="true">https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/</guid>
+<pubDate>Tue, 27 Oct 2026 01:32:16 +0800</pubDate>
+<description>&lt;p&gt;404 Media reports receiving numerous AI-generated emails from users advised by ChatGPT to contact them for tech support. This highlights severe factual hallucinations and misleading guidance in LLMs lacking real-time data.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;ChatGPT 幻觉推荐媒体处理技术求助&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了主流大模型在通用咨询场景下的典型幻觉缺陷，对理解当前 LLM 可靠性边界有参考价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 35/100&lt;/p&gt;</description>
+<source url="https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/">Hacker News AI</source>
+<category>LLM</category>
+<category>幻觉</category>
+<category>ChatGPT</category>
+</item>
+<item>
+<title>The RealReal Updates Bot Defense to Block AI Shopping Agents</title>
+<link>https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</link>
+<guid isPermaLink="true">https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</guid>
+<pubDate>Tue, 27 Oct 2026 01:30:55 +0800</pubDate>
+<description>&lt;p&gt;Secondhand luxury retailer The RealReal is updating its bot defense system to prevent AI agents from exploiting item reservation mechanisms. This follows reports that tools like Meta’s Muse could continuously re-add items to carts, effectively blocking other shoppers for hours. The move highlights the growing tension between autonomous shopping agents and traditional retail infrastructure.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;The RealReal 升级反爬机制 限制 AI 代理抢购奢侈品&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了 AI 智能体在真实商业场景中的滥用风险及传统电商的反制措施，具有行业警示意义。&lt;/p&gt;&lt;p&gt;The Verge AI · agent · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal">The Verge AI</source>
 <category>AI Agent</category>
-<category>DevOps</category>
-<category>Workflow</category>
+<category>Retail Tech</category>
+<category>Bot Defense</category>
+<category>E-commerce</category>
 </item>
 <item>
-<title>传三星与 SK 海力士 2027Q2 量产 8Hi HBM4 供英伟达</title>
-<link>https://www.ithome.com/1/018/125.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/018/125.htm</guid>
-<pubDate>Mon, 26 Oct 2026 19:06:59 +0800</pubDate>
-<description>&lt;p&gt;据传三星电子和 SK 海力士计划于 2027 年第二季度全面量产并向英伟达出货 8Hi HBM4 内存。此举旨在配合英伟达 Rubin 系列 GPU 的供应优化，通过降低堆叠高度以改善良率并平衡成本，替代当前主流的 12Hi 版本。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该消息揭示了下一代 AI 芯片显存规格的关键调整，直接影响算力基础设施的成本结构与供应链节奏。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/125.htm">IT之家 · IT业界</source>
-<category>HBM4</category>
-<category>英伟达</category>
-<category>三星</category>
-<category>SK海力士</category>
-<category>Rubin</category>
+<title>Enable Prompt Caching for OpenAI Models on Amazon Bedrock to Cut Agent Costs</title>
+<link>https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</guid>
+<pubDate>Tue, 27 Oct 2026 01:27:20 +0800</pubDate>
+<description>&lt;p&gt;Amazon Bedrock now supports prompt caching for OpenAI models, addressing the token waste caused by agents re-reading full context in multi-turn interactions. By storing static instructions and conversation prefixes, this mechanism significantly reduces inference latency and compute costs in long sessions. Developers can immediately configure this feature in the Bedrock console to optimize existing workflows.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 模型在 Bedrock 启用提示缓存以优化 Agent 成本&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;针对 Agent 开发中常见的上下文重复计费痛点提供平台级解决方案，具备直接工程落地价值。&lt;/p&gt;&lt;p&gt;AWS Machine Learning Blog · tools · signal 42/100&lt;/p&gt;</description>
+<source url="https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/">AWS Machine Learning Blog</source>
+<category>Amazon Bedrock</category>
+<category>Prompt Caching</category>
+<category>AI Agents</category>
+<category>Cost Optimization</category>
 </item>
 <item>
-<title>长芯博创前三季度净利增 137% 受益 AI 光互连需求</title>
-<link>https://www.ithome.com/1/018/124.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/018/124.htm</guid>
-<pubDate>Mon, 26 Oct 2026 19:03:45 +0800</pubDate>
-<description>&lt;p&gt;长芯博创发布 2026 年前三季度财报，归母净利润达 5.93 亿元，同比增长 137.25%，主要受数据通信及 AI 算力相关光模块需求拉动。公司作为北美头部云服务商供应商，其高速铜缆与光互连产品业务显著受益于全球数据中心建设浪潮，盈利增速远超营收增速，显示规模效应释放。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该事件反映了 AI 基础设施上游硬件厂商的强劲业绩，验证了光互连赛道的高景气度，对关注算力产业链的投资人具有参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 45/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/124.htm">IT之家 · IT业界</source>
-<category>光模块</category>
-<category>AI 算力</category>
-<category>财报</category>
-<category>数据中心</category>
+<title>OpenRouter Data Shows Anthropic Daily Token Volume Up 3.5x in One Month</title>
+<link>https://x.com/rohanpaul_ai/status/2114770477688508909</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114770477688508909</guid>
+<pubDate>Tue, 27 Oct 2026 01:25:47 +0800</pubDate>
+<description>&lt;p&gt;OpenRouter data reveals that Anthropic&amp;#x27;s daily token volume surged from approximately 0.65T to 2.25T within a month, marking a 3.5x increase. This explosive growth coincides with Anthropic&amp;#x27;s recent token price cuts, validating the strategy&amp;#x27;s effectiveness in driving usage scale.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenRouter 数据：Anthropic 日均 Token 量三月增 3.5 倍&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了第三方平台关于头部模型厂商用量激增的具体量化数据，揭示了“降价换量”策略的实际市场反馈。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2114770477688508909">Rohan Paul (@rohanpaul_ai)</source>
+<category>Anthropic</category>
+<category>OpenRouter</category>
+<category>Token Usage</category>
+<category>Pricing Strategy</category>
+</item>
+<item>
+<title>Nietzschian Debugger Launches as Socratic AI Tool</title>
+<link>https://github.com/DilawarShafiq/nietzschian-debugger</link>
+<guid isPermaLink="true">https://github.com/DilawarShafiq/nietzschian-debugger</guid>
+<pubDate>Tue, 27 Oct 2026 01:25:30 +0800</pubDate>
+<description>&lt;p&gt;Nietzschian Debugger is an open-source tool built on the Anthropic API that guides developers to fix bugs by asking questions rather than providing direct answers. Designed to counter &amp;#x27;copy-paste&amp;#x27; AI dependency, it emphasizes strengthening developer understanding through logical challenges. It supports installation via npm and pip but requires a user-provided API key.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Nietzschian Debugger 发布 苏格拉底式调试工具&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;独特的反直觉调试理念引发对 AI 辅助编程依赖性的反思，适合关注开发者效能与 AI 伦理的读者。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 45/100&lt;/p&gt;</description>
+<source url="https://github.com/DilawarShafiq/nietzschian-debugger">Hacker News AI</source>
+<category>开发者工具</category>
+<category>AI 辅助编程</category>
+<category>开源</category>
+</item>
+<item>
+<title>Entire 发布首个 Agent-Human 协作 Git 平台</title>
+<link>https://entire.com/blog/the-git-forge-for-agent-human-collaboration</link>
+<guid isPermaLink="true">https://entire.com/blog/the-git-forge-for-agent-human-collaboration</guid>
+<pubDate>Tue, 27 Oct 2026 01:23:11 +0800</pubDate>
+<description>&lt;p&gt;前 GitHub CEO Thomas Dohmke 创立的 Entire 推出专为智能体与人类协作设计的 Git 平台。该产品引入“Trail”评估机制、分布式 Git 托管及持续记忆功能，旨在解决 AI 编码代理在版本控制中的上下文同步与性能瓶颈问题。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;由知名人物创立且针对 AI 编程核心痛点（上下文与速度）提出新架构，具备较高行业关注度。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 78/100&lt;/p&gt;</description>
+<source url="https://entire.com/blog/the-git-forge-for-agent-human-collaboration">Hacker News AI</source>
+<category>Git</category>
+<category>AI Coding</category>
+<category>Developer Tools</category>
+<category>Agent Infrastructure</category>
+</item>
+<item>
+<title>Reddit r/opensource 全面封禁 AI 项目引发社区分裂</title>
+<link>https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/</link>
+<guid isPermaLink="true">https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/</guid>
+<pubDate>Tue, 27 Oct 2026 01:19:40 +0800</pubDate>
+<description>&lt;p&gt;Reddit 开源板块 r/opensource 宣布禁止所有涉及 AI 的项目发布，理由是 AI 不符合开源精神。该禁令因范围过宽（甚至波及含 AI 代码的 Linux 内核）及语言歧视条款引发强烈反弹，导致反对者建立了不排斥 AI 的竞争子版块 r/TrueOpenSource。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映了开源社区内部对 AI 生成代码伦理与包容性的激烈冲突，具有行业风向标意义。&lt;/p&gt;&lt;p&gt;The Decoder · opensource · signal 68/100&lt;/p&gt;</description>
+<source url="https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/">The Decoder</source>
+<category>开源社区</category>
+<category>Reddit</category>
+<category>AI 伦理</category>
+<category>社区治理</category>
+</item>
+<item>
+<title>AWS CDK 构建 Bedrock 智能体检索指南</title>
+<link>https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/</guid>
+<pubDate>Tue, 27 Oct 2026 01:15:14 +0800</pubDate>
+<description>&lt;p&gt;本文介绍如何利用 AWS CDK 在托管的 Amazon Bedrock 知识库上构建企业级智能体检索系统。通过引入推理代理解决传统 RAG 在多源检索和动态选择上的局限，并提供可直接部署的代码示例。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;针对特定云厂商基础设施的工程实现教程，对使用 AWS 生态的开发者有直接参考价值，但受众面较窄且缺乏通用技术突破。&lt;/p&gt;&lt;p&gt;AWS Machine Learning Blog · tools · signal 42/100&lt;/p&gt;</description>
+<source url="https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/">AWS Machine Learning Blog</source>
+<category>AWS</category>
+<category>Bedrock</category>
+<category>RAG</category>
+<category>CDK</category>
+<category>Tutorial</category>
+</item>
+<item>
+<title>Anthropic 提交 IPO S-1 文件 披露高管薪酬与竞争格局</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</guid>
+<pubDate>Tue, 27 Oct 2026 01:10:23 +0800</pubDate>
+<description>&lt;p&gt;AI 独角兽 Anthropic 正式向 SEC 提交 IPO S-1 招股书，首次公开其财务细节、风险因素及公司治理结构。文件显示联合创始人 Dario 和 Daniela Amodei 为最高薪高管，且在“直接竞争”定义中仅列示 OpenAI 与 Google，引发业界对 AI 市场寡头格局的讨论。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部 AI 公司上市进程的关键节点，披露了罕见的内部治理与竞争定位信息。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 78/100&lt;/p&gt;</description>
+<source url="https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details">The Verge AI</source>
+<category>Anthropic</category>
+<category>IPO</category>
+<category>SEC</category>
+<category>Dario Amodei</category>
+<category>OpenAI</category>
+</item>
+<item>
+<title>观点：折叠屏手机或成智能体集群控制新界面</title>
+<link>https://x.com/Yuchenj_UW/status/2114764450494623910</link>
+<guid isPermaLink="true">https://x.com/Yuchenj_UW/status/2114764450494623910</guid>
+<pubDate>Tue, 27 Oct 2026 01:01:50 +0800</pubDate>
+<description>&lt;p&gt;Yuchen Jin 提出，随着代码编写自动化，传统 IDE 和终端不再是最佳交互界面。他认为折叠屏手机适合构建“智能体集群”的控制平面，用于任务委派、进度追踪及远程干预，而非传统的移动端编码工具。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了关于 AI 智能体人机交互范式转变的前瞻性观点，但缺乏具体产品落地或技术验证。&lt;/p&gt;&lt;p&gt;Yuchen Jin (@Yuchenj_UW) · agent · signal 42/100&lt;/p&gt;</description>
+<source url="https://x.com/Yuchenj_UW/status/2114764450494623910">Yuchen Jin (@Yuchenj_UW)</source>
+<category>智能体</category>
+<category>人机交互</category>
+<category>折叠屏</category>
+<category>开发工具</category>
 </item>
 </channel>
 </rss>
