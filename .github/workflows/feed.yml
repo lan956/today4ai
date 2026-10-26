@@ -1,0 +1,56 @@
+name: feed
+
+on:
+  schedule:
+    - cron: "17 */3 * * *" # every 3 hours (GitHub may start a few minutes late)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - tfa_rss.py
+      - .github/workflows/feed.yml
+      - README.md
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      # public, non-secret: only used for atom:link rel=self
+      FEED_BASE_URL: ${{ vars.FEED_BASE_URL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build feeds
+        # The API key is scoped to this one step: the commit step below never
+        # gets it in its environment, and the script only reads it from env
+        # (never argv, never a file, never a URL).
+        env:
+          TINYFISH_API_KEY: ${{ secrets.TINYFISH_API_KEY }}
+        run: |
+          base="${FEED_BASE_URL:-https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${GITHUB_REF_NAME}}"
+          echo "base=$base"
+          python tfa_rss.py gen --out . --base-url "$base"
+
+      - name: Commit changed feeds
+        run: |
+          git add feed.xml hot.xml index.html
+          if git diff --cached --quiet; then
+            echo "feeds unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh feeds"
+          git push || { git pull --rebase --autostash && git push; }
