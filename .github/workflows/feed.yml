@@ -2,7 +2,7 @@ name: feed
 
 on:
   schedule:
-    - cron: "17 */3 * * *" # every 3 hours (GitHub may start a few minutes late)
+    - cron: "*/30 * * * *" # every 30 min; runs that find nothing new commit nothing
   workflow_dispatch:
   push:
     branches: [main]

@@ -25,7 +25,8 @@ https://raw.githubusercontent.com/<you>/<repo>/main/hot.xml
 2. Repo → **Settings → Actions → General → Workflow permissions** →
    **Read and write**. The job commits the refreshed XML back to `main`.
 3. **Actions** tab → `feed` → **Run workflow**. It commits `feed.xml`,
-   `hot.xml`, `index.html` and then keeps refreshing every 3 hours.
+   `hot.xml`, `index.html` and then keeps refreshing every 30 minutes. Runs that
+find nothing new write nothing and commit nothing, so the history stays quiet.
 4. Subscribe to the raw URL above in your reader.
 
 No Pages configuration is required. If you prefer the nicer
@@ -85,7 +86,7 @@ python tfa_rss.py gen --out . --base-url "$base" \
 | `--hot-limit` | 1–20 | 10 |
 | `--no-en` | skip English merge (fewer requests) | off |
 
-Change the schedule with the `cron:` line (`"17 */3 * * *"`). GitHub's scheduler
+Change the schedule with the `cron:` line (`"*/30 * * * *"`, every 30 min). GitHub's scheduler
 is best-effort and can lag by a few minutes under load.
 
 ## Local use
@@ -128,8 +129,8 @@ POST https://api.fetch.tinyfish.ai
 - Enforced twice: an import-time check plus a per-call check that fail closed if
   `TINYFISH_FETCH` is ever pointed at anything else.
 - Hard cap of **4 fetches per run** (`TINYFISH_MAX_CALLS`). A healthy run makes
-  **0**; a blocked run makes 1–2. At the 3-hourly schedule the worst case is
-  ~16 URLs/day ≈ **1.6 %** of the free quota.
+  **0**; a blocked run makes 1–2. At the 30-minute schedule the worst case is
+  ~96 URLs/day ≈ **10 %** of the free quota.
 - `--no-tinyfish` (or simply no secret) makes the process incapable of calling
   it at all. The workflow never retries in a loop, so a bad day can't multiply
   the count.

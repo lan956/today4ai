@@ -263,8 +263,6 @@ def hot_items(*, limit=10) -> list[dict]:
         if summary:
             body.append(f"<p>{esc(summary[:700])}{'…' if len(summary) > 700 else ''}</p>")
         bits = []
-        if it.get("heat") is not None:
-            bits.append(f"heat {it['heat']}")
         if it.get("source_count"):
             bits.append(f"{it['source_count']} sources")
         if bits:
@@ -380,7 +378,8 @@ def index_html(n: str, m: str, note: str) -> str:
     return INDEX.format(n=n, m=m, note=note)
 
 
-def write_out(out_dir: Path, news: str, hot: str) -> None:
+def write_out(out_dir: Path, news: str, hot: str) -> list[str]:
+    """Write only files whose bytes changed; returns the names that were rewritten."""
     out_dir.mkdir(parents=True, exist_ok=True)
     key = _key()
     if key and (key in news or key in hot):
@@ -397,11 +396,17 @@ def write_out(out_dir: Path, news: str, hot: str) -> None:
             )
         ),
     }
+    written = []
     for name, body in files.items():
         if key and key in body:
             raise SystemExit(f"error: {name} would contain the API key")
-    for name, body in files.items():
-        (out_dir / name).write_text(body, encoding="utf-8", newline="\n")
+        path = out_dir / name
+        raw = body.encode("utf-8")
+        if path.exists() and path.read_bytes() == raw:
+            continue
+        path.write_bytes(raw)
+        written.append(name)
+    return written
 
 
 # ------------------------------------------------------------------ http serve
@@ -543,10 +548,13 @@ def main(argv=None) -> int:
         n_items = _check(news, "feed.xml")
         if n_items == 0:
             raise SystemExit("error: upstream returned no items, refusing to write an empty feed")
-        write_out(Path(a.out), news, hot)
-        print(f"wrote {a.out}/feed.xml ({n_items} items)")
-        print(f"wrote {a.out}/hot.xml ({hot.count('<item>')} items)")
-        print(f"wrote {a.out}/index.html")
+        written = write_out(Path(a.out), news, hot)
+        for name, body in (("feed.xml", news), ("hot.xml", hot)):
+            state = "updated" if name in written else "unchanged"
+            print(f"{name:11} {state:9} ({body.count('<item>')} items)")
+        print(f"index.html  {'updated' if 'index.html' in written else 'unchanged'}")
+        if not written:
+            print("no new content this run - nothing to commit")
         return 0
 
     opts = {
