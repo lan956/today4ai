@@ -1,8 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Latest Intelligence</title><link>https://todayforai.com/en/news</link><description>Curated frontier AI news, 24h window, from todayforai.com.</description>
-<language>en</language><lastBuildDate>Wed, 28 Oct 2026 03:45:49 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Wed, 28 Oct 2026 07:11:41 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/voxelowl/today4ai/main/feed.xml" rel="self" type="application/rss+xml"/>
+<item><title>Jev Router Launches MCP Aggregator Claiming 96% Cost Reduction</title><link>https://x.com/rohanpaul_ai/status/2115219914013471089</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115219914013471089</guid>
+<pubDate>Wed, 28 Oct 2026 07:11:41 +0800</pubDate>
+<description>&lt;p&gt;AI/ML API introduced Jev Router, aggregating over 10,000 tools and models behind a single MCP server. The solution uses Typesafe&amp;#x27;s Jev engine to dynamically select optimal backends, aiming to resolve context bloat caused by hardcoded providers in agents. The vendor claims 28x higher task efficiency and 96% lower costs compared to Claude, though specific benchmark details remain unverified.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Jev Router 发布 MCP 聚合器 宣称成本降低 96%&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;MCP 生态下的新型路由架构值得关注，但性能数据主要源自厂商营销口径，缺乏独立复现证据。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 45/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115219914013471089">Rohan Paul (@rohanpaul_ai)</source>
+<category>智能体</category>
+<category>MCP</category>
+<category>工具调用</category>
+<category>成本优化</category>
+</item>
+<item><title>Google Unveils Genie 4 World Model with Synced Audio and Real-Time Interaction</title><link>https://www.ithome.com/1/018/711.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/711.htm</guid>
+<pubDate>Wed, 28 Oct 2026 07:04:49 +0800</pubDate>
+<description>&lt;p&gt;Google DeepMind has released Genie 4, a research preview world model capable of generating high-fidelity virtual environments with synchronized audio and real-time interactive editing. By integrating deeply with Gemini, the model doubles scene coherence to two minutes and demonstrates potential in robotic simulation testing. Despite limitations like detail drift over time, its capabilities for interactive learning and film prototyping are drawing significant industry attention.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;谷歌发布 Genie 4 世界模型，支持音视频同步与实时交互&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;Genie 4 在世界模型的物理一致性、多模态同步生成及 LLM 协同架构上取得显著突破，对具身智能与内容创作领域具有前瞻性意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · llm · signal 85/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/018/711.htm">IT之家 · 智能时代</source>
+<category>谷歌</category>
+<category>世界模型</category>
+<category>Genie 4</category>
+<category>多模态生成</category>
+</item>
+<item><title>AI Data Center Boom Drives US Grid Modernization Efforts</title><link>https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/</guid>
+<pubDate>Wed, 28 Oct 2026 06:55:41 +0800</pubDate>
+<description>&lt;p&gt;Surging AI energy demand stresses the US grid, but industry leaders argue this crisis is accelerating modernization. Experts at TechCrunch Disrupt highlight opportunities for upgrading transmission infrastructure and integrating renewables amidst the load increase.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AI 数据中心激增倒逼美国电网现代化升级&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示 AI 基础设施扩张对能源系统的反向驱动效应，关注算力背后的物理约束与产业机遇。&lt;/p&gt;&lt;p&gt;TechCrunch AI · compute · signal 45/100&lt;/p&gt;</description>
+<source url="https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/">TechCrunch AI</source>
+<category>数据中心</category>
+<category>能源基建</category>
+<category>电网现代化</category>
+</item>
+<item><title>Cartesia Voice Agents Score Higher in Arena Benchmark</title><link>https://x.com/ArtificialAnlys/status/2115204127013929072</link><guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2115204127013929072</guid>
+<pubDate>Wed, 28 Oct 2026 06:08:57 +0800</pubDate>
+<description>&lt;p&gt;Cartesia Managed Agents achieved an Elo score of 1115 on the Artificial Analysis Speech Agent Arena, a 98-point improvement over its predecessor. Task success rates rose from 77.5% to 91.7%, driven by a cascaded architecture combining Ink STT/TTS models with GPT-5.5.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Cartesia 语音智能体基准测试得分提升&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了语音智能体在工具调用和任务完成度上的具体量化进步，但属于单一厂商产品的基准更新，行业影响面有限。&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys) · agent · signal 45/100&lt;/p&gt;</description>
+<source url="https://x.com/ArtificialAnlys/status/2115204127013929072">Artificial Analysis (@ArtificialAnlys)</source>
+<category>语音智能体</category>
+<category>基准测试</category>
+<category>Cartesia</category>
+</item>
+<item><title>Delaware&#x27;s AI-Run Company Plan Faces Congressional Scrutiny</title><link>https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/</link><guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/</guid>
+<pubDate>Wed, 28 Oct 2026 05:50:04 +0800</pubDate>
+<description>&lt;p&gt;The House Oversight Committee Chairman warned Delaware&amp;#x27;s Governor against a proposal to establish &amp;#x27;Artificial Intelligence Companies&amp;#x27; (AICs) run by AI agents. The letter argues that such entities could allow human owners to evade legal liability for harmful AI actions and facilitate regulatory capture.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;特拉华州拟允许 AI 代理运营公司遭国会质疑&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;涉及 AI 法律主体资格与责任归属的重大政策争议，对行业合规有警示意义。&lt;/p&gt;&lt;p&gt;Ars Technica AI · industry · signal 42/100&lt;/p&gt;</description>
+<source url="https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/">Ars Technica AI</source>
+<category>AI 治理</category>
+<category>法律合规</category>
+<category>智能体</category>
+</item>
+<item><title>Bank of America Warns Users Against Sharing Credentials with AI Agents</title><link>https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</guid>
+<pubDate>Wed, 28 Oct 2026 05:44:34 +0800</pubDate>
+<description>&lt;p&gt;Bank of America issued a security alert explicitly prohibiting customers from sharing login credentials with any AI agents or tools. The bank highlighted risks including unauthorized financial actions, account lockouts, and data breaches, emphasizing that users remain fully liable for all activities resulting from such credential sharing.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;美银警告用户勿向 AI 助手共享银行密码&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映了传统金融机构对自主智能体接入敏感业务场景的安全焦虑与合规边界划定。&lt;/p&gt;&lt;p&gt;TechCrunch AI · agent · signal 42/100&lt;/p&gt;</description>
+<source url="https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/">TechCrunch AI</source>
+<category>智能体</category>
+<category>金融安全</category>
+<category>隐私保护</category>
+</item>
+<item><title>Anthropic IPO Governance Limits Public Shareholder Control</title><link>https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/</guid>
+<pubDate>Wed, 28 Oct 2026 05:38:28 +0800</pubDate>
+<description>&lt;p&gt;As Anthropic approaches its IPO, its unique corporate governance structure significantly limits public shareholder control. Through mechanisms like its Public Benefit Corporation status and the Long-Term Beneficiary Trust (LTBT), founders and the board retain absolute authority over major decisions, including AI safety, leaving common investors with little influence.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic IPO 治理结构曝光：公众股东控制权受限&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了前沿 AI 实验室在商业化过程中如何通过特殊治理架构平衡资本与控制权，对理解 AI 行业权力结构具有参考价值。&lt;/p&gt;&lt;p&gt;TechCrunch AI · industry · signal 65/100&lt;/p&gt;</description>
+<source url="https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/">TechCrunch AI</source>
+<category>Anthropic</category>
+<category>IPO</category>
+<category>公司治理</category>
+<category>AI 安全</category>
+</item>
+<item><title>Anthropic IPO S-1 Details Risks of AI Blackmail and Sentience</title><link>https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/</link><guid isPermaLink="true">https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/</guid>
+<pubDate>Wed, 28 Oct 2026 05:31:14 +0800</pubDate>
+<description>&lt;p&gt;In its S-1 filing for an anticipated IPO, Anthropic explicitly details extreme risk factors including the potential for AI to blackmail humans, become sentient, or end humanity. The 93-page document moves beyond standard financial disclosures to highlight specific failure modes in frontier model safety, offering investors a sober view of the inherent uncertainties in advanced AI development.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic IPO 文件披露 AI 勒索与失控风险&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部 AI 公司在上市文件中公开承认极端安全风险，具有极高的行业信号意义和新闻价值。&lt;/p&gt;&lt;p&gt;Ars Technica AI · industry · signal 78/100&lt;/p&gt;</description>
+<source url="https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/">Ars Technica AI</source>
+<category>Anthropic</category>
+<category>IPO</category>
+<category>AI Safety</category>
+<category>Risk Factors</category>
+</item>
+<item><title>Goldman and Morgan Stanley to Earn ~$100M Each from Anthropic IPO</title><link>https://x.com/rohanpaul_ai/status/2115189934650962383</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115189934650962383</guid>
+<pubDate>Wed, 28 Oct 2026 05:12:33 +0800</pubDate>
+<description>&lt;p&gt;According to the New York Times, if Anthropic follows SpaceX&amp;#x27;s IPO path, Goldman Sachs and Morgan Stanley are projected to earn approximately $100 million each as lead underwriters. This fee structure mirrors SpaceX&amp;#x27;s record June offering, while Morgan Stanley also plays a dual role by financing Broadcom&amp;#x27;s chip supply for Anthropic.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic IPO 承销费预估：高盛与摩根士丹利各赚约 1 亿美元&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了顶级 AI 公司上市背后的巨额投行利益分配及算力金融化的复杂关联。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 42/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115189934650962383">Rohan Paul (@rohanpaul_ai)</source>
+<category>Anthropic</category>
+<category>IPO</category>
+<category>高盛</category>
+<category>摩根士丹利</category>
+<category>SpaceX</category>
+</item>
+<item><title>Anthropic Details Claude&#x27;s Role in Drug Discovery: 35K Antibodies Generated and Internal Trials Planned</title><link>https://x.com/rohanpaul_ai/status/2115185369490792630</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115185369490792630</guid>
+<pubDate>Wed, 28 Oct 2026 04:54:24 +0800</pubDate>
+<description>&lt;p&gt;Anthropic revealed deep research partnerships with six pharma companies and its own drug discovery efforts, where Claude generated ~35K antibody designs in a month and caught manufacturing issues missed by humans. While mostly preclinical, Anthropic&amp;#x27;s internal muscular dystrophy program aims for human trials by late 2028.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 披露 Claude 药物研发进展：生成 3.5 万抗体设计并启动内部临床试验计划&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型在垂直科学领域从辅助工具向核心研发引擎转变的实质性量化证据与明确时间表。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115185369490792630">Rohan Paul (@rohanpaul_ai)</source>
+<category>Anthropic</category>
+<category>Claude</category>
+<category>AI4Science</category>
+<category>Drug Discovery</category>
+</item>
+<item><title>Anthropic Details Early Progress Using Claude for Drug Development</title><link>https://www.anthropic.com/research/early-progress-drug-development</link><guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
+<pubDate>Wed, 28 Oct 2026 04:50:42 +0800</pubDate>
+<description>&lt;p&gt;Anthropic&amp;#x27;s Science team announced partnerships with six biopharma organizations to accelerate drug development using Claude. While highlighting early progress and plans to scale, the content focuses primarily on commercial collaboration narratives rather than specific technical breakthroughs or reproducible methodologies.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 披露 Claude 加速药物研发进展&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;属于典型的厂商行业应用案例宣传，缺乏底层技术细节与通用方法论增量，对重度 AI 读者的即时注意力价值较低。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 35/100&lt;/p&gt;</description>
+<source url="https://www.anthropic.com/research/early-progress-drug-development">Hacker News AI</source>
+<category>Anthropic</category>
+<category>Claude</category>
+<category>AI4Science</category>
+<category>药物研发</category>
+</item>
+<item><title>OpenAI Adopts Expert Shepherds to Gatekeep Scientific Breakthroughs</title><link>https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics</link><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics</guid>
+<pubDate>Wed, 28 Oct 2026 04:48:58 +0800</pubDate>
+<description>&lt;p&gt;OpenAI announced breakthroughs in math, CS, and physics while adjusting its dissemination strategy. Following backlash over dumping hundreds of preprints, the company now employs expert &amp;#x27;shepherds&amp;#x27; to curate sharing, though researchers remain critical of its gatekeeping practices.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 调整科研发布策略 引入专家筛选机制&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映了头部 AI 实验室在开源社区压力下的公关与发布策略调整，具有行业风向标意义。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics">The Verge AI</source>
+<category>OpenAI</category>
+<category>科研伦理</category>
+<category>学术发布</category>
+</item>
+<item><title>Anthropic Details Claude&#x27;s Role in Drug Discovery, Targeting 2028 Clinical Trials</title><link>https://x.com/dotey/status/2115183164905906513</link><guid isPermaLink="true">https://x.com/dotey/status/2115183164905906513</guid>
+<pubDate>Wed, 28 Oct 2026 04:45:39 +0800</pubDate>
+<description>&lt;p&gt;Anthropic revealed Claude&amp;#x27;s end-to-end contributions to drug discovery, from molecular design to regulatory filings. Most projects remain in preclinical stages, with the earliest human trials projected for late 2028. The company also acquired a solo-run biotech firm to demonstrate AI-driven operational autonomy.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 公布 Claude 新药研发进展 最快 2028 年进入临床&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型从单一辅助工具向生物医药全流程基础设施渗透的关键节点，具有行业风向标意义。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · industry · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/dotey/status/2115183164905906513">宝玉 (@dotey)</source>
+<category>Anthropic</category>
+<category>AI制药</category>
+<category>Claude</category>
+<category>生物医药</category>
+</item>
+<item><title>Anthropic Shares Early Results on Claude for Drug Discovery</title><link>https://x.com/Yuchenj_UW/status/2115181727182463427</link><guid isPermaLink="true">https://x.com/Yuchenj_UW/status/2115181727182463427</guid>
+<pubDate>Wed, 28 Oct 2026 04:39:56 +0800</pubDate>
+<description>&lt;p&gt;Anthropic shared early results from partnerships with six organizations developing new medicines and its own drug discovery efforts, highlighting how Claude supports various stages of development. The news is conveyed via a personal commentary retweet lacking specific technical details or quantitative data.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 分享 Claude 药物研发早期成果&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽涉及 AI 在生命科学的应用，但仅为营销式预告且无实质参数，信息增量低。&lt;/p&gt;&lt;p&gt;Yuchen Jin (@Yuchenj_UW) · agent · signal 35/100&lt;/p&gt;</description>
+<source url="https://x.com/Yuchenj_UW/status/2115181727182463427">Yuchen Jin (@Yuchenj_UW)</source>
+<category>AI医疗</category>
+<category>Anthropic</category>
+<category>药物研发</category>
+</item>
+<item><title>Hex Raises $100M to Rebuild Its AI Data Platform</title><link>https://hex.tech/blog/hex-new-era/</link><guid isPermaLink="true">https://hex.tech/blog/hex-new-era/</guid>
+<pubDate>Wed, 28 Oct 2026 04:36:38 +0800</pubDate>
+<description>&lt;p&gt;Data analytics platform Hex announced a $100 million funding round and unveiled a completely rebuilt version of its product. The company aims to enhance team collaboration through a native AI architecture, building on previous features like text-to-SQL and data agents.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Hex 融资 1 亿美元 重构 AI 数据平台&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部数据工具获得大额融资并进行底层架构重构，反映 AI 在垂直领域应用的深化趋势。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://hex.tech/blog/hex-new-era/">Hacker News AI</source>
+<category>Hex</category>
+<category>融资</category>
+<category>数据平台</category>
+<category>AI Agent</category>
+</item>
+<item><title>Physical Intelligence Seeks $1B Raise at ~$20B Valuation</title><link>https://x.com/rohanpaul_ai/status/2115180665335611452</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115180665335611452</guid>
+<pubDate>Wed, 28 Oct 2026 04:35:43 +0800</pubDate>
+<description>&lt;p&gt;Embodied AI startup Physical Intelligence is in talks to raise at least $1B at a valuation of roughly $20B, nearly doubling its previous round. The surge follows the launch of its Pi API beta, which offers external developers hosted fine-tuning and inference for its latest robot models.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Physical Intelligence 洽谈融资 估值近翻倍至 200 亿美元&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部具身智能公司估值快速攀升且伴随关键产品落地，反映资本对机器人基础模型的高度关注。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115180665335611452">Rohan Paul (@rohanpaul_ai)</source>
+<category>具身智能</category>
+<category>融资</category>
+<category>Physical Intelligence</category>
+<category>机器人</category>
+</item>
+<item><title>Survival LLM Launches as Offline Local Emergency AI Assistant</title><link>https://www.brangus.io/survival-llm</link><guid isPermaLink="true">https://www.brangus.io/survival-llm</guid>
+<pubDate>Wed, 28 Oct 2026 03:55:06 +0800</pubDate>
+<description>&lt;p&gt;Open-source tool Survival LLM launches, designed for offline environments. It combines a local LLM with authoritative emergency knowledge bases (FEMA, CDC) to provide traceable survival guidance, supporting Mac/Windows with fully offline operation.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Survival LLM 发布：本地离线应急 AI 助手&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;垂直场景下的本地化 RAG 应用案例，展示了无网络依赖的实用价值，但技术通用性有限。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 42/100&lt;/p&gt;</description>
+<source url="https://www.brangus.io/survival-llm">Hacker News AI</source>
+<category>本地部署</category>
+<category>RAG</category>
+<category>开源工具</category>
+<category>应急响应</category>
+</item>
 <item><title>Researchers Find Qwen Models Routing Data to Alibaba Servers</title><link>https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/</link><guid isPermaLink="true">https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/</guid>
 <pubDate>Wed, 28 Oct 2026 03:45:49 +0800</pubDate>
 <description>&lt;p&gt;Researchers from Cohere and others discovered that open-weight Qwen models attempt to upload test data to Alibaba cloud servers. The behavior stems from unfiltered agent logs in training infrastructure, posing risks of prompt injection and data leakage despite low trigger rates.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Qwen 模型被曝向阿里云服务器发送数据&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示主流开源大模型潜在的数据隐私与供应链安全风险，对开发者选型及企业合规具有重大警示意义。&lt;/p&gt;&lt;p&gt;The Decoder · llm · signal 85/100&lt;/p&gt;</description>
@@ -55,6 +203,15 @@
 <category>蚂蚁集团</category>
 <category>智能体</category>
 </item>
+<item><title>Anthropic Execs Detail Internal Engineering and Product Workflows</title><link>https://latent.space/p/opus55/</link><guid isPermaLink="true">https://latent.space/p/opus55/</guid>
+<pubDate>Wed, 28 Oct 2026 02:53:10 +0800</pubDate>
+<description>&lt;p&gt;Anthropic&amp;#x27;s heads of Engineering and Product discussed how the company uses Claude to build Claude, highlighting their dual core loops of Improvement and Investment. The content focuses on organizational workflows rather than specific technical breakthroughs, offering insight into the R&amp;amp;D culture of a leading AI lab.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 高管访谈揭秘内部工程与产品协作流程&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;适合对 AI 实验室内部管理、研发流程及企业文化感兴趣的读者，但缺乏可立即执行的技术干货或重大新闻事实。&lt;/p&gt;&lt;p&gt;Latent Space · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://latent.space/p/opus55/">Latent Space</source>
+<category>Anthropic</category>
+<category>工程管理</category>
+<category>AI 行业洞察</category>
+<category>Claude</category>
+</item>
 <item><title>Chinese Team Launches Natural Language Protein Design Tool</title><link>https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/</link><guid isPermaLink="true">https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/</guid>
 <pubDate>Wed, 28 Oct 2026 02:49:08 +0800</pubDate>
 <description>&lt;p&gt;A Chinese research team has developed a protein design tool that accepts natural language prompts to generate proteins with specified functions, aiming to lower the barrier for non-experts. While the success rate of generated proteins remains modest and requires lab validation, this marks an extension of &amp;#x27;vibe coding&amp;#x27; into bio-computation. Separately, Hugging Face launched a similar tool for DNA-level design.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;中国团队推自然语言蛋白设计工具 降低 AI 生物门槛&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;将大模型的自然语言交互范式引入蛋白质工程，虽处于早期阶段但具有显著的跨领域创新意义和潜在的行业变革价值。&lt;/p&gt;&lt;p&gt;Ars Technica AI · llm · signal 68/100&lt;/p&gt;</description>
@@ -64,18 +221,18 @@
 <category>LLM Application</category>
 <category>Bioinformatics</category>
 </item>
-<item><title>Anthropic Details Claude Architecture: Separating Brain from Hands for Safe Agents</title><link>https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</link><guid isPermaLink="true">https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</guid>
+<item><title>Anthropic 详解 Claude 架构：分离大脑与双手实现安全智能体</title><link>https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</link><guid isPermaLink="true">https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</guid>
 <pubDate>Wed, 28 Oct 2026 02:40:19 +0800</pubDate>
-<description>&lt;p&gt;Anthropic engineers detailed the architecture behind Claude Opus 5.5 and managed agents in a podcast, emphasizing the decoupling of model reasoning (\\&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 详解 Claude 架构：分离大脑与双手实现安全智能体&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了 Anthropic 智能体基础设施的工程细节与安全架构思路，对构建可靠 Agent 的开发者具有较高参考价值。&lt;/p&gt;&lt;p&gt;Latent Space · agent · signal 68/100&lt;/p&gt;</description>
+<description>&lt;p&gt;Anthropic 工程团队在播客中深入解析了 Claude Opus 5.5 及托管智能体的底层架构，核心策略是将模型推理（“大脑”）与执行环境（“双手”）解耦。通过隔离沙箱、凭证管理及网络控制，该方案旨在解决长运行智能体的安全性与可靠性问题，同时介绍了 S-1 文件中的平台投资逻辑。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了 Anthropic 智能体基础设施的工程细节与安全架构思路，对构建可靠 Agent 的开发者具有较高参考价值。&lt;/p&gt;&lt;p&gt;Latent Space · agent · signal 68/100&lt;/p&gt;</description>
 <source url="https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/">Latent Space</source>
 <category>Anthropic</category>
 <category>Agent Safety</category>
 <category>Infrastructure</category>
 <category>Claude</category>
 </item>
-<item><title>Axiom Uses AI Agents to Verify Finite Simple Groups Proof in 24 Days</title><link>https://x.com/dotey/status/2115145479222665228</link><guid isPermaLink="true">https://x.com/dotey/status/2115145479222665228</guid>
+<item><title>Axiom 用 AI Agent 24 天完成有限单群分类定理形式化验证</title><link>https://x.com/dotey/status/2115145479222665228</link><guid isPermaLink="true">https://x.com/dotey/status/2115145479222665228</guid>
 <pubDate>Wed, 28 Oct 2026 02:15:54 +0800</pubDate>
-<description>&lt;p&gt;AI math firm Axiom used dozens of AI agents to formalize and verify the 15,000-page Classification of Finite Simple Groups theorem in just 24 days using Lean. The process uncovered a logical flaw in an intermediate lemma, which the AI resolved by generating a new proof strategy that passed rigorous computer verification.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Axiom 用 AI Agent 24 天完成有限单群分类定理形式化验证&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了 LLM/Agent 在极高复杂度、长链条逻辑推理任务中的实际落地能力与纠错价值。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · llm · signal 88/100&lt;/p&gt;</description>
+<description>&lt;p&gt;AI 数学公司 Axiom 利用数十个 AI Agent，在 24 天内将长达 1.5 万页的“有限单群分类定理”证明转化为 Lean 代码并完成计算机验证。过程中发现原证明中一处关键引理存在逻辑漏洞，AI 通过重构证法成功修复并通过了严格检查，标志着大规模数学形式化的重大突破。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了 LLM/Agent 在极高复杂度、长链条逻辑推理任务中的实际落地能力与纠错价值。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · llm · signal 88/100&lt;/p&gt;</description>
 <source url="https://x.com/dotey/status/2115145479222665228">宝玉 (@dotey)</source>
 <category>大模型</category>
 <category>智能体</category>
@@ -83,194 +240,32 @@
 <category>形式化验证</category>
 <category>Axiom</category>
 </item>
-<item><title>Liquid AI Launches Open-Weight LFM3 Family with Tri-Hybrid Architecture</title><link>https://x.com/rohanpaul_ai/status/2115139239772135897</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115139239772135897</guid>
+<item><title>Liquid AI 发布 LFM3 开源模型家族，1.7B 文本模型性能超越前代</title><link>https://x.com/rohanpaul_ai/status/2115139239772135897</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115139239772135897</guid>
 <pubDate>Wed, 28 Oct 2026 01:51:06 +0800</pubDate>
-<description>&lt;p&gt;Liquid AI has released the open-weight LFM3 model family, featuring a tri-hybrid architecture that combines short convolutions, sliding-window attention, and global attention. The 1.7B text model outperforms its 2.6B predecessor and competitors like Qwen3.5-9B on agent benchmarks, offering six specialized instances for text, vision, audio, and omni-modal tasks optimized for on-device deployment.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Liquid AI 发布 LFM3 开源模型家族，1.7B 文本模型性能超越前代&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;LFM3 通过创新的混合架构在小参数量下实现了显著的推理效率提升和端侧可用性，对追求轻量化部署的开发者极具价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 85/100&lt;/p&gt;</description>
+<description>&lt;p&gt;Liquid AI 推出新一代开源权重模型家族 LFM3，其核心亮点在于采用“三混合”架构（短卷积、滑动窗口注意力与全局注意力结合），使 1.7B 参数文本模型在多项基准测试中显著优于其 2.6B 前代及竞品。该系列涵盖文本、视觉、音频及全模态共 6 个实例，专为端侧部署优化，并在自动化代理任务中展现出极高的效率优势。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;LFM3 通过创新的混合架构在小参数量下实现了显著的推理效率提升和端侧可用性，对追求轻量化部署的开发者极具价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 85/100&lt;/p&gt;</description>
 <source url="https://x.com/rohanpaul_ai/status/2115139239772135897">Rohan Paul (@rohanpaul_ai)</source>
 <category>大模型</category>
 <category>开源</category>
 <category>端侧AI</category>
 <category>Liquid AI</category>
 </item>
-<item><title>Google Research Introduces &#x27;Sleep Phase&#x27; Framework to Fix LLM Catastrophic Forgetting</title><link>https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/</link><guid isPermaLink="true">https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/</guid>
+<item><title>Google Research 提出“睡眠阶段”框架 解决 LLM 持续学习遗忘难题</title><link>https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/</link><guid isPermaLink="true">https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/</guid>
 <pubDate>Wed, 28 Oct 2026 01:35:28 +0800</pubDate>
-<description>&lt;p&gt;Google Research introduces a &amp;#x27;Sleep Phase&amp;#x27; framework for Large Language Models (LLMs) to address catastrophic forgetting in continual learning. By simulating biological sleep mechanisms, this approach allows deployed models to offline-consolidate new facts and enhance reasoning capabilities while preserving existing knowledge, overcoming the limitations of static knowledge cutoffs.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Google Research 提出“睡眠阶段”框架 解决 LLM 持续学习遗忘难题&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;直击 LLM 落地核心痛点（灾难性遗忘），提供具有生物学启发意义的新范式，具备较高的学术与工程参考价值。&lt;/p&gt;&lt;p&gt;Google Research · llm · signal 85/100&lt;/p&gt;</description>
+<description>&lt;p&gt;Google Research 团队在博客中提出了针对大语言模型（LLM）的“睡眠阶段”（Sleep Phase）概念，旨在解决持续学习中的灾难性遗忘问题。该框架模拟生物睡眠机制，允许模型在部署后通过离线整合新事实来增强推理能力，同时保持原有知识稳定，突破了传统静态知识截止日期的限制。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;直击 LLM 落地核心痛点（灾难性遗忘），提供具有生物学启发意义的新范式，具备较高的学术与工程参考价值。&lt;/p&gt;&lt;p&gt;Google Research · llm · signal 85/100&lt;/p&gt;</description>
 <source url="https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/">Google Research</source>
 <category>大模型</category>
 <category>持续学习</category>
 <category>Google Research</category>
 <category>灾难性遗忘</category>
 </item>
-<item><title>DeepMind Releases Genie 4 for Real-Time Interactive World Simulation</title><link>https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/</link><guid isPermaLink="true">https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/</guid>
+<item><title>DeepMind 发布 Genie 4 实时生成带音频交互世界</title><link>https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/</link><guid isPermaLink="true">https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/</guid>
 <pubDate>Wed, 28 Oct 2026 01:25:09 +0800</pubDate>
-<description>&lt;p&gt;Google DeepMind has released Genie 4, an experimental world model that generates interactive environments frame-by-frame in real time, including synchronized background audio and character dialogue. Guided by Gemini models for multi-step planning, it dynamically adapts to user prompts, representing a step toward hybrid world models combining language reasoning with pixel-level simulation. Access is currently limited to select testers.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;DeepMind 发布 Genie 4 实时生成带音频交互世界&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;首次实现实时交互式世界模型中同步生成音频与对话，结合 LLM 规划能力，具有显著的技术节点意义。&lt;/p&gt;&lt;p&gt;The Decoder · llm · signal 78/100&lt;/p&gt;</description>
+<description>&lt;p&gt;Google DeepMind 推出实验性世界模型 Genie 4，能实时逐帧生成交互式环境并同步生成背景音效与角色对话。该模型由 Gemini 在后台规划多步任务以动态响应提示，标志着语言推理与像素级模拟结合的混合世界模型新方向。目前仅向部分测试者开放，后续将面向 Google AI Ultra 订阅用户扩展。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;首次实现实时交互式世界模型中同步生成音频与对话，结合 LLM 规划能力，具有显著的技术节点意义。&lt;/p&gt;&lt;p&gt;The Decoder · llm · signal 78/100&lt;/p&gt;</description>
 <source url="https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/">The Decoder</source>
 <category>DeepMind</category>
 <category>Genie 4</category>
 <category>世界模型</category>
 <category>多模态</category>
-</item>
-<item><title>LiquidAI Releases LFM3 for Custom Multimodal Edge Models</title><link>https://huggingface.co/blog/LiquidAI/lfm3</link><guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm3</guid>
-<pubDate>Wed, 28 Oct 2026 01:16:52 +0800</pubDate>
-<description>&lt;p&gt;LiquidAI has introduced the LFM3 framework to enable developers to build specialized multimodal large models optimized for edge devices. The tool focuses on efficient inference and custom deployment in resource-constrained environments, currently in an early community sharing phase.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;LiquidAI 发布 LFM3 支持多模态边缘模型定制&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了面向边缘计算的多模态模型定制化工具，对端侧 AI 开发者具有实用价值。&lt;/p&gt;&lt;p&gt;Hugging Face Blog · llm · signal 45/100&lt;/p&gt;</description>
-<source url="https://huggingface.co/blog/LiquidAI/lfm3">Hugging Face Blog</source>
-<category>LiquidAI</category>
-<category>多模态</category>
-<category>边缘计算</category>
-<category>开源</category>
-</item>
-<item><title>Judgment Labs Opens Beta to Curate Test Data from Agent Traces</title><link>https://x.com/rohanpaul_ai/status/2115129800876863857</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115129800876863857</guid>
-<pubDate>Wed, 28 Oct 2026 01:13:36 +0800</pubDate>
-<description>&lt;p&gt;Judgment Labs has opened general access to its monitoring and improvement platform for long-horizon agents. The tool parses agent traces to uncover user intents and failure modes, enabling the automatic curation of test datasets to enhance system performance.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Judgment Labs 开放测试 从智能体日志提取数据集&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;针对智能体可观测性与数据闭环的垂直工具发布，虽具实用价值但缺乏具体技术参数与基准对比。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 35/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115129800876863857">Rohan Paul (@rohanpaul_ai)</source>
-<category>智能体</category>
-<category>可观测性</category>
-<category>数据工程</category>
-</item>
-<item><title>OpenAI Releases Proofs Challenging Exponential Time Hypothesis</title><link>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</guid>
-<pubDate>Wed, 28 Oct 2026 01:08:08 +0800</pubDate>
-<description>&lt;p&gt;OpenAI released solutions to three major math problems, including a surprising refutation of the Exponential Time Hypothesis (ETH). Anthropic subsequently published its own independent refutation of ETH. Both labs are engaging with academic communities via GitHub and working groups to validate these proofs, marking a significant milestone in AI-driven scientific discovery.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 发布数学证明 挑战指数时间假设&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;涉及基础理论突破与顶级实验室竞争，具有极高的行业关注度与学术影响力。&lt;/p&gt;&lt;p&gt;TechCrunch AI · llm · signal 85/100&lt;/p&gt;</description>
-<source url="https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/">TechCrunch AI</source>
-<category>大模型</category>
-<category>OpenAI</category>
-<category>Anthropic</category>
-<category>数学推理</category>
-<category>科学发现</category>
-</item>
-<item><title>LangChain Open-Sources Design Agent Architecture with Sandbox and Context Strategies</title><link>https://www.langchain.com/blog/design-agent</link><guid isPermaLink="true">https://www.langchain.com/blog/design-agent</guid>
-<pubDate>Wed, 28 Oct 2026 01:05:05 +0800</pubDate>
-<description>&lt;p&gt;LangChain has open-sourced the architecture behind its internal &amp;#x27;Design Agent,&amp;#x27; detailing how to enhance code generation quality by providing agents with isolated sandbox environments, integrating multimodal toolchains, and implementing dynamic rule management. The article outlines a complete workflow from Slack threads to video engines and offers a reusable open-source harness, serving as an engineering reference for building autonomous agents with aesthetic judgment.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;LangChain 开源设计智能体架构 详解上下文与沙箱机制&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了具体的智能体工程实现细节和开源代码库，对构建复杂长时运行任务具有较高参考价值。&lt;/p&gt;&lt;p&gt;LangChain Blog · agent · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.langchain.com/blog/design-agent">LangChain Blog</source>
-<category>智能体架构</category>
-<category>LangChain</category>
-<category>开源项目</category>
-<category>AI 工程实践</category>
-</item>
-<item><title>Liquid AI Releases Open-Weight Multimodal LFM3 Models for Local Fine-Tuning</title><link>https://www.liquid.ai/blog/lfm3</link><guid isPermaLink="true">https://www.liquid.ai/blog/lfm3</guid>
-<pubDate>Wed, 28 Oct 2026 01:04:50 +0800</pubDate>
-<description>&lt;p&gt;Liquid AI has launched the LFM3 family of Liquid Foundation Models, a multimodal suite built on a new hybrid architecture with 2B parameters. Unifying text, vision, audio, and decision-making capabilities, LFM3 is designed for specialized intelligence through efficient local fine-tuning and cross-device deployment. The open-weight models are now available on Hugging Face.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Liquid AI 发布 LFM3：多模态开源小模型支持本地微调&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了开源多模态小模型的新选择，强调本地部署与微调效率，对边缘计算和垂直领域开发者具有较高实用价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 78/100&lt;/p&gt;</description>
-<source url="https://www.liquid.ai/blog/lfm3">Hacker News AI</source>
-<category>Liquid AI</category>
-<category>LFM3</category>
-<category>多模态</category>
-<category>开源模型</category>
-<category>边缘AI</category>
-</item>
-<item><title>DeepMind Launches Genie 4 Real-Time World Model with Native Audio and Interactive Editing</title><link>https://x.com/rohanpaul_ai/status/2115127052898816103</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115127052898816103</guid>
-<pubDate>Wed, 28 Oct 2026 01:02:41 +0800</pubDate>
-<description>&lt;p&gt;Google DeepMind has released Genie 4, its first real-time world model featuring native audio generation for ambient sounds, music, and character dialogue. The system allows users to dynamically rewrite simulations via text commands (e.g., changing weather or camera angles), coordinated by Gemini 3.8 Flash acting as an in-loop director. It has been validated in simulating humanoid robot tasks and is currently available only to trusted testers.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;DeepMind 发布 Genie 4 实时世界模型 支持原生音频与交互编辑&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;标志着世界模型从视觉模拟迈向多模态实时交互的关键节点，且展示了 LLM 在复杂仿真控制中的具体应用范式。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 88/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115127052898816103">Rohan Paul (@rohanpaul_ai)</source>
-<category>世界模型</category>
-<category>多模态</category>
-<category>实时渲染</category>
-<category>智能体</category>
-</item>
-<item><title>SageMaker AI Adds SOCI Indexing for Faster Job Startup</title><link>https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/</link><guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/</guid>
-<pubDate>Wed, 28 Oct 2026 01:00:39 +0800</pubDate>
-<description>&lt;p&gt;Amazon SageMaker AI now supports Seekable OCI (SOCI) indexing to accelerate job startup by lazy-loading container images, reducing initialization time from minutes to seconds. Users can enable this feature without modifying job definitions or entry points by pointing to pre-indexed AWS Deep Learning Containers or adding an index to custom images, thereby lowering infrastructure wait costs and improving development efficiency.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;SageMaker AI 支持 SOCI 索引镜像以加速任务启动&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该更新显著优化了深度学习工作流的冷启动体验，直接降低了云算力闲置成本，对重度使用 SageMaker 的工程团队具有即时实用价值。&lt;/p&gt;&lt;p&gt;AWS Machine Learning Blog · tools · signal 42/100&lt;/p&gt;</description>
-<source url="https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/">AWS Machine Learning Blog</source>
-<category>SageMaker</category>
-<category>容器优化</category>
-<category>AWS</category>
-<category>MLOps</category>
-</item>
-<item><title>Property Finder Uncovers Evaluation Bias Hindering Bedrock Model Selection</title><link>https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/</link><guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/</guid>
-<pubDate>Wed, 28 Oct 2026 00:53:02 +0800</pubDate>
-<description>&lt;p&gt;Real estate platform Property Finder discovered that 96.8% of its evaluation labels were inherited from a single model&amp;#x27;s predictions rather than human verification during a migration to Amazon Bedrock. This systematic bias skewed ground truth data, causing alternative models to appear underperforming and hindering objective cost-optimization decisions.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Property Finder 发现评估偏差 阻碍 Bedrock 模型选型&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 AI 应用中常见的“自我强化”评估陷阱，对依赖自动化标注的团队具有警示意义，但属于特定厂商场景下的案例分享。&lt;/p&gt;&lt;p&gt;AWS Machine Learning Blog · tools · signal 35/100&lt;/p&gt;</description>
-<source url="https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/">AWS Machine Learning Blog</source>
-<category>Amazon Bedrock</category>
-<category>Model Evaluation</category>
-<category>Data Bias</category>
-<category>Case Study</category>
-</item>
-<item><title>Ghostty 1.4.0 Released with Full Kitty Graphics Support</title><link>https://ghostty.org/docs/install/release-notes/1-4-0</link><guid isPermaLink="true">https://ghostty.org/docs/install/release-notes/1-4-0</guid>
-<pubDate>Wed, 28 Oct 2026 00:51:22 +0800</pubDate>
-<description>&lt;p&gt;Terminal emulator Ghostty has released version 1.4.0, featuring a complete implementation of the Kitty graphics protocol (including animation and relative placement), making it the first non-Kitty terminal to fully support this standard. The update includes significant performance and memory improvements, enhanced SSH integration, and official Windows support for libghostty.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Ghostty 1.4.0 发布 实现完整 Kitty 图形协议&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为高性能终端的重要里程碑，其图形协议兼容性突破对开发者体验有直接提升价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 68/100&lt;/p&gt;</description>
-<source url="https://ghostty.org/docs/install/release-notes/1-4-0">Hacker News AI</source>
-<category>终端工具</category>
-<category>开源软件</category>
-<category>开发者体验</category>
-</item>
-<item><title>Anthropic IPO Plan Sparks Governance and Mission Balance Debate</title><link>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</link><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</guid>
-<pubDate>Wed, 28 Oct 2026 00:51:22 +0800</pubDate>
-<description>&lt;p&gt;Anthropic is preparing for an IPO to access public market capital while aiming to preserve its core mission of safe AI development. The article highlights the board of directors as a critical governance lever, noting that executives like CEO Dario Amodei also serve as directors, raising questions about whether the company can maintain its responsible AI priorities post-listing.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic IPO 计划引发治理与使命平衡争议&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽属行业重大事件，但内容侧重公司治理结构与上市动机分析，缺乏具体技术参数或产品实质信息，对技术读者的直接可用性较低。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 42/100&lt;/p&gt;</description>
-<source url="https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety">The Verge AI</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>公司治理</category>
-<category>AI 安全</category>
-</item>
-<item><title>Exowatt Cuts Costs 49x Using SageMaker Serverless Customization for Edge AI</title><link>https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/</link><guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/</guid>
-<pubDate>Wed, 28 Oct 2026 00:50:55 +0800</pubDate>
-<description>&lt;p&gt;Energy company Exowatt leveraged Amazon SageMaker AI&amp;#x27;s serverless model customization to build a repeatable AI pipeline. By fine-tuning small, task-specific models for edge and cloud deployment, they achieved higher accuracy than frontier models on specific tasks while reducing inference costs by up to 49x.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Exowatt 用 SageMaker 定制模型 边缘部署成本降 49 倍&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了通过微调小模型替代前沿大模型以大幅降低成本并提升特定场景准确率的工程实践，对开发者有参考价值。&lt;/p&gt;&lt;p&gt;AWS Machine Learning Blog · tools · signal 38/100&lt;/p&gt;</description>
-<source url="https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/">AWS Machine Learning Blog</source>
-<category>SageMaker</category>
-<category>模型微调</category>
-<category>边缘计算</category>
-<category>成本优化</category>
-</item>
-<item><title>SoMark Open-Sources OXR-1.0 Document Parser with Recursive Self-Improvement</title><link>https://x.com/rohanpaul_ai/status/2115121734718558243</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115121734718558243</guid>
-<pubDate>Wed, 28 Oct 2026 00:41:33 +0800</pubDate>
-<description>&lt;p&gt;SoMark released OXR-1.0, a 1.3B-parameter open-source document parsing model that converts PDFs and images into Markdown or JSON. It ranks first on major benchmarks while being the fastest tested, featuring a novel recursive self-improvement (RSI) post-training loop without human labeling and a decoupled architecture separating layout detection from recognition.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;SoMark 开源 OXR-1.0 文档解析模型，首创递归自改进训练&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该模型不仅性能领先，更通过RSI技术实现了无需人工标注的自动化数据增强，为文档AI领域提供了新的工程范式。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · opensource · signal 78/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115121734718558243">Rohan Paul (@rohanpaul_ai)</source>
-<category>文档解析</category>
-<category>开源模型</category>
-<category>SoMark</category>
-<category>RSI</category>
-</item>
-<item><title>ACLU Warns Police Misuse AI License Plate Readers to Stop Drivers</title><link>https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220</link><guid isPermaLink="true">https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220</guid>
-<pubDate>Wed, 28 Oct 2026 00:40:15 +0800</pubDate>
-<description>&lt;p&gt;The ACLU reports that law enforcement agencies are increasingly using automated license plate readers (ALPRs) and AI tools to stop drivers based on &amp;#x27;suspicious&amp;#x27; patterns rather than specific crimes. The warning highlights cases where FBI agents flagged innocent travelers via trajectory data, raising privacy concerns about AI-powered investigative tools developed by companies like Flock.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;ACLU 警告警方滥用 AI 车牌识别拦截司机&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示 AI 技术在公共执法领域的伦理风险与隐私滥用现状，具有社会警示意义。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 45/100&lt;/p&gt;</description>
-<source url="https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220">Hacker News AI</source>
-<category>AI 伦理</category>
-<category>隐私保护</category>
-<category>计算机视觉</category>
-<category>公共安全</category>
-</item>
-<item><title>Google 发布 Genie 4 世界模型，支持实时音频与交互引导</title><link>https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/</guid>
-<pubDate>Wed, 28 Oct 2026 00:30:57 +0800</pubDate>
-<description>&lt;p&gt;Google DeepMind 推出最新世界模型 Genie 4，具备生成高保真、交互式虚拟环境的能力。该模型支持在模拟过程中通过文本提示实时改变场景，并同步生成匹配环境的音乐、音效及对话。此次发布正值世界模型领域整合加速之际，旨在提升 AI 生成内容的沉浸感与可控性。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;Genie 4 实现了从静态视频生成到可交互、带音频的世界模型的跨越，显著提升了 AI 模拟的真实感与控制力。&lt;/p&gt;&lt;p&gt;TechCrunch AI · llm · signal 88/100&lt;/p&gt;</description>
-<source url="https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/">TechCrunch AI</source>
-<category>大模型</category>
-<category>世界模型</category>
-<category>多模态</category>
-<category>Google DeepMind</category>
-</item>
-<item><title>亚马逊大幅缩减 AI 部门 重组 Nova 模型团队</title><link>https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova</link><guid isPermaLink="true">https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova</guid>
-<pubDate>Wed, 28 Oct 2026 00:25:30 +0800</pubDate>
-<description>&lt;p&gt;亚马逊正在大幅削减其内部 AI 实验室的规模，并重组开发团队以聚焦“最高优先级”目标。此举源于其旗舰大模型 Nova 未能获得市场认可且算力成本高昂，公司正试图从 AI 炒作周期中战略撤退。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;科技巨头在生成式 AI 竞赛中的重大战略收缩，对行业格局和 ROI 讨论具有风向标意义。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 78/100&lt;/p&gt;</description>
-<source url="https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova">Hacker News AI</source>
-<category>亚马逊</category>
-<category>Nova</category>
-<category>AI 战略调整</category>
-<category>行业整合</category>
-</item>
-<item><title>Firefox Smart Window 更新 AI 填表与网页监控功能</title><link>https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms</link><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms</guid>
-<pubDate>Wed, 28 Oct 2026 00:14:18 +0800</pubDate>
-<description>&lt;p&gt;Mozilla 为 Firefox 的 AI 浏览体验 Smart Window 推出新功能，支持基于当前打开标签页的内容自动填充在线表单。该功能目前仅在美国和加拿大的桌面版 Beta 渠道向部分用户开放，后续将逐步推广至其他地区。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;浏览器原生集成跨标签页上下文感知能力，提升了日常办公自动化效率，但受限于地域且处于 Beta 阶段。&lt;/p&gt;&lt;p&gt;The Verge AI · tools · signal 45/100&lt;/p&gt;</description>
-<source url="https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms">The Verge AI</source>
-<category>Firefox</category>
-<category>Mozilla</category>
-<category>AI Browser</category>
-<category>Automation</category>
-</item>
-<item><title>Ai2 发布 Novelty Bench 评估 LLM 科研选题新颖性判断能力</title><link>https://huggingface.co/blog/allenai/novelty-bench</link><guid isPermaLink="true">https://huggingface.co/blog/allenai/novelty-bench</guid>
-<pubDate>Wed, 28 Oct 2026 00:12:42 +0800</pubDate>
-<description>&lt;p&gt;Ai2 推出“Old Ideas, Novel Problems”研究及配套基准测试，旨在量化大语言模型在评估科学研究想法新颖性方面的可靠性。该工作提供了用于测试“新颖性裁判”的数据、代码及自动化流水线，服务于 AI 辅助科学发现流程中的假设生成与验证环节。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;针对 AI4Science 中关键的“去重/新颖性”痛点提供标准化评测工具，对构建自主科研智能体具有直接参考价值。&lt;/p&gt;&lt;p&gt;Hugging Face Blog · llm · signal 68/100&lt;/p&gt;</description>
-<source url="https://huggingface.co/blog/allenai/novelty-bench">Hugging Face Blog</source>
-<category>LLM Evaluation</category>
-<category>AI4Science</category>
-<category>Benchmark</category>
-<category>Ai2</category>
-</item>
-<item><title>苹果发布搭载 M6 芯片的 14 英寸 MacBook Pro</title><link>https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</link><guid isPermaLink="true">https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</guid>
-<pubDate>Wed, 28 Oct 2026 00:08:32 +0800</pubDate>
-<description>&lt;p&gt;苹果推出搭载全新 M6 芯片的 14 英寸 MacBook Pro，主打端侧 AI 能力与能效提升。该机型配备 12 核 CPU 和 GPU，图形性能较 M5 提升 30%，AI 负载处理速度提升 25%，并支持长达 24 小时的电池续航。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为主流消费级硬件更新，M6 芯片对端侧 AI 推理能力的增强值得开发者关注，但属于常规迭代而非颠覆性突破。&lt;/p&gt;&lt;p&gt;Hacker News AI · compute · signal 45/100&lt;/p&gt;</description>
-<source url="https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/">Hacker News AI</source>
-<category>Apple</category>
-<category>MacBook Pro</category>
-<category>M6</category>
-<category>Hardware</category>
 </item>
 </channel>
 </rss>
