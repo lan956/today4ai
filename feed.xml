@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Latest Intelligence</title><link>https://todayforai.com/en/news</link><description>Curated frontier AI news, 24h window, from todayforai.com.</description>
-<language>en</language><lastBuildDate>Tue, 27 Oct 2026 16:00:56 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Tue, 27 Oct 2026 16:11:15 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/lan956/today4ai/main/feed.xml" rel="self" type="application/rss+xml"/>
+<item><title>WUS Printed Circuit Net Profit Doubles on AI Compute Demand</title><link>https://www.ithome.com/1/018/484.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/484.htm</guid>
+<pubDate>Tue, 27 Oct 2026 16:11:15 +0800</pubDate>
+<description>&lt;p&gt;WUS Printed Circuit reported a 106.87% year-over-year increase in net profit to 5.62 billion yuan for the first three quarters of 2026, driven by strong demand for high-end PCBs in AI servers and switches. The company&amp;#x27;s Thailand subsidiary turned profitable, marking record quarterly earnings and confirming the robust momentum in the AI compute infrastructure supply chain.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;沪电股份前三季度净利翻倍 AI 算力 PCB 需求强劲&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为AI算力硬件上游核心标的，其业绩翻倍直接验证了全球AI基础设施建设对高端PCB的强劲拉动作用。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/018/484.htm">IT之家 · IT业界</source>
+<category>沪电股份</category>
+<category>PCB</category>
+<category>AI算力</category>
+<category>财报</category>
+</item>
 <item><title>Lee Jae-yong Visits Samsung RX Robot Division Ahead of CES 2027</title><link>https://www.ithome.com/1/018/478.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/478.htm</guid>
 <pubDate>Tue, 27 Oct 2026 16:00:56 +0800</pubDate>
 <description>&lt;p&gt;Samsung Electronics Chairman Lee Jae-yong visited the newly established RX robot division for the first time, inspecting humanoid arm and dexterous hand technologies slated for display at CES 2027. The division aims to consolidate internal R&amp;amp;D resources to accelerate commercialization from factory deployment to home scenarios.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;李在镕视察三星 RX 机器人部，聚焦 CES 2027 人形机器人研发&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽为高管视察新闻，但揭示了三星在人形机器人领域的组织架构调整及明确的 CES 2027 产品路线图，对关注具身智能产业化的读者具有参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 48/100&lt;/p&gt;</description>
@@ -206,9 +215,9 @@
 <category>APASS</category>
 <category>MCP</category>
 </item>
-<item><title>OpenAI Launches Dots Assistant Shifting to Always-On Agentic Mode</title><link>https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</guid>
+<item><title>OpenAI 发布 dots 助手 转向常驻后台智能体模式</title><link>https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</guid>
 <pubDate>Tue, 27 Oct 2026 10:00:00 +0800</pubDate>
-<description>&lt;p&gt;OpenAI launched &amp;#x27;Dots&amp;#x27;, an always-on personal assistant, marking a shift from coding tools to autonomous agents. The product uses a single-conversation entity architecture for intuitiveness and plans to enable consumer transactions via payment partnerships, though privacy and financial security remain significant hurdles.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 发布 dots 助手 转向常驻后台智能体模式&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了头部厂商将大模型能力封装为常驻智能体的产品化路径及商业化野心。&lt;/p&gt;&lt;p&gt;TechCrunch AI · agent · signal 68/100&lt;/p&gt;</description>
+<description>&lt;p&gt;OpenAI 在开发者大会推出名为“dots”的常驻式 AI 个人助手，标志着其从单纯编码工具向全天候自主代理转型。该产品采用单一对话实体架构以增强直观性，并计划通过支付合作伙伴关系实现消费级交易闭环，尽管隐私与资金安全仍是主要挑战。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了头部厂商将大模型能力封装为常驻智能体的产品化路径及商业化野心。&lt;/p&gt;&lt;p&gt;TechCrunch AI · agent · signal 68/100&lt;/p&gt;</description>
 <source url="https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/">TechCrunch AI</source>
 <category>OpenAI</category>
 <category>AI Agent</category>
@@ -267,15 +276,6 @@
 <category>TTS</category>
 <category>Local AI</category>
 <category>Apple Silicon</category>
-</item>
-<item><title>英特尔收购 Classiq 布局全栈量子计算平台</title><link>https://www.ithome.com/1/018/220.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/220.htm</guid>
-<pubDate>Tue, 27 Oct 2026 08:28:45 +0800</pubDate>
-<description>&lt;p&gt;英特尔宣布收购以色列初创企业 Classiq，旨在打造全栈量子计算业务。此次收购将补强英特尔在量子硬件研发与软件部署能力，预计交易于 2027 年上半年完成。Classiq 将继续支持跨多种量子硬件的代码开发，助力英特尔抢占这一早期新兴市场。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;传统芯片巨头通过并购切入量子计算赛道，标志着从科研向工程化落地的重要转折，值得算力基础设施关注者留意。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/220.htm">IT之家 · IT业界</source>
-<category>英特尔</category>
-<category>量子计算</category>
-<category>收购</category>
-<category>Classiq</category>
 </item>
 </channel>
 </rss>
