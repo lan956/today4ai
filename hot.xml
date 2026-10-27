@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Hot Radar</title><link>https://todayforai.com/en/hot</link><description>Multi-source trending AI stories ranked by cross-source heat.</description>
-<language>en</language><lastBuildDate>Tue, 27 Oct 2026 11:09:14 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Tue, 27 Oct 2026 13:30:33 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/lan956/today4ai/main/hot.xml" rel="self" type="application/rss+xml"/>
 <item><title>OpenAI 发布 GPT-6.1 Terra，视觉推理增强且成本降至三分之一</title><link>https://todayforai.com/en/story/story-21677d69-7f7</link><guid isPermaLink="true">https://todayforai.com/en/story/story-21677d69-7f7</guid>
 <pubDate>Tue, 27 Oct 2026 07:53:07 +0800</pubDate>
@@ -20,12 +20,12 @@
 作为首家纯大模型上市公司，Anthropic 的财务数据为行业提供了关键基准。其招股书罕见地用大量篇幅警告 AI 可能带来的“生存性风险”，将安全理念置于商业叙事核心。此举不仅确立了其在资本市场相对于 OpenAI 的先发优势，也标志着头部 AI 实验室正式进入通过公开市场寻求规模化扩张的新阶段，对全球 AI 产业格局产生深远影响。&lt;/p&gt;&lt;p&gt;11 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), Hacker News AI, GREG ISENBERG (@gregisenberg)&lt;/p&gt;</description>
 </item>
 <item><title>OpenAI 攻克多项顶级科学难题并试验专家协作披露机制</title><link>https://todayforai.com/en/story/story-b8be99fe-b28</link><guid isPermaLink="true">https://todayforai.com/en/story/story-b8be99fe-b28</guid>
-<pubDate>Tue, 27 Oct 2026 07:37:17 +0800</pubDate>
-<description>&lt;p&gt;OpenAI 宣布其 AI 模型在数学、计算机科学和物理学三大基础学科取得突破性进展，声称解决了包括局部光滑猜想（进而解决挂谷猜想）、证伪指数时间假设（ETH）以及提出量子色动力学杨-米尔斯理论严格存在性证明在内的多项顶级难题。其中，数学与 CS 成果已通过 Lean 工具完成形式化验证并开源，而物理成果目前正由诺贝尔奖得主等外部专家进行审查，尚未获得学术界独立确认。
+<pubDate>Tue, 27 Oct 2026 13:30:33 +0800</pubDate>
+<description>&lt;p&gt;OpenAI 宣布在数学、计算机科学和物理学领域取得三项重大突破，包括证明局部光滑猜想（解决挂谷猜想）、形式化验证推翻指数时间假设（ETH），以及提出量子色动力学杨-米尔斯理论的严格存在性证明。这些成果涉及千禧年难题及核心理论基础，标志着 AI 在极端复杂抽象问题处理上实现质的飞跃。
 
-多源信交叉显示，此次发布不仅涉及技术突破，更是一次关于“AI 如何融入科学共同体”的方法论实验。OpenAI 引入了“牧羊人”式的外部专家协作机制，针对不同类型的成果采用了三种差异化披露策略：数学结果建议研究者自行解读 AI 输出；CS 与物理结果则由外部专家引导审核或全权主导发布。这种将 AI 产出视为“原始研究数据”，并通过特定机制转化为社区认可的“科学理解”的做法，旨在缓解此前大规模发布引发的争议，提升学术界的信任度与协作效率。
+多源信显示，Anthropic 的 Claude 模型在同一天独立发现了推翻 ETH 的核心算法，与 OpenAI 结论形成交叉验证，凸显前沿 AI 在理论科学领域的同步突破能力。OpenAI 特别引入“牧羊人”式外部专家协作机制，针对 CS 和物理结果由专家引导审核，数学结果交由研究者自行解读，旨在将原始 AI 输出转化为社区认可的科学知识，缓解此前大规模发布引发的信任争议。
 
-这一事件标志着 AI 从辅助工具向独立科研主体的角色转变，其证伪 ETH 可能颠覆大量依赖该假设的复杂性理论研究，暗示未来算法优化的新方向。同时，杨-米尔斯理论的进展若获证实，将对千禧年大奖难题产生深远影响。OpenAI 通过试验专家协作披露机制，试图建立一套可复制的 AI 科学发现验证范式，这可能重塑未来基础科学研究的知识生产与传播流程。&lt;/p&gt;&lt;p&gt;5 sources&lt;/p&gt;&lt;p&gt;The Verge AI, OpenAI 官方博客, Hacker News AI, Rohan Paul (@rohanpaul_ai), IT之家 · 智能时代&lt;/p&gt;</description>
+这一进展不仅动摇了依赖 ETH 的大量复杂性理论研究基础，更通过开源 Lean 形式化验证代码提升了可复现性。其创新的披露策略为 AI 参与前沿科学研究提供了新的范式，可能加速从“黑盒生成”到“可信知识”的转化过程，深刻影响未来科研协作生态。&lt;/p&gt;&lt;p&gt;6 sources&lt;/p&gt;&lt;p&gt;The Verge AI, OpenAI 官方博客, Hacker News AI, Rohan Paul (@rohanpaul_ai), IT之家 · 智能时代, 宝玉 (@dotey)&lt;/p&gt;</description>
 </item>
 <item><title>微软向六万员工提供自愿买断以优化 AI 转型</title><link>https://todayforai.com/en/story/story-f62c971a-f1d</link><guid isPermaLink="true">https://todayforai.com/en/story/story-f62c971a-f1d</guid>
 <pubDate>Tue, 27 Oct 2026 05:05:15 +0800</pubDate>

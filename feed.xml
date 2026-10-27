@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Latest Intelligence</title><link>https://todayforai.com/en/news</link><description>Curated frontier AI news, 24h window, from todayforai.com.</description>
-<language>en</language><lastBuildDate>Tue, 27 Oct 2026 12:53:52 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Tue, 27 Oct 2026 13:30:33 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/lan956/today4ai/main/feed.xml" rel="self" type="application/rss+xml"/>
+<item><title>Anthropic Publishes Paper on Claude Proving ETH as OpenAI Announces Same Result</title><link>https://x.com/dotey/status/2114952872458633296</link><guid isPermaLink="true">https://x.com/dotey/status/2114952872458633296</guid>
+<pubDate>Tue, 27 Oct 2026 13:30:33 +0800</pubDate>
+<description>&lt;p&gt;Anthropic released a paper on GitHub revealing that an internal research version of Claude independently discovered the core algorithm disproving the Exponential Time Hypothesis (ETH) using 14 million output tokens without human input. Coincidentally, OpenAI announced on the same day that its model also found a proof for this mathematical problem, marking a breakthrough in AI&amp;#x27;s capability to tackle frontier theoretical computer science.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 发布 Claude 独立证明 ETH 论文 OpenAI 同日宣布相同结论&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;两大巨头同日宣布 AI 解决顶级数学猜想，且 Anthropic 强调无人类干预的自主发现过程，具有极高的行业里程碑意义。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · llm · signal 95/100&lt;/p&gt;</description>
+<source url="https://x.com/dotey/status/2114952872458633296">宝玉 (@dotey)</source>
+<category>大模型</category>
+<category>Anthropic</category>
+<category>OpenAI</category>
+<category>数学推理</category>
+<category>指数时间假设</category>
+</item>
 <item><title>AllModels Aggregates Five Inference Providers for Abliterated DeepSeek</title><link>https://allmodels.io/llm/abliterated</link><guid isPermaLink="true">https://allmodels.io/llm/abliterated</guid>
 <pubDate>Tue, 27 Oct 2026 12:53:52 +0800</pubDate>
 <description>&lt;p&gt;AllModels now offers a unified API to access five independent inference providers for the abliterated version of DeepSeek V4.1 Flash. The service features automatic failover and lowest-cost routing, compatible with the OpenAI SDK, aiming to simplify access to uncensored models.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AllModels 聚合 5 家 DeepSeek 去审查模型推理服务&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽然提供了具体的开发者工具接口，但核心卖点在于聚合已存在的去审查模型，属于常规基础设施上架，缺乏显著的技术突破或独家能力。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 35/100&lt;/p&gt;</description>
@@ -201,9 +211,9 @@
 <category>基础科学</category>
 <category>形式化验证</category>
 </item>
-<item><title>OpenAI Claims Three Major Scientific Breakthroughs: Local Smoothing Conjecture, ETH Refutation, and Yang-Mills Proof</title><link>https://www.ithome.com/1/018/203.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/203.htm</guid>
+<item><title>OpenAI 宣布三项科学突破：证局部光滑猜想、推翻 ETH 及解决千禧年难题</title><link>https://www.ithome.com/1/018/203.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/203.htm</guid>
 <pubDate>Tue, 27 Oct 2026 07:37:17 +0800</pubDate>
-<description>&lt;p&gt;OpenAI claims its models achieved major breakthroughs in mathematics and computer science, including proving the local smoothing conjecture for all dimensions (resolving Kakeya), formally refuting the Exponential Time Hypothesis (ETH) via Lean verification, and proposing a rigorous existence proof for Yang-Mills theory. While math and CS proofs are open-sourced and verified, the physics result is under expert review, pending independent academic confirmation.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 宣布三项科学突破：证局部光滑猜想、推翻 ETH 及解决千禧年难题&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;若属实，这是 AI 首次触及人类知识边界的核心基础理论问题，彻底改变计算复杂性理论与数学分析的研究范式，具有极高的历史节点意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · llm · signal 98/100&lt;/p&gt;</description>
+<description>&lt;p&gt;OpenAI 宣称其模型在数学与计算机科学领域取得重大突破，包括证明所有维度的局部光滑猜想（进而解决挂谷猜想）、形式化验证推翻了指数时间假设（ETH），以及提出量子色动力学杨-米尔斯理论的严格存在性证明。相关数学与 CS 成果已通过 Lean 工具完成形式化验证并开源，物理成果正由诺贝尔奖得主等专家审查，但尚待学术界独立确认。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;若属实，这是 AI 首次触及人类知识边界的核心基础理论问题，彻底改变计算复杂性理论与数学分析的研究范式，具有极高的历史节点意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · llm · signal 98/100&lt;/p&gt;</description>
 <source url="https://www.ithome.com/1/018/203.htm">IT之家 · 智能时代</source>
 <category>OpenAI</category>
 <category>数学突破</category>
@@ -265,15 +275,6 @@
 <category>Anthropic</category>
 <category>博通</category>
 <category>华尔街</category>
-</item>
-<item><title>OpenAI 宣称攻克千禧年难题及核心复杂性假设</title><link>https://x.com/rohanpaul_ai/status/2114858422239891902</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114858422239891902</guid>
-<pubDate>Tue, 27 Oct 2026 07:15:14 +0800</pubDate>
-<description>&lt;p&gt;OpenAI 声称其 AI 系统解决了包括杨-米尔斯存在性（覆盖半个千禧年大奖难题）、Kakeya 猜想以及证伪指数时间假设在内的多项顶级数学与计算机科学难题。这些成果涉及量子色动力学的严格数学证明及颠覆了数百篇研究论文的基础假设，标志着 AI 在形式化推理领域取得突破性进展。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;若属实，这是 AI 能力从模式识别向高阶逻辑推理跨越的历史性节点，直接冲击基础科学范式。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 95/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2114858422239891902">Rohan Paul (@rohanpaul_ai)</source>
-<category>OpenAI</category>
-<category>数学推理</category>
-<category>千禧年难题</category>
-<category>前沿突破</category>
 </item>
 </channel>
 </rss>
