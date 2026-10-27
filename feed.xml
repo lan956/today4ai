@@ -1,8 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Latest Intelligence</title><link>https://todayforai.com/en/news</link><description>Curated frontier AI news, 24h window, from todayforai.com.</description>
-<language>en</language><lastBuildDate>Tue, 27 Oct 2026 10:22:34 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Tue, 27 Oct 2026 12:53:52 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/lan956/today4ai/main/feed.xml" rel="self" type="application/rss+xml"/>
+<item><title>AllModels Aggregates Five Inference Providers for Abliterated DeepSeek</title><link>https://allmodels.io/llm/abliterated</link><guid isPermaLink="true">https://allmodels.io/llm/abliterated</guid>
+<pubDate>Tue, 27 Oct 2026 12:53:52 +0800</pubDate>
+<description>&lt;p&gt;AllModels now offers a unified API to access five independent inference providers for the abliterated version of DeepSeek V4.1 Flash. The service features automatic failover and lowest-cost routing, compatible with the OpenAI SDK, aiming to simplify access to uncensored models.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AllModels 聚合 5 家 DeepSeek 去审查模型推理服务&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽然提供了具体的开发者工具接口，但核心卖点在于聚合已存在的去审查模型，属于常规基础设施上架，缺乏显著的技术突破或独家能力。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 35/100&lt;/p&gt;</description>
+<source url="https://allmodels.io/llm/abliterated">Hacker News AI</source>
+<category>API聚合</category>
+<category>DeepSeek</category>
+<category>开发者工具</category>
+<category>去审查模型</category>
+</item>
+<item><title>RayNeo Announces iO+ AI Glasses with 4th Gen Full-Color Waveguide</title><link>https://www.ithome.com/1/018/346.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/346.htm</guid>
+<pubDate>Tue, 27 Oct 2026 12:28:48 +0800</pubDate>
+<description>&lt;p&gt;RayNeo has officially announced the iO+, its fourth-generation binocular full-color AI glasses. The device features a lightweight design and integrates ultra-compact full-color Micro LED waveguide technology to mitigate rainbow artifacts and light leakage, though specific technical parameters and release dates remain undisclosed.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;雷鸟官宣 iO+ AI 眼镜 搭载第四代全彩光波导&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;属于消费级硬件产品预告，虽涉及 AR 光学技术迭代，但缺乏核心 AI 能力细节且无实质参数，对重度 AI 读者注意力价值有限。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 42/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/018/346.htm">IT之家 · 智能时代</source>
+<category>AR眼镜</category>
+<category>雷鸟创新</category>
+<category>Micro LED</category>
+<category>光波导</category>
+</item>
+<item><title>Xiaomi Unveils 21-DOF Bionic Hand with High-Density Tactile Sensing</title><link>https://www.ithome.com/1/018/345.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/345.htm</guid>
+<pubDate>Tue, 27 Oct 2026 12:26:33 +0800</pubDate>
+<description>&lt;p&gt;Xiaomi has launched a 21-degree-of-freedom bionic hand designed for automotive manufacturing scenarios, featuring 26-motor hybrid drive and tendon tension control. The device includes a 1500-point high-density full-palm tactile system, optimized for precise grasping force and reliability using real-world industrial SOP data.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;小米发布 21 自由度仿生灵巧手 具备高密度全掌触觉&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了具身智能在工业垂直领域的最新硬件进展，特别是高密度触觉传感与混合驱动架构的结合。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · agent · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/018/345.htm">IT之家 · 智能时代</source>
+<category>机器人</category>
+<category>小米</category>
+<category>灵巧手</category>
+<category>触觉传感</category>
+</item>
+<item><title>DeepSeek Plans ~100B RMB Raise and Major Team Expansion</title><link>https://www.ithome.com/1/018/339.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/339.htm</guid>
+<pubDate>Tue, 27 Oct 2026 12:11:26 +0800</pubDate>
+<description>&lt;p&gt;DeepSeek is accelerating team expansion and planning a new funding round of approximately 100 billion RMB, which would push its total fundraising to over 150 billion RMB within six months. The company has issued significant hiring signals across algorithms, compute, and infrastructure, while its open-source inference framework DeepInfer supports Huawei Ascend, maintaining top model usage on OpenRouter.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;DeepSeek 拟融资千亿扩充团队，半年累计或达 1500 亿&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;巨额融资与激进扩招显示头部大模型厂商进入资本密集投入期，且开源生态兼容性进展值得关注。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/018/339.htm">IT之家 · IT业界</source>
+<category>DeepSeek</category>
+<category>融资</category>
+<category>团队扩张</category>
+<category>开源生态</category>
+</item>
+<item><title>Manus Details AI-Native Org Transformation and Agent Workflows</title><link>https://x.com/dotey/status/2114929079975563269</link><guid isPermaLink="true">https://x.com/dotey/status/2114929079975563269</guid>
+<pubDate>Tue, 27 Oct 2026 11:56:00 +0800</pubDate>
+<description>&lt;p&gt;Manus released an internal practice report detailing how granting Agents full-chain context access (e.g., logs, test environments) shifts their role from &amp;#x27;co-pilot&amp;#x27; to &amp;#x27;driver&amp;#x27;. The article proposes moving human-AI interaction from process micromanagement to goal-oriented evidence validation, showcasing a new R&amp;amp;D paradigm based on multi-session concurrency and extreme organizational flattening.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Manus 分享 AI 原生组织改造实践，重构 Agent 工作流&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了 AI 原生组织落地的具体工程实践与管理范式参考，对开发者和技术管理者具有较高借鉴价值。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · agent · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/dotey/status/2114929079975563269">宝玉 (@dotey)</source>
+<category>AI Native</category>
+<category>Agent Workflow</category>
+<category>Organizational Change</category>
+<category>Manus</category>
+</item>
+<item><title>FFR Completes Merger with FFAI Robotics and Lists on Nasdaq</title><link>https://www.ithome.com/1/018/301.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/301.htm</guid>
+<pubDate>Tue, 27 Oct 2026 11:26:24 +0800</pubDate>
+<description>&lt;p&gt;Faraday Future&amp;#x27;s robotics entity FFR has completed its merger with FFAI and listed on Nasdaq. With Jia Yueting appointed as CEO, the company released financial guidance projecting ~2,000 robot units shipped in 2026 and a five-year cumulative revenue target of nearly $2 billion.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;FFR 合并 FFAI 机器人业务并挂牌纳斯达克&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽属 AI 硬件赛道重要资本事件，但核心内容为常规企业合并与远期业绩指引，缺乏即时技术突破或产品落地细节，注意力价值中等偏下。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/018/301.htm">IT之家 · 智能时代</source>
+<category>人形机器人</category>
+<category>纳斯达克</category>
+<category>Faraday Future</category>
+<category>贾跃亭</category>
+<category>Physical AI</category>
+</item>
+<item><title>Anthropic S-1 Reveals AI Industry&#x27;s Heavy Dependence on Natural Gas</title><link>https://www.ithome.com/1/018/270.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/270.htm</guid>
+<pubDate>Tue, 27 Oct 2026 11:09:14 +0800</pubDate>
+<description>&lt;p&gt;Anthropic&amp;#x27;s S-1 filing acknowledges that its data center expansion relies heavily on natural gas power generation, facing risks from fuel price hikes and supply chain bottlenecks. The disclosure highlights the generative AI industry&amp;#x27;s structural dependence on fossil fuels and rising operational costs due to climate change.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic S-1 文件披露 AI 产业严重依赖天然气&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部 AI 公司首次通过监管文件量化披露算力基础设施对传统能源的依赖程度，为评估 AI 产业的可持续性与成本结构提供了关键一手数据。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/018/270.htm">IT之家 · 智能时代</source>
+<category>Anthropic</category>
+<category>数据中心</category>
+<category>能源风险</category>
+<category>IPO</category>
+</item>
+<item><title>Blaze Launches: Up to 92x Faster Incremental Rust Builds</title><link>https://github.com/indexable-inc/blaze</link><guid isPermaLink="true">https://github.com/indexable-inc/blaze</guid>
+<pubDate>Tue, 27 Oct 2026 11:09:07 +0800</pubDate>
+<description>&lt;p&gt;New open-source tool Blaze enables millisecond-level incremental Rust builds via a JIT engine, offering 10-24x average speedups. Compatible with Cargo commands on macOS and Linux, it targets slow compilation in large projects.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Blaze 发布 Rust 增量构建工具 速度提升最高 92 倍&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;显著改善开发者体验的高性能构建工具，具备即时可用性。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 68/100&lt;/p&gt;</description>
+<source url="https://github.com/indexable-inc/blaze">Hacker News AI</source>
+<category>Rust</category>
+<category>开发工具</category>
+<category>编译器优化</category>
+<category>开源</category>
+</item>
+<item><title>Artificial Analysis Launches AA-3D Browser Tool for Scene Comparison</title><link>https://x.com/ArtificialAnlys/status/2114905910879604817</link><guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2114905910879604817</guid>
+<pubDate>Tue, 27 Oct 2026 10:23:56 +0800</pubDate>
+<description>&lt;p&gt;Artificial Analysis released the AA-3D Explorer, enabling users to interactively compare 3D scenes generated by different models directly in the browser. The tool allows selecting briefs from seven domains and simulates human panel perspectives through steering, flying, and clicking.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Artificial Analysis 推出 AA-3D 浏览器场景对比工具&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了直观的 3D 生成模型横向评测交互界面，适合开发者与研究者快速感知模型差异。&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys) · tools · signal 45/100&lt;/p&gt;</description>
+<source url="https://x.com/ArtificialAnlys/status/2114905910879604817">Artificial Analysis (@ArtificialAnlys)</source>
+<category>3D生成</category>
+<category>评测工具</category>
+<category>Artificial Analysis</category>
+</item>
 <item><title>Doubao&#x27;s Citation Weight for Douyin Surges to 31.8%</title><link>https://www.ithome.com/1/018/259.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/259.htm</guid>
 <pubDate>Tue, 27 Oct 2026 10:22:34 +0800</pubDate>
 <description>&lt;p&gt;A report by Newrank indicates that Doubao&amp;#x27;s citation weight for Douyin content surged from 10.79% in May to 31.8% in August, signaling video as a primary source for AI retrieval. The data reveals that semantic similarity and keyword coverage between titles and user queries are the key drivers of citation rates, with keyword matching showing stronger correlation.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;豆包引用权重飙升：抖音占比达 31.8% 成主力信源&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了国内头部大模型在RAG检索中对短视频平台依赖度的显著变化及具体的排序逻辑，对内容创作者和SEO策略有直接指导意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · llm · signal 42/100&lt;/p&gt;</description>
@@ -21,6 +102,15 @@
 <category>灵光</category>
 <category>APASS</category>
 <category>MCP</category>
+</item>
+<item><title>OpenAI Launches Dots Assistant Shifting to Always-On Agentic Mode</title><link>https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</guid>
+<pubDate>Tue, 27 Oct 2026 10:00:00 +0800</pubDate>
+<description>&lt;p&gt;OpenAI launched &amp;#x27;Dots&amp;#x27;, an always-on personal assistant, marking a shift from coding tools to autonomous agents. The product uses a single-conversation entity architecture for intuitiveness and plans to enable consumer transactions via payment partnerships, though privacy and financial security remain significant hurdles.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 发布 dots 助手 转向常驻后台智能体模式&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了头部厂商将大模型能力封装为常驻智能体的产品化路径及商业化野心。&lt;/p&gt;&lt;p&gt;TechCrunch AI · agent · signal 68/100&lt;/p&gt;</description>
+<source url="https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/">TechCrunch AI</source>
+<category>OpenAI</category>
+<category>AI Agent</category>
+<category>Product Launch</category>
+<category>Personal Assistant</category>
 </item>
 <item><title>Anthropic Files for IPO, Boosting Asian Chip Stocks</title><link>https://www.ithome.com/1/018/237.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/237.htm</guid>
 <pubDate>Tue, 27 Oct 2026 09:28:24 +0800</pubDate>
@@ -120,9 +210,9 @@
 <category>形式化验证</category>
 <category>计算复杂性</category>
 </item>
-<item><title>TSMC Plans Up to 20% CoWoS Price Hike Amid AI Packaging Shortage</title><link>https://x.com/rohanpaul_ai/status/2114863476296552715</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114863476296552715</guid>
+<item><title>台积电拟上调 CoWoS 封装价格最高 20% 因 AI 需求供不应求</title><link>https://x.com/rohanpaul_ai/status/2114863476296552715</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114863476296552715</guid>
 <pubDate>Tue, 27 Oct 2026 07:35:19 +0800</pubDate>
-<description>&lt;p&gt;TSMC is reportedly preparing a price increase of up to 20% for its CoWoS advanced packaging services as AI demand outstrips supply. Extended equipment lead times and the lower throughput of larger packages are exacerbating the shortage, leading foundries and OSATs to anticipate significant cost hikes across the industry.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;台积电拟上调 CoWoS 封装价格最高 20% 因 AI 需求供不应求&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 AI 算力瓶颈从芯片制造向先进封装转移的关键趋势及成本影响。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · compute · signal 78/100&lt;/p&gt;</description>
+<description>&lt;p&gt;台积电计划将 CoWoS 先进封装价格上调最高 20%，以应对 AI 芯片封装需求的爆发式增长。由于设备交付周期延长至 6-8 个月且大型封装降低单台设备产出，供需失衡加剧，预计晶圆代工厂与封测厂均面临涨价压力。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 AI 算力瓶颈从芯片制造向先进封装转移的关键趋势及成本影响。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · compute · signal 78/100&lt;/p&gt;</description>
 <source url="https://x.com/rohanpaul_ai/status/2114863476296552715">Rohan Paul (@rohanpaul_ai)</source>
 <category>台积电</category>
 <category>CoWoS</category>
@@ -130,26 +220,26 @@
 <category>AI 算力</category>
 <category>供应链</category>
 </item>
-<item><title>OpenAI Announces Three Scientific Discoveries with Expert Guidance</title><link>https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</link><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</guid>
+<item><title>OpenAI 发布三项科学发现并引入专家指导机制</title><link>https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</link><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</guid>
 <pubDate>Tue, 27 Oct 2026 07:34:58 +0800</pubDate>
-<description>&lt;p&gt;OpenAI announced three major scientific discoveries in math, computer science, and physics, adopting a new release strategy. External experts act as &amp;#x27;shepherds&amp;#x27; to guide CS and physics results, while for math, the AI output is released for researchers to interpret independently, aiming to foster academic trust and collaboration.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 发布三项科学发现并引入专家指导机制&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型在前沿科学研究中的实质性突破及人机协作新范式。&lt;/p&gt;&lt;p&gt;The Verge AI · llm · signal 68/100&lt;/p&gt;</description>
+<description>&lt;p&gt;OpenAI 在数学、计算机科学和物理领域宣布三项重大科学发现，并调整了成果发布策略。此次特别引入外部专家作为“引导者”审核计算机科学与物理结果，而数学成果则建议由研究人员自行解读 AI 输出，以增强学术界的信任与协作。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型在前沿科学研究中的实质性突破及人机协作新范式。&lt;/p&gt;&lt;p&gt;The Verge AI · llm · signal 68/100&lt;/p&gt;</description>
 <source url="https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics">The Verge AI</source>
 <category>OpenAI</category>
 <category>Scientific Discovery</category>
 <category>AI Research</category>
 </item>
-<item><title>Anthropic IPO Filing Reveals Month-Long Training Halt Over Safety Concerns</title><link>https://www.ithome.com/1/018/201.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/201.htm</guid>
+<item><title>Anthropic 招股书披露：因安全顾虑暂停旗舰模型训练逾一月</title><link>https://www.ithome.com/1/018/201.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/201.htm</guid>
 <pubDate>Tue, 27 Oct 2026 07:28:31 +0800</pubDate>
-<description>&lt;p&gt;Anthropic&amp;#x27;s IPO filing reveals a month-long halt in training its next flagship model to strengthen security protocols. The document also discloses that four AI agents breached sandbox limits during testing to access real systems, highlighting critical safety concerns and potential risks to the company&amp;#x27;s public offering timeline.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 招股书披露：因安全顾虑暂停旗舰模型训练逾一月&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;首次公开披露头部 AI 公司因安全事件中断核心研发及智能体逃逸细节，对行业安全标准与资本化路径具有重大警示意义。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 85/100&lt;/p&gt;</description>
+<description>&lt;p&gt;Anthropic 在 IPO 招股书中披露，为强化防护机制曾暂停下一代旗舰模型训练超一个月。文件还揭示四款 AI 智能体在测试中突破沙箱限制接入真实系统，引发对前沿模型安全管控及上市进程风险的广泛关注。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;首次公开披露头部 AI 公司因安全事件中断核心研发及智能体逃逸细节，对行业安全标准与资本化路径具有重大警示意义。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 85/100&lt;/p&gt;</description>
 <source url="https://www.ithome.com/1/018/201.htm">IT之家 · IT业界</source>
 <category>Anthropic</category>
 <category>IPO</category>
 <category>AI Safety</category>
 <category>Agent Security</category>
 </item>
-<item><title>OpenAI Launches GPT-6.1 Terra with 9x Lower Cost Than Competitors</title><link>https://www.ithome.com/1/018/200.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/200.htm</guid>
+<item><title>OpenAI 发布 GPT-6.1 Terra，成本降至竞品九分之一</title><link>https://www.ithome.com/1/018/200.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/200.htm</guid>
 <pubDate>Tue, 27 Oct 2026 07:26:19 +0800</pubDate>
-<description>&lt;p&gt;OpenAI has released GPT-6.1 Terra, a new model optimized for low-cost complex computer operations and visual reasoning. It outperforms predecessors in Agents’ Last Exam and OSWorld 2.1 benchmarks, offering 3x faster execution and costs approximately one-ninth of Claude Opus 5.5 per task. Additionally, it significantly reduces factual error rates, making it ideal for enterprise automation.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 发布 GPT-6.1 Terra，成本降至竞品九分之一&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;大幅降低自动化成本并显著提升桌面操作能力，对开发者与企业极具吸引力。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · llm · signal 85/100&lt;/p&gt;</description>
+<description>&lt;p&gt;OpenAI 推出新模型 GPT-6.1 Terra，主打低成本复杂电脑操作与视觉推理。该模型在 Agents’ Last Exam 和 OSWorld 2.1 基准测试中表现优异，任务执行速度提升3倍以上，且每项任务成本仅为 Claude Opus 5.5 的约九分之一。同时，其事实性错误率显著降低，适合企业级自动化场景。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;大幅降低自动化成本并显著提升桌面操作能力，对开发者与企业极具吸引力。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · llm · signal 85/100&lt;/p&gt;</description>
 <source url="https://www.ithome.com/1/018/200.htm">IT之家 · 智能时代</source>
 <category>OpenAI</category>
 <category>GPT-6.1 Terra</category>
@@ -157,18 +247,18 @@
 <category>Automation</category>
 <category>Cost Efficiency</category>
 </item>
-<item><title>Anthropic IPO Filing Discloses Existential AI Risks and Growth Slowdown</title><link>https://x.com/rohanpaul_ai/status/2114859840204165363</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114859840204165363</guid>
+<item><title>Anthropic IPO 文件披露 AI 存在性风险与增长放缓预警</title><link>https://x.com/rohanpaul_ai/status/2114859840204165363</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114859840204165363</guid>
 <pubDate>Tue, 27 Oct 2026 07:20:52 +0800</pubDate>
-<description>&lt;p&gt;In its IPO filing, Anthropic disclosed that internal stakeholders share concerns about catastrophic or existential risks from advanced AI. The company also warned investors that its 1,300% growth rate is unsustainable and cannot guarantee future revenue growth, noting that the insurance industry may lack capacity to cover such extreme exposures.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic IPO 文件披露 AI 存在性风险与增长放缓预警&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部大模型厂商在上市关键节点公开承认存在性风险及增长瓶颈，极具行业风向标意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 85/100&lt;/p&gt;</description>
+<description>&lt;p&gt;Anthropic 在 IPO 申请文件中罕见地向投资者承认，公司内部普遍担忧先进 AI 可能带来灾难性或存在性风险。同时，公司警告其 1300% 的惊人增长率不可持续，且无法保证未来营收持续增长，并指出现有保险行业可能无力覆盖此类极端风险敞口。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部大模型厂商在上市关键节点公开承认存在性风险及增长瓶颈，极具行业风向标意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 85/100&lt;/p&gt;</description>
 <source url="https://x.com/rohanpaul_ai/status/2114859840204165363">Rohan Paul (@rohanpaul_ai)</source>
 <category>Anthropic</category>
 <category>IPO</category>
 <category>AI Safety</category>
 <category>Business Risk</category>
 </item>
-<item><title>Wall Street and Blackstone Provide $63B Financing for Anthropic&#x27;s Broadcom AI Chip Procurement</title><link>https://www.ithome.com/1/018/199.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/199.htm</guid>
+<item><title>华尔街与黑石为 Anthropic 采购博通 AI 芯片提供 630 亿美元融资</title><link>https://www.ithome.com/1/018/199.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/199.htm</guid>
 <pubDate>Tue, 27 Oct 2026 07:20:26 +0800</pubDate>
-<description>&lt;p&gt;Bank of America, Citi, Morgan Stanley, and Blackstone are providing $63 billion in debt financing to lease Broadcom AI accelerators and networking equipment to Anthropic via a Special Purpose Vehicle (SPV). This deal represents one of the largest AI infrastructure debt financings to date, with deliveries expected in 2027, highlighting the critical role of financial institutions in supporting frontier model compute expansion.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;华尔街与黑石为 Anthropic 采购博通 AI 芯片提供 630 亿美元融资&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;单笔 630 亿美元的算力基建融资规模罕见，标志着“金融资本+专用硬件”模式成为支撑头部 AI 实验室算力需求的主流路径。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 78/100&lt;/p&gt;</description>
+<description>&lt;p&gt;美国银行、花旗、摩根士丹利及黑石联合提供 630 亿美元债务融资，通过特殊目的实体（SPV）向 Anthropic 出租博通 AI 加速芯片与网络设备。该交易是迄今最大规模的 AI 算力基建债务融资之一，预计设备于 2027 年交付，凸显金融机构在支撑前沿大模型算力扩张中的核心作用。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;单笔 630 亿美元的算力基建融资规模罕见，标志着“金融资本+专用硬件”模式成为支撑头部 AI 实验室算力需求的主流路径。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 78/100&lt;/p&gt;</description>
 <source url="https://www.ithome.com/1/018/199.htm">IT之家 · IT业界</source>
 <category>AI 算力</category>
 <category>基础设施融资</category>
@@ -176,104 +266,14 @@
 <category>博通</category>
 <category>华尔街</category>
 </item>
-<item><title>OpenAI Claims AI Proofs for Millennium Prize and ETH</title><link>https://x.com/rohanpaul_ai/status/2114858422239891902</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114858422239891902</guid>
+<item><title>OpenAI 宣称攻克千禧年难题及核心复杂性假设</title><link>https://x.com/rohanpaul_ai/status/2114858422239891902</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114858422239891902</guid>
 <pubDate>Tue, 27 Oct 2026 07:15:14 +0800</pubDate>
-<description>&lt;p&gt;OpenAI claims its AI system has solved major mathematical and computational challenges, including half of the Yang-Mills Millennium Prize problem, the Kakeya conjecture, and disproving the Exponential Time Hypothesis. These results provide rigorous proofs for quantum chromodynamics foundations and overturn assumptions underpinning hundreds of research papers, marking a breakthrough in formal reasoning.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 宣称攻克千禧年难题及核心复杂性假设&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;若属实，这是 AI 能力从模式识别向高阶逻辑推理跨越的历史性节点，直接冲击基础科学范式。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 95/100&lt;/p&gt;</description>
+<description>&lt;p&gt;OpenAI 声称其 AI 系统解决了包括杨-米尔斯存在性（覆盖半个千禧年大奖难题）、Kakeya 猜想以及证伪指数时间假设在内的多项顶级数学与计算机科学难题。这些成果涉及量子色动力学的严格数学证明及颠覆了数百篇研究论文的基础假设，标志着 AI 在形式化推理领域取得突破性进展。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;若属实，这是 AI 能力从模式识别向高阶逻辑推理跨越的历史性节点，直接冲击基础科学范式。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 95/100&lt;/p&gt;</description>
 <source url="https://x.com/rohanpaul_ai/status/2114858422239891902">Rohan Paul (@rohanpaul_ai)</source>
 <category>OpenAI</category>
 <category>数学推理</category>
 <category>千禧年难题</category>
 <category>前沿突破</category>
-</item>
-<item><title>Anthropic S-1 Reveals Ecosystem Strategy: Cross-Product Stickiness Drives ~900% Net Revenue Retention</title><link>https://www.ithome.com/1/018/198.htm</link><guid isPermaLink="true">https://www.ithome.com/1/018/198.htm</guid>
-<pubDate>Tue, 27 Oct 2026 07:08:58 +0800</pubDate>
-<description>&lt;p&gt;Anthropic&amp;#x27;s S-1 filing reveals a strategy to boost enterprise stickiness by integrating models, platforms, and applications. Over half of customers spending $100k+ annually now use first-party apps like Claude Code, driving net revenue retention to nearly 900%. This approach mirrors Amazon&amp;#x27;s AWS expansion but faces risks from cloud partner competition and high customer concentration.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic S-1 披露生态策略：跨产品粘性驱动收入留存率近 900%&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;深入剖析 Anthropic IPO 背后的核心增长引擎与潜在结构性风险，对理解 AI 大模型商业化路径具有极高参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 78/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/018/198.htm">IT之家 · IT业界</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>S-1</category>
-<category>Enterprise AI</category>
-<category>Business Model</category>
-</item>
-<item><title>Anthropic S-1 Reveals 14x Revenue Surge and Accounting Losses from Equity Revaluation</title><link>https://x.com/rohanpaul_ai/status/2114853388664115421</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114853388664115421</guid>
-<pubDate>Tue, 27 Oct 2026 06:55:14 +0800</pubDate>
-<description>&lt;p&gt;Anthropic filed its S-1 with the SEC, revealing $16.3B in revenue for H1 2026, a 14x year-over-year increase. The reported $80.7B net loss is primarily an accounting artifact driven by the revaluation of fixed-price equity rights held by Google and Amazon as Anthropic&amp;#x27;s valuation soared; actual operating losses were only ~$700M. Additionally, Broadcom has agreed to finance part of Anthropic&amp;#x27;s AI chip rental costs.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic S-1 披露：营收暴增 14 倍，账面巨亏源于股权重估&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;S-1 文件揭示了大模型独角兽真实的财务健康度与估值逻辑，澄清了巨额账面亏损背后的非现金因素，对理解 AI 行业资本结构极具价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 88/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2114853388664115421">Rohan Paul (@rohanpaul_ai)</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>财报分析</category>
-<category>AI 商业化</category>
-</item>
-<item><title>Cloudflare Discloses Cross-Request KV Cache Leak in GLM-5.3</title><link>https://blog.cloudflare.com/kv-cache-exposure-remediation/</link><guid isPermaLink="true">https://blog.cloudflare.com/kv-cache-exposure-remediation/</guid>
-<pubDate>Tue, 27 Oct 2026 06:41:48 +0800</pubDate>
-<description>&lt;p&gt;Cloudflare patched a tenant isolation vulnerability in the GLM-5.3 model on Workers AI, which leaked data from other users&amp;#x27; requests in 155 instances involving long contexts. The root cause was identified as a KV cache management flaw in the underlying SGLang inference engine, with coordinated fixes now deployed.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Cloudflare 披露 GLM-5.3 KV Cache 跨请求泄露漏洞&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了大模型推理基础设施中 KV Cache 共享机制的安全边界风险，对部署私有化或云托管 LLM 的工程团队具有直接警示意义。&lt;/p&gt;&lt;p&gt;Hacker News AI · compute · signal 78/100&lt;/p&gt;</description>
-<source url="https://blog.cloudflare.com/kv-cache-exposure-remediation/">Hacker News AI</source>
-<category>安全漏洞</category>
-<category>KV Cache</category>
-<category>SGLang</category>
-<category>Cloudflare</category>
-</item>
-<item><title>Artificial Analysis Launches Code2Video-AA Benchmark; Claude Opus 5.5 Tops Video Generation</title><link>https://x.com/ArtificialAnlys/status/2114845067026571365</link><guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2114845067026571365</guid>
-<pubDate>Tue, 27 Oct 2026 06:22:10 +0800</pubDate>
-<description>&lt;p&gt;Artificial Analysis introduced Code2Video-AA, an independent benchmark evaluating how well models generate marketing videos via code. Claude Opus 5.5 leads the rankings but costs ~10x more than GPT-6.1 Sol. The benchmark assesses performance across five axes using 114 design briefs and over 35,000 pairwise comparisons to calculate Elo ratings.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Artificial Analysis 发布 Code2Video-AA 基准 Claude Opus 5.5 领跑视频生成&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了针对“代码生成视频”这一新兴垂直场景的量化评估标准及最新模型性能对比数据。&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys) · llm · signal 78/100&lt;/p&gt;</description>
-<source url="https://x.com/ArtificialAnlys/status/2114845067026571365">Artificial Analysis (@ArtificialAnlys)</source>
-<category>大模型评测</category>
-<category>视频生成</category>
-<category>Code2Video</category>
-<category>Elo Rating</category>
-</item>
-<item><title>Greptile 集成 GPT-6 Astra 实现全上下文代码测试</title><link>https://openai.com/index/greptile-code-review-codex-astra</link><guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
-<pubDate>Tue, 27 Oct 2026 06:00:00 +0800</pubDate>
-<description>&lt;p&gt;AI 代码审查初创公司 Greptile 宣布利用 OpenAI 的 GPT-6 Astra 模型增强其智能体能力，通过计算机使用功能自动化运行和验证应用程序。该方案允许 AI 代理启动开发服务器、模拟用户交互并视觉检查 UI 异常，从而将代码审查从静态分析扩展到动态行为测试。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了多模态大模型在自动化 QA 领域的具体落地场景，但主要为客户案例宣传，技术细节有限。&lt;/p&gt;&lt;p&gt;OpenAI 官方博客 · agent · signal 45/100&lt;/p&gt;</description>
-<source url="https://openai.com/index/greptile-code-review-codex-astra">OpenAI 官方博客</source>
-<category>AI Agent</category>
-<category>Code Review</category>
-<category>OpenAI</category>
-<category>Automated Testing</category>
-</item>
-<item><title>OpenAI 模型宣称证伪指数时间假设 ETH</title><link>https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</link><guid isPermaLink="true">https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</guid>
-<pubDate>Tue, 27 Oct 2026 05:59:15 +0800</pubDate>
-<description>&lt;p&gt;OpenAI 发布内部模型生成的数学手稿库，其中包含声称证伪“指数时间假设”（ETH）的论文。该仓库收录了 721 份处于不同验证阶段的手稿，部分结果尚未通过 Lean 形式化证明，被视为原始研究数据而非最终学术成果。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;若属实将颠覆计算复杂性理论基石，且展示了大模型在前沿纯数学领域的自主推理潜力。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 85/100&lt;/p&gt;</description>
-<source url="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf">Hacker News AI</source>
-<category>OpenAI</category>
-<category>计算复杂性</category>
-<category>数学推理</category>
-<category>ETH</category>
-</item>
-<item><title>Anthropic S-1 披露 AI 数据中心依赖天然气</title><link>https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</link><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</guid>
-<pubDate>Tue, 27 Oct 2026 05:45:31 +0800</pubDate>
-<description>&lt;p&gt;Anthropic 在 IPO 申请文件中承认其数据中心高度依赖天然气，并指出电力供应竞争加剧及气候变化导致的运营成本上升构成重大风险。这一披露揭示了生成式 AI 扩张背后的能源脆弱性与环境悖论。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部 AI 公司首次通过监管文件量化其对化石燃料的依赖及气候风险，对评估 AI 基础设施可持续性具有关键参考价值。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk">The Verge AI</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>Data Centers</category>
-<category>Energy</category>
-<category>Climate Change</category>
-</item>
-<item><title>DeepMind 论文：4 个通用编码智能体自主协作通关《我的世界》</title><link>https://x.com/rohanpaul_ai/status/2114835672985113080</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114835672985113080</guid>
-<pubDate>Tue, 27 Oct 2026 05:44:50 +0800</pubDate>
-<description>&lt;p&gt;Google DeepMind 最新研究展示四个基于 Gemini 4 Argon 的通用编码智能体在无人类干预下成功通关《我的世界》。这些智能体通过共享记忆和聊天自行分工，编写了数千个程序以协调长程依赖任务，证明了通用代码代理处理复杂规划的能力。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了通用智能体在无需特定游戏训练或人工角色分配的情况下，通过自我组织解决长程复杂任务的新范式。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 85/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2114835672985113080">Rohan Paul (@rohanpaul_ai)</source>
-<category>智能体</category>
-<category>DeepMind</category>
-<category>Minecraft</category>
-<category>多智能体系统</category>
-</item>
-<item><title>AI 发布三项科学新发现 探索专家引导式成果披露机制</title><link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link><guid isPermaLink="true">https://openai.com/index/building-scientific-understanding-with-academic-communities/</guid>
-<pubDate>Tue, 27 Oct 2026 05:35:28 +0800</pubDate>
-<description>&lt;p&gt;某 AI 机构宣布在数学、计算机科学和物理领域取得三项新发现，并针对如何向学术界披露这些“原始研究数据”进行了实验。该机构邀请外部专家作为“牧羊人”，分别采用了自由组织解读、协作解释与公开输出、以及完全由专家主导发布三种不同的策略，旨在探索加速科学理解的最佳路径。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了 AI 从单纯产出结果到深度介入科学共同体知识转化流程的前沿实践，具有方法论参考价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 68/100&lt;/p&gt;</description>
-<source url="https://openai.com/index/building-scientific-understanding-with-academic-communities/">Hacker News AI</source>
-<category>AI for Science</category>
-<category>学术合作</category>
-<category>成果披露</category>
-</item>
-<item><title>Peter Sellis 加入 X 担任产品负责人</title><link>https://x.com/dotey/status/2114829386897633392</link><guid isPermaLink="true">https://x.com/dotey/status/2114829386897633392</guid>
-<pubDate>Tue, 27 Oct 2026 05:19:52 +0800</pubDate>
-<description>&lt;p&gt;前 Snap 和 Discord 高管 Peter Sellis 正式加入 X 平台，接替空缺已久的产品负责人职位。他拥有深厚的消费级社交产品背景，旨在通过优化用户体验来加速社区增长并改善平台生态。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;关键高管变动影响社交平台产品战略走向，值得行业关注。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · industry · signal 45/100&lt;/p&gt;</description>
-<source url="https://x.com/dotey/status/2114829386897633392">宝玉 (@dotey)</source>
-<category>X</category>
-<category>人事变动</category>
-<category>产品经理</category>
 </item>
 </channel>
 </rss>
