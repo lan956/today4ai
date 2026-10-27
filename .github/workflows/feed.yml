@@ -2,7 +2,8 @@ name: feed
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    # ponytail: Stagger cron at off-peak minutes (:07, :27, :47) to avoid GitHub's :00/:30 queue drops; trigger workflow_dispatch via an external cron if strict timing is needed.
+    - cron: "7,27,47 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
