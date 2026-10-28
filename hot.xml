@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Hot Radar</title><link>https://todayforai.com/en/hot</link><description>Multi-source trending AI stories ranked by cross-source heat.</description>
-<language>en</language><lastBuildDate>Wed, 28 Oct 2026 07:04:49 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Wed, 28 Oct 2026 12:35:40 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/voxelowl/today4ai/main/hot.xml" rel="self" type="application/rss+xml"/>
+<item><title>Anthropic 递交 IPO 招股书，估值两万亿拟募资千亿</title><link>https://todayforai.com/en/story/story-0ed5b747-86f</link><guid isPermaLink="true">https://todayforai.com/en/story/story-0ed5b747-86f</guid>
+<pubDate>Wed, 28 Oct 2026 11:37:19 +0800</pubDate>
+<description>&lt;p&gt;AI 独角兽 Anthropic 正式向 SEC 提交 S-1 文件，启动纳斯达克 IPO 进程，股票代码定为“ANT”。公司目标估值约 2 万亿美元，拟募资最高 1000 亿美元，有望超越 SpaceX 成为史上最大规模 IPO。招股书显示其商业化爆发力强劲，2026 年上半年营收达 163 亿美元，同比激增逾 13 倍，且第二季度已实现经调整后的运营盈利。
+
+财务数据揭示出独特的会计特征：尽管账面净亏损高达 807 亿美元，但这主要源于亚马逊和谷歌可转债因估值飙升产生的非现金公允价值变动，实际经营性亏损仅约 7 亿美元。核心驱动力在于算力成本效率显著提升，算力支出占收入比例从早期的 250% 骤降至 48%，毛利率高达 85%。此外，公司已锁定微软、谷歌及 Broadcom 等巨头超五千亿美元的长期算力采购合同，并采用双层股权结构确保创始人控制权。
+
+作为首家纯大模型上市公司，Anthropic 的披露为行业提供了关键基准。其罕见地在招股书中用大量篇幅警告 AI 可能带来的“生存性风险”，凸显安全理念在商业叙事中的核心地位。这一举措不仅验证了企业级 AI 需求的真实性，也标志着 AI 基础设施赛道正式进入公开资本市场博弈阶段，对后续监管与生态格局产生深远影响。&lt;/p&gt;&lt;p&gt;14 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), Hacker News AI, GREG ISENBERG (@gregisenberg)&lt;/p&gt;</description>
+</item>
 <item><title>OpenAI 发布 GPT-6.1 Terra，视觉推理增强且成本降至三分之一</title><link>https://todayforai.com/en/story/story-21677d69-7f7</link><guid isPermaLink="true">https://todayforai.com/en/story/story-21677d69-7f7</guid>
-<pubDate>Tue, 27 Oct 2026 16:27:46 +0800</pubDate>
+<pubDate>Wed, 28 Oct 2026 11:04:09 +0800</pubDate>
 <description>&lt;p&gt;OpenAI 正式推出新一代中端模型 GPT-6.1 Terra，在显著提升智能水平的同时将推理成本大幅压缩。该模型在 Artificial Analysis 智能指数中较前代提升 6-13 分，但单次任务成本仅为旧款的三分之一（约 $0.40 vs $1.40）。其 API 定价极具竞争力，输入/输出 Token 价格减半至 $1/$5 每百万，缓存读取成本降低 75%，确立了新的性价比标杆。
 
 多方信源交叉验证显示，GPT-6.1 Terra 的核心突破在于视觉推理与计算机操作（Computer Use）能力的强化。在 Agents&amp;#x27; Last Exam 基准测试中，其得分约 60%，性能逼近旗舰版 GPT-6 Astra，但 Token 单价仅为后者的十分之一。此外，模型支持 105 万超长上下文窗口，任务执行速度平均提升 3 倍以上，并在 Terminal-Bench 等编码代理基准上刷新成绩，实现了低中强度推理下的帕累托最优。
 
-这一发布对开发者生态具有深远影响。GPT-6.1 Terra 已全面接入 ChatGPT Work、Codex、OpenRouter 及 Agent Arena，为高吞吐量的自动化工作流（如发票处理、表单填写、跨软件点击）提供了低成本解决方案。它填补了高端旗舰与低端轻量模型之间的空白，使得复杂代理任务的大规模商业化部署成为可能，进一步降低了 AI 应用落地的门槛。&lt;/p&gt;&lt;p&gt;13 sources&lt;/p&gt;&lt;p&gt;Arena.ai (@arena), Artificial Analysis (@ArtificialAnlys), Hacker News AI, 宝玉 (@dotey), OpenRouter (@OpenRouter), Artificial Analysis&lt;/p&gt;</description>
-</item>
-<item><title>Anthropic 递交 IPO 招股书，估值两万亿拟募资千亿</title><link>https://todayforai.com/en/story/story-0ed5b747-86f</link><guid isPermaLink="true">https://todayforai.com/en/story/story-0ed5b747-86f</guid>
-<pubDate>Wed, 28 Oct 2026 05:31:14 +0800</pubDate>
-<description>&lt;p&gt;AI 独角兽 Anthropic 正式向 SEC 提交 S-1 文件，拟以股票代码“ANT”在纳斯达克上市。目标估值约 2 万亿美元，计划募资最高 1000 亿美元，有望超越 SpaceX 成为史上最大 IPO。作为首家纯大模型上市公司，其财务数据与风险披露为行业提供了关键基准。
-
-招股书显示，2026 年上半年营收飙升至 163 亿美元，同比激增逾 13 倍，二季度实现调整后运营盈利，毛利率达 85%。尽管账面净亏损高达 807 亿美元，但这主要源于亚马逊和谷歌可转债公允价值变动的非现金会计损失，实际经营性亏损仅约 7 亿美元。公司算力成本占收入比例从 250% 骤降至 48%，并签署了总额超 5000 亿美元的长期算力采购协议，客户结构显著升级，年付费超 10 万美元的企业激增至 1.19 万家。
-
-此次 IPO 不仅验证了前沿 AI 实验室的商业化潜力，更凸显了算力基建的核心地位。Anthropic 罕见地在招股书中用大量篇幅警告“AI 可能毁灭人类”等生存性风险，并将安全理念融入商业叙事，这为后续监管埋下伏笔。同时，其对云巨头的高度依赖及曾暂停旗舰模型训练的安全事件，也揭示了行业在快速扩张与安全管控之间的深层张力。&lt;/p&gt;&lt;p&gt;14 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), Hacker News AI, GREG ISENBERG (@gregisenberg)&lt;/p&gt;</description>
+这一发布对开发者生态具有深远影响。GPT-6.1 Terra 已全面接入 ChatGPT Work、Codex、OpenRouter 及 Agent Arena，为高吞吐量的自动化工作流（如发票处理、表单填写、跨软件点击）提供了低成本解决方案。它填补了高端旗舰与低端轻量模型之间的空白，使得复杂代理任务的大规模商业化部署成为可能，进一步降低了 AI 应用落地的门槛。&lt;/p&gt;&lt;p&gt;12 sources&lt;/p&gt;&lt;p&gt;Arena.ai (@arena), Artificial Analysis (@ArtificialAnlys), Hacker News AI, 宝玉 (@dotey), OpenRouter (@OpenRouter), Artificial Analysis&lt;/p&gt;</description>
 </item>
 <item><title>谷歌发布 Genie 4 实现多模态实时世界模拟</title><link>https://todayforai.com/en/story/story-187bc9fe-5a3</link><guid isPermaLink="true">https://todayforai.com/en/story/story-187bc9fe-5a3</guid>
-<pubDate>Wed, 28 Oct 2026 07:04:49 +0800</pubDate>
+<pubDate>Wed, 28 Oct 2026 07:55:48 +0800</pubDate>
 <description>&lt;p&gt;谷歌 DeepMind 正式推出新一代世界模型 Genie 4，标志着 AI 从静态内容生成向动态、交互式虚拟环境构建的关键跨越。该模型首次实现了原生多模态实时模拟，不仅能同步生成高保真视觉画面，还具备输出环境音效、背景音乐及人物对话的能力，显著提升了虚拟世界的物理一致性与行为连贯性，被视为迈向通用人工智能（AGI）的核心基础设施。
 
 在技术架构上，Genie 4 深度集成 Gemini 家族能力，利用 Gemini Omni 进行视觉锚定以确保现实感，并引入 Gemini 3.8 Flash 作为“循环导演”，负责目标分解与帧一致性检查。这一机制允许用户通过自然语言指令实时干预正在运行的模拟场景，如修改天气或镜头视角。此外，单次交互体验时长已从上一代的 1 分钟延长至约 2 分钟，并在 Apptronik 人形机器人仿真中完成了初步验证。
 
-Genie 4 的发布加剧了世界模型赛道的竞争格局，为游戏开发、机器人训练及沉浸式内容创作提供了无需预渲染的全新范式。其强调的实时可控性与高沉浸感，不仅降低了交互式虚拟环境的构建门槛，也为开发者探索具身智能与复杂系统模拟提供了强有力的工具支持。&lt;/p&gt;&lt;p&gt;8 sources&lt;/p&gt;&lt;p&gt;Google DeepMind, The Verge AI, Ars Technica AI, TechCrunch AI, Rohan Paul (@rohanpaul_ai), The Decoder&lt;/p&gt;</description>
+Genie 4 的发布加剧了世界模型赛道的竞争格局，为游戏开发、机器人训练及沉浸式内容创作提供了无需预渲染的全新范式。其强调的实时可控性与高沉浸感，不仅降低了交互式虚拟环境的构建门槛，也为开发者探索具身智能与复杂系统模拟提供了强有力的工具支持。&lt;/p&gt;&lt;p&gt;9 sources&lt;/p&gt;&lt;p&gt;Google DeepMind, The Verge AI, Ars Technica AI, TechCrunch AI, Rohan Paul (@rohanpaul_ai), The Decoder&lt;/p&gt;</description>
 </item>
 <item><title>OpenAI 宣称 AI 攻克多项科学难题并试验专家协作验证机制</title><link>https://todayforai.com/en/story/story-b8be99fe-b28</link><guid isPermaLink="true">https://todayforai.com/en/story/story-b8be99fe-b28</guid>
-<pubDate>Wed, 28 Oct 2026 01:08:08 +0800</pubDate>
-<description>&lt;p&gt;OpenAI 宣布其内部模型在基础科学领域取得三项重大突破：证明了全维度局部光滑猜想（从而解决挂谷猜想）、证伪了统治计算机科学近 30 年的指数时间假设（ETH），以及提出了量子色动力学杨-米尔斯理论的严格存在性证明。若属实，这标志着 AI 从科研辅助工具转变为原始发现者，可能彻底重塑人类对计算复杂度和物理定律的认知体系。
+<pubDate>Wed, 28 Oct 2026 11:27:59 +0800</pubDate>
+<description>&lt;p&gt;OpenAI 宣布其内部模型在数学、计算机科学和物理学领域取得三项重大突破，包括证明全维度局部光滑猜想（从而解决挂谷猜想）、证伪指数时间假设（ETH）以及提出量子色动力学杨-米尔斯理论的严格存在性证明。这些成果若属实，将颠覆计算复杂度理论基石并触及千禧年大奖难题，标志着 AI 从科研辅助工具向原始发现者角色的转变。
 
-多方信源交叉验证显示，数学与 CS 成果已通过 Lean 工具完成形式化验证并开源，但物理成果细节尚未完全公开，正由包括诺贝尔奖得主在内的外部专家组进行独立审查。值得注意的是，Anthropic 在同一天也发布了 Claude 独立证伪 ETH 的论文，显示前沿 AI 实验室在该领域的竞争加剧。目前，部分核心声明仍处于“原始研究数据”阶段，未经过传统同行评审，引发了关于学术署名权及验证透明度的广泛讨论。
+多方信源交叉验证显示，OpenAI 与 Anthropic 在同一天分别发布了关于推翻 ETH 的独立工作，其中 Anthropic 披露其 Claude 模型在无人类输入下生成 1400 万 Token 完成核心算法推导。OpenAI 采取差异化发布策略：数学与 CS 部分成果已通过 Lean 形式化验证并开源代码，而物理领域的杨-米尔斯证明细节尚未公开，正由包括诺贝尔奖得主在内的外部专家组进行“牧羊人”式审查。尽管部分手稿被标记为“原始研究数据”，但学术界对 AI 生成证明的可读性及完全排除人类贡献的伦理问题仍存争议。
 
-这一事件不仅动摇了数百篇基于 ETH 假设的研究根基，暗示未来可能发现更高效的算法，还推动了 AI 科研范式的变革。OpenAI 引入了“人机协作+形式化验证”的新机制，邀请外部专家作为“牧羊人”审核结果，旨在缓解争议并提升可信度。然而，学术界对 AI 黑盒证明的独立复现能力仍持谨慎态度，呼吁进一步公开原始数据以确立科学共识。&lt;/p&gt;&lt;p&gt;9 sources&lt;/p&gt;&lt;p&gt;The Verge AI, 新智元 (微信公众号), The Decoder, Hacker News AI, OpenAI 官方博客, IT之家 · 智能时代&lt;/p&gt;</description>
+这一事件不仅动摇了数百篇基于 ETH 假设的研究根基，更引发了关于 AI 科研范式、学术归属权及验证透明度的激烈辩论。OpenAI 尝试建立的人机协作验证机制可能成为未来 AI 参与前沿科学探索的标准流程，但也凸显了当前 AI 黑盒推理在可复现性与同行评审接受度上的巨大挑战。&lt;/p&gt;&lt;p&gt;9 sources&lt;/p&gt;&lt;p&gt;The Verge AI, 新智元 (微信公众号), The Decoder, Hacker News AI, OpenAI 官方博客, IT之家 · 智能时代&lt;/p&gt;</description>
 </item>
 <item><title>Anthropic 披露 Claude 药物研发进展：生成 3.5 万抗体拟 2028 年临床</title><link>https://todayforai.com/en/story/story-d2ba1c2a-905</link><guid isPermaLink="true">https://todayforai.com/en/story/story-d2ba1c2a-905</guid>
 <pubDate>Wed, 28 Oct 2026 04:54:24 +0800</pubDate>
@@ -43,45 +43,45 @@ Genie 4 的发布加剧了世界模型赛道的竞争格局，为游戏开发、
 
 这一进展标志着大语言模型正从辅助工具向具备一定自主决策能力的“数字科学家”演进。对于行业而言，Anthropic 的举措不仅展示了 AI 缩短研发周期的潜力，更通过实际案例确立了 AI 在复杂生物制药流程中的合规性与可靠性基准，可能加速传统药企对 AI 原生研发模式的采纳。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), 宝玉 (@dotey), Hacker News AI, Yuchen Jin (@Yuchenj_UW)&lt;/p&gt;</description>
 </item>
-<item><title>微软 MAI-Image-2.7 预览版发布，图像编辑能力跃居全球前三</title><link>https://todayforai.com/en/story/story-13c133c6-cb1</link><guid isPermaLink="true">https://todayforai.com/en/story/story-13c133c6-cb1</guid>
-<pubDate>Tue, 27 Oct 2026 23:19:36 +0800</pubDate>
-<description>&lt;p&gt;微软正式推出最新图像编辑模型 MAI-Image-2.7-Preview，该版本在多项权威基准测试中表现卓越，迅速跻身全球第一梯队。根据 Artificial Analysis 数据，其在 AA-Image-Editing v2.1 榜单中位列第二，仅次于 OpenAI GPT Image 2.5；而在 Arena.ai 的 Image Edit Arena 中，该模型以 1470 分排名第三，较前代提升 45 分，推动微软 AI 实验室机构排名升至第二。
+<item><title>微软发布 MAI-Image-2.7 预览版，图像编辑能力跃居全球前三</title><link>https://todayforai.com/en/story/story-13c133c6-cb1</link><guid isPermaLink="true">https://todayforai.com/en/story/story-13c133c6-cb1</guid>
+<pubDate>Wed, 28 Oct 2026 10:37:17 +0800</pubDate>
+<description>&lt;p&gt;微软正式推出 MAI-Image-2.7-Preview 预览版模型，标志着其在指令式图像编辑领域取得重大突破。该模型在 Artificial Analysis 榜单中位列全球第二（Elo 1,193），紧随 OpenAI GPT Image 2.5 之后；同时在 Arena.ai 基准测试中排名第三，较前代提升 45 分。目前该版本仅开放基于“原图 + 指令”的编辑功能，文生图及公开 API 尚未上线，用户可通过 MAI Playground 体验。
 
-技术细节显示，MAI-Image-2.7 在所有七项编辑动作上均优于前代 MAI-Image-2.6，尤其在构图、文本符号渲染及场景风格迁移方面提升显著（Elo 分增加约 48-57）。在细分领域如商业设计、人像处理及推理编辑任务中，该模型多次排名第一，展现出强大的多模态理解与精细控制能力。目前，该预览版已在 MAI Playground 上线，初期仅开放图像编辑功能，文生图功能预计即将推出。
+多源数据交叉验证显示，新模型在场景风格迁移、文本符号修改及推理编辑等细分任务上表现卓越，其中场景风格编辑领先次优模型 24 个 Elo 分数。相比 MAI-Image-2.6，新版本在所有七项编辑动作上均有显著提升，尤其在构图、文本编辑和场景风格三项指标上 Elo 分数增加约 48-57 分，展现出更强的细节控制与逻辑一致性能力。
 
-此次发布标志着微软在生成式 AI 视觉赛道上的强势回归，不仅缩小了与 OpenAI 等头部玩家的差距，更通过高频迭代确立了其在专业图像编辑领域的竞争力。对于开发者与企业用户而言，MAI-Image-2.7 提供了更具性价比和可控性的替代方案，有望加速 AIGC 工具在广告、设计及内容创作工作流中的规模化落地。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Arena.ai (@arena), Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;</description>
+这一进展显著提升了微软 AI 实验室在全球图像生成赛道的话语权，使其机构排名升至 Arena 榜单第二。尽管暂未开放文生图功能，但其在专业编辑场景下的精准度已具备商业落地潜力，为开发者提供了除 OpenAI 之外的又一高性能选择，加剧了高端图像编辑市场的竞争格局。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;Arena.ai (@arena), Artificial Analysis (@ArtificialAnlys), IT之家 · 智能时代&lt;/p&gt;</description>
 </item>
-<item><title>Meta 拟融资近千亿加码 AI 基建</title><link>https://todayforai.com/en/story/story-06cab61b-c8b</link><guid isPermaLink="true">https://todayforai.com/en/story/story-06cab61b-c8b</guid>
-<pubDate>Tue, 27 Oct 2026 22:27:54 +0800</pubDate>
-<description>&lt;p&gt;Meta 宣布启动总额至多 950 亿美元（部分信源称上调至 975 亿）的巨额融资计划，旨在为其核心业务及新兴人工智能领域提供资金支持。这是 Meta 历史上规模最大的募资行动，资金将重点用于建设四个超过 1GW 的超大规模数据中心集群以及推进“超级智能”研发项目。预计 2026 年 Meta 资本支出将达 1350 亿至 1450 亿美元，导致其自由现金流暂时转负。
+<item><title>Artificial Analysis 发布 v5 智能指数强化抗污染评估</title><link>https://todayforai.com/en/story/story-add8001f-6fc</link><guid isPermaLink="true">https://todayforai.com/en/story/story-add8001f-6fc</guid>
+<pubDate>Wed, 28 Oct 2026 10:11:22 +0800</pubDate>
+<description>&lt;p&gt;AI 评测机构 Artificial Analysis 正式发布其智能指数的最大升级版本 v5，核心变革在于将 60% 的评估权重转移至私有测试集或保留答案的数据集。这一举措旨在从根本上解决大模型基准测试中日益严重的数据污染问题，确保评分更能反映模型在真实世界中的未见过数据上的泛化能力与实用价值。
 
-此次融资结构复杂且创新，包含股票远期出售、可转换优先股及后续普通股发行，并引入无投票权的 Class C 股份以确保 CEO 扎克伯格的控制权不被稀释。值得注意的是，英伟达、AMD 和博通等核心芯片供应商均表示有意认购最高 50 亿美元的 Meta 股份。其中，英伟达已明确注资 30 亿美元，双方将在 Muse AI 产品及下一代 Vera Rubin 系统上深化合作。这种供应商资助客户购买自家硬件的模式引发了市场对“循环融资”掩盖真实需求的担忧。
+在技术细节上，v5 版本引入了 Cognition 的 FrontierCode 2.0 和 Terminal-Bench-Science 两个全新基准，分别聚焦于高难度的真实代码合并任务与科学代理任务，进一步拓宽了评估维度的深度与广度。与此同时，该机构同步推出了 Progress Index v1，这是一个提供单一连续尺度的新工具，专门用于追踪模型能力随时间推移的长期演进轨迹，填补了静态快照式评测在动态趋势分析上的空白。
 
-这一举措标志着科技巨头在 AI 军备竞赛中进入资本深度绑定阶段。通过多元化金融工具获取巨额资本，Meta 试图在保持控制权的同时加速基础设施扩张。然而，高达千亿美元的资本开支压力与供应链的深度交织，不仅重塑了行业竞争格局，也让投资者重新审视 AI 投入的真实回报周期与市场健康度。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), The Decoder&lt;/p&gt;</description>
+此次更新对 AI 行业具有显著的生态意义。通过大幅降低数据污染风险并引入更贴近实际应用场景的基准，v5 智能指数为开发者、研究人员及企业用户提供了更具公信力的选型参考。它不仅推动了评测标准向“实战化”和“防作弊”方向演进，也为客观衡量 AI 能力的持续进步建立了更严谨的方法论基础。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys), Artificial Analysis&lt;/p&gt;</description>
+</item>
+<item><title>蚂蚁开源 Ling 3.1 Flash，智能体能力显著跃升</title><link>https://todayforai.com/en/story/story-06841666-d61</link><guid isPermaLink="true">https://todayforai.com/en/story/story-06841666-d61</guid>
+<pubDate>Wed, 28 Oct 2026 12:35:40 +0800</pubDate>
+<description>&lt;p&gt;蚂蚁集团正式开源 Ling-3.1-flash-1019 模型，标志着其在个人 AI 助理领域的技术底座实现关键升级。该版本在 Artificial Analysis 智能指数中得分从 41 提升至 44，并在 AA-Briefcase 等核心评测中表现优异，Elo 分数大幅上涨 124 点，显示出处理复杂长程任务能力的实质性突破。
+
+在架构与性能细节上，Ling 3.1 Flash 延续了 560B 总参数、25B 激活参数的 MoE 混合专家架构，支持高达 1M token 的超长上下文窗口。多方信源交叉验证显示，新模型重点强化了跨会话记忆保持、后台持续任务调度以及复杂工作流建模能力，使其能够胜任从即时问答向“持续办事”的场景跨越，尤其在科学推理和代码生成方面进步显著。
+
+此次发布采用宽松的 MIT 许可证并同步提供 API 服务，输入缓存价格低至 $0.06/1M tokens，极大降低了开发者接入门槛。这一举措不仅为“灵光 2.0”等产品提供了强力支撑，更通过高性价比的开源策略，加速了智能体技术在真实业务场景中的落地与生态普及。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys), InfoQ 中文&lt;/p&gt;</description>
+</item>
+<item><title>百度开源 Unlimited OCR 2，长文档解析显存降 96%</title><link>https://todayforai.com/en/story/story-867c0283-dc0</link><guid isPermaLink="true">https://todayforai.com/en/story/story-867c0283-dc0</guid>
+<pubDate>Tue, 27 Oct 2026 16:35:33 +0800</pubDate>
+<description>&lt;p&gt;百度正式开源文心 Unlimited OCR 2，这款拥有 33 亿参数的轻量级模型通过引入稀疏参考滑动窗口注意力机制（SR-SWA），实现了长文档解析技术的重大突破。该模型在保持解码延迟与内存占用近乎恒定的前提下，支持单次请求连续处理数百页乃至数千页的超长文档，彻底打破了传统 OCR 的分页限制。
+
+多方信源交叉验证显示，Unlimited OCR 2 的核心优势在于极致的资源效率：其峰值 KV 缓存占用从 47GB 骤降至 1.77GB，降幅高达 96%，且推理时仅激活 500M 参数。在 MarathonDocBench 等权威基准测试中，该模型得分 77.1，显著优于 Kimi-K3 和 Qwen3.8-Max 等竞品。尽管其在标题层级识别上存在短板且数据为自报，但其在超长上下文连贯性上的表现已得到社区实测确认。
+
+这一进展大幅降低了企业和个人开发者处理海量文档的技术门槛与硬件成本。随着模型在 GitHub 和 Hugging Face 的全面开源，业界有望快速部署高效、低成本的文档数字化解决方案，推动 AI 在知识管理、法律合规及学术出版等领域的规模化应用。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;量子位官网, 新智元 (微信公众号), Marktechpost (@Marktechpost), 量子位 (微信公众号)&lt;/p&gt;</description>
 </item>
 <item><title>Axiom AI 集群 24 天完成有限单群分类定理形式化</title><link>https://todayforai.com/en/story/story-83a821b7-754</link><guid isPermaLink="true">https://todayforai.com/en/story/story-83a821b7-754</guid>
-<pubDate>Wed, 28 Oct 2026 02:15:54 +0800</pubDate>
-<description>&lt;p&gt;AI 数学公司 Axiom 宣布重大突破，其 AI 智能体集群在 24 天内完成了数学史上最长证明——有限单群分类定理（CFSG）的 Lean 形式化验证。这一成就将原本长达 15,000 页、无人能通读的人类专家级证明，转化为约 4000 万行可被计算机严格校验的代码，标志着可验证 AI 从实验室概念正式迈向规模化工业应用。
+<pubDate>Wed, 28 Oct 2026 07:31:32 +0800</pubDate>
+<description>&lt;p&gt;AI 初创公司 Axiom 宣布其智能体集群在 24 天内完成了数学史上最长证明——有限单群分类定理（CFSG）的 Lean 形式化。这一壮举将约 1.5 万页的人类文献转化为超过 3800 万行可验证代码，标志着可验证 AI 从实验室走向规模化应用的关键转折。
 
-多源信交叉验证显示，此次效率提升得益于模型、执行框架及基础设施的重建，处理规模较年初扩大 4000 倍且耗时大幅缩短。更关键的是，AI 在形式化过程中主动发现了原人类证明中一处关键引理的逻辑漏洞，并通过重构证法成功修复，证明了“人机协同”模式的有效性：由数学家引导方向，AI 负责大规模逻辑编写与严谨性检查。
+多源信息交叉验证显示，该过程不仅实现了效率的量级跃升（相比年初处理同等规模需数周，此次耗时大幅缩短），更展现了 AI 的深度推理能力。在执行过程中，AI 主动发现了原证明中 34 处严重不一致及一处关键引理逻辑漏洞，并通过重构证法成功修复，通过了严格检查。这证明了“人机协同”新范式：由数学家引导方向，AI 负责大规模、高精度的逻辑构建与纠错。
 
-该事件对基础科学领域具有深远影响，它重塑了数学严谨性验证的工作流，展示了多智能体协作在复杂长程推理任务中的巨大潜力。这不仅解决了超大型文献形式化的算力瓶颈，也为未来自动化发现数学真理、构建完全可验证的软件系统提供了新的范式参考。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), 宝玉 (@dotey)&lt;/p&gt;</description>
-</item>
-<item><title>Liquid AI 发布 LFM3 开源模型，小参数性能超越前代</title><link>https://todayforai.com/en/story/story-188d2384-2ae</link><guid isPermaLink="true">https://todayforai.com/en/story/story-188d2384-2ae</guid>
-<pubDate>Wed, 28 Oct 2026 01:51:06 +0800</pubDate>
-<description>&lt;p&gt;Liquid AI 正式推出新一代开源权重模型家族 LFM3，标志着端侧 AI 技术的重要突破。该系列核心亮点在于其创新的“三混合”架构，通过结合短卷积、滑动窗口注意力与全局注意力机制，显著提升了计算效率。其中，1.7B 参数的文本模型在多项基准测试中表现卓越，不仅超越了自家 2.6B 的前代产品，更在自动化代理任务中以 41.29 的高分大幅领先于参数量更大的 Qwen3.5-9B（得分 15.10），证明了小模型在特定场景下的极致效能。
-
-LFM3 并非单一模型，而是一个涵盖文本、视觉、音频及全模态的完整生态，共提供 6 种实例。所有模型均基于 22T tokens 预训练，并统一整合到单一共享骨干网络上，实现了多模态能力的深度融合。这一设计使得 LFM3 成为首个在 2B 参数级别实现文本、视觉、音频和决策能力统一的多模态家族。模型权重已在 Hugging Face 完全开源，支持在任何设备上运行及本地微调，极大地降低了开发者构建专用智能体的门槛。
-
-此次发布对 AI 行业格局具有深远影响，特别是在边缘计算和隐私保护领域。LFM3 的高效架构为资源受限环境下的复杂 AI 应用提供了可行方案，推动了从云端大模型向端侧高效小模型的范式转移。对于开发者而言，开源且支持本地微调的特性意味着可以低成本定制高性能的垂直领域智能体，加速了 AI 技术在消费电子、物联网等场景的实际落地进程。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), Hacker News AI&lt;/p&gt;</description>
-</item>
-<item><title>微软向六万员工提供自愿买断以优化 AI 转型</title><link>https://todayforai.com/en/story/story-f62c971a-f1d</link><guid isPermaLink="true">https://todayforai.com/en/story/story-f62c971a-f1d</guid>
-<pubDate>Tue, 27 Oct 2026 05:05:15 +0800</pubDate>
-<description>&lt;p&gt;微软近日宣布向美国、英国、加拿大和印度的约 6 万名员工（占全球全职员工总数近 27%）提供自愿离职买断方案。这一举措旨在通过非强制手段优化人力结构，应对生成式 AI 时代带来的组织调整与成本控制压力，标志着科技巨头在 AI 转型期正从被动裁员转向主动的结构性人员重组。
-
-多方信源交叉验证显示，此次计划覆盖 Copilot、CoreAI、Windows + Devices 及 Xbox 等核心产品团队，但明确排除了销售、市场营销、量子计算及安全部门。符合条件的员工需在 12 月初前做出决定，可选择领取包含标准遣散费、股票继续归属及医疗保险在内的补偿包并于年底离职，或拒绝邀约保留现有职位。这种“自愿选择”机制意在避免新一轮强制裁员引发的舆论风险与人才流失。
-
-此举深刻反映了大型科技公司在 AI 浪潮下的资源重新配置逻辑：将资本与人力从传统维护型业务向高增长的 AI 基础设施与应用层倾斜。通过剥离部分冗余或非核心岗位，微软试图提升整体运营效率，为后续在 AI 领域的持续高强度投入腾出财务空间，同时也为行业提供了通过温和手段实现大规模组织瘦身的新范式。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;The Verge AI, 宝玉 (@dotey), Rohan Paul (@rohanpaul_ai), Hacker News AI&lt;/p&gt;</description>
+此突破对基础科学领域具有深远意义，它重塑了数学严谨性验证的工作流，解决了无人能通读超长证明的行业痛点。同时，这也为软件安全、硬件验证等需要极高逻辑可靠性的产业提供了可复制的技术路径，预示着 AI 在复杂逻辑推理任务中的巨大潜力已得到实质性验证。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), 宝玉 (@dotey)&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
