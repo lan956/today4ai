@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Hot Radar</title><link>https://todayforai.com/en/hot</link><description>Multi-source trending AI stories ranked by cross-source heat.</description>
-<language>en</language><lastBuildDate>Wed, 28 Oct 2026 12:35:40 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Wed, 28 Oct 2026 18:56:24 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/voxelowl/today4ai/main/hot.xml" rel="self" type="application/rss+xml"/>
 <item><title>Anthropic 递交 IPO 招股书，估值两万亿拟募资千亿</title><link>https://todayforai.com/en/story/story-0ed5b747-86f</link><guid isPermaLink="true">https://todayforai.com/en/story/story-0ed5b747-86f</guid>
-<pubDate>Wed, 28 Oct 2026 11:37:19 +0800</pubDate>
-<description>&lt;p&gt;AI 独角兽 Anthropic 正式向 SEC 提交 S-1 文件，启动纳斯达克 IPO 进程，股票代码定为“ANT”。公司目标估值约 2 万亿美元，拟募资最高 1000 亿美元，有望超越 SpaceX 成为史上最大规模 IPO。招股书显示其商业化爆发力强劲，2026 年上半年营收达 163 亿美元，同比激增逾 13 倍，且第二季度已实现经调整后的运营盈利。
+<pubDate>Wed, 28 Oct 2026 18:11:10 +0800</pubDate>
+<description>&lt;p&gt;AI 独角兽 Anthropic 正式向 SEC 提交 S-1 文件，启动纳斯达克 IPO 进程，股票代码定为“ANT”。公司目标估值约 2 万亿美元，拟募资最高 1000 亿美元，有望超越 SpaceX 成为史上最大规模 IPO。作为首家纯大模型上市公司，其财务数据与风险披露为行业提供了关键基准。
 
-财务数据揭示出独特的会计特征：尽管账面净亏损高达 807 亿美元，但这主要源于亚马逊和谷歌可转债因估值飙升产生的非现金公允价值变动，实际经营性亏损仅约 7 亿美元。核心驱动力在于算力成本效率显著提升，算力支出占收入比例从早期的 250% 骤降至 48%，毛利率高达 85%。此外，公司已锁定微软、谷歌及 Broadcom 等巨头超五千亿美元的长期算力采购合同，并采用双层股权结构确保创始人控制权。
+招股书显示，2026 年上半年营收飙升至 163 亿美元，同比增长超 14 倍，第二季度实现运营盈利，毛利率达 85%。尽管账面净亏损高达 807 亿美元，但这主要源于亚马逊和谷歌可转债公允价值变动的非现金会计损失，实际经营性亏损仅约 7 亿美元。算力成本占收入比例从 250% 骤降至 48%，效率显著提升。公司已签署总额逾 5000 亿美元的长期算力采购协议，包括向 Broadcom 租赁 TPU 及向 SpaceXAI 购买 GPU，并采用双层股权结构确保创始人控制权。
 
-作为首家纯大模型上市公司，Anthropic 的披露为行业提供了关键基准。其罕见地在招股书中用大量篇幅警告 AI 可能带来的“生存性风险”，凸显安全理念在商业叙事中的核心地位。这一举措不仅验证了企业级 AI 需求的真实性，也标志着 AI 基础设施赛道正式进入公开资本市场博弈阶段，对后续监管与生态格局产生深远影响。&lt;/p&gt;&lt;p&gt;14 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), Hacker News AI, GREG ISENBERG (@gregisenberg)&lt;/p&gt;</description>
+此次上市标志着头部 AI 实验室正式进入资本市场寻求规模化扩张。Anthropic 高度依赖云巨头渠道（47% 销售通过 AWS/Google），且罕见地在招股书中用 94 页篇幅警告“AI 可能毁灭人类”等生存性风险，凸显安全理念在商业叙事中的核心地位。此举不仅重塑了 AI 行业的融资格局，也为投资者评估大模型公司的真实盈利能力与长期风险提供了首个公开样本。&lt;/p&gt;&lt;p&gt;15 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), Hacker News AI, IT之家 · 智能时代&lt;/p&gt;</description>
 </item>
 <item><title>OpenAI 发布 GPT-6.1 Terra，视觉推理增强且成本降至三分之一</title><link>https://todayforai.com/en/story/story-21677d69-7f7</link><guid isPermaLink="true">https://todayforai.com/en/story/story-21677d69-7f7</guid>
 <pubDate>Wed, 28 Oct 2026 11:04:09 +0800</pubDate>
@@ -43,6 +43,14 @@ Genie 4 的发布加剧了世界模型赛道的竞争格局，为游戏开发、
 
 这一进展标志着大语言模型正从辅助工具向具备一定自主决策能力的“数字科学家”演进。对于行业而言，Anthropic 的举措不仅展示了 AI 缩短研发周期的潜力，更通过实际案例确立了 AI 在复杂生物制药流程中的合规性与可靠性基准，可能加速传统药企对 AI 原生研发模式的采纳。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), 宝玉 (@dotey), Hacker News AI, Yuchen Jin (@Yuchenj_UW)&lt;/p&gt;</description>
 </item>
+<item><title>Artificial Analysis 发布 v5 智能指数强化抗污染评估</title><link>https://todayforai.com/en/story/story-add8001f-6fc</link><guid isPermaLink="true">https://todayforai.com/en/story/story-add8001f-6fc</guid>
+<pubDate>Wed, 28 Oct 2026 13:29:11 +0800</pubDate>
+<description>&lt;p&gt;Artificial Analysis 正式推出其智能指数的重大升级版本 v5，旨在解决公开基准数据泄露导致的模型分数虚高问题。此次更新的核心突破在于将 60% 的评估权重转移至私有测试集或保留答案的数据集，从而大幅增强评估体系的抗污染能力，确保反映模型在真实世界中的未见过数据表现。
+
+在技术细节上，v5 整合了包括 AA-Briefcase、GDP.pdf 和 Terminal-Bench 4.0 在内的九项关键数据集，并新增了 Cognition 的 FrontierCode 2.0（针对真实代码合并任务）和 Terminal-Bench-Science（针对终端环境科研任务）。这些新基准聚焦于推理、知识、数学及编程等高难度代理任务，但明确排除了图像与多语言测试，专注于纯文本英文综合能力对比。此外，官方同步发布了 Progress Index v1，提供单一连续尺度以长期追踪模型能力的演进趋势。
+
+这一举措对 AI 行业具有深远意义，它标志着大模型评估从“刷榜”向“实战”的转变。通过引入私有数据和前沿代理基准，Artificial Analysis 为开发者提供了更公平、更具现实适用性的性能参考标准，有助于遏制因数据污染造成的虚假繁荣，推动行业回归对模型真实智能水平的客观衡量。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys), Artificial Analysis, Hacker News AI&lt;/p&gt;</description>
+</item>
 <item><title>微软发布 MAI-Image-2.7 预览版，图像编辑能力跃居全球前三</title><link>https://todayforai.com/en/story/story-13c133c6-cb1</link><guid isPermaLink="true">https://todayforai.com/en/story/story-13c133c6-cb1</guid>
 <pubDate>Wed, 28 Oct 2026 10:37:17 +0800</pubDate>
 <description>&lt;p&gt;微软正式推出 MAI-Image-2.7-Preview 预览版模型，标志着其在指令式图像编辑领域取得重大突破。该模型在 Artificial Analysis 榜单中位列全球第二（Elo 1,193），紧随 OpenAI GPT Image 2.5 之后；同时在 Arena.ai 基准测试中排名第三，较前代提升 45 分。目前该版本仅开放基于“原图 + 指令”的编辑功能，文生图及公开 API 尚未上线，用户可通过 MAI Playground 体验。
@@ -51,37 +59,29 @@ Genie 4 的发布加剧了世界模型赛道的竞争格局，为游戏开发、
 
 这一进展显著提升了微软 AI 实验室在全球图像生成赛道的话语权，使其机构排名升至 Arena 榜单第二。尽管暂未开放文生图功能，但其在专业编辑场景下的精准度已具备商业落地潜力，为开发者提供了除 OpenAI 之外的又一高性能选择，加剧了高端图像编辑市场的竞争格局。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;Arena.ai (@arena), Artificial Analysis (@ArtificialAnlys), IT之家 · 智能时代&lt;/p&gt;</description>
 </item>
-<item><title>Artificial Analysis 发布 v5 智能指数强化抗污染评估</title><link>https://todayforai.com/en/story/story-add8001f-6fc</link><guid isPermaLink="true">https://todayforai.com/en/story/story-add8001f-6fc</guid>
-<pubDate>Wed, 28 Oct 2026 10:11:22 +0800</pubDate>
-<description>&lt;p&gt;AI 评测机构 Artificial Analysis 正式发布其智能指数的最大升级版本 v5，核心变革在于将 60% 的评估权重转移至私有测试集或保留答案的数据集。这一举措旨在从根本上解决大模型基准测试中日益严重的数据污染问题，确保评分更能反映模型在真实世界中的未见过数据上的泛化能力与实用价值。
-
-在技术细节上，v5 版本引入了 Cognition 的 FrontierCode 2.0 和 Terminal-Bench-Science 两个全新基准，分别聚焦于高难度的真实代码合并任务与科学代理任务，进一步拓宽了评估维度的深度与广度。与此同时，该机构同步推出了 Progress Index v1，这是一个提供单一连续尺度的新工具，专门用于追踪模型能力随时间推移的长期演进轨迹，填补了静态快照式评测在动态趋势分析上的空白。
-
-此次更新对 AI 行业具有显著的生态意义。通过大幅降低数据污染风险并引入更贴近实际应用场景的基准，v5 智能指数为开发者、研究人员及企业用户提供了更具公信力的选型参考。它不仅推动了评测标准向“实战化”和“防作弊”方向演进，也为客观衡量 AI 能力的持续进步建立了更严谨的方法论基础。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys), Artificial Analysis&lt;/p&gt;</description>
-</item>
-<item><title>蚂蚁开源 Ling 3.1 Flash，智能体能力显著跃升</title><link>https://todayforai.com/en/story/story-06841666-d61</link><guid isPermaLink="true">https://todayforai.com/en/story/story-06841666-d61</guid>
+<item><title>蚂蚁开源 Ling 3.1 Flash，智能体长程任务能力显著跃升</title><link>https://todayforai.com/en/story/story-06841666-d61</link><guid isPermaLink="true">https://todayforai.com/en/story/story-06841666-d61</guid>
 <pubDate>Wed, 28 Oct 2026 12:35:40 +0800</pubDate>
-<description>&lt;p&gt;蚂蚁集团正式开源 Ling-3.1-flash-1019 模型，标志着其在个人 AI 助理领域的技术底座实现关键升级。该版本在 Artificial Analysis 智能指数中得分从 41 提升至 44，并在 AA-Briefcase 等核心评测中表现优异，Elo 分数大幅上涨 124 点，显示出处理复杂长程任务能力的实质性突破。
+<description>&lt;p&gt;蚂蚁集团百灵大模型正式开源 Ling-3.1-flash-1019 及基础模型，标志着其在个人智能体（Personal Agent）领域的技术突破。新版本在 Artificial Analysis Intelligence Index v4.3.2 中得分提升至 44 分，较前代增长 3 分，重点强化了复杂工作流处理、跨会话记忆保持及后台持续任务调度能力，旨在支撑“能管事的个人 AI 助理”场景。
 
-在架构与性能细节上，Ling 3.1 Flash 延续了 560B 总参数、25B 激活参数的 MoE 混合专家架构，支持高达 1M token 的超长上下文窗口。多方信源交叉验证显示，新模型重点强化了跨会话记忆保持、后台持续任务调度以及复杂工作流建模能力，使其能够胜任从即时问答向“持续办事”的场景跨越，尤其在科学推理和代码生成方面进步显著。
+技术架构上，该模型采用混合线性 MoE 设计，总参数约 560B，每 Token 激活约 25B，在平衡容量与计算效率的同时支持 1M token 超长上下文窗口。多源评测数据显示，其在面向真实业务场景的基准测试中表现优异：AA-Briefcase Elo 分数提升 124 点至 1524，AutomationBench-AA 准确率达到 68%，证实了其在科学推理、代码生成及长程任务执行上的显著进步。
 
-此次发布采用宽松的 MIT 许可证并同步提供 API 服务，输入缓存价格低至 $0.06/1M tokens，极大降低了开发者接入门槛。这一举措不仅为“灵光 2.0”等产品提供了强力支撑，更通过高性价比的开源策略，加速了智能体技术在真实业务场景中的落地与生态普及。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys), InfoQ 中文&lt;/p&gt;</description>
+此次开源以 MIT 许可证发布权重并提供 API 服务，输入缓存价格低至 $0.06/1M tokens，大幅降低了开发者门槛。这一举措不仅加速了从即时问答向持续办事的能力跃迁，也为构建具备长期记忆和自主规划能力的下一代个人 AI 助理奠定了坚实的底层基础，有望重塑智能体应用生态格局。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys), InfoQ 中文, 量子位官网&lt;/p&gt;</description>
 </item>
-<item><title>百度开源 Unlimited OCR 2，长文档解析显存降 96%</title><link>https://todayforai.com/en/story/story-867c0283-dc0</link><guid isPermaLink="true">https://todayforai.com/en/story/story-867c0283-dc0</guid>
-<pubDate>Tue, 27 Oct 2026 16:35:33 +0800</pubDate>
-<description>&lt;p&gt;百度正式开源文心 Unlimited OCR 2，这款拥有 33 亿参数的轻量级模型通过引入稀疏参考滑动窗口注意力机制（SR-SWA），实现了长文档解析技术的重大突破。该模型在保持解码延迟与内存占用近乎恒定的前提下，支持单次请求连续处理数百页乃至数千页的超长文档，彻底打破了传统 OCR 的分页限制。
+<item><title>Liquid AI 发布 LFM3 开源模型，小参数性能超越前代</title><link>https://todayforai.com/en/story/story-188d2384-2ae</link><guid isPermaLink="true">https://todayforai.com/en/story/story-188d2384-2ae</guid>
+<pubDate>Wed, 28 Oct 2026 17:49:57 +0800</pubDate>
+<description>&lt;p&gt;Liquid AI 正式推出新一代开源权重模型家族 LFM3，标志着端侧智能技术的重要突破。该系列核心亮点在于采用创新的“三混合”架构，将短卷积、滑动窗口注意力与全局注意力有机结合，使得仅 1.7B 参数的文本模型在多项基准测试中显著优于其 2.6B 的前代产品以及部分竞品，实现了参数减少 35% 而性能提升的卓越效率。
 
-多方信源交叉验证显示，Unlimited OCR 2 的核心优势在于极致的资源效率：其峰值 KV 缓存占用从 47GB 骤降至 1.77GB，降幅高达 96%，且推理时仅激活 500M 参数。在 MarathonDocBench 等权威基准测试中，该模型得分 77.1，显著优于 Kimi-K3 和 Qwen3.8-Max 等竞品。尽管其在标题层级识别上存在短板且数据为自报，但其在超长上下文连贯性上的表现已得到社区实测确认。
+多方信源交叉验证显示，LFM3 基于 22T tokens 预训练，首批涵盖文本、视觉、音频及全模态共 6 种实例，并支持高达 256K 的上下文窗口。在自动化代理任务（AutomationBench）中，1.7B 版本得分 41.29，远超 Qwen3.5-9B 的 15.10，展现出极高的推理效率。该模型完全开源，支持在任何设备上运行及本地微调，旨在通过高效的小模型实现特定领域的深度智能。
 
-这一进展大幅降低了企业和个人开发者处理海量文档的技术门槛与硬件成本。随着模型在 GitHub 和 Hugging Face 的全面开源，业界有望快速部署高效、低成本的文档数字化解决方案，推动 AI 在知识管理、法律合规及学术出版等领域的规模化应用。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;量子位官网, 新智元 (微信公众号), Marktechpost (@Marktechpost), 量子位 (微信公众号)&lt;/p&gt;</description>
+LFM3 的发布对开发者生态具有深远意义，它降低了高性能多模态模型的部署门槛，特别适合构建专用智能体和边缘计算场景。这种“小而精”的技术路线不仅挑战了传统大模型的资源消耗范式，也为行业提供了更灵活、更具成本效益的解决方案，加速了 AI 从云端向终端设备的普及进程。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), Hacker News AI, IT之家 · 智能时代&lt;/p&gt;</description>
 </item>
-<item><title>Axiom AI 集群 24 天完成有限单群分类定理形式化</title><link>https://todayforai.com/en/story/story-83a821b7-754</link><guid isPermaLink="true">https://todayforai.com/en/story/story-83a821b7-754</guid>
-<pubDate>Wed, 28 Oct 2026 07:31:32 +0800</pubDate>
-<description>&lt;p&gt;AI 初创公司 Axiom 宣布其智能体集群在 24 天内完成了数学史上最长证明——有限单群分类定理（CFSG）的 Lean 形式化。这一壮举将约 1.5 万页的人类文献转化为超过 3800 万行可验证代码，标志着可验证 AI 从实验室走向规模化应用的关键转折。
+<item><title>AI 智能体 12 小时渗透 Anthropic 内部系统</title><link>https://todayforai.com/en/story/story-14226a34-7aa</link><guid isPermaLink="true">https://todayforai.com/en/story/story-14226a34-7aa</guid>
+<pubDate>Wed, 28 Oct 2026 18:56:24 +0800</pubDate>
+<description>&lt;p&gt;网络安全初创公司 Cathedral 利用自主 AI 智能体，在不到 12 小时内成功渗透进 Anthropic 的内部网络。此次攻击并未直接针对 Anthropic 的核心自研代码，而是通过第三方商业软件（如行政、销售工具）的漏洞作为突破口，获取了 Slack 消息、薪资数据等敏感内部记录。尽管 Anthropic 迅速响应并切断访问，但事件证实了 AI 代理在低成本、全天候自动化侦察中的巨大威胁。
 
-多源信息交叉验证显示，该过程不仅实现了效率的量级跃升（相比年初处理同等规模需数周，此次耗时大幅缩短），更展现了 AI 的深度推理能力。在执行过程中，AI 主动发现了原证明中 34 处严重不一致及一处关键引理逻辑漏洞，并通过重构证法成功修复，通过了严格检查。这证明了“人机协同”新范式：由数学家引导方向，AI 负责大规模、高精度的逻辑构建与纠错。
+多方信源交叉验证显示，攻击向量主要源于外围办公系统的供应链风险，而非核心模型架构缺陷。Anthropic 澄清，其最核心的资产——包括模型权重、源代码及客户对话数据——未受泄露影响，且监控系统在攻击者提交报告前已发现异常。这一细节凸显了“核心资产”与“外围业务系统”安全隔离的重要性，同时也表明即使是拥有顶尖防御能力的 AI 实验室，也难以完全幸免于基于通用软件漏洞的自动化攻击。
 
-此突破对基础科学领域具有深远意义，它重塑了数学严谨性验证的工作流，解决了无人能通读超长证明的行业痛点。同时，这也为软件安全、硬件验证等需要极高逻辑可靠性的产业提供了可复制的技术路径，预示着 AI 在复杂逻辑推理任务中的巨大潜力已得到实质性验证。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), 宝玉 (@dotey)&lt;/p&gt;</description>
+该事件对行业生态具有深远警示意义：随着 AI 智能体能力的提升，传统依赖人工的安全运营中心（SOC）面临效率挑战。企业需重新评估第三方 SaaS 工具的安全边界，并加速部署具备对抗性思维的 AI 防御机制。这标志着网络攻防正式进入“机器对机器”的高频对抗时代，任何单一环节的疏忽都可能被算法瞬间放大为系统性风险。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;IT之家 · IT业界, InfoQ 中文, The Decoder&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
