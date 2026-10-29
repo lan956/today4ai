@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Hot Radar</title><link>https://todayforai.com/en/hot</link><description>Multi-source trending AI stories ranked by cross-source heat.</description>
-<language>en</language><lastBuildDate>Fri, 30 Oct 2026 02:38:50 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Fri, 30 Oct 2026 06:48:29 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/voxelowl/today4ai/main/hot.xml" rel="self" type="application/rss+xml"/>
 <item><title>Google 发布 Gemini 4 Carbon，安全与长程任务性能登顶</title><link>https://todayforai.com/en/story/story-2da7420c-ab5</link><guid isPermaLink="true">https://todayforai.com/en/story/story-2da7420c-ab5</guid>
 <pubDate>Thu, 29 Oct 2026 20:43:13 +0800</pubDate>
@@ -25,7 +25,7 @@
 
 招股书显示，Anthropic 2026 年上半年营收飙升至 163 亿美元，同比增长超 14 倍。尽管账面净亏损高达 807 亿美元，但这主要源于亚马逊和谷歌可转债公允价值变动的非现金会计损失；实际经营性亏损仅约 7 亿美元，且第二季度已实现运营盈利，毛利率达 85%。公司手握 1317 亿美元现金储备，并签署了总额逾 5000 亿美元的长期算力采购协议，算力成本占收入比例已从 250% 骤降至 48%，显示出极强的商业化爆发力与成本控制能力。
 
-这一事件标志着头部 AI 实验室正式进入资本市场寻求规模化扩张。Anthropic 采用双层股权结构确保创始人控制权，同时披露了罕见的“AI 生存性风险”警告，凸显安全理念在商业叙事中的核心地位。其成功上市将重塑 AI 行业的融资格局，验证大模型商业模式的可行性，并对竞争对手 OpenAI 形成直接的市场估值压力。&lt;/p&gt;&lt;p&gt;8 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), The Verge AI, Hacker News AI&lt;/p&gt;</description>
+这一事件标志着头部 AI 实验室正式进入资本市场寻求规模化扩张。Anthropic 采用双层股权结构确保创始人控制权，同时披露了罕见的“AI 生存性风险”警告，凸显安全理念在商业叙事中的核心地位。其成功上市将重塑 AI 行业的融资格局，验证大模型商业模式的可行性，并对竞争对手 OpenAI 形成直接的市场估值压力。&lt;/p&gt;&lt;p&gt;7 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), The Verge AI, Hacker News AI&lt;/p&gt;</description>
 </item>
 <item><title>谷歌云营收翻倍至 307 亿美元，TPU 外销开启 AI 变现新引擎</title><link>https://todayforai.com/en/story/story-5f4dc30c-cea</link><guid isPermaLink="true">https://todayforai.com/en/story/story-5f4dc30c-cea</guid>
 <pubDate>Fri, 30 Oct 2026 00:42:17 +0800</pubDate>
@@ -36,7 +36,7 @@
 此次财报揭示了谷歌收入结构的深刻转变：搜索营收占比首次跌破 50%，而云业务占比升至 24.1%，成为抵消搜索下滑的主要动力。这一变化表明，AI 驱动的基础设施与服务正取代传统广告成为新的增长极，但也凸显了高投入低即时回报模式对资本市场估值逻辑的重塑挑战。&lt;/p&gt;&lt;p&gt;5 sources&lt;/p&gt;&lt;p&gt;Hacker News AI, Rohan Paul (@rohanpaul_ai), The Decoder, IT之家 · IT业界, Ars Technica AI&lt;/p&gt;</description>
 </item>
 <item><title>Artificial Analysis 发布 v5 智能指数强化抗污染评估</title><link>https://todayforai.com/en/story/story-add8001f-6fc</link><guid isPermaLink="true">https://todayforai.com/en/story/story-add8001f-6fc</guid>
-<pubDate>Fri, 30 Oct 2026 00:49:20 +0800</pubDate>
+<pubDate>Fri, 30 Oct 2026 03:07:40 +0800</pubDate>
 <description>&lt;p&gt;Artificial Analysis 正式推出其智能指数的重大升级版本 v5，核心变革在于将 60% 的评估权重转移至私有测试集或保留答案的数据集。这一举措旨在应对公开基准饱和及数据泄露导致的分数虚高问题，通过引入 Cognition 的 FrontierCode 2.0 和 Terminal-Bench-Science 等高难度代理基准，显著增强了评估体系的抗污染能力与真实世界适用性。
 
 多方信源交叉验证显示，v5 版本整合了包括 AA-Briefcase、GDP.pdf 在内的九项特定评估数据集，覆盖推理、知识、数学及编程领域，但明确排除图像与多语言测试。同步发布的 Progress Index v1 提供了单一连续尺度，用于长期追踪模型能力的演进趋势。新标准下，部分开源模型如 Kimi K3.1 Pro 排名大幅下滑，开源与顶级闭源模型的得分差距从 3 分扩大至 12 分，揭示了旧基准对开源泛化能力的潜在高估。
@@ -59,6 +59,14 @@
 
 这一发布标志着 AI 编程工具从“单一最强模型”向“混合最优解”演进。对于开发者而言，Copilot Fusion 提供了极具性价比的选择，降低了企业大规模部署 AI 辅助编码的经济门槛。尽管部分用户反馈实际体验仍略逊于原生 Claude Code，但其通过算法优化实现的成本减半效应，将迫使竞争对手重新审视定价策略与技术架构，加速行业向高效能、低成本的多模型协同方向转型。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;Artificial Analysis, 宝玉 (@dotey), Artificial Analysis (@ArtificialAnlys), Rohan Paul (@rohanpaul_ai)&lt;/p&gt;</description>
 </item>
+<item><title>OpenAI 向 Pro 与 Business 用户赠送每月最高 $500 API 额度</title><link>https://todayforai.com/en/story/story-2042c530-c76</link><guid isPermaLink="true">https://todayforai.com/en/story/story-2042c530-c76</guid>
+<pubDate>Fri, 30 Oct 2026 06:48:29 +0800</pubDate>
+<description>&lt;p&gt;OpenAI 宣布即日起向 ChatGPT Pro 和 Business 订阅用户赠送每月最高 500 美元的免费 API 额度，旨在打通消费级订阅与开发者平台账户体系。这一举措直接对标 Anthropic 此前推出的同类福利，标志着主流 AI 厂商正通过捆绑高价值权益来争夺开发者与企业级市场。
+
+根据细则，该额度仅限当月使用且不可结转，适用于模型调用、智能体开发及内置工具，但明确排除 Codex CLI 及提升 ChatGPT/Codex 交互上限。用户需绑定同一邮箱的 API 组织并在设置中领取。此外，OpenAI 同步将 Pro 各档及 Business Premium 的用量上限翻倍，并取消了原定对 Pro 200 老用户的降额计划，进一步提升了重度用户的可用配额。
+
+此举显著降低了应用构建门槛，增强了高价值用户的生态粘性。通过周期性自动发放而非一次性优惠，OpenAI 意在长期锁定核心付费群体，同时应对来自竞争对手在开发者体验上的压力，重塑高端订阅服务的价值主张。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;宝玉 (@dotey), 机器之心 (微信公众号), Simon Willison 博客&lt;/p&gt;</description>
+</item>
 <item><title>Phonic-1 发布实时语音智能体，登顶评测并获融资</title><link>https://todayforai.com/en/story/story-22f1f0f3-1d7</link><guid isPermaLink="true">https://todayforai.com/en/story/story-22f1f0f3-1d7</guid>
 <pubDate>Fri, 30 Oct 2026 01:49:36 +0800</pubDate>
 <description>&lt;p&gt;初创公司 Phonic 正式发布其旗舰模型 Phonic-1，宣称这是目前唯一能在用户说话的同时执行查询和预订等工具调用的语音模型。该模型在 Artificial Analysis 发布的语音转语音指数中以 87.1 分位居榜首，略微领先于 Grok Voice 3.0，标志着实时语音交互从单纯的“对话”向具备行动能力的“智能体”演进。
@@ -67,21 +75,13 @@
 
 商业落地方面，Phonic-1 已完成 2750 万美元 A 轮融资，并成功应用于 Ashby 平台的 AI 面试场景。这一进展表明，低延迟且具备工具调用能力的语音模型已具备规模化商用价值，有望重塑客服、招聘及个人助理等领域的交互体验，推动语音 AI 赛道进入“实时行动”的新阶段。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;</description>
 </item>
-<item><title>Anthropic 披露 Claude 药物研发进展：生成 3.5 万抗体拟 2028 年临床</title><link>https://todayforai.com/en/story/story-d2ba1c2a-905</link><guid isPermaLink="true">https://todayforai.com/en/story/story-d2ba1c2a-905</guid>
-<pubDate>Wed, 28 Oct 2026 04:54:24 +0800</pubDate>
-<description>&lt;p&gt;Anthropic 近日公布其 AI 模型 Claude 在药物研发领域的实质性突破，宣布已与六家生物制药机构建立深度合作，并披露内部研发成果。核心数据显示，Claude 在一个月内生成了约 3.5 万个抗体设计方案，显著提升了早期筛选效率；同时，AI 成功识别出 7 个人类审查员遗漏的药物生产关键问题，证明了其在质量控制环节的独立价值。
+<item><title>OpenAI 发布 GPT-6.1 Terra，视觉推理增强且成本降至三分之一</title><link>https://todayforai.com/en/story/story-21677d69-7f7</link><guid isPermaLink="true">https://todayforai.com/en/story/story-21677d69-7f7</guid>
+<pubDate>Thu, 29 Oct 2026 22:58:23 +0800</pubDate>
+<description>&lt;p&gt;OpenAI 正式推出新一代中端模型 GPT-6.1 Terra，在显著提升智能水平的同时将推理成本大幅压缩。该模型在 Artificial Analysis 智能指数中较前代提升 6-13 分，但单次任务成本仅为旧款的三分之一（约 $0.40 vs $1.40）。其 API 定价极具竞争力，输入/输出 Token 价格减半至 $1/$5 每百万，缓存读取成本降低 75%，确立了新的性价比标杆。
 
-技术层面，Claude 的应用已覆盖从分子设计、CAR-T 基因序列优化到监管文档审查的全周期。据称，AI 代理将文档审查时间减少了 90%，并通过收购由 AI 独立运营的微型药企 Mithril Medicine，验证了其在合同、物流及实验协调中的自主运营能力。尽管部分信源指出当前报道侧重于商业叙事而非可复现的技术方法论，但多方交叉验证确认，目前项目主要处于临床前阶段，针对肌肉萎缩症的内部项目预计最早于 2028 年底进入人体临床试验。
+多方信源交叉验证显示，GPT-6.1 Terra 的核心突破在于视觉推理与计算机操作（Computer Use）能力的强化。在 Agents&amp;#x27; Last Exam 基准测试中，其得分约 60%，性能逼近旗舰版 GPT-6 Astra，但 Token 单价仅为后者的十分之一。此外，模型支持 105 万超长上下文窗口，任务执行速度平均提升 3 倍以上，并在 Terminal-Bench 等编码代理基准上刷新成绩，实现了低中强度推理下的帕累托最优。
 
-这一进展标志着大语言模型正从辅助工具向具备一定自主决策能力的“数字科学家”演进。对于行业而言，Anthropic 的举措不仅展示了 AI 缩短研发周期的潜力，更通过实际案例确立了 AI 在复杂生物制药流程中的合规性与可靠性基准，可能加速传统药企对 AI 原生研发模式的采纳。&lt;/p&gt;&lt;p&gt;5 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), 宝玉 (@dotey), Hacker News AI, Yuchen Jin (@Yuchenj_UW), Anthropic AI (@AnthropicAI)&lt;/p&gt;</description>
-</item>
-<item><title>AssemblyAI 发布首款 TTS 模型 跻身语音竞技场前十</title><link>https://todayforai.com/en/story/story-c7399816-485</link><guid isPermaLink="true">https://todayforai.com/en/story/story-c7399816-485</guid>
-<pubDate>Thu, 29 Oct 2026 04:32:00 +0800</pubDate>
-<description>&lt;p&gt;AssemblyAI 正式推出其首款文本转语音（TTS）模型 AssemblyAI-TTS-1，标志着这家以语音识别起家的公司成功切入生成式语音赛道。该模型在 Artificial Analysis 的权威基准测试中表现亮眼，于 Controlled Voice 模式下排名第十，知识分享场景更是位列第六，展现出极强的发音鲁棒性与自然度。
-
-技术层面，AssemblyAI-TTS-1 专为构建实时语音智能体而设计，支持低至 90ms 的流式传输延迟，并提供超过 4000 种声音选项及 US/EU 节点部署能力。其定价策略极具侵略性，每百万字符仅收费 15 美元，显著低于 ElevenLabs v4 等头部竞品，仅高于 Gemini Flash-Lite 和 Simba 3.2，实现了高性能与高性价比的双重突破。
-
-这一举措不仅丰富了 OpenRouter 等聚合平台的语音生态，更对现有 TTS 市场格局形成冲击。凭借其在 ASR 领域的既有优势与 TTS 新模型的协同效应，AssemblyAI 有望为开发者提供更低成本、更高效率的全栈语音解决方案，加速语音交互应用的普及与迭代。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys), OpenRouter (@OpenRouter)&lt;/p&gt;</description>
+这一发布对开发者生态具有深远影响。GPT-6.1 Terra 已全面接入 ChatGPT Work、Codex、OpenRouter 及 Agent Arena，为高吞吐量的自动化工作流（如发票处理、表单填写、跨软件点击）提供了低成本解决方案。它填补了高端旗舰与低端轻量模型之间的空白，使得复杂代理任务的大规模商业化部署成为可能，进一步降低了 AI 应用落地的门槛。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;Arena.ai (@arena), Artificial Analysis (@ArtificialAnlys), Hacker News AI, 宝玉 (@dotey), OpenRouter (@OpenRouter), Artificial Analysis&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

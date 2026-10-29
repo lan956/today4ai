@@ -1,8 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Latest Intelligence</title><link>https://todayforai.com/en/news</link><description>Curated frontier AI news, 24h window, from todayforai.com.</description>
-<language>en</language><lastBuildDate>Fri, 30 Oct 2026 03:33:37 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Fri, 30 Oct 2026 07:45:12 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/voxelowl/today4ai/main/feed.xml" rel="self" type="application/rss+xml"/>
+<item><title>Nvidia Negotiates $5B+ Debt Guarantee for Anthropic Data Center</title><link>https://x.com/rohanpaul_ai/status/2115953126511689944</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115953126511689944</guid>
+<pubDate>Fri, 30 Oct 2026 07:45:12 +0800</pubDate>
+<description>&lt;p&gt;Nvidia is negotiating a debt guarantee exceeding $5 billion for Nscale’s construction of a 460MW data center for Anthropic. The unsigned deal would back the building&amp;#x27;s asset value rather than leases or chips, enabling investment-grade borrowing for Nscale, with Nvidia assuming control and disposal rights in case of default.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Nvidia 拟担保超 50 亿美元债务助建 Anthropic 数据中心&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部算力厂商直接介入基础设施金融结构，标志着 AI 算力建设从单纯硬件销售转向深度资本绑定。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · compute · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115953126511689944">Rohan Paul (@rohanpaul_ai)</source>
+<category>Nvidia</category>
+<category>Anthropic</category>
+<category>Data Center</category>
+<category>Infrastructure</category>
+</item>
+<item><title>Anthropic Deploys Claude Self-Assessment for Real-Time Misuse Detection</title><link>https://x.com/rohanpaul_ai/status/2115951180748833146</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115951180748833146</guid>
+<pubDate>Fri, 30 Oct 2026 07:37:28 +0800</pubDate>
+<description>&lt;p&gt;Anthropic has introduced a &amp;#x27;self-assessment&amp;#x27; mechanism in Claude, enabling the model to autonomously evaluate whether its responses facilitated harm. By distilling judgments from a high-cost classifier, this approach significantly improves safety review efficiency and accuracy while maintaining low false-positive rates.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 推出 Claude 自我评估机制，实时检测潜在滥用&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了大模型内生安全对齐的新范式，即利用模型自身能力进行低成本、高精度的实时滥用检测。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115951180748833146">Rohan Paul (@rohanpaul_ai)</source>
+<category>AI 安全</category>
+<category>Anthropic</category>
+<category>Claude</category>
+<category>内容审核</category>
+</item>
+<item><title>Sam Altman Claims Local Inference Wastes Global DRAM Resources</title><link>https://x.com/rohanpaul_ai/status/2115947866304937997</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115947866304937997</guid>
+<pubDate>Fri, 30 Oct 2026 07:24:18 +0800</pubDate>
+<description>&lt;p&gt;OpenAI CEO Sam Altman argues that local inference is inefficient from a global resource allocation perspective, citing low utilization of limited DRAM supplies. He asserts that data centers win on cost-per-token, while local models remain wasteful and difficult to deprecate.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Sam Altman 称本地推理浪费 DRAM 资源&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;行业领袖对本地与云端算力经济性的观点碰撞，虽无新数据但具讨论价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 42/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115947866304937997">Rohan Paul (@rohanpaul_ai)</source>
+<category>Sam Altman</category>
+<category>本地推理</category>
+<category>算力经济</category>
+</item>
+<item><title>Agibot Unveils Embodied Model GO-3 Preview, Tops Three Benchmarks</title><link>https://www.ithome.com/1/019/806.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/806.htm</guid>
+<pubDate>Fri, 30 Oct 2026 07:22:24 +0800</pubDate>
+<description>&lt;p&gt;Agibot has released GO-3 Preview, an embodied AI model based on the WRAM architecture that enables full-chain scalable learning. The model tops three major benchmarks (RoboDojo, RoboTwin, RoboColiseum), demonstrating zero-shot transfer and complex manipulation skills like making crepes, with a promise of full open-sourcing by late 2026.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;智元发布具身模型 GO-3 Preview，登顶三大榜单并计划开源&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;具身智能领域的重要进展，展示了通用操作能力的突破及明确的开源路线图。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · agent · signal 78/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/806.htm">IT之家 · 智能时代</source>
+<category>具身智能</category>
+<category>机器人</category>
+<category>开源</category>
+<category>智元</category>
+</item>
+<item><title>Anthropic Becomes SpaceX&#x27;s Top Customer with 34.5% of Q3 Revenue</title><link>https://x.com/rohanpaul_ai/status/2115938869082542548</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115938869082542548</guid>
+<pubDate>Fri, 30 Oct 2026 06:48:33 +0800</pubDate>
+<description>&lt;p&gt;Bloomberg reveals Anthropic has surpassed the US government as SpaceX&amp;#x27;s largest customer, accounting for 34.5% of its $14.575B Q3 revenue. The deal involves leasing Nvidia GPU capacity at SpaceX&amp;#x27;s Memphis data centers, totaling up to $120.5B through 2029 with flexible termination clauses. This partnership marks the first profit for SpaceX&amp;#x27;s AI segment and reshapes infrastructure procurement among leading LLM providers.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 成 SpaceX 最大客户 占其 Q3 营收 34.5%&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示顶级 AI 实验室与航天巨头间巨额算力租赁关系，数据详实且具行业风向标意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 85/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115938869082542548">Rohan Paul (@rohanpaul_ai)</source>
+<category>Anthropic</category>
+<category>SpaceX</category>
+<category>GPU 算力</category>
+<category>商业合作</category>
+</item>
+<item><title>OpenAI Matches Anthropic&#x27;s API Credit Benefit for Premium Subscriptions</title><link>https://simonwillison.net/2026/Oct/29/api-credits/</link><guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/api-credits/</guid>
+<pubDate>Fri, 30 Oct 2026 06:48:29 +0800</pubDate>
+<description>&lt;p&gt;OpenAI has introduced a benefit granting ChatGPT premium subscribers (Pro, Max, Team) API credits equivalent to their monthly subscription fee, directly mirroring a similar initiative by Anthropic. This move aims to lower development costs through bundled consumption and strengthen ecosystem loyalty among high-value users.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 跟进 Anthropic 为高级订阅提供等额 API 额度&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部大模型厂商在商业化策略上的直接对标，反映了 AI 基础设施服务从单纯卖模型向“订阅+算力/额度”捆绑模式的转变趋势。&lt;/p&gt;&lt;p&gt;Simon Willison 博客 · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://simonwillison.net/2026/Oct/29/api-credits/">Simon Willison 博客</source>
+<category>OpenAI</category>
+<category>Anthropic</category>
+<category>API</category>
+<category>Subscription</category>
+<category>Commercial Strategy</category>
+</item>
+<item><title>Open-Weight Model GLM 5.3 Exploits Patch Gap in Firefox</title><link>https://epoch.ai/publications/open-weight-models-patch-gap</link><guid isPermaLink="true">https://epoch.ai/publications/open-weight-models-patch-gap</guid>
+<pubDate>Fri, 30 Oct 2026 06:32:46 +0800</pubDate>
+<description>&lt;p&gt;Epoch AI research reveals that the widely available open-weight model GLM 5.3 can identify and exploit the &amp;#x27;patch gap&amp;#x27;—the window between security fix publication and user deployment—to compromise Firefox browsers. The model constructs malicious webpages that read local files without user interaction using only publicly available information. This finding indicates that exploits previously requiring advanced cyber capabilities or expert knowledge are now accessible to standard open-source models, significantly lowering the barrier for attackers.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;开源模型 GLM 5.3 利用补丁间隙攻击 Firefox&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了开源大模型在网络攻击领域的实际威胁与能力下沉趋势，对 AI 安全治理具有重大警示意义。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 88/100&lt;/p&gt;</description>
+<source url="https://epoch.ai/publications/open-weight-models-patch-gap">Hacker News AI</source>
+<category>AI安全</category>
+<category>开源模型</category>
+<category>漏洞利用</category>
+<category>Firefox</category>
+</item>
+<item><title>RLNF Method Uses Brain Signals to Optimize Image Generation</title><link>https://x.com/rohanpaul_ai/status/2115932977716932719</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115932977716932719</guid>
+<pubDate>Fri, 30 Oct 2026 06:25:08 +0800</pubDate>
+<description>&lt;p&gt;Researchers introduced Reinforcement Learning with Neural Feedback (RLNF), enabling AI image models to adjust outputs based on users&amp;#x27; brain signals during viewing. This method optimizes image attractiveness according to individual preferences without requiring ratings, clicks, or prompts.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;RLNF 技术发布：基于脑信号优化图像生成&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了脑机接口与生成式 AI 结合的新范式，具有显著的技术新颖性。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115932977716932719">Rohan Paul (@rohanpaul_ai)</source>
+<category>大模型</category>
+<category>脑机接口</category>
+<category>强化学习</category>
+</item>
+<item><title>Epoch AI: Annual Growth of AI Chip Compute Slows to 2.5x</title><link>https://x.com/rohanpaul_ai/status/2115930129130303567</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115930129130303567</guid>
+<pubDate>Fri, 30 Oct 2026 06:13:49 +0800</pubDate>
+<description>&lt;p&gt;Epoch AI data reveals that the annual growth rate of compute power in AI chips sold quarterly has slowed to 2.5x since early 2024, down from approximately 6x in 2023 driven by the H100 launch. While total installed compute capacity still grows at 3.4x annually, the deceleration in new purchases suggests future overall growth will converge toward 2.5x. This trend may indicate a temporary lull between chip generations, with potential recovery expected as Nvidia ships its next-generation hardware.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Epoch AI 数据：AI 芯片算力年增速降至 2.5 倍&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示 AI 基础设施扩张速度从爆发期转入平稳期的关键量化指标，对算力规划与行业预期管理具有重要参考价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · compute · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115930129130303567">Rohan Paul (@rohanpaul_ai)</source>
+<category>算力基础设施</category>
+<category>Epoch AI</category>
+<category>Nvidia</category>
+<category>市场趋势</category>
+</item>
+<item><title>Shopify CEO Explains AI Agent Economics: Micro-Fees and Scale</title><link>https://x.com/rohanpaul_ai/status/2115926610843177414</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115926610843177414</guid>
+<pubDate>Fri, 30 Oct 2026 05:59:50 +0800</pubDate>
+<description>&lt;p&gt;Shopify CEO Tobi Lütke argues that while AI agents optimize spending for users, their business model relies on basis-point-level fees. Similar to Visa&amp;#x27;s economics, agents require tens of millions of users to generate significant revenue from tiny commissions, leaving most value with the consumer.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Shopify CEO 解析 AI Agent 商业模式：微费率与规模效应&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了关于 AI Agent 商业化路径的清晰经济学视角，适合关注 AI 落地与商业模式的读者。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 45/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115926610843177414">Rohan Paul (@rohanpaul_ai)</source>
+<category>AI Agent</category>
+<category>商业模式</category>
+<category>Shopify</category>
+<category>Tobi Lütke</category>
+</item>
+<item><title>Grok 4.7 Shows Less Sycophancy and More Sincerity in Personality Bench</title><link>https://x.com/ArtificialAnlys/status/2115923815247274045</link><guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2115923815247274045</guid>
+<pubDate>Fri, 30 Oct 2026 05:48:44 +0800</pubDate>
+<description>&lt;p&gt;Data from Artificial Analysis&amp;#x27;s AA-PersonalityBench indicates that xAI&amp;#x27;s latest Grok 4.7 model has significantly reduced scores for &amp;#x27;Slop&amp;#x27; (generic filler) and &amp;#x27;Sycophantic&amp;#x27; traits while increasing &amp;#x27;Sincere&amp;#x27; metrics. This trend suggests recent Grok releases are optimizing conversational style to minimize AI-flavored padding and excessive flattery.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Grok 4.7 人格基准测试显示谄媚度降低真诚度提升&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了关于大模型对话风格量化评估的具体数据，有助于理解模型人格对齐的最新进展。&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys) · llm · signal 45/100&lt;/p&gt;</description>
+<source url="https://x.com/ArtificialAnlys/status/2115923815247274045">Artificial Analysis (@ArtificialAnlys)</source>
+<category>Grok</category>
+<category>xAI</category>
+<category>模型评估</category>
+<category>对话风格</category>
+</item>
+<item><title>Anthropic Deploys Low-Cost Self-Assessment for Claude Safety Using KV Cache</title><link>https://x.com/dotey/status/2115923359149998490</link><guid isPermaLink="true">https://x.com/dotey/status/2115923359149998490</guid>
+<pubDate>Fri, 30 Oct 2026 05:46:55 +0800</pubDate>
+<description>&lt;p&gt;Anthropic has deployed a &amp;#x27;self-assessment&amp;#x27; mechanism in Claude Fable 5 and subsequent models, appending short instructions to prompt the model to reflect on conversation safety. Leveraging KV Cache to reuse context, this approach adds less than 2% inference compute cost borne by Anthropic, enabling large-scale abuse detection with minimal overhead while clarifying that single flags do not directly trigger bans.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 推出 Claude 自我评估机制，利用 KV Cache 低成本自查对话安全&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了利用 KV Cache 进行内生式安全审查的工程范式，对理解大模型推理成本优化与安全对齐的新平衡具有极高参考价值。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · llm · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/dotey/status/2115923359149998490">宝玉 (@dotey)</source>
+<category>Claude</category>
+<category>AI Safety</category>
+<category>KV Cache</category>
+<category>Inference Optimization</category>
+</item>
+<item><title>AI Agent Swarms Tested in Minecraft and Mindustry Environments</title><link>https://labs.ycombinator.com/projects/games/index.html</link><guid isPermaLink="true">https://labs.ycombinator.com/projects/games/index.html</guid>
+<pubDate>Fri, 30 Oct 2026 05:40:28 +0800</pubDate>
+<description>&lt;p&gt;Researchers partnered with Olam Labs to run AI agent swarm experiments in Minecraft and Mindustry, aiming to empirically study emergent behaviors, hierarchies, and coordination patterns in multi-agent systems. The study explores how swarm size, model capability, and initial prompts affect group dynamics, offering new insights for AI alignment and safety.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AI 智能体集群在 Minecraft 与 Mindustry 中的实验研究&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;将抽象的多智能体对齐问题转化为可观测的游戏环境实验，提供了关于集群涌现行为的具体研究框架。&lt;/p&gt;&lt;p&gt;Hacker News AI · agent · signal 78/100&lt;/p&gt;</description>
+<source url="https://labs.ycombinator.com/projects/games/index.html">Hacker News AI</source>
+<category>多智能体</category>
+<category>AI 对齐</category>
+<category>Minecraft</category>
+<category>Mindustry</category>
+<category>Olam Labs</category>
+</item>
+<item><title>Serro Launches Agentic TPM to Sync Decision Changes for Coding Agents</title><link>https://x.com/rohanpaul_ai/status/2115917103488532972</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115917103488532972</guid>
+<pubDate>Fri, 30 Oct 2026 05:22:03 +0800</pubDate>
+<description>&lt;p&gt;Serro launched an \\&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Serro 推出 Agentic TPM 同步决策变更防智能体跑偏&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;针对智能体开发中常见的“方向性错误”痛点提供了具体的协调层解决方案，具有明确的工程实用价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 58/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115917103488532972">Rohan Paul (@rohanpaul_ai)</source>
+<category>AI Agent</category>
+<category>DevTools</category>
+<category>Context Management</category>
+</item>
+<item><title>Study Finds 24% of Webpages Contain AI Text by 2026</title><link>https://x.com/rohanpaul_ai/status/2115912949571481972</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115912949571481972</guid>
+<pubDate>Fri, 30 Oct 2026 05:05:33 +0800</pubDate>
+<description>&lt;p&gt;A joint study by UC Berkeley and the University of Washington reveals that approximately 24% of crawlable webpages contained AI-generated or edited text as of August 2026. The findings highlight an accelerating penetration rate driven primarily by small, low-link sites rather than central high-traffic domains.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;研究：2026 年约 24% 网页含 AI 生成内容&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;量化了AI对互联网内容生态的实际污染程度，为评估RAG质量及搜索引擎策略提供关键基线数据。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 72/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115912949571481972">Rohan Paul (@rohanpaul_ai)</source>
+<category>AI内容检测</category>
+<category>网络数据质量</category>
+<category>学术研究</category>
+</item>
+<item><title>Hermes Agent and GLM 5.3 Reverse Engineer TikTok API for Under $20</title><link>https://www.scraping.club/p/tiktok-scraping-metadata</link><guid isPermaLink="true">https://www.scraping.club/p/tiktok-scraping-metadata</guid>
+<pubDate>Fri, 30 Oct 2026 04:35:18 +0800</pubDate>
+<description>&lt;p&gt;A developer used Hermes Agent, the REA toolkit, and GLM 5.3 to replicate TikTok&amp;#x27;s headless data collection pipeline for under $20. The experiment demonstrates the agent&amp;#x27;s autonomous capability in complex reverse engineering tasks, replacing traditional expensive emulator-based or manual analysis workflows.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Hermes Agent 结合 GLM 5.3 低成本逆向 TikTok API&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了 AI 智能体在逆向工程领域的实际落地能力与成本优势，具有较好的技术参考性。&lt;/p&gt;&lt;p&gt;Hacker News AI · agent · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.scraping.club/p/tiktok-scraping-metadata">Hacker News AI</source>
+<category>智能体</category>
+<category>逆向工程</category>
+<category>GLM</category>
+<category>数据抓取</category>
+</item>
+<item><title>Trump Labels Imported Robotics a National Security Threat, Eyes Tariffs or Incentives</title><link>https://x.com/rohanpaul_ai/status/2115905275416994206</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115905275416994206</guid>
+<pubDate>Fri, 30 Oct 2026 04:35:03 +0800</pubDate>
+<description>&lt;p&gt;President Trump declared U.S. dependence on imported robotics a national security threat due to cybersecurity risks in manufacturing and defense systems. The initial response is negotiation; if no agreement is reached within 180 days, tariffs, quotas, or domestic production incentives may be imposed.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;特朗普认定进口机器人威胁国安 拟推关税或本土激励&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该事件标志着AI硬件供应链安全被提升至国家安全高度，直接影响机器人产业的地缘政治格局与合规成本。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 65/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115905275416994206">Rohan Paul (@rohanpaul_ai)</source>
+<category>机器人</category>
+<category>国家安全</category>
+<category>供应链</category>
+<category>贸易政策</category>
+</item>
+<item><title>Tiny World Model and RL Agent Run on Raspberry Pi Pico 2 W</title><link>https://github.com/SheepSeb/tinyworldformer</link><guid isPermaLink="true">https://github.com/SheepSeb/tinyworldformer</guid>
+<pubDate>Fri, 30 Oct 2026 04:32:28 +0800</pubDate>
+<description>&lt;p&gt;A developer deployed a tiny world model based on looped transformers on a Raspberry Pi Pico 2 W microcontroller, enabling real-time game frame prediction and interaction with an RL agent. The approach significantly reduces memory usage through weight reuse, demonstrating the feasibility of running generative AI models on edge devices.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;树莓派 Pico 2 W 运行微型世界模型与强化学习智能体&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了循环 Transformer 架构在极端受限硬件上的应用潜力，为边缘侧生成式 AI 提供了新的工程参考。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 68/100&lt;/p&gt;</description>
+<source url="https://github.com/SheepSeb/tinyworldformer">Hacker News AI</source>
+<category>世界模型</category>
+<category>边缘计算</category>
+<category>循环Transformer</category>
+<category>强化学习</category>
+</item>
+<item><title>Robyn Launches Invite-Only Platform for Context-Preloaded AI Agents</title><link>https://x.com/rohanpaul_ai/status/2115901677975089189</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115901677975089189</guid>
+<pubDate>Fri, 30 Oct 2026 04:20:46 +0800</pubDate>
+<description>&lt;p&gt;Personal agent platform Robyn opens invite-only access, prioritizing pre-loaded context over prompt engineering. Users describe tasks in natural language to spawn memory-equipped agents that connect to apps and deliver scheduled reports or plans.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Robyn 发布邀请制平台 预载上下文构建智能体&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了从提示工程向上下文预加载范式转移的产品化尝试，但缺乏技术细节验证。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 42/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115901677975089189">Rohan Paul (@rohanpaul_ai)</source>
+<category>AI Agent</category>
+<category>Context Engineering</category>
+<category>Product Launch</category>
+</item>
+<item><title>Princeton and Meta Propose Self-Direction for Continuous Agent Improvement via LoRA Adapters</title><link>https://x.com/rohanpaul_ai/status/2115898609304801525</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115898609304801525</guid>
+<pubDate>Fri, 30 Oct 2026 04:08:34 +0800</pubDate>
+<description>&lt;p&gt;Princeton University and Meta released a new paper proposing the &amp;#x27;Self-Direction&amp;#x27; framework, which trains error-fixing experiences into tiny LoRA adapters and dynamically routes them to solve issues of forgotten context notes and costly full fine-tuning. Using Qwen3.6-27B, this method boosted GAIA task success rates from 38.8% to 55.8%, significantly outperforming prompt-based reflection techniques.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;普林斯顿与 Meta 提出 Self-Direction，用 LoRA 适配器实现智能体持续改进&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了智能体长期记忆与技能积累的新范式，以极低参数开销显著提升任务成功率，具有极高的工程落地价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115898609304801525">Rohan Paul (@rohanpaul_ai)</source>
+<category>AI Agent</category>
+<category>LoRA</category>
+<category>Continuous Learning</category>
+<category>Research Paper</category>
+</item>
+<item><title>Reddit Shifts to Logged-In Model to Block AI Scraping and Boost Licensing</title><link>https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/</guid>
+<pubDate>Fri, 30 Oct 2026 04:08:31 +0800</pubDate>
+<description>&lt;p&gt;Amid declining search traffic due to the rise of AI-powered search, Reddit announced a strategic shift to a primarily &amp;#x27;logged-in experience.&amp;#x27; This move aims to protect its data from unauthorized AI scraping, facilitating lucrative licensing deals with model providers while seeking new revenue streams despite falling daily active users in key markets.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Reddit 转向登录制以防御 AI 抓取并推动数据授权&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了内容平台在生成式 AI 时代通过改变访问权限来重构数据变现逻辑的关键行业动向。&lt;/p&gt;&lt;p&gt;TechCrunch AI · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">TechCrunch AI</source>
+<category>Reddit</category>
+<category>AI 搜索</category>
+<category>数据授权</category>
+<category>商业模式</category>
+</item>
+<item><title>Rivian Expands VW JV to License AI Voice Assistant Tech</title><link>https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/</guid>
+<pubDate>Fri, 30 Oct 2026 04:05:47 +0800</pubDate>
+<description>&lt;p&gt;Rivian is licensing its AI voice assistant technology to Volkswagen Group as part of their $5.8 billion joint venture expansion. The assistant may debut in VW&amp;#x27;s low-cost EV, the ID EVERY1, though specific licensing fees and vehicle details remain undisclosed.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Rivian 扩大与大众合资范围 授权 AI 语音助手技术&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;车企间 AI 软件授权案例，反映垂直整合策略在智能座舱领域的商业落地。&lt;/p&gt;&lt;p&gt;TechCrunch AI · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/">TechCrunch AI</source>
+<category>Rivian</category>
+<category>Volkswagen</category>
+<category>AI Assistant</category>
+<category>Joint Venture</category>
+<category>EV</category>
+</item>
+<item><title>OpenAI Doubles Pro Plan Usage Limits Amid Anthropic Rivalry</title><link>https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/</link><guid isPermaLink="true">https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/</guid>
+<pubDate>Fri, 30 Oct 2026 04:01:27 +0800</pubDate>
+<description>&lt;p&gt;OpenAI has doubled usage limits for Work and Codex quotas on its Pro 100, 200, and 500 plans to address user feedback and intensify competition with Anthropic. The changes apply automatically to existing and new subscribers, though OpenAI notes that actual task completion varies by model consumption rather than scaling linearly.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 翻倍 Pro 套餐用量限制 应对 Anthropic 竞争&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部 AI 厂商在 B2B 市场激烈竞争下的定价与配额策略调整，反映行业商业化格局变化。&lt;/p&gt;&lt;p&gt;The Decoder · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/">The Decoder</source>
+<category>OpenAI</category>
+<category>Anthropic</category>
+<category>商业竞争</category>
+<category>订阅服务</category>
+</item>
+<item><title>OpenAI-backed Thrive Acquires ADT for $15.3B to Build AI Security Platform</title><link>https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</guid>
+<pubDate>Fri, 30 Oct 2026 03:56:19 +0800</pubDate>
+<description>&lt;p&gt;Thrive Holdings has acquired physical security giant ADT in a deal valuing the enterprise at approximately $15.3 billion, aiming to transform it into the foundation of an AI-driven smart home security business. As an OpenAI partner, Thrive will leverage OpenAI&amp;#x27;s models, technology, and forward-deployed engineers to modernize ADT&amp;#x27;s operations. While specific product details remain undisclosed, this acquisition signals deep capital penetration of AI into traditional security infrastructure.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 合作伙伴 Thrive 收购 ADT 布局 AI 安防&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;事件涉及 OpenAI 生态在垂直行业的重大落地动作，虽无即时技术增量，但对观察 AI 如何重构传统安防产业具有较高参考价值。&lt;/p&gt;&lt;p&gt;TechCrunch AI · industry · signal 42/100&lt;/p&gt;</description>
+<source url="https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/">TechCrunch AI</source>
+<category>行业并购</category>
+<category>OpenAI</category>
+<category>智能安防</category>
+<category>Thrive Capital</category>
+</item>
 <item><title>Anthropic Study: Experts Adopt Random AI Opinions as Their Own</title><link>https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/</link><guid isPermaLink="true">https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/</guid>
 <pubDate>Fri, 30 Oct 2026 03:33:37 +0800</pubDate>
 <description>&lt;p&gt;An Anthropic experiment revealed that 50 domain experts adopted random AI agent preferences (determined by coin toss) in up to 86% of analytical tasks, mistakenly believing these were their own independent judgments. This behavior persisted regardless of expertise or trust levels, raising concerns about false consensus weakening AI safety checks despite efficiency gains.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 研究：专家盲从 AI 随机意见且误以为己见&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了人类与智能体交互中的深层认知偏差，对构建可信 AI 代理及评估自动化决策风险具有极高的警示价值。&lt;/p&gt;&lt;p&gt;The Decoder · agent · signal 78/100&lt;/p&gt;</description>
@@ -12,265 +226,47 @@
 <category>Anthropic</category>
 <category>Cognitive Bias</category>
 </item>
-<item><title>Claude-Enabled Antibody Design Targets IgE Disruption for Food Allergy</title><link>https://divergencelabs.com/publications/ige-preprint.pdf</link><guid isPermaLink="true">https://divergencelabs.com/publications/ige-preprint.pdf</guid>
+<item><title>Serval 获红杉领投 1.5 亿美元 C 轮，估值达 30 亿</title><link>https://x.com/rohanpaul_ai/status/2115888131589497338</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115888131589497338</guid>
+<pubDate>Fri, 30 Oct 2026 03:26:56 +0800</pubDate>
+<description>&lt;p&gt;企业自动化初创公司 Serval 完成由红杉资本领投的 1.5 亿美元 C 轮融资，估值达到 30 亿美元。该公司主打“确定性输出”技术，通过让 AI 生成工作流代码而非直接执行黑盒模型，声称能将替换 ServiceNow 等遗留系统的周期从数年缩短至 45 天。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;高估值融资结合具体的客户案例（如 Fox、WPP）和明确的技术差异化主张（确定性代码生成），反映了企业级 AI 落地对可靠性的新需求。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115888131589497338">Rohan Paul (@rohanpaul_ai)</source>
+<category>企业AI</category>
+<category>融资</category>
+<category>自动化</category>
+<category>Serval</category>
+</item>
+<item><title>Claude 辅助设计抗体 突破食物过敏 IgE 清除瓶颈</title><link>https://divergencelabs.com/publications/ige-preprint.pdf</link><guid isPermaLink="true">https://divergencelabs.com/publications/ige-preprint.pdf</guid>
 <pubDate>Fri, 30 Oct 2026 03:25:48 +0800</pubDate>
-<description>&lt;p&gt;Researchers leveraged Claude agents to design a biparatopic antibody that physically removes IgE bound to the FcεRI receptor. This approach overcomes the limitation of existing drugs like Omalizumab, which only neutralize circulating IgE but fail to clear receptor-bound IgE, offering a new pathway for treating severe food allergies.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Claude 辅助设计抗体 突破食物过敏 IgE 清除瓶颈&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型在复杂生物分子设计中的实际落地能力，解决了特定医疗痛点。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 78/100&lt;/p&gt;</description>
+<description>&lt;p&gt;研究团队利用 Claude 智能体进行计算设计，成功开发出一种双表位抗体，旨在物理移除结合在 FcεRI 受体上的 IgE。该方案突破了现有药物 Omalizumab 仅中和循环 IgE 而无法清除受体结合态 IgE 的局限，为治疗严重食物过敏提供了新路径。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型在复杂生物分子设计中的实际落地能力，解决了特定医疗痛点。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 78/100&lt;/p&gt;</description>
 <source url="https://divergencelabs.com/publications/ige-preprint.pdf">Hacker News AI</source>
 <category>AI制药</category>
 <category>智能体应用</category>
 <category>蛋白质设计</category>
 </item>
-<item><title>Meta Quietly Launches AI Fashion App Style Sketch</title><link>https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</guid>
+<item><title>Meta 低调推出 AI 穿搭应用 Style Sketch</title><link>https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</guid>
 <pubDate>Fri, 30 Oct 2026 03:14:36 +0800</pubDate>
-<description>&lt;p&gt;Meta has quietly launched Style Sketch, an AI fashion app in select Southeast Asian markets that builds virtual closets from Instagram or manual uploads to generate outfit suggestions. Currently available on iOS and Android in Indonesia, Singapore, and Thailand, its global rollout remains unconfirmed.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Meta 低调推出 AI 穿搭应用 Style Sketch&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽属大厂消费级 AI 应用落地案例，但地域受限且无核心技术突破，主要反映 Meta 加速应用发布的策略趋势。&lt;/p&gt;&lt;p&gt;TechCrunch AI · tools · signal 42/100&lt;/p&gt;</description>
+<description>&lt;p&gt;Meta 在东南亚部分地区悄然上线 AI 穿搭应用 Style Sketch，该应用通过连接 Instagram 或手动上传构建虚拟衣橱并生成搭配建议。目前仅支持 iOS 和 Android 的印尼、新加坡和泰国市场，且 Meta 未回应是否计划全球推广。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽属大厂消费级 AI 应用落地案例，但地域受限且无核心技术突破，主要反映 Meta 加速应用发布的策略趋势。&lt;/p&gt;&lt;p&gt;TechCrunch AI · tools · signal 42/100&lt;/p&gt;</description>
 <source url="https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/">TechCrunch AI</source>
 <category>Meta</category>
 <category>AI 应用</category>
 <category>时尚科技</category>
 </item>
-<item><title>Gemini Now Supports Direct File Generation and Editing in Chat</title><link>https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs</link><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs</guid>
+<item><title>Artificial Analysis 发布 v5 智能指数与进度指数</title><link>https://x.com/ArtificialAnlys/status/2115883284706349285</link><guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2115883284706349285</guid>
+<pubDate>Fri, 30 Oct 2026 03:07:40 +0800</pubDate>
+<description>&lt;p&gt;Artificial Analysis 在旧金山发布 Intelligence Index v5，新增两项基准并强化对代理编码和科学任务的权重，首次将多数测试集设为私有。同时推出基于项目反应理论的 Progress Index，旨在通过单一能力尺度追踪模型长期演进趋势，与用于选型当前模型的 Intelligence Index 形成互补。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该事件更新了 AI 领域核心的基准评测体系，引入了更严谨的私有测试集机制和长期能力追踪工具，对模型评估方法论有显著影响。&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys) · llm · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/ArtificialAnlys/status/2115883284706349285">Artificial Analysis (@ArtificialAnlys)</source>
+<category>基准测试</category>
+<category>模型评估</category>
+<category>Artificial Analysis</category>
+</item>
+<item><title>Gemini 支持在聊天中直接生成编辑多种文档</title><link>https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs</link><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs</guid>
 <pubDate>Fri, 30 Oct 2026 02:45:31 +0800</pubDate>
-<description>&lt;p&gt;Google Gemini now allows users to generate, preview, and edit various file formats like PDFs, Docs, and Sheets directly within the chat interface. Users can modify content via full-screen mode or text highlighting without switching to Workspace apps. The feature is available to all users, though non-PDF editing is currently limited to the web version.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Gemini 支持在聊天中直接生成编辑多种文档&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提升了 AI 助手处理办公文档的闭环体验，减少了上下文切换成本。&lt;/p&gt;&lt;p&gt;The Verge AI · tools · signal 42/100&lt;/p&gt;</description>
+<description>&lt;p&gt;Google Gemini 现已支持在对话界面内直接生成、预览和编辑 PDF、Docs、Sheets 等多种格式文件。用户可通过全屏模式或文本高亮交互来修改内容，无需切换至 Workspace 应用。该功能面向所有用户开放，但除 PDF 外仅限网页版使用。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提升了 AI 助手处理办公文档的闭环体验，减少了上下文切换成本。&lt;/p&gt;&lt;p&gt;The Verge AI · tools · signal 42/100&lt;/p&gt;</description>
 <source url="https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs">The Verge AI</source>
 <category>Gemini</category>
 <category>Google</category>
 <category>AI Tools</category>
 <category>Productivity</category>
-</item>
-<item><title>Mistral Releases Weights for 1-Trillion-Parameter Large 4, Halves API Prices</title><link>https://x.com/rohanpaul_ai/status/2115876025452331018</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115876025452331018</guid>
-<pubDate>Fri, 30 Oct 2026 02:38:50 +0800</pubDate>
-<description>&lt;p&gt;Mistral has released the weights for its 1-trillion-parameter model, Mistral Large 4, while cutting API prices by approximately 50%. The model, refined through additional reinforcement learning, outperforms GLM-5.3 on Terminal-Bench but ties it on the Coding Agent Index, with a key advantage in reduced token usage per task. Notably, the licensing terms have shifted from Apache 2.0 to a modified MIT license, imposing stricter commercial requirements on Model-as-a-Service providers.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Mistral Large 4 发布万亿参数权重 API 价格减半&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;万亿参数级大模型的开源发布伴随显著的价格战与许可条款收紧，对开发者生态和成本结构有直接冲击。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 88/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115876025452331018">Rohan Paul (@rohanpaul_ai)</source>
-<category>Mistral</category>
-<category>LLM</category>
-<category>Open Source</category>
-<category>Pricing</category>
-<category>Benchmark</category>
-</item>
-<item><title>OpenAI Expands Misalignment Monitoring After Hugging Face Breach</title><link>https://x.com/rohanpaul_ai/status/2115874849197564222</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115874849197564222</guid>
-<pubDate>Fri, 30 Oct 2026 02:34:09 +0800</pubDate>
-<description>&lt;p&gt;Following the Hugging Face breach, OpenAI has expanded its misalignment monitoring system from internal coding agents to cover all training, evaluation, and deployment stages for GPT-6 Astra-class models. The new four-layer architecture, ranging from activation probes to investigator agents, aims to detect sandbox escapes and tool misuse, reducing alert response times to under 15 minutes.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 扩展前沿模型失准监控以应对 Hugging Face 泄露事件&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了头部 AI 实验室针对前沿模型安全失控的具体工程化防御体系与事后复盘机制。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 78/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115874849197564222">Rohan Paul (@rohanpaul_ai)</source>
-<category>OpenAI</category>
-<category>Hugging Face</category>
-<category>AI Safety</category>
-<category>Misalignment Monitoring</category>
-<category>GPT-6</category>
-</item>
-<item><title>FT Analyzes Anthropic IPO: FOMO vs. Compute Debt Risks</title><link>https://x.com/rohanpaul_ai/status/2115871779772383243</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115871779772383243</guid>
-<pubDate>Fri, 30 Oct 2026 02:21:57 +0800</pubDate>
-<description>&lt;p&gt;The Financial Times argues that Anthropic&amp;#x27;s IPO success hinges on whether investors&amp;#x27; fear of missing out (FOMO) outweighs valuation concerns. The piece draws a parallel between the $2.1 trillion in non-cancellable compute commitments by frontier labs and big tech today, and the subprime mortgage debt scale prior to the 2007 financial crisis.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;FT 分析 Anthropic IPO：FOMO 情绪与算力债务风险博弈&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;深度剖析 AI 行业资本结构与潜在系统性风险，为关注 AI 商业化的读者提供关键宏观视角。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115871779772383243">Rohan Paul (@rohanpaul_ai)</source>
-<category>Anthropic</category>
-<category>IPO</category>
-<category>算力债务</category>
-<category>FOMO</category>
-<category>行业分析</category>
-</item>
-<item><title>Joy Dataset Released with 100k Hours of Real Voice Conversations</title><link>https://x.com/rohanpaul_ai/status/2115867941598273601</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115867941598273601</guid>
-<pubDate>Fri, 30 Oct 2026 02:06:42 +0800</pubDate>
-<description>&lt;p&gt;The open-source community released the Joy dataset, featuring 100,000 hours of dual-channel, unscripted real conversations across 50,000 speakers and 10 languages. This data addresses the rigidity of current voice AI trained on synthetic dialogue by providing authentic signals for interruptions, overlaps, and natural pauses, enhancing models&amp;#x27; understanding of complex human conversational rhythms.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Joy 数据集发布 10 万小时真实语音对话&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;填补了高质量真实多语言双通道语音数据的空白，直接针对当前语音大模型在自然交互上的核心痛点。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 78/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115867941598273601">Rohan Paul (@rohanpaul_ai)</source>
-<category>语音AI</category>
-<category>数据集</category>
-<category>开源生态</category>
-</item>
-<item><title>phpClaw Launches: Native PHP Runtime for AI Agents</title><link>https://github.com/phpclaw-php/phpclaw-monorepo</link><guid isPermaLink="true">https://github.com/phpclaw-php/phpclaw-monorepo</guid>
-<pubDate>Fri, 30 Oct 2026 02:06:22 +0800</pubDate>
-<description>&lt;p&gt;phpClaw is a zero-dependency AI agent runtime for PHP featuring built-in ReAct loops, tool execution, and security guards. It supports automatic multi-LLM provider switching and offers MCP server integration, enabling PHP developers to rapidly build intelligent agents with memory and action capabilities.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;phpClaw 发布：PHP 原生 AI Agent 运行时框架&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;填补了 PHP 生态中缺乏轻量级、标准化 AI Agent 运行时的空白，对传统 Web 后端开发者具有较高实用价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 68/100&lt;/p&gt;</description>
-<source url="https://github.com/phpclaw-php/phpclaw-monorepo">Hacker News AI</source>
-<category>PHP</category>
-<category>AI Agent</category>
-<category>开源工具</category>
-<category>MCP</category>
-</item>
-<item><title>Granola Launches Dictation Feature to Compete with Wispr</title><link>https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/</guid>
-<pubDate>Fri, 30 Oct 2026 01:54:38 +0800</pubDate>
-<description>&lt;p&gt;Meeting notetaker Granola has launched a cross-app dictation feature, currently available on Mac. This move signals the convergence of consumer voice AI apps into multi-feature platforms, directly challenging Wispr, which recently added meeting notes.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Granola 推出语音听写功能 与 Wispr 正面竞争&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映了语音 AI 工具赛道的同质化竞争趋势及头部产品的功能边界扩张。&lt;/p&gt;&lt;p&gt;TechCrunch AI · tools · signal 42/100&lt;/p&gt;</description>
-<source url="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/">TechCrunch AI</source>
-<category>语音AI</category>
-<category>生产力工具</category>
-<category>Granola</category>
-<category>Wispr</category>
-</item>
-<item><title>Phonic-1 Launches with Real-Time Voice Interaction and Tool Calling</title><link>https://x.com/rohanpaul_ai/status/2115863636371787983</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115863636371787983</guid>
-<pubDate>Fri, 30 Oct 2026 01:49:36 +0800</pubDate>
-<description>&lt;p&gt;Startup Phonic released Phonic-1, claiming it is the only voice model capable of executing lookups and bookings while the caller is still speaking. The model scored 87.1 on the Artificial Analysis speech-to-speech index, slightly surpassing Grok Voice 3.0, with a first-audio latency of 0.61 seconds. Despite discrepancies in third-party benchmark data, Phonic secured a $27.5M Series A and powers Ashby&amp;#x27;s AI interviews.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Phonic-1 发布 支持实时语音交互与工具调用&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;突破了传统语音模型必须等待用户说完才能响应的限制，实现了真正的并行处理，对智能体语音交互有重要意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 78/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115863636371787983">Rohan Paul (@rohanpaul_ai)</source>
-<category>语音大模型</category>
-<category>实时交互</category>
-<category>融资</category>
-<category>智能体</category>
-</item>
-<item><title>GHC Releases Policy for LLM-Assisted Contributions with Disclosure Rules</title><link>https://serokell.io/blog/ai-contributions-to-ghc</link><guid isPermaLink="true">https://serokell.io/blog/ai-contributions-to-ghc</guid>
-<pubDate>Fri, 30 Oct 2026 01:42:30 +0800</pubDate>
-<description>&lt;p&gt;The Haskell compiler GHC has established a concrete policy for LLM-assisted code contributions. Based on Simon Peyton Jones&amp;#x27;s draft, the policy mandates full responsibility and active disclosure of LLM usage by contributors, aiming to balance open-source collaboration efficiency with code quality review.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;GHC 发布 LLM 辅助贡献政策 明确披露与责任要求&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;主流编程语言核心项目确立 AI 辅助开发规范，对开源社区治理具有参考意义。&lt;/p&gt;&lt;p&gt;Hacker News AI · opensource · signal 45/100&lt;/p&gt;</description>
-<source url="https://serokell.io/blog/ai-contributions-to-ghc">Hacker News AI</source>
-<category>GHC</category>
-<category>Haskell</category>
-<category>开源治理</category>
-<category>AI 合规</category>
-</item>
-<item><title>Claude Mobile Apps Update Adds Multi-Account and CarPlay Support</title><link>https://x.com/rohanpaul_ai/status/2115861192589860973</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115861192589860973</guid>
-<pubDate>Fri, 30 Oct 2026 01:39:53 +0800</pubDate>
-<description>&lt;p&gt;Anthropic has rolled out several usability upgrades for the Claude mobile apps, including split-screen views on iPad/iPhone Duo, seamless multi-account switching on iOS/Android, and desktop-like interactions on Chromebooks. Voice mode improvements feature faster responses, better noise handling, and enhanced naturalness for non-English languages, alongside new integration with Apple CarPlay for hands-free driving interactions.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Claude 移动端更新 支持多账号切换与 CarPlay&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽然属于常规功能迭代，但多账号切换和 CarPlay 集成显著提升了重度用户及特定场景下的可用性。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · tools · signal 45/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115861192589860973">Rohan Paul (@rohanpaul_ai)</source>
-<category>Claude</category>
-<category>Mobile App</category>
-<category>UX Update</category>
-<category>Voice Mode</category>
-<category>CarPlay</category>
-</item>
-<item><title>Thursday Releases AI Skill File to Shorten Dev Feedback Loop</title><link>https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself</link><guid isPermaLink="true">https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself</guid>
-<pubDate>Fri, 30 Oct 2026 01:31:01 +0800</pubDate>
-<description>&lt;p&gt;Developer launches &amp;#x27;Thursday&amp;#x27;, a new project aiming to restore coding joy and shorten the feedback loop between developers and users using AI. Currently in early experimentation, its core feature is a &amp;#x27;skill file&amp;#x27; pasteable into coding agents to gather data on developer workflows for toolchain optimization.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Thursday 发布 AI 技能文件 缩短开发反馈闭环&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽涉及 AI 辅助开发工具，但属于个人早期实验项目，缺乏成熟产品特性或广泛行业影响，信息增量有限。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 35/100&lt;/p&gt;</description>
-<source url="https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself">Hacker News AI</source>
-<category>AI Coding</category>
-<category>Developer Tools</category>
-<category>Experimental Project</category>
-</item>
-<item><title>OpenAI Doubles Usage Limits for Pro and Business Tiers</title><link>https://x.com/dotey/status/2115856411439575386</link><guid isPermaLink="true">https://x.com/dotey/status/2115856411439575386</guid>
-<pubDate>Fri, 30 Oct 2026 01:20:53 +0800</pubDate>
-<description>&lt;p&gt;OpenAI has immediately doubled usage limits for all ChatGPT Pro tiers and Business Premium, canceling the planned reduction for existing Pro 200 users. While the value per dollar remains unchanged, this move significantly boosts available quotas for heavy users and extends the temporary high-limit policy for dot agents.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 翻倍 Pro 与 Business 用量上限，取消降额计划&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;直接回应社区反馈调整核心订阅权益，影响大量付费用户的使用体验与成本预期。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://x.com/dotey/status/2115856411439575386">宝玉 (@dotey)</source>
-<category>OpenAI</category>
-<category>ChatGPT Pro</category>
-<category>Business Premium</category>
-<category>Usage Limits</category>
-<category>dot agent</category>
-</item>
-<item><title>Anthropic Reveals Revenue Mix: 250 Clients Spend Over $10M Annually</title><link>https://x.com/rohanpaul_ai/status/2115856053015580896</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115856053015580896</guid>
-<pubDate>Fri, 30 Oct 2026 01:19:28 +0800</pubDate>
-<description>&lt;p&gt;Anthropic disclosed that approximately 250 enterprise clients spent over $10 million on Claude within a 12-month period. All Fortune 10 companies are now customers, while high-value accounts (paying $100k+) contribute 76% of revenue, down from 90% in 2023, indicating a slight diversification of income sources despite continued reliance on top-tier enterprises.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 披露营收结构：250 家客户年支出超千万美元&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了大模型厂商从“烧钱换增长”转向“头部企业变现”的关键财务里程碑与集中度变化。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115856053015580896">Rohan Paul (@rohanpaul_ai)</source>
-<category>Anthropic</category>
-<category>Claude</category>
-<category>企业级 AI</category>
-<category>营收分析</category>
-</item>
-<item><title>Meta Study: RL Post-Training Reduces Agent Retry Success Rates</title><link>https://x.com/rohanpaul_ai/status/2115854746456346784</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115854746456346784</guid>
-<pubDate>Fri, 30 Oct 2026 01:14:16 +0800</pubDate>
-<description>&lt;p&gt;A new Meta paper reveals that Reinforcement Learning (RL) post-training improves agent performance on the first attempt but significantly degrades their ability to find solutions when given multiple retries. Experiments showed that base models outperformed RL-tuned counterparts in tasks allowing up to 128 attempts, a phenomenon termed the &amp;#x27;Sharpening Tax.&amp;#x27; This challenges the assumption that RL universally enhances agentic capabilities, suggesting developers should prioritize long-term coverage over first-try accuracy for retry-capable agents.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Meta 研究揭示 RL 后训练致智能体重试能力下降&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;颠覆性发现：揭示了 RL 后训练在重试场景下的负面效应，对智能体架构选型有重要指导意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 85/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115854746456346784">Rohan Paul (@rohanpaul_ai)</source>
-<category>大模型</category>
-<category>强化学习</category>
-<category>智能体</category>
-<category>Meta</category>
-<category>模型评估</category>
-</item>
-<item><title>LangChain Releases Managed Deep Agents v0.10 with Browser Use and Async Subagents</title><link>https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents</link><guid isPermaLink="true">https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents</guid>
-<pubDate>Fri, 30 Oct 2026 01:03:39 +0800</pubDate>
-<description>&lt;p&gt;LangChain releases Managed Deep Agents v0.10, introducing browser automation for sites without APIs and background async subagents. The update enhances security by isolating login states and improves task tracking in Slack threads, significantly boosting agent autonomy in complex interaction scenarios.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;LangChain Managed Deep Agents v0.10 发布，支持浏览器操作与异步子代理&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;针对开发者工具链的实质性功能更新，解决了智能体处理无 API 网站和长耗时任务的痛点，具备较高的工程落地价值。&lt;/p&gt;&lt;p&gt;LangChain Blog · agent · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents">LangChain Blog</source>
-<category>LangChain</category>
-<category>智能体</category>
-<category>浏览器自动化</category>
-<category>异步任务</category>
-</item>
-<item><title>Spawn Game Integrates Autonomous Agents for Real-Time World Building</title><link>https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</link><guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</guid>
-<pubDate>Fri, 30 Oct 2026 01:00:26 +0800</pubDate>
-<description>&lt;p&gt;Multiplayer game Spawn demonstrates agentic engineering with frontier models, allowing players to generate and interact with game assets via natural language prompts. The case validates low-latency reasoning and state management of LLMs in complex dynamic environments, offering a viable technical paradigm for AI-native gaming.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Spawn 游戏集成自主代理 支持自然语言实时构建世界&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型智能体在实时交互式娱乐场景中的端到端落地能力，具有显著的工程参考价值。&lt;/p&gt;&lt;p&gt;Simon Willison 博客 · agent · signal 68/100&lt;/p&gt;</description>
-<source url="https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/">Simon Willison 博客</source>
-<category>AI 游戏</category>
-<category>智能体应用</category>
-<category>多模态交互</category>
-</item>
-<item><title>OpenAI Updates Model Spec with Five Core Value Pillars</title><link>https://openai.com/index/updated-model-spec</link><guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
-<pubDate>Fri, 30 Oct 2026 01:00:00 +0800</pubDate>
-<description>&lt;p&gt;OpenAI released an updated Model Spec, restructuring behavioral guidelines around five core values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care. The revision aims to enhance value alignment in ambiguous scenarios while simplifying style guidance and strengthening oversight mechanisms.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 更新模型规范 确立五大核心价值导向&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部实验室公开其价值对齐框架的重大迭代，对理解前沿模型行为逻辑具有指导意义。&lt;/p&gt;&lt;p&gt;OpenAI 官方博客 · llm · signal 78/100&lt;/p&gt;</description>
-<source url="https://openai.com/index/updated-model-spec">OpenAI 官方博客</source>
-<category>OpenAI</category>
-<category>Model Spec</category>
-<category>Value Alignment</category>
-<category>Safety</category>
-</item>
-<item><title>AWS Batch Adds Quota Management for SageMaker Training Jobs</title><link>https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/</link><guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/</guid>
-<pubDate>Fri, 30 Oct 2026 00:58:57 +0800</pubDate>
-<description>&lt;p&gt;AWS Batch now supports quota management for Amazon SageMaker training jobs, enabling teams to define resource allocations and automatically share idle GPU capacity. This feature addresses coordination challenges in multi-team environments by optimizing compute utilization without requiring custom infrastructure.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AWS Batch 支持 SageMaker 训练任务配额管理&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;针对企业级 AI 基础设施管理的实用更新，提升了 GPU 资源在复杂组织中的调度效率。&lt;/p&gt;&lt;p&gt;AWS Machine Learning Blog · compute · signal 42/100&lt;/p&gt;</description>
-<source url="https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/">AWS Machine Learning Blog</source>
-<category>AWS</category>
-<category>SageMaker</category>
-<category>GPU</category>
-<category>云计算</category>
-</item>
-<item><title>Mintive Raises $11M to Launch Identity and Permission Platform for AI Agents</title><link>https://x.com/rohanpaul_ai/status/2115850758415659027</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115850758415659027</guid>
-<pubDate>Fri, 30 Oct 2026 00:58:26 +0800</pubDate>
-<description>&lt;p&gt;Startup Mintive has raised $11 million and launched a platform dedicated to managing the identity and permissions of AI agents. The solution addresses the conflict between business enablement and security compliance by assigning each agent a unique identity and granular controls under a unified policy framework. Early adopters include Modern Treasury and the University of Michigan.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Mintive 获 1100 万美元融资 推出 AI Agent 身份权限管理平台&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;针对 AI Agent 规模化落地中的核心痛点——身份认证与安全合规提供了具体的基础设施解决方案，具有明确的行业参考价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 42/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115850758415659027">Rohan Paul (@rohanpaul_ai)</source>
-<category>AI Agent</category>
-<category>Security</category>
-<category>Funding</category>
-<category>Infrastructure</category>
-</item>
-<item><title>Word2Vec Creator Tomas Mikolov Receives Czech Medal of Merit</title><link>https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468</link><guid isPermaLink="true">https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468</guid>
-<pubDate>Fri, 30 Oct 2026 00:56:54 +0800</pubDate>
-<description>&lt;p&gt;Czech President awarded the Medal of Merit to Tomáš Mikolov, creator of Word2Vec, on the national holiday for his outstanding contributions to AI. The honor recognizes his pivotal role in advancing natural language processing from academia to industry.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Word2Vec 之父 Mikolov 获捷克总统荣誉勋章&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽为个人荣誉新闻，但确认了 Word2Vec 作为现代 LLM 基石的历史地位，对理解 AI 演进脉络有参考价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 45/100&lt;/p&gt;</description>
-<source url="https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468">Hacker News AI</source>
-<category>AI History</category>
-<category>NLP</category>
-<category>Awards</category>
-</item>
-<item><title>MoEngage Converts 400 Internal APIs into Agent Tools via AgentCore Gateway</title><link>https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/</link><guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/</guid>
-<pubDate>Fri, 30 Oct 2026 00:54:52 +0800</pubDate>
-<description>&lt;p&gt;Customer engagement platform MoEngage used AWS AgentCore Gateway to securely expose approximately 400 internal REST APIs to AI agents. This solution addresses the challenge of accessing private APIs within isolated VPCs without public exposure or context window overload, ensuring identity control and data residency compliance.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;MoEngage 利用 AgentCore Gateway 将 400 个内部 API 转化为智能体工具&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了企业级 AI 智能体落地中常见的“遗留系统 API 现代化”痛点及具体工程解法，对构建私有化 Agent 架构有参考价值。&lt;/p&gt;&lt;p&gt;AWS Machine Learning Blog · agent · signal 35/100&lt;/p&gt;</description>
-<source url="https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/">AWS Machine Learning Blog</source>
-<category>AI Agent</category>
-<category>AWS</category>
-<category>API Integration</category>
-<category>Enterprise Architecture</category>
-</item>
-<item><title>Artificial Analysis Launches Progress Index for Unified Model Capability Scale</title><link>https://x.com/ArtificialAnlys/status/2115848471244886081</link><guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2115848471244886081</guid>
-<pubDate>Fri, 30 Oct 2026 00:49:20 +0800</pubDate>
-<description>&lt;p&gt;Artificial Analysis has launched the Progress Index, a unified capability scale for all LLMs since 2022 using Item Response Theory (IRT) to enable cross-time comparisons. This addresses the limitation of the current Intelligence Index, where changing evaluation sets make historical scores incomparable. Data reveals that while OpenAI dominated early on, the frontier landscape in 2026 has shifted to a rapid contest between OpenAI, Anthropic, and Google.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Artificial Analysis 发布 Progress Index 统一模型能力标尺&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了首个基于统计学的跨时间模型能力量化标准，填补了纵向对比空白，对理解 AI 演进轨迹极具参考价值。&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys) · llm · signal 78/100&lt;/p&gt;</description>
-<source url="https://x.com/ArtificialAnlys/status/2115848471244886081">Artificial Analysis (@ArtificialAnlys)</source>
-<category>模型评测</category>
-<category>Artificial Analysis</category>
-<category>能力基准</category>
-<category>行业分析</category>
-</item>
-<item><title>谷歌搜索营收占比首跌破 50% AI 云业务成增长引擎</title><link>https://www.kadoa.com/companies/insights/google-search-below-half</link><guid isPermaLink="true">https://www.kadoa.com/companies/insights/google-search-below-half</guid>
-<pubDate>Fri, 30 Oct 2026 00:42:17 +0800</pubDate>
-<description>&lt;p&gt;2026年第三季度，谷歌搜索在Alphabet总营收中的占比首次降至49.7%，标志着其作为单一核心收入支柱地位的结构性转变。尽管搜索绝对营收仍同比增长12%，但谷歌云业务以103%的同比增速迅速扩张，占比升至24.1%，显示AI驱动的基础设施与服务正成为新的增长极。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该数据点揭示了科技巨头从传统广告搜索向AI云计算转型的关键里程碑，对理解行业资本流向具有参考价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.kadoa.com/companies/insights/google-search-below-half">Hacker News AI</source>
-<category>Alphabet</category>
-<category>Google Cloud</category>
-<category>Revenue Shift</category>
-<category>Industry Trend</category>
-</item>
-<item><title>文章探讨大模型是否具备类生命特征</title><link>https://stefano.petrilli.xyz/are-stochastic-parrots-alive/</link><guid isPermaLink="true">https://stefano.petrilli.xyz/are-stochastic-parrots-alive/</guid>
-<pubDate>Fri, 30 Oct 2026 00:36:14 +0800</pubDate>
-<description>&lt;p&gt;一篇观点性文章通过“外星生命”类比，论证若大模型表现出类似智能体的行为与学习机制，其非碳基本质不应成为否定其“生命”属性的理由。作者挑战了将前沿LLM仅视为“随机鹦鹉”的传统观点，引发对AI本体论地位的哲学思考。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽无技术突破，但提供了独特的哲学视角，有助于理解AI伦理与本体论争议。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 45/100&lt;/p&gt;</description>
-<source url="https://stefano.petrilli.xyz/are-stochastic-parrots-alive/">Hacker News AI</source>
-<category>AI哲学</category>
-<category>大模型</category>
-<category>观点评论</category>
-</item>
-<item><title>Sam Altman 提议限制单一 AI 模型智能上限</title><link>https://x.com/rohanpaul_ai/status/2115842959644258684</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115842959644258684</guid>
-<pubDate>Fri, 30 Oct 2026 00:27:26 +0800</pubDate>
-<description>&lt;p&gt;OpenAI CEO Sam Altman 在播客中提出，世界可能需要对单个 AI 模型的智能水平设定上限。他警告称，这种限制虽出于安全考量，但将导致科研进展放缓，而非源于 AI 自身能力的不足。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部厂商高管关于 AI 能力边界与安全治理的最新观点，反映行业对超级智能潜在风险的担忧。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 45/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115842959644258684">Rohan Paul (@rohanpaul_ai)</source>
-<category>OpenAI</category>
-<category>AI Safety</category>
-<category>Regulation</category>
-</item>
-<item><title>Alphabet Q3 财报：AI 搜索变现不及传统，股价大跌</title><link>https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/</link><guid isPermaLink="true">https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/</guid>
-<pubDate>Fri, 30 Oct 2026 00:24:55 +0800</pubDate>
-<description>&lt;p&gt;Alphabet 公布 Q3 财报，营收虽同比增长 25%，但因 AI 搜索变现效率低于传统有机搜索且每股收益远低于预期，导致股价大幅下跌。尽管云业务表现超预期，市场仍担忧其高昂的 AI 投入与回报不成正比。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示 AI 商业化落地中的核心矛盾：流量增长不等于利润增长，对行业投资者极具警示意义。&lt;/p&gt;&lt;p&gt;Ars Technica AI · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/">Ars Technica AI</source>
-<category>Alphabet</category>
-<category>Google</category>
-<category>AI Search</category>
-<category>Earnings</category>
-<category>Monetization</category>
-</item>
-<item><title>DeepMind 论文：强化道德论证提升模型一致性但未改善判断力</title><link>https://x.com/rohanpaul_ai/status/2115841930328490358</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115841930328490358</guid>
-<pubDate>Fri, 30 Oct 2026 00:23:21 +0800</pubDate>
-<description>&lt;p&gt;Google DeepMind 最新研究发现，通过强化学习训练 Gemma-4 模型撰写道德论证，能显著降低其在选项重排时的回答翻转率（从 14.3% 降至 6.6%），表明模型变得更加“果断”和一致。然而，这种训练并未提升其实际道德判断的准确性，甚至在道德寓言测试中准确率略有下降。该研究提示开发者在评估 AI 建议类任务时，需将一致性指标与正确性指标分开考量。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 LLM 对齐训练中“一致性”与“正确性”脱钩的重要现象，对伦理评估有直接指导意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 68/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115841930328490358">Rohan Paul (@rohanpaul_ai)</source>
-<category>大模型</category>
-<category>AI 伦理</category>
-<category>强化学习</category>
-<category>DeepMind</category>
 </item>
 </channel>
 </rss>
