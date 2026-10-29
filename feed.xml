@@ -1,274 +1,277 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Latest Intelligence</title><link>https://todayforai.com/en/news</link><description>Curated frontier AI news, 24h window, from todayforai.com.</description>
-<language>en</language><lastBuildDate>Thu, 29 Oct 2026 09:16:43 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Thu, 29 Oct 2026 14:46:39 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/voxelowl/today4ai/main/feed.xml" rel="self" type="application/rss+xml"/>
-<item><title>China Launches First Fengyun Satellite Extreme Weather AI Models</title><link>https://www.ithome.com/1/019/303.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/303.htm</guid>
+<item><title>AI Impact on Entry-Level Jobs Drives Sharp Drop in US CS Enrollment</title><link>https://www.ithome.com/1/019/516.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/516.htm</guid>
+<pubDate>Thu, 29 Oct 2026 14:46:39 +0800</pubDate>
+<description>&lt;p&gt;US university enrollment in Computer Science and Information Science has plummeted this fall, with undergraduate admissions dropping over 12% and graduate admissions by more than 10%. This decline is attributed to AI reducing demand for entry-level coding jobs, marking a sharp reversal from years of rapid growth in the field.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AI 冲击初级岗位 美高校计算机专业入学人数骤降&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 AI 对劳动力市场及高等教育招生趋势的实质性冲击，数据详实且具行业风向标意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/516.htm">IT之家 · 智能时代</source>
+<category>教育趋势</category>
+<category>就业市场</category>
+<category>计算机科学</category>
+<category>AI 影响</category>
+</item>
+<item><title>Xiaomi MiMo Desktop Upgrades Membership with Third-Party Models</title><link>https://www.ithome.com/1/019/502.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/502.htm</guid>
+<pubDate>Thu, 29 Oct 2026 14:41:31 +0800</pubDate>
+<description>&lt;p&gt;Xiaomi MiMo Desktop has upgraded its membership benefits by increasing usage quotas without raising prices. The client now supports third-party models including DeepSeek, GLM, and Kimi, allowing users to select based on specific consumption multipliers.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;小米 MiMo Desktop 升级会员权益，新增 DeepSeek 等第三方模型&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;属于常规产品功能更新与商业策略调整，对重度 AI 读者的技术增量有限，但提供了多模型聚合工具的最新动态。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · tools · signal 35/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/502.htm">IT之家 · 智能时代</source>
+<category>小米</category>
+<category>MiMo</category>
+<category>AI 工具</category>
+<category>会员权益</category>
+</item>
+<item><title>Instagram Head Admits Public Backlash Against AI Will Worsen</title><link>https://www.ithome.com/1/019/481.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/481.htm</guid>
+<pubDate>Thu, 29 Oct 2026 14:34:04 +0800</pubDate>
+<description>&lt;p&gt;Adam Mosseri, head of Instagram, acknowledged that public backlash and anxiety regarding AI are intensifying and predicted the situation will worsen in coming years. He admitted the platform struggles to rank AI-generated content as effectively as human-made content but confirmed no discriminatory treatment for creators using AI, noting a total ban is unrealistic.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Instagram 负责人承认公众反感 AI 且预计恶化&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部社交平台高管罕见直面 AI 信任危机与治理困境，揭示了行业在商业化与用户情绪间的深层矛盾。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 42/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/481.htm">IT之家 · 智能时代</source>
+<category>Instagram</category>
+<category>AI伦理</category>
+<category>内容治理</category>
+</item>
+<item><title>Claude Code Adds Env Var to Bypass High-Risk Permission Checks</title><link>https://www.ithome.com/1/019/476.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/476.htm</guid>
+<pubDate>Thu, 29 Oct 2026 14:32:52 +0800</pubDate>
+<description>&lt;p&gt;Anthropic introduced a new environment variable in Claude Code v2.1.311 that allows users to bypass remaining safety checks for high-risk operations like recursive deletion. This setting enables the AI agent to execute such commands without seeking explicit approval, though it requires manual activation and remains subject to organizational policies.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Claude Code 新增环境变量 允许 AI 跳过高危操作确认&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;涉及 AI 编码助手的安全边界与权限控制机制变更，对重度开发者有直接配置影响。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · tools · signal 42/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/476.htm">IT之家 · 智能时代</source>
+<category>Claude Code</category>
+<category>AI Agent</category>
+<category>Security</category>
+<category>Developer Tools</category>
+</item>
+<item><title>Bernstein Launches Open-Source Governance Layer for Deterministic AI Agent Orchestration</title><link>https://bernstein.run</link><guid isPermaLink="true">https://bernstein.run</guid>
+<pubDate>Thu, 29 Oct 2026 14:24:56 +0800</pubDate>
+<description>&lt;p&gt;Bernstein v3.23.0 introduces an open-source governance layer for AI agents using a deterministic Python scheduler that runs tasks in parallel without model intervention. It enforces &amp;#x27;policy as code&amp;#x27; to ensure verifiable records and byte-identical plan replays, featuring a four-stage workflow of decomposition, spawning, verification, and merging.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Bernstein 发布开源 AI Agent 治理层 支持确定性调度与策略即代码&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;解决了多 Agent 协作中的不可复现性与信任问题，提供了确定性的工程化治理方案。&lt;/p&gt;&lt;p&gt;Hacker News AI · agent · signal 78/100&lt;/p&gt;</description>
+<source url="https://bernstein.run">Hacker News AI</source>
+<category>AI Agent</category>
+<category>Open Source</category>
+<category>Orchestration</category>
+<category>Governance</category>
+</item>
+<item><title>SpaceXAI Buys Homes Near Data Center to Settle Noise Lawsuit</title><link>https://www.ithome.com/1/019/442.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/442.htm</guid>
+<pubDate>Thu, 29 Oct 2026 14:15:41 +0800</pubDate>
+<description>&lt;p&gt;SpaceXAI plans to acquire 418 homes near its Mississippi data center, requiring owners to waive noise lawsuit claims. This move addresses complaints from temporary gas turbines while the company transitions to quieter permanent infrastructure.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;SpaceXAI 拟收购数据中心周边住宅以平息噪音诉讼&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映了 AI 算力扩张带来的社区冲突及企业通过资本手段规避法律风险的典型行业案例。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/442.htm">IT之家 · IT业界</source>
+<category>SpaceXAI</category>
+<category>数据中心</category>
+<category>法律纠纷</category>
+<category>基础设施</category>
+</item>
+<item><title>Altera Unveils Agilex 2X FPGA Series for Edge Physical AI</title><link>https://www.ithome.com/1/019/438.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/438.htm</guid>
+<pubDate>Thu, 29 Oct 2026 14:09:07 +0800</pubDate>
+<description>&lt;p&gt;Altera has launched the Agilex 2X FPGA series, comprising four device families designed to support edge physical AI and digital AI infrastructure. The lineup features enhanced AI tensor DSPs, latest Arm cores, and high-bandwidth connectivity, with the flagship Agilex 27 expected to deliver engineering samples in late 2027.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Altera 发布 Agilex 2X FPGA 系列，赋能边缘物理 AI&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;硬件厂商针对边缘 AI 场景推出的新一代专用芯片架构，对算力基础设施演进具有参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 65/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/438.htm">IT之家 · IT业界</source>
+<category>FPGA</category>
+<category>Altera</category>
+<category>Edge AI</category>
+<category>Hardware</category>
+</item>
+<item><title>Gemini 4 Carbon Tops Leaderboards, Access Limited to Cyber Defenders</title><link>https://latent.space/p/ainews-gemini-4-carbon/</link><guid isPermaLink="true">https://latent.space/p/ainews-gemini-4-carbon/</guid>
+<pubDate>Thu, 29 Oct 2026 13:55:19 +0800</pubDate>
+<description>&lt;p&gt;Google DeepMind released Gemini 4 Carbon, claiming state-of-the-art performance in cybersecurity and long-horizon tasks. The model is currently restricted to verified cyber defenders, aiming to enhance proactive digital infrastructure defense through AI.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Gemini 4 Carbon 登顶榜单 仅限网络安全防御者使用&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;前沿大模型在垂直安全领域的突破及独特的受限访问策略值得关注。&lt;/p&gt;&lt;p&gt;Latent Space · llm · signal 68/100&lt;/p&gt;</description>
+<source url="https://latent.space/p/ainews-gemini-4-carbon/">Latent Space</source>
+<category>Gemini</category>
+<category>Cybersecurity</category>
+<category>LLM Release</category>
+<category>Restricted Access</category>
+</item>
+<item><title>Samsung: 2027 HBM Capacity Sold Out, Memory Supply Tight Through 2028</title><link>https://www.ithome.com/1/019/430.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/430.htm</guid>
+<pubDate>Thu, 29 Oct 2026 13:50:07 +0800</pubDate>
+<description>&lt;p&gt;Samsung Electronics confirmed that its High Bandwidth Memory (HBM) capacity for 2027 is fully sold out and predicts tight DRAM supply through 2028. While the broader memory market remains oversupplied, AI-driven demand has caused HBM4 sales to triple quarter-over-quarter, prompting Samsung to lock in most output via long-term agreements.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;三星：2027 HBM 产能售罄，内存供应持续紧张&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;明确的高带宽内存供需拐点信号，直接反映 AI 算力基础设施的紧缺程度与厂商产能分配策略。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 78/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/430.htm">IT之家 · IT业界</source>
+<category>HBM</category>
+<category>DRAM</category>
+<category>三星电子</category>
+<category>AI 算力</category>
+<category>供应链</category>
+</item>
+<item><title>Tencent and Visa Partner to Explore Agentic Payments and Enterprise AI</title><link>https://www.ithome.com/1/019/425.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/425.htm</guid>
+<pubDate>Thu, 29 Oct 2026 13:34:50 +0800</pubDate>
+<description>&lt;p&gt;Tencent and Visa have signed a memorandum of understanding to enhance global payment experiences and deepen collaboration in enterprise AI and agentic commerce. The partnership focuses on exploring next-generation agentic payments via Visa Intelligent Commerce, enabling AI agents to assist users in discovering and purchasing goods, while also optimizing cross-border remittances and payment flows for overseas AI businesses.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;腾讯与 Visa 达成战略合作 探索智能体支付与企业级 AI&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该事件标志着传统金融巨头与科技大厂在“AI 原生商务”这一新兴赛道上的实质性布局，特别是明确了智能体（Agent）介入支付闭环的技术路径，对关注 AI 商业化落地的读者具有参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 42/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/425.htm">IT之家 · IT业界</source>
+<category>腾讯</category>
+<category>Visa</category>
+<category>智能体支付</category>
+<category>企业级 AI</category>
+<category>跨境支付</category>
+</item>
+<item><title>Tencent WorkBuddy Covers Half of China&#x27;s Top 500 Firms</title><link>https://www.ithome.com/1/019/422.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/422.htm</guid>
+<pubDate>Thu, 29 Oct 2026 13:24:47 +0800</pubDate>
+<description>&lt;p&gt;Tencent announced that its AI office agent, WorkBuddy, has processed 9 billion user task requests in seven months. The product now covers 50% of China&amp;#x27;s top 500 enterprises and plans to fully open its architecture to support third-party agents.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;腾讯 WorkBuddy 覆盖半数中国五百强&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;主要为企业市场渗透率与运营数据的公关披露，缺乏底层技术突破或可立即复用的工程细节。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · agent · signal 35/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/422.htm">IT之家 · 智能时代</source>
+<category>腾讯</category>
+<category>AI 智能体</category>
+<category>企业服务</category>
+</item>
+<item><title>South Korea Invests 5 Trillion Won to Boost Physical AI in SMEs</title><link>https://www.ithome.com/1/019/421.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/421.htm</guid>
+<pubDate>Thu, 29 Oct 2026 13:21:15 +0800</pubDate>
+<description>&lt;p&gt;South Korea plans to invest at least 5 trillion won by 2030 to promote physical AI adoption among small and medium-sized manufacturers via a &amp;#x27;3X Strategy&amp;#x27; combining digitalization, AI, and robotics. The goal is to increase the AI application rate from 1% to 10% and cultivate 500 smart manufacturing specialists.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;韩国政府投 5 万亿韩元推物理 AI 助中小企业转型&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;国家级产业政策明确指向物理 AI 在制造业的落地，对关注具身智能商业化进程的行业观察者具有参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/421.htm">IT之家 · 智能时代</source>
+<category>韩国</category>
+<category>物理 AI</category>
+<category>制造业</category>
+<category>产业政策</category>
+</item>
+<item><title>UCSB Paper: TTME Replaces Test-Time Training with Evolving Memory for Math Discovery</title><link>https://x.com/rohanpaul_ai/status/2115673734497382475</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115673734497382475</guid>
+<pubDate>Thu, 29 Oct 2026 13:15:00 +0800</pubDate>
+<description>&lt;p&gt;A new paper from UC Santa Barbara introduces TTME, a framework that replaces costly test-time training (TTT) with an &amp;#x27;evolving memory&amp;#x27; mechanism. By keeping model weights fixed and storing practical coding rules and score-gain insights from previous attempts, TTME outperforms TTT across multiple math tasks while reducing FLOPs by ~82% and runtime by nearly half.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;UCSB 论文：TTME 以演化记忆替代测试时训练，大幅降低算力成本&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了极具性价比的推理优化方案，证明了非参数化记忆机制在复杂逻辑推理任务中可替代高成本的梯度更新。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115673734497382475">Rohan Paul (@rohanpaul_ai)</source>
+<category>大模型</category>
+<category>推理优化</category>
+<category>学术研究</category>
+<category>UCSB</category>
+</item>
+<item><title>Huawei Ascend 950DT 1024-Card SuperNode Cluster Goes Live in Wuhan for Trillion-Parameter Models</title><link>https://www.ithome.com/1/019/419.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/419.htm</guid>
+<pubDate>Thu, 29 Oct 2026 13:12:52 +0800</pubDate>
+<description>&lt;p&gt;The first Huawei Ascend 950DT 1024-card liquid-cooled super-node cluster has gone live in Wuhan. With 1 EFLOPS of FP8 compute, 256TB unified memory, and TB-level interconnect bandwidth, it supports trillion-parameter LLM training and agent inference, addressing regional high-end computing shortages.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;华为昇腾 950DT 千卡超节点在武汉上线，支撑万亿参数模型训练&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;国产高端算力基础设施的重要落地案例，明确了新一代 NPU 集群的关键性能指标与应用场景。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · compute · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/419.htm">IT之家 · 智能时代</source>
+<category>华为</category>
+<category>昇腾</category>
+<category>算力集群</category>
+<category>大模型训练</category>
+</item>
+<item><title>baoyu-design v2 Released: Open-Source Port of Claude Design Suite</title><link>https://x.com/dotey/status/2115667965328977920</link><guid isPermaLink="true">https://x.com/dotey/status/2115667965328977920</guid>
+<pubDate>Thu, 29 Oct 2026 12:52:04 +0800</pubDate>
+<description>&lt;p&gt;Developer Baoyu released baoyu-design v2, an open-source port of Claude Design, Slides, and Dashboard. The tool decouples from Claude Artifacts, enabling execution on any agent or model with near-native experience (excluding comments).&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;baoyu-design v2 发布 开源移植 Claude 设计工具链&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;为无法使用或希望自定义 Claude 原生 UI 功能的开发者提供了高可用性的开源替代方案。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · tools · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/dotey/status/2115667965328977920">宝玉 (@dotey)</source>
+<category>开源工具</category>
+<category>Claude</category>
+<category>前端开发</category>
+</item>
+<item><title>Tencent Launches Buddy One Cross-App AI Collaboration System</title><link>https://www.ithome.com/1/019/412.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/412.htm</guid>
+<pubDate>Thu, 29 Oct 2026 12:24:43 +0800</pubDate>
+<description>&lt;p&gt;Tencent unveiled Buddy One, a cross-app AI collaboration system for individual users, at its Global Digital Ecosystem Conference. The system integrates Tencent Docs, Meeting, and other office products by sharing the WorkBuddy Agent foundation and unifying credit pools, enabling natural language-based cross-app retrieval and context integration. Access requires upgrading the PC client to version 5.9.0 or higher, with memory sharing features planned for future updates.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;腾讯发布 Buddy One 跨应用 AI 协同体系&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;属于大厂内部生态整合的产品发布，虽涉及 Agent 底座复用，但主要局限于腾讯自有封闭生态，对通用 AI 开发者或外部用户的技术启发有限。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · agent · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/412.htm">IT之家 · 智能时代</source>
+<category>腾讯</category>
+<category>AI Agent</category>
+<category>办公协同</category>
+<category>Buddy One</category>
+</item>
+<item><title>Apple Study: Agent Generalization Driven by Data Diversity Over Task Volume</title><link>https://x.com/rohanpaul_ai/status/2115657738072334570</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115657738072334570</guid>
+<pubDate>Thu, 29 Oct 2026 12:11:26 +0800</pubDate>
+<description>&lt;p&gt;A new Apple paper reveals that increasing the diversity of synthetic apps and database states yields greater generalization gains for tool-use agents than simply adding more tasks within a fixed budget. The study introduces SynthAPI to demonstrate how data composition, rather than volume alone, drives performance improvements.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Apple 研究：智能体泛化更依赖数据多样性而非任务量&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了智能体训练中“数据质量/多样性”优于“数据数量”的关键 Scaling Law，对构建高效 Agent 训练管线有直接指导意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115657738072334570">Rohan Paul (@rohanpaul_ai)</source>
+<category>智能体</category>
+<category>Apple</category>
+<category>Scaling Law</category>
+<category>合成数据</category>
+</item>
+<item><title>Google Releases EmbeddingGemma 2 for On-Device Multimodal AI</title><link>https://x.com/rohanpaul_ai/status/2115655095505576117</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115655095505576117</guid>
+<pubDate>Thu, 29 Oct 2026 12:00:56 +0800</pubDate>
+<description>&lt;p&gt;Google has open-sourced EmbeddingGemma 2, a unified multimodal embedding model supporting text, code, images, audio, and video. With only 744M parameters, it outperforms models 2-12x larger while requiring just ~567MB RAM on a Pixel 11 Pro, enabling private on-device search.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Google 发布 EmbeddingGemma 2 端侧多模态嵌入模型&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;填补了端侧多模态统一检索的技术空白，以极小参数量实现高性能，对移动 AI 应用开发具有直接指导意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 85/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115655095505576117">Rohan Paul (@rohanpaul_ai)</source>
+<category>Google</category>
+<category>EmbeddingGemma</category>
+<category>Multimodal</category>
+<category>On-Device AI</category>
+<category>Open Source</category>
+</item>
+<item><title>Claude Code Burns 15-20% Tokens on Status Line; Community Patch Released</title><link>https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</link><guid isPermaLink="true">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</guid>
+<pubDate>Thu, 29 Oct 2026 11:33:42 +0800</pubDate>
+<description>&lt;p&gt;Claude Code background agents send full transcripts to the model every 30 seconds to generate brief status descriptions, wasting ~15-20% of tokens. Developers discovered this via OpenTelemetry data and released a preload script to disable it, noting the behavior has been default since version 2.1.232 with no official toggle.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Claude Code 状态行消耗 15-20% Token，社区发布禁用补丁&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了主流 AI 编码工具中严重的隐性成本漏洞，并提供即时可用的工程化解决方案，对重度用户极具实用价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 78/100&lt;/p&gt;</description>
+<source url="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce">Hacker News AI</source>
+<category>Claude Code</category>
+<category>Token Optimization</category>
+<category>Developer Tools</category>
+<category>Anthropic</category>
+</item>
+<item><title>Samsung Q3: Mobile Losses Persist as Memory Revenue Jumps 16.5%</title><link>https://www.ithome.com/1/019/398.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/398.htm</guid>
+<pubDate>Thu, 29 Oct 2026 11:28:17 +0800</pubDate>
+<description>&lt;p&gt;Samsung&amp;#x27;s Q3 2026 earnings reveal that its MX and NW divisions posted losses for the second consecutive quarter. Conversely, the DS division saw strong growth, driven primarily by a 16.5% quarter-over-quarter increase in memory revenue, highlighting the robust demand from AI infrastructure.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;三星 Q3 财报：移动业务连续亏损，存储营收环比增 16.5%&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;存储器作为 AI 算力的核心基础设施，其营收大幅增长反映了行业景气度，但消费端业务的亏损提供了市场分化的视角。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/398.htm">IT之家 · IT业界</source>
+<category>三星</category>
+<category>存储器</category>
+<category>财报</category>
+<category>AI 算力</category>
+</item>
+<item><title>ServiceNow Shares Drop 19% Despite Earnings Beat Amid AI Displacement Fears</title><link>https://x.com/rohanpaul_ai/status/2115645490352259252</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115645490352259252</guid>
+<pubDate>Thu, 29 Oct 2026 11:22:46 +0800</pubDate>
+<description>&lt;p&gt;ServiceNow shares fell 19% after hours despite beating quarterly revenue targets, driven by fears that AI agents will erode its seat-based subscription model. While the company raised its 2026 AI contract value target to $1.7B, this remains small compared to its ~$15.77B expected subscription revenue, leaving investors skeptical about whether AI growth can offset slowing core business momentum.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;ServiceNow 财报超预期但股价跌 19%，AI 替代 SaaS 席位引发市场恐慌&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该事件揭示了生成式 AI 对传统 SaaS 商业模式的实质性冲击，是观察 AI 落地对软件行业估值逻辑重构的关键案例。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 65/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115645490352259252">Rohan Paul (@rohanpaul_ai)</source>
+<category>SaaS</category>
+<category>ServiceNow</category>
+<category>AI Agents</category>
+<category>Stock Market</category>
+<category>Business Model</category>
+</item>
+<item><title>中国实验室转向 GPT-6 Astra 蒸馏数据</title><link>https://x.com/rohanpaul_ai/status/2115643355522896283</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115643355522896283</guid>
+<pubDate>Thu, 29 Oct 2026 11:14:17 +0800</pubDate>
+<description>&lt;p&gt;据 The Information 报道，由于 Anthropic 大幅收紧 Claude 的数据访问限制导致蒸馏效率骤降，中国 AI 实验室已将知识蒸馏目标转向 OpenAI 的 GPT-6 Astra。Anthropic 称其封锁措施使从 Claude 获取训练数据的规模减少了 90% 至 99%。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了头部模型厂商通过技术封锁遏制竞争对手蒸馏行为的最新博弈动态及行业应对策略。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2115643355522896283">Rohan Paul (@rohanpaul_ai)</source>
+<category>知识蒸馏</category>
+<category>GPT-6</category>
+<category>Claude</category>
+<category>数据合规</category>
+<category>行业竞争</category>
+</item>
+<item><title>巴慕达推 AI 个性化电台 生成每日专属播客</title><link>https://www.ithome.com/1/019/368.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/368.htm</guid>
+<pubDate>Thu, 29 Oct 2026 11:08:37 +0800</pubDate>
+<description>&lt;p&gt;巴慕达宣布推出基于 AI 的个性化电台服务“Good Morning Radio”，计划于 2026 年 11 月开启 Beta 测试。该服务能根据用户生活习惯与兴趣，自动生成约 10 分钟的每日音频内容，涵盖新闻、天气及推荐话题。目前仅面向 The Clock 时钟用户及限量申请的非硬件用户开放。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了 AI 在消费级硬件中实现高度个性化内容生成的具体落地场景，但技术细节较少且处于早期测试阶段。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · tools · signal 35/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/368.htm">IT之家 · 智能时代</source>
+<category>巴慕达</category>
+<category>AI 应用</category>
+<category>个性化推荐</category>
+<category>智能硬件</category>
+</item>
+<item><title>甲骨文承诺 AI 融资上限 200 亿 股价大涨 12%</title><link>https://www.ithome.com/1/019/333.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/333.htm</guid>
+<pubDate>Thu, 29 Oct 2026 10:32:10 +0800</pubDate>
+<description>&lt;p&gt;甲骨文披露资本开支计划，承诺截至 2030 财年为 AI 业务新增融资不超过 200 亿美元，并预计 2028 财年下半年实现自由现金流转正。此举旨在缓解市场对其因建设数据中心而过度依赖外部筹资的担忧，受此提振其股价单日上涨超 12%。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;明确量化了 AI 基础设施扩张的资金边界与现金流拐点，直接回应了市场对云厂商资本支出可持续性的核心焦虑。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/333.htm">IT之家 · IT业界</source>
+<category>甲骨文</category>
+<category>AI 基础设施</category>
+<category>资本开支</category>
+<category>云计算</category>
+</item>
+<item><title>FuriosaAI 完成 D 轮融资，估值达 29 亿美元挑战英伟达</title><link>https://www.ithome.com/1/019/329.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/329.htm</guid>
+<pubDate>Thu, 29 Oct 2026 10:18:47 +0800</pubDate>
+<description>&lt;p&gt;韩国 AI 芯片初创公司 FuriosaAI 宣布完成 6.2 亿美元 D 轮融资，估值飙升至 29 亿美元。该公司主打高能效推理芯片 RNGD，旨在通过减少数据传输功耗来挑战英伟达在数据中心市场的主导地位。目前其芯片已获三星 SDS、LG 等客户采用，并计划与博通合作开发下一代加速器。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;非英伟达阵营的 AI 芯片独角兽获得巨额融资且估值翻四倍，标志着推理侧算力竞争格局出现实质性变化。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · compute · signal 78/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/329.htm">IT之家 · 智能时代</source>
+<category>AI芯片</category>
+<category>融资</category>
+<category>英伟达竞争对手</category>
+<category>推理计算</category>
+</item>
+<item><title>腾讯宣布 Hy4 即将发布 首次引入视觉理解能力</title><link>https://www.ithome.com/1/019/328.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/328.htm</guid>
+<pubDate>Thu, 29 Oct 2026 10:18:32 +0800</pubDate>
+<description>&lt;p&gt;腾讯在数字生态大会上宣布，其大模型 Hy4 即将正式发布。相比预览版，Hy4 显著提升了长程任务处理与思维链效率，并首次引入视觉理解功能。此外，主打极致性价比的轻量级版本 Hy4 flash 也将于近期上线。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;腾讯旗舰模型正式版的发布预告及多模态能力的补齐值得关注，但具体性能参数尚未完全公开。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · llm · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/019/328.htm">IT之家 · 智能时代</source>
+<category>腾讯</category>
+<category>混元</category>
+<category>Hy4</category>
+<category>多模态</category>
+<category>大模型</category>
+</item>
+<item><title>宝玉谈 Git Worktree：并行任务多时难以避免</title><link>https://x.com/dotey/status/2115618084044349828</link><guid isPermaLink="true">https://x.com/dotey/status/2115618084044349828</guid>
+<pubDate>Thu, 29 Oct 2026 09:33:52 +0800</pubDate>
+<description>&lt;p&gt;开发者宝玉指出，尽管有观点建议避免使用 Git Worktree，但在本地并行处理多个 AI 编码任务时，为避免环境干扰和验证结果，Worktree 仍是必要手段。云端方案虽可并行但存在环境不全和高成本问题。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了关于 AI 辅助编程中本地工作流隔离的实用经验与权衡分析。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · tools · signal 45/100&lt;/p&gt;</description>
+<source url="https://x.com/dotey/status/2115618084044349828">宝玉 (@dotey)</source>
+<category>Git Worktree</category>
+<category>AI Coding</category>
+<category>DevTools</category>
+</item>
+<item><title>首批风云卫星极端天气 AI 模型发布 27 秒生成台风报告</title><link>https://www.ithome.com/1/019/303.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/303.htm</guid>
 <pubDate>Thu, 29 Oct 2026 09:16:43 +0800</pubDate>
-<description>&lt;p&gt;China has officially released the first batch of extreme weather AI models based on Fengyun meteorological satellites, shifting satellite applications from observation to prediction. The typhoon cloud image interpretation model generates a comprehensive &amp;#x27;health report&amp;#x27; in just 27 seconds, while the severe convection short-term warning model extends lead time to four hours by decomposing cloud evolution dynamics.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;首批风云卫星极端天气 AI 模型发布 27 秒生成台风报告&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了垂直领域大模型在气象灾害监测中的实际落地能力与显著的效率提升（27秒出报告），具有明确的行业示范意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 68/100&lt;/p&gt;</description>
+<description>&lt;p&gt;中国正式发布首批基于风云气象卫星的极端天气人工智能模型，标志着卫星应用从“看清现在”迈向“预测未来”。其中台风智能云图解译模型可在 27 秒内自动生成包含位置、结构及强度分析的“体检报告”，而强对流短临预警模型通过拆解云图演变逻辑，将预警时间提前至四小时。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了垂直领域大模型在气象灾害监测中的实际落地能力与显著的效率提升（27秒出报告），具有明确的行业示范意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 68/100&lt;/p&gt;</description>
 <source url="https://www.ithome.com/1/019/303.htm">IT之家 · 智能时代</source>
 <category>气象AI</category>
 <category>风云卫星</category>
 <category>垂直模型</category>
 <category>灾害预警</category>
 </item>
-<item><title>Microsoft Launches GitHub Copilot Fusion with Multi-Model Routing</title><link>https://x.com/rohanpaul_ai/status/2115612239193686050</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115612239193686050</guid>
+<item><title>微软发布 GitHub Copilot Fusion，多模型路由成本减半</title><link>https://x.com/rohanpaul_ai/status/2115612239193686050</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115612239193686050</guid>
 <pubDate>Thu, 29 Oct 2026 09:10:38 +0800</pubDate>
-<description>&lt;p&gt;Microsoft released GitHub Copilot Fusion, which routes coding tasks between Claude and GPT models. It scored slightly below Claude Code on the Artificial Analysis Coding Agent Index but at half the cost per task ($5.59 vs $11.42) and roughly 50% lower token usage.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;微软发布 GitHub Copilot Fusion，多模型路由成本减半&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了多模型路由技术在降低 AI 编程助手成本方面的显著成效，对开发者选型具有直接参考价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · tools · signal 78/100&lt;/p&gt;</description>
+<description>&lt;p&gt;微软推出 GitHub Copilot Fusion，通过智能路由在 Claude 和 GPT 模型间分配编码任务。该工具在 Artificial Analysis 编码代理指数中得分略低于 Claude Code，但单次任务成本仅为后者的一半（$5.59 vs $11.42），且 Token 消耗量减少约 50%。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了多模型路由技术在降低 AI 编程助手成本方面的显著成效，对开发者选型具有直接参考价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · tools · signal 78/100&lt;/p&gt;</description>
 <source url="https://x.com/rohanpaul_ai/status/2115612239193686050">Rohan Paul (@rohanpaul_ai)</source>
 <category>GitHub Copilot</category>
 <category>AI Coding</category>
 <category>Cost Optimization</category>
 </item>
-<item><title>ACM Shanghai Ships First Mass-Production Panel-Level Plating Tool to Asia</title><link>https://www.ithome.com/1/019/295.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/295.htm</guid>
+<item><title>盛美上海首台量产型面板级电镀设备出海</title><link>https://www.ithome.com/1/019/295.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/295.htm</guid>
 <pubDate>Thu, 29 Oct 2026 08:56:42 +0800</pubDate>
-<description>&lt;p&gt;ACM Shanghai announced the shipment of its first mass-production 310x310mm panel-level horizontal plating tool, UltraECP ap-p, to an Asian market outside mainland China. Designed for advanced packaging on large substrates, the tool features proprietary horizontal plating technology supporting multiple materials with high thickness uniformity.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;盛美上海首台量产型面板级电镀设备出海&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;半导体制造设备在先进封装领域的具体进展，虽非AI核心算法但属于算力基础设施上游关键环节。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 42/100&lt;/p&gt;</description>
+<description>&lt;p&gt;盛美上海宣布其首台量产型310×310mm面板级水平电镀设备UltraECP ap-p成功出机至中国大陆以外的亚洲市场。该设备针对先进封装大尺寸基板加工需求，采用自主研发的水平电镀技术，支持多材质工艺并具备高膜厚均匀性。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;半导体制造设备在先进封装领域的具体进展，虽非AI核心算法但属于算力基础设施上游关键环节。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 42/100&lt;/p&gt;</description>
 <source url="https://www.ithome.com/1/019/295.htm">IT之家 · IT业界</source>
 <category>半导体设备</category>
 <category>先进封装</category>
 <category>盛美上海</category>
-</item>
-<item><title>Samsung Q3 Net Profit Surges 526% Driven by HBM Demand</title><link>https://www.ithome.com/1/019/294.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/294.htm</guid>
-<pubDate>Thu, 29 Oct 2026 08:52:25 +0800</pubDate>
-<description>&lt;p&gt;Samsung Electronics reported a net profit of 75.21 trillion KRW for Q3 FY2026, a 526.39% year-over-year surge. This historic growth was primarily driven by strong demand for High Bandwidth Memory (HBM) and general storage chips from AI servers, with the semiconductor division contributing the majority of operating profits.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;三星 Q3 净利暴增 526% HBM 需求驱动业绩爆发&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;AI 算力基础设施核心组件 HBM 的需求爆发直接导致头部厂商业绩巨幅修正，是观察 AI 硬件周期的重要风向标。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 65/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/019/294.htm">IT之家 · IT业界</source>
-<category>三星电子</category>
-<category>HBM</category>
-<category>存储芯片</category>
-<category>AI 算力</category>
-<category>财报</category>
-</item>
-<item><title>Qwenputer Embeds Deterministic RISC-V CPU Inside Qwen3.5 Weights</title><link>https://divagr.com/blog/qwenputer</link><guid isPermaLink="true">https://divagr.com/blog/qwenputer</guid>
-<pubDate>Thu, 29 Oct 2026 08:25:45 +0800</pubDate>
-<description>&lt;p&gt;Researcher Divyansh Agrawal introduced Qwenputer, an experimental model embedding a full RISC-V CPU directly into the weights of Qwen 3.5 4B. By utilizing Gated DeltaNet attention layers as RAM, the architecture enables the model to execute arithmetic operations and C/MicroPython code internally during forward passes, eliminating the need for external runtimes or tool calls.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Qwenputer 发布：在 Qwen3.5 权重内编译确定性 RISC-V CPU&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型从“概率预测器”向“确定性计算引擎”演进的极端可能性，对模型架构设计与安全监控具有极高的启发价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 88/100&lt;/p&gt;</description>
-<source url="https://divagr.com/blog/qwenputer">Hacker News AI</source>
-<category>RISC-V</category>
-<category>Qwen</category>
-<category>Model Architecture</category>
-<category>Deterministic AI</category>
-</item>
-<item><title>AI Outperforms Human Reviewers in Detecting Clinical Trial Paper Errors</title><link>https://x.com/rohanpaul_ai/status/2115599215368016343</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115599215368016343</guid>
-<pubDate>Thu, 29 Oct 2026 08:18:53 +0800</pubDate>
-<description>&lt;p&gt;A new preprint study reveals that 15 mainstream LLMs significantly outperform untrained human peer reviewers in detecting errors in clinical trial papers. All tested models achieved error detection rates between 53% and 96%, compared to a human average of just 27%, with Claude Opus 5.5 scoring highest at 99%. Furthermore, AI demonstrated superior capability in identifying critical semantic inconsistencies, such as text-table contradictions, while reducing review time from hours to minutes.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;研究显示 AI 在临床试验论文审校中错误检出率远超人类同行评审&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该研究提供了量化证据，证明 AI 在高风险医疗文献审核中的实用价值与效率优势，对科研出版流程变革具有直接指导意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 85/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115599215368016343">Rohan Paul (@rohanpaul_ai)</source>
-<category>LLM</category>
-<category>Peer Review</category>
-<category>Healthcare AI</category>
-<category>Benchmark</category>
-</item>
-<item><title>NYT Cooking App Adds AI Recipe Modification Features Amid Mixed User Reactions</title><link>https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/</link><guid isPermaLink="true">https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/</guid>
-<pubDate>Thu, 29 Oct 2026 08:16:08 +0800</pubDate>
-<description>&lt;p&gt;The New York Times has introduced AI-powered recipe modification features to its Cooking app, allowing users to automatically adjust recipes (e.g., for gluten-free diets). While some users appreciate the efficiency gains, others express concern or dissatisfaction, feeling it disrupts the cooking experience. The feature is currently rolling out gradually to monitor performance.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;纽约时报烹饪应用新增 AI 功能 用户反馈两极分化&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了生成式 AI 在垂直生活场景中的落地尝试及用户接受度的真实反馈，具有行业观察价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 35/100&lt;/p&gt;</description>
-<source url="https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/">Hacker News AI</source>
-<category>AI应用</category>
-<category>媒体科技</category>
-<category>用户体验</category>
-</item>
-<item><title>Damodaran Values Anthropic at $1.475T, Cites Compute Commitment Risks</title><link>https://x.com/rohanpaul_ai/status/2115597418196812087</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115597418196812087</guid>
-<pubDate>Thu, 29 Oct 2026 08:11:45 +0800</pubDate>
-<description>&lt;p&gt;NYU Professor Aswath Damodaran valued Anthropic at $1.475 trillion in a detailed analysis. He highlighted slowing revenue growth due to competition and compute shortages, warned of over $600 billion in fixed compute commitments, and criticized the founders&amp;#x27; absolute voting control via a dual-class structure.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Damodaran 估值 Anthropic 达 1.475 万亿美元，指出算力承诺风险&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;知名学者对头部 AI 独角兽的独立估值与财务风险分析，提供了区别于市场共识的深度视角。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115597418196812087">Rohan Paul (@rohanpaul_ai)</source>
-<category>Anthropic</category>
-<category>Aswath Damodaran</category>
-<category>估值</category>
-<category>算力成本</category>
-<category>公司治理</category>
-</item>
-<item><title>AI Data Center Power Surge Threatens US Emission Reductions</title><link>https://www.ithome.com/1/019/287.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/287.htm</guid>
-<pubDate>Thu, 29 Oct 2026 08:11:11 +0800</pubDate>
-<description>&lt;p&gt;Bloomberg reports that the surge in fossil fuel power plant construction to supply AI data centers may offset 15 years of greenhouse gas emission reductions in the US power sector. The Sierra Club predicts a 42% increase in CO2 emissions by 2030 compared to 2025, with most new emissions stemming from self-built natural gas facilities bypassing grid interconnection delays.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AI 数据中心用电激增恐抵消美国电力减排成果&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示 AI 算力扩张对能源基础设施及环境政策的深层冲击，数据具体且具前瞻性。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · compute · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/019/287.htm">IT之家 · 智能时代</source>
-<category>AI 基础设施</category>
-<category>数据中心</category>
-<category>能源消耗</category>
-<category>碳排放</category>
-</item>
-<item><title>Tencent Drive Beta Connects Multiple AI Apps for Shared Storage</title><link>https://www.ithome.com/1/019/283.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/283.htm</guid>
-<pubDate>Thu, 29 Oct 2026 07:57:06 +0800</pubDate>
-<description>&lt;p&gt;Tencent Drive has launched a beta version that connects multiple AI applications to share storage and aggregate context. The feature aims to consolidate data from various AI tools into long-term memory assets, supporting cross-device progress continuity and intelligent categorization.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;腾讯网盘内测：连接多 AI 应用共享存储与上下文&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽涉及 AI 上下文聚合概念，但属于常规产品内测且缺乏具体技术细节或显著行业影响。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · tools · signal 35/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/019/283.htm">IT之家 · 智能时代</source>
-<category>腾讯网盘</category>
-<category>AI 应用</category>
-<category>上下文管理</category>
-</item>
-<item><title>OpenAI Grants Up to $500 Monthly API Credits to Pro and Business Subscribers</title><link>https://x.com/dotey/status/2115591064073413118</link><guid isPermaLink="true">https://x.com/dotey/status/2115591064073413118</guid>
-<pubDate>Thu, 29 Oct 2026 07:46:30 +0800</pubDate>
-<description>&lt;p&gt;OpenAI announced that ChatGPT Pro and Business subscribers can now claim up to $500 in monthly API credits at no extra cost. These credits support model calls, agent development, and built-in tools but exclude Plus and Enterprise tiers. The initiative aims to bridge subscription and developer platforms, lowering barriers for app creation.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 向 Pro/Business 用户赠送最高 $500 API 额度&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;直接降低开发者使用 OpenAI 模型的边际成本，对重度依赖 API 的独立开发者和中小企业具有即时实用价值。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://x.com/dotey/status/2115591064073413118">宝玉 (@dotey)</source>
-<category>OpenAI</category>
-<category>API</category>
-<category>Subscription</category>
-<category>Developer Tools</category>
-</item>
-<item><title>XREAL Launches AURA, First Wired XR Glasses on Android XR</title><link>https://blog.google/products-and-platforms/platforms/android/xreal-aura/</link><guid isPermaLink="true">https://blog.google/products-and-platforms/platforms/android/xreal-aura/</guid>
-<pubDate>Thu, 29 Oct 2026 07:45:19 +0800</pubDate>
-<description>&lt;p&gt;XREAL has launched AURA, the first wired XR glasses powered by Android XR, featuring integrated Gemini AI for real-time assistance. The device uses a separate compute puck to maintain lightweight form factors while projecting apps into the user&amp;#x27;s field of view, with pre-orders opening in the US, Canada, and Korea.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;XREAL AURA 发布 首款搭载 Android XR 有线眼镜&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;标志着 Android XR 生态在消费级硬件上的重要落地，且深度整合了 Gemini 多模态能力。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://blog.google/products-and-platforms/platforms/android/xreal-aura/">Hacker News AI</source>
-<category>XR</category>
-<category>Android XR</category>
-<category>Gemini</category>
-<category>Hardware</category>
-<category>XREAL</category>
-</item>
-<item><title>Marvell Plans Acquisition of Lumentum to Boost AI Interconnects</title><link>https://www.ithome.com/1/019/279.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/279.htm</guid>
-<pubDate>Thu, 29 Oct 2026 07:37:12 +0800</pubDate>
-<description>&lt;p&gt;Bloomberg reports that semiconductor firm Marvell is negotiating to acquire optical communications leader Lumentum, with a deal potentially announced next week. The move aims to integrate chip design with high-speed optical interconnect technologies to meet surging demand for AI data center infrastructure. If completed, it would mark a significant consolidation in the AI hardware supply chain.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Marvell 拟收购 Lumentum 整合 AI 光互连&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;AI 算力瓶颈从计算转向互连，头部厂商通过并购垂直整合光通信资源，重塑数据中心基础设施格局。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 78/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/019/279.htm">IT之家 · IT业界</source>
-<category>Marvell</category>
-<category>Lumentum</category>
-<category>光通信</category>
-<category>AI 基础设施</category>
-<category>并购</category>
-</item>
-<item><title>OpenAI Explains Model Naming and Performance Dimensions</title><link>https://simonwillison.net/2026/Oct/28/ted-sanders/</link><guid isPermaLink="true">https://simonwillison.net/2026/Oct/28/ted-sanders/</guid>
-<pubDate>Thu, 29 Oct 2026 07:23:21 +0800</pubDate>
-<description>&lt;p&gt;OpenAI&amp;#x27;s Ted Sanders notes that while LLM performance is multidimensional, model size remains the primary driver of reliability, cost, and recall. He also clarifies that version numbers reflect release order, training data similarity, and the magnitude of improvement.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;OpenAI 解释模型命名规则与性能维度&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了理解 OpenAI 产品矩阵和版本迭代逻辑的内部视角，有助于开发者评估选型策略。&lt;/p&gt;&lt;p&gt;Simon Willison 博客 · llm · signal 45/100&lt;/p&gt;</description>
-<source url="https://simonwillison.net/2026/Oct/28/ted-sanders/">Simon Willison 博客</source>
-<category>OpenAI</category>
-<category>LLM</category>
-<category>Model Scaling</category>
-</item>
-<item><title>TikTok Paper Reveals Silent Data Exfiltration Risks in MCP Agents</title><link>https://x.com/rohanpaul_ai/status/2115585031901257874</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115585031901257874</guid>
-<pubDate>Thu, 29 Oct 2026 07:22:31 +0800</pubDate>
-<description>&lt;p&gt;A new TikTok study reveals a critical security vulnerability in LLM agents using the Model Context Protocol (MCP). Attackers can embed hidden instructions in tool descriptions to trick agents into silently calling malicious logging tools after completing legitimate tasks, exfiltrating user queries and server responses. The &amp;#x27;Log-To-Leak&amp;#x27; attack achieved success rates between 62% and 100% across various models.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;TikTok 论文揭示 MCP 智能体易受静默数据窃取攻击&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 MCP 生态中极具破坏性的提示注入攻击向量，对当前流行的 Agent 开发具有直接的安全警示意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 85/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115585031901257874">Rohan Paul (@rohanpaul_ai)</source>
-<category>MCP</category>
-<category>Agent Security</category>
-<category>Prompt Injection</category>
-<category>TikTok</category>
-</item>
-<item><title>US DOJ Probes Nvidia&#x27;s $12.9B Hugging Face Acquisition</title><link>https://www.ithome.com/1/019/272.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/272.htm</guid>
-<pubDate>Thu, 29 Oct 2026 07:08:07 +0800</pubDate>
-<description>&lt;p&gt;The US Department of Justice is investigating Nvidia&amp;#x27;s $12.9 billion acquisition of open-source platform Hugging Face, focusing on whether the deal would allow Nvidia to control a core distribution hub in the AI sector. This probe could impact the broader chip industry and challenge Nvidia&amp;#x27;s expansion strategy, though an investigation does not imply wrongdoing.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;美司法部问询英伟达收购 Hugging Face 交易&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;监管介入头部算力厂商对关键开源生态的收购，直接关系 AI 基础设施的开放性与竞争格局。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 78/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/019/272.htm">IT之家 · 智能时代</source>
-<category>反垄断</category>
-<category>英伟达</category>
-<category>Hugging Face</category>
-<category>AI 监管</category>
-</item>
-<item><title>Anthropic Urges California Governor to Grant Courts Power to Block High-Risk AI Models</title><link>https://www.ithome.com/1/019/271.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/271.htm</guid>
-<pubDate>Thu, 29 Oct 2026 07:05:14 +0800</pubDate>
-<description>&lt;p&gt;Anthropic has written to California Governor Gavin Newsom, recommending that the government be empowered to seek court injunctions to block the release of &amp;#x27;severe risk&amp;#x27; AI models. The company argues against relying on global &amp;#x27;kill switches,&amp;#x27; advocating instead for targeted measures such as suspending specific customer access or shutting down problematic agents. This stance aligns with its previous regulatory proposals and comes amid Anthropic&amp;#x27;s IPO preparations and ongoing legislative discussions in the U.S. Congress.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 致信加州州长：建议法院有权叫停高风险 AI 模型发布&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部 AI 实验室主动提出具体的司法干预机制与替代性安全策略，对理解未来 AI 监管走向及企业合规成本具有重要参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/019/271.htm">IT之家 · 智能时代</source>
-<category>AI 监管</category>
-<category>Anthropic</category>
-<category>政策建议</category>
-<category>模型安全</category>
-</item>
-<item><title>Google Expands AI Search Ads to Global Markets</title><link>https://www.ithome.com/1/019/269.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/269.htm</guid>
-<pubDate>Thu, 29 Oct 2026 06:54:59 +0800</pubDate>
-<description>&lt;p&gt;Google is expanding its AI Mode advertising business to international markets to offset slowing growth in core search ads. While Q3 revenue rose 25% year-over-year, stock prices fell due to ad growth concerns. Early tests show sponsored lists in AI Mode match organic click-through rates, with AI queries averaging three times the length of traditional searches.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;谷歌将 AI 搜索广告推向全球市场&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;标志着生成式 AI 商业化从实验阶段正式进入全球规模化变现阶段，对行业收入模型有重要参考意义。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/019/269.htm">IT之家 · IT业界</source>
-<category>谷歌</category>
-<category>AI 广告</category>
-<category>商业化</category>
-<category>财报</category>
-</item>
-<item><title>Claude Autonomously Discovers Critical Vulnerabilities and Builds Exploit Chains Across Major OSes</title><link>https://www.ithome.com/1/019/268.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/268.htm</guid>
-<pubDate>Thu, 29 Oct 2026 06:35:25 +0800</pubDate>
-<description>&lt;p&gt;Anthropic released a research report demonstrating that an internal Claude model autonomously discovered critical vulnerabilities in Chrome, Safari, Android, Windows, and Linux. The model not only identified flaws but also wrote exploit code and constructed five functional attack chains, including zero-click root access on Linux and sandbox escapes in browsers. All reported vulnerabilities have been patched via coordinated disclosure.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Claude 自主发现多系统高危漏洞并构建攻击链&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型在网络安全领域具备从漏洞挖掘到利用链构建的端到端自主能力，具有极高的行业警示意义和技术突破价值。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · agent · signal 92/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/019/268.htm">IT之家 · 智能时代</source>
-<category>AI安全</category>
-<category>漏洞挖掘</category>
-<category>智能体</category>
-<category>Anthropic</category>
-<category>网络攻防</category>
-</item>
-<item><title>Jensen Huang: Doubling Inference Speed Can Double AI Lab Revenue</title><link>https://x.com/rohanpaul_ai/status/2115571526078763506</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115571526078763506</guid>
-<pubDate>Thu, 29 Oct 2026 06:28:51 +0800</pubDate>
-<description>&lt;p&gt;NVIDIA CEO Jensen Huang argues that doubling model inference speed via software or kernel optimization can double an AI lab&amp;#x27;s revenue, provided demand exceeds capacity. The logic posits that faster kernels serve more tokens on the same GPUs and power infrastructure, converting speed gains directly into revenue without additional capital expenditure.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;黄仁勋：模型推理速度翻倍可助 AI 实验室营收倍增&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该观点揭示了算力效率与商业营收之间的线性关系，对理解当前 AI 基础设施的经济模型具有参考价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · compute · signal 42/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115571526078763506">Rohan Paul (@rohanpaul_ai)</source>
-<category>英伟达</category>
-<category>推理优化</category>
-<category>AI 经济学</category>
-</item>
-<item><title>Microsoft to Discontinue Copilot Service on LG TVs</title><link>https://www.ithome.com/1/019/267.htm</link><guid isPermaLink="true">https://www.ithome.com/1/019/267.htm</guid>
-<pubDate>Thu, 29 Oct 2026 06:25:02 +0800</pubDate>
-<description>&lt;p&gt;Microsoft has notified TV manufacturers like LG that it will discontinue the Copilot service on televisions. Previously integrated as a web shortcut in webOS, the service is expected to go offline around late 2026.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;微软 Copilot 将全面下线 LG 电视端服务&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映大厂 AI 助手在非核心硬件平台上的战略收缩与生态调整。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 35/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/019/267.htm">IT之家 · 智能时代</source>
-<category>微软</category>
-<category>LG</category>
-<category>Copilot</category>
-<category>智能电视</category>
-</item>
-<item><title>AA-Robotics Eval: Claude and GPT-6 Show Distinct Robotic Writing Styles</title><link>https://x.com/ArtificialAnlys/status/2115567357506748492</link><guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2115567357506748492</guid>
-<pubDate>Thu, 29 Oct 2026 06:12:18 +0800</pubDate>
-<description>&lt;p&gt;Artificial Analysis released the AA-Robotics v0.1 benchmark, comparing how Claude Opus 5.5 and GPT-6 Astra control a robotic arm for writing tasks. The data reveals distinct strategies: GPT-6 uses continuous strokes (514 moves in 13 minutes), while Claude employs a dot-by-dot approach (3,270 moves in 34 minutes), highlighting divergent planning and control logic in embodied AI.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AA-Robotics 评测：Claude 与 GPT-6 机器人书写风格差异显著&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型在具身智能场景下的具体行为差异，为理解模型控制策略提供了直观数据，但缺乏底层技术解释。&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys) · agent · signal 45/100&lt;/p&gt;</description>
-<source url="https://x.com/ArtificialAnlys/status/2115567357506748492">Artificial Analysis (@ArtificialAnlys)</source>
-<category>具身智能</category>
-<category>模型评测</category>
-<category>机器人控制</category>
-<category>Artificial Analysis</category>
-</item>
-<item><title>Google&#x27;s PLE Benchmark Reveals Top AI Agents Score Only 50.6% on Real Engineering Tasks</title><link>https://x.com/rohanpaul_ai/status/2115567033773674980</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115567033773674980</guid>
-<pubDate>Thu, 29 Oct 2026 06:11:00 +0800</pubDate>
-<description>&lt;p&gt;Google introduces the PLE benchmark for real-world physical engineering tasks, featuring 85 jobs in electrical, civil, and other fields vetted by practicing engineers. The top-performing agent, Claude Opus 5.5, scored only 50.6%, primarily failing due to missed hard safety or feasibility constraints. The study highlights that existing LLM benchmarks favor textbook problems, whereas real engineering requires processing unstructured files while strictly adhering to codes.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Google 发布 PLE 基准：最强 AI Agent 工程任务仅得 50.6%&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了当前 AI Agent 在垂直专业领域（特别是涉及安全合规的工程场景）的能力瓶颈与评估盲区。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 78/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115567033773674980">Rohan Paul (@rohanpaul_ai)</source>
-<category>AI Agent</category>
-<category>Benchmark</category>
-<category>Engineering</category>
-<category>Google</category>
-</item>
-<item><title>微软首次披露 Azure 季度营收达 332 亿美元</title><link>https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/</guid>
-<pubDate>Thu, 29 Oct 2026 05:58:32 +0800</pubDate>
-<description>&lt;p&gt;微软在最新财报中首次以美元具体数值披露 Azure 云业务季度营收，达到 332 亿美元，同比增长 48%。这一透明度举措使投资者能更直接地将 Azure 与 AWS 和 Google Cloud 进行横向对比，尽管 Alphabet 同期报告 Google Cloud 营收为 307 亿美元，但竞争格局因数据标准化而更加清晰。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;微软打破惯例披露具体营收数字，为云市场巨头间的直接财务对比提供了关键基准数据。&lt;/p&gt;&lt;p&gt;TechCrunch AI · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/">TechCrunch AI</source>
-<category>云计算</category>
-<category>微软</category>
-<category>财报</category>
-<category>行业分析</category>
-</item>
-<item><title>Articul8 发布 Bivia 多模态决策模型 主打工作流闭环</title><link>https://x.com/rohanpaul_ai/status/2115563876297441671</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115563876297441671</guid>
-<pubDate>Thu, 29 Oct 2026 05:58:28 +0800</pubDate>
-<description>&lt;p&gt;AI 公司 Articul8 推出名为 Bivia 的多模态决策模型，旨在处理文档、音视频及时序数据并执行完整工作流。该模型强调在不确定性下移交人类，标志着从单纯问答向自主任务完成的范式转变。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了 AI 从生成式问答向具备人机协作机制的端到端工作流代理演进的具体案例。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 42/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2115563876297441671">Rohan Paul (@rohanpaul_ai)</source>
-<category>Articul8</category>
-<category>Bivia</category>
-<category>多模态</category>
-<category>智能体</category>
-</item>
-<item><title>谷歌将 AI 搜索广告推向全球市场以应对增长放缓</title><link>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/</guid>
-<pubDate>Thu, 29 Oct 2026 05:48:37 +0800</pubDate>
-<description>&lt;p&gt;谷歌宣布将其 AI 模式下的搜索广告商业化范围扩展至国际市场，旨在通过生成式 AI 开辟新的收入来源。此举背景是其核心搜索广告业务增速显著放缓（Q3 同比增长降至 12%），且财报发布后股价下跌 8%，显示公司正加速将 AI 功能转化为实际营收。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;标志着 AI 搜索从技术展示向大规模商业变现的关键转折，直接影响数字广告格局与巨头战略重心。&lt;/p&gt;&lt;p&gt;TechCrunch AI · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/">TechCrunch AI</source>
-<category>谷歌</category>
-<category>AI 搜索</category>
-<category>广告变现</category>
-<category>财报分析</category>
-</item>
-<item><title>Meta Muse 模型在人格基准测试中获最高友好度评分</title><link>https://x.com/ArtificialAnlys/status/2115558752648933831</link><guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2115558752648933831</guid>
-<pubDate>Thu, 29 Oct 2026 05:38:06 +0800</pubDate>
-<description>&lt;p&gt;Artificial Analysis 发布 AA-PersonalityBench 测试结果，显示 Meta AI 的 Muse Spark 系列模型在“友好度”维度得分最高。该指标衡量回复是否传达温暖与亲和力且无表演感，Muse Spark 1.3 获得满分 100，而 Nemotron 3 Ultra 等模型得分最低。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了特定人格维度的量化对比数据，但属于单一基准的局部排名，对核心能力演进影响有限。&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys) · llm · signal 35/100&lt;/p&gt;</description>
-<source url="https://x.com/ArtificialAnlys/status/2115558752648933831">Artificial Analysis (@ArtificialAnlys)</source>
-<category>大模型</category>
-<category>评测基准</category>
-<category>Meta AI</category>
-</item>
-<item><title>微软单季从 OpenAI 获 100 亿美元收入</title><link>https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/</guid>
-<pubDate>Thu, 29 Oct 2026 05:34:30 +0800</pubDate>
-<description>&lt;p&gt;微软监管文件显示，截至 9 月 30 日的季度内，来自 OpenAI 的商业安排（含分成）产生 100 亿美元收入，占其总营收近 11%。尽管双方竞争加剧，财务绑定依然紧密，且微软对 OpenAI 的持股比例微降至 24%。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 AI 巨头间复杂的竞合关系与巨额资金流动，对理解行业格局至关重要。&lt;/p&gt;&lt;p&gt;TechCrunch AI · industry · signal 78/100&lt;/p&gt;</description>
-<source url="https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/">TechCrunch AI</source>
-<category>Microsoft</category>
-<category>OpenAI</category>
-<category>Revenue</category>
-<category>Industry</category>
-</item>
-<item><title>Akai 推开源 MPC Sample Key 拥抱 AI 辅助固件开发</title><link>https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key</link><guid isPermaLink="true">https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key</guid>
-<pubDate>Thu, 29 Oct 2026 05:34:04 +0800</pubDate>
-<description>&lt;p&gt;Akai 即将发布 MPC Sample Key，一款基于 MPC Sample 的 37 键开源硬件。该设备采用开源固件，旨在支持社区通过“氛围编程”（vibe coding）进行自定义修改与功能扩展。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了开源硬件与 AI 辅助编程在音乐科技领域的结合趋势，但产品细节尚待正式公布。&lt;/p&gt;&lt;p&gt;The Verge AI · opensource · signal 38/100&lt;/p&gt;</description>
-<source url="https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key">The Verge AI</source>
-<category>开源硬件</category>
-<category>AI 编程</category>
-<category>音乐科技</category>
-</item>
-<item><title>OpenAI 工程师面试流程曝光：含 AI 编码与逐行代码审查</title><link>https://x.com/dotey/status/2115556902876991894</link><guid isPermaLink="true">https://x.com/dotey/status/2115556902876991894</guid>
-<pubDate>Thu, 29 Oct 2026 05:30:45 +0800</pubDate>
-<description>&lt;p&gt;Reddit 用户分享 OpenAI 软件工程师面试全流程，涵盖技术初筛、48小时带回家项目及四轮现场面试。部分候选人需使用 AI 工具解决复杂问题，且项目代码会被面试官逐行追问设计决策。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了头部 AI 公司对工程能力的最新考核标准，特别是将“利用 AI 编码”纳入正式考察环节的趋势。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · industry · signal 45/100&lt;/p&gt;</description>
-<source url="https://x.com/dotey/status/2115556902876991894">宝玉 (@dotey)</source>
-<category>OpenAI</category>
-<category>招聘</category>
-<category>软件工程</category>
-<category>AI 辅助编程</category>
 </item>
 </channel>
 </rss>
