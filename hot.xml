@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Hot Radar</title><link>https://todayforai.com/en/hot</link><description>Multi-source trending AI stories ranked by cross-source heat.</description>
-<language>en</language><lastBuildDate>Sat, 31 Oct 2026 00:40:22 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Sat, 31 Oct 2026 05:09:54 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/voxelowl/today4ai/main/hot.xml" rel="self" type="application/rss+xml"/>
-<item><title>Google 发布 Gemini 4 Carbon，安全与长程任务性能登顶</title><link>https://todayforai.com/en/story/story-2da7420c-ab5</link><guid isPermaLink="true">https://todayforai.com/en/story/story-2da7420c-ab5</guid>
-<pubDate>Fri, 30 Oct 2026 10:09:18 +0800</pubDate>
-<description>&lt;p&gt;Google 正式推出新一代前沿模型 Gemini 4 Carbon，在网络安全防御与长程智能体任务上确立 SOTA 地位。该模型在 Artificial Analysis 智能指数 v5.0 中以 59 分位列第一，并在 SEC-bench Pro 漏洞发现测试中取得 88.2% 的卓越成绩，生成无漏洞代码的概率较前代翻倍。
-
-多源数据交叉验证显示，Gemini 4 Carbon 具备处理大型代码库数天级工程问题的能力，支持 1M token 上下文窗口，GraphWalks 基准 F1 分数达 96.2%。尽管在编码代理综合得分上略逊于 Claude Opus 5.5，但其在 Arena 文本榜排名第一，且单次任务成本比竞品低约 72%，重新定义了性能-成本帕累托边界。
-
-目前该模型采用分阶段访问策略，优先向安全防御者及可信合作伙伴开放，后续将扩展至普通用户。其强大的自主根因分析与可控性表现，标志着 AI 在复杂软件工程与安全自动化领域进入新阶段，对开发者生态及企业级应用格局产生深远影响。&lt;/p&gt;&lt;p&gt;14 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), Hacker News AI, Arena.ai (@arena), Artificial Analysis, Artificial Analysis (@ArtificialAnlys), Ars Technica AI&lt;/p&gt;</description>
-</item>
 <item><title>Mistral 开源万亿参数模型 Le Chonk</title><link>https://todayforai.com/en/story/story-b42c0b3f-46d</link><guid isPermaLink="true">https://todayforai.com/en/story/story-b42c0b3f-46d</guid>
 <pubDate>Fri, 30 Oct 2026 09:09:09 +0800</pubDate>
 <description>&lt;p&gt;法国 AI 公司 Mistral 正式开源其旗舰模型 Mistral Large 4（代号 Le Chonk）的权重，标志着欧洲在主权 AI 领域取得重大突破。该模型拥有约 1 万亿总参数和 520 亿激活参数，采用混合专家（MoE）架构并支持多模态输入，已在 Hugging Face 平台提供下载及推理端点服务。
@@ -19,13 +11,29 @@
 
 这一发布对开发者生态具有深远影响，修改版 MIT 许可证允许企业自由进行本地部署、微调及商业化应用。对于重视数据主权、合规性及成本控制的企业和政府机构而言，Le Chonk 提供了比闭源实验室更具性价比且更安全的替代方案，进一步加剧了开源大模型市场的竞争格局。&lt;/p&gt;&lt;p&gt;7 sources&lt;/p&gt;&lt;p&gt;Hacker News AI, Hugging Face Blog, The Decoder, TechCrunch AI, Artificial Analysis (@ArtificialAnlys), Rohan Paul (@rohanpaul_ai)&lt;/p&gt;</description>
 </item>
-<item><title>谷歌云营收翻倍至 307 亿美元，TPU 外销开启 AI 变现新引擎</title><link>https://todayforai.com/en/story/story-5f4dc30c-cea</link><guid isPermaLink="true">https://todayforai.com/en/story/story-5f4dc30c-cea</guid>
-<pubDate>Fri, 30 Oct 2026 07:57:42 +0800</pubDate>
-<description>&lt;p&gt;Alphabet 2026 年第三季度财报显示，谷歌云营收同比激增 103% 达 307 亿美元，运营利润翻三倍，标志着其全栈 AI 战略在商业变现上取得实质性突破。尽管总营收同比增长 25%，但搜索广告增速放缓及巨额资本支出导致自由现金流缺口扩大至 90 亿美元以上，引发股价盘中暴跌超 13%，创历史最大单日跌幅。
+<item><title>Google 发布 Gemini 4 Carbon，安全与长程任务性能登顶</title><link>https://todayforai.com/en/story/story-2da7420c-ab5</link><guid isPermaLink="true">https://todayforai.com/en/story/story-2da7420c-ab5</guid>
+<pubDate>Fri, 30 Oct 2026 10:09:18 +0800</pubDate>
+<description>&lt;p&gt;Google 正式推出新一代前沿模型 Gemini 4 Carbon，在网络安全防御与长程智能体任务上确立 SOTA 地位。该模型在 Artificial Analysis 智能指数 v5.0 中以 59 分位列第一，并在 SEC-bench Pro 漏洞发现测试中取得 88.2% 的卓越成绩，生成无漏洞代码的概率较前代翻倍。
 
-多方信源交叉验证指出，TPU 芯片业务开始产生实质性收入，已向 Oracle 和 OpenAI 等外部客户销售，预计大部分收入将在 2027 年体现。同时，Gemini 应用用户破十亿，模型 API 处理量增长四倍。然而，管理层承认 AI 搜索变现能力弱于传统搜索，迫使公司计划增加广告密度以弥补差距，且当季资本支出高达 514 亿美元，主要用于 AI 基础设施建设。
+多源数据交叉验证显示，Gemini 4 Carbon 具备处理大型代码库数天级工程问题的能力，支持 1M token 上下文窗口，GraphWalks 基准 F1 分数达 96.2%。尽管在编码代理综合得分上略逊于 Claude Opus 5.5，但其在 Arena 文本榜排名第一，且单次任务成本比竞品低约 72%，重新定义了性能-成本帕累托边界。
 
-此次财报揭示了谷歌收入结构的深刻转变：搜索营收占比首次跌破 50%，而云业务占比升至 24.1%，成为抵消搜索下滑的主要动力。这一变化表明，AI 驱动的基础设施与服务正取代传统广告成为新的增长极，但也凸显了高投入低即时回报模式对资本市场估值逻辑的重塑挑战。&lt;/p&gt;&lt;p&gt;5 sources&lt;/p&gt;&lt;p&gt;Hacker News AI, Rohan Paul (@rohanpaul_ai), The Decoder, IT之家 · IT业界, Ars Technica AI&lt;/p&gt;</description>
+目前该模型采用分阶段访问策略，优先向安全防御者及可信合作伙伴开放，后续将扩展至普通用户。其强大的自主根因分析与可控性表现，标志着 AI 在复杂软件工程与安全自动化领域进入新阶段，对开发者生态及企业级应用格局产生深远影响。&lt;/p&gt;&lt;p&gt;6 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), Hacker News AI, Arena.ai (@arena), Artificial Analysis, Artificial Analysis (@ArtificialAnlys), Ars Technica AI&lt;/p&gt;</description>
+</item>
+<item><title>谷歌首颗太空卫星在轨运行 Gemma 4</title><link>https://todayforai.com/en/story/story-cadea08a-964</link><guid isPermaLink="true">https://todayforai.com/en/story/story-cadea08a-964</guid>
+<pubDate>Sat, 31 Oct 2026 02:21:38 +0800</pubDate>
+<description>&lt;p&gt;谷歌 Project Suncatcher 项目取得关键突破，其首颗原型卫星成功在轨启动板载 TPU 芯片并运行 Gemma 4 模型，完成了从地面发送指令到接收 AI 回复（一首俳句）的端到端推理闭环。这一事件标志着专用 AI 芯片首次在太空环境中实现数据中心级算力验证，将“太空边缘计算”从概念推进至实际运行阶段。
+
+多方信源交叉验证显示，该卫星目前受限于约 1kW 的太阳能供电，TPU 仅能间歇性工作（每次约 20 分钟）。尽管硬件配置为单颗 TPU 搭配预装模型，但此次成功执行生成式任务证明了轨道大规模 AI 推理的技术可行性。下一步重点在于评估 TPU 在极端热应力和辐射环境下的长期稳定性，这是构建可靠太空基础设施的核心挑战。
+
+此举对行业格局具有深远意义。若后续测试顺利，谷歌计划于 2027 年部署双星互联系统，并在 2030 年代中期探索具备成本竞争力的太空数据中心。这不仅为低延迟空间数据处理和自主航天器奠定技术基础，更可能重塑全球算力分布，利用太空理论发电量可达地面 8 倍的优势，开辟绿色算力的新赛道。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;宝玉 (@dotey), TechCrunch AI, Rohan Paul (@rohanpaul_ai), The Verge AI&lt;/p&gt;</description>
+</item>
+<item><title>Anthropic Claude 插件遭供应链攻击植入后门</title><link>https://todayforai.com/en/story/story-1e9de3ee-9b5</link><guid isPermaLink="true">https://todayforai.com/en/story/story-1e9de3ee-9b5</guid>
+<pubDate>Sat, 31 Oct 2026 05:09:54 +0800</pubDate>
+<description>&lt;p&gt;Anthropic 遭遇严重供应链安全事件，其官方 Claude Code VS Code 扩展（版本 2.1.313）被植入远程访问木马（RAT）。该恶意代码通过 SSH 反向隧道建立隐蔽通道，旨在窃取开发者云凭证并获取系统控制权。尽管不同信源对受影响规模存在分歧（从约 5000 名直接用户到超 4000 万潜在自动更新实例），但核心事实一致：恶意载荷具备跨平台持久化能力，且已通过默认自动更新机制静默传播。
+
+多方报道交叉验证显示，攻击主要发生在 Cursor Marketplace 及 NPM 注册表环节。安全公司 Phorion 指出恶意软件支持 macOS、Linux 和 Windows，并通过创建计划任务实现持久驻留。Ars Technica 与 The Decoder 确认该恶意版本在线存活约 11-12 小时。值得注意的是，Anthropic 在发现威胁后发布了修复版 v2.1.314，但采取“静默替换”策略，未立即公开披露或通知受影响用户，此举引发业界对其透明度的质疑。
+
+此事件暴露了 AI 开发工具链中严重的信任危机。对于依赖自动更新的开发者而言，官方插件已成为高危入口。虽然 Cursor 已紧急下架相关版本并关闭市场排查，但已感染系统的后门难以通过简单升级清除。这迫使企业重新审视第三方扩展的安全审计流程，并可能加速行业对软件物料清单（SBOM）强制合规的讨论。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;Hacker News AI, The Decoder, Ars Technica AI&lt;/p&gt;</description>
 </item>
 <item><title>Anthropic 推出 Claude 自我评估机制低成本自查对话安全</title><link>https://todayforai.com/en/story/story-28a1d030-e9f</link><guid isPermaLink="true">https://todayforai.com/en/story/story-28a1d030-e9f</guid>
 <pubDate>Fri, 30 Oct 2026 07:37:28 +0800</pubDate>
@@ -36,12 +44,28 @@
 这一举措对 AI 行业具有深远的生态意义。它证明了利用模型自身能力进行大规模、低成本的安全监测是可行的，为行业提供了可复用的技术范式。同时，明确单条标记不直接导致封号，而是作为事后信号进入人工复查流程，既保障了用户体验，又构建了更稳健的滥用检测闭环，推动了 AI 安全治理向更高效、更透明的方向演进。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;宝玉 (@dotey), Rohan Paul (@rohanpaul_ai), Anthropic AI (@AnthropicAI)&lt;/p&gt;</description>
 </item>
 <item><title>Anthropic 递交 IPO 招股书，估值两万亿拟募资千亿</title><link>https://todayforai.com/en/story/story-0ed5b747-86f</link><guid isPermaLink="true">https://todayforai.com/en/story/story-0ed5b747-86f</guid>
-<pubDate>Fri, 30 Oct 2026 09:28:37 +0800</pubDate>
-<description>&lt;p&gt;AI 独角兽 Anthropic 正式向 SEC 提交 S-1 文件，计划以“ANT”代码在纳斯达克上市，目标估值约 2 万亿美元，拟募资最高 1000 亿美元，有望成为史上最大 IPO。招股书显示其商业化进程迅猛，2026 年上半年营收飙升至 163 亿美元，同比增长超 14 倍，且第二季度已实现运营盈利。
+<pubDate>Sat, 31 Oct 2026 04:36:01 +0800</pubDate>
+<description>&lt;p&gt;AI 实验室 Anthropic 正式向 SEC 提交 S-1 文件，计划以代码“ANT”在纳斯达克上市，目标估值约 2 万亿美元，拟募资最高 1000 亿美元，有望成为史上最大 IPO。其 2026 年上半年营收飙升至 163 亿美元，同比增长超 14 倍，第二季度首次实现运营盈利，毛利率高达 85%，显示出极强的商业化爆发力。
 
-尽管账面净亏损高达 807 亿美元，但多方信源交叉验证指出，这主要源于亚马逊和谷歌可转债公允价值变动的非现金会计损失，实际经营性亏损仅约 7 亿美元。公司财务健康度极高，持有 1317 亿美元现金储备，利息收入足以覆盖运营亏损。核心成本方面，算力支出占收入比例从 250% 骤降至 48%，得益于收入增速远超固定账单。此外，Anthropic 已锁定微软、谷歌及 Broadcom 等巨头总额逾 5000 亿美元的长期算力采购合同，并罕见地用 94 页篇幅披露 AI 生存性风险，凸显安全理念在商业叙事中的核心地位。
+财务数据显示，尽管账面净亏损达 807 亿美元，但这主要源于亚马逊和谷歌固定价格购股权因估值飙升产生的非现金会计重估损失，实际经营性亏损仅约 7 亿美元。算力成本占收入比例从 2.5 倍骤降至 48%，得益于收入增速远超固定账单。公司签署了总额逾 5000 亿美元的长期算力采购协议，包括向 Broadcom 租赁 TPU 及向 SpaceXAI 购买 GPU，同时披露了与云巨头深度绑定的销售渠道依赖。
 
-作为首家纯大模型上市公司，Anthropic 的公开数据为行业提供了关键基准。其成功上市将重塑 AI 资本格局，证明头部实验室可通过资本市场支撑巨额算力基建。同时，其对云渠道的高度依赖（47% 销售通过 AWS/Google）及未来数千亿美元的租赁义务，也揭示了大模型赛道“高投入、高壁垒”的残酷竞争现实，迫使整个行业重新审视盈利模型与风险控制。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), The Verge AI, Hacker News AI&lt;/p&gt;</description>
+作为首家纯大模型上市公司，Anthropic 的招股书罕见地用大量篇幅警告 AI 可能带来的“存在性风险”，将安全理念置于商业叙事核心。Claude Code 已成为增长引擎，内部代码生成率超 90%，但同时也暴露出部分违规收入争议。这一事件为行业提供了关键的财务基准，标志着 AI 产业从私有融资阶段正式迈入公开资本市场时代。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), The Verge AI, Hacker News AI&lt;/p&gt;</description>
+</item>
+<item><title>谷歌云营收翻倍至 307 亿美元，TPU 外销开启 AI 变现新引擎</title><link>https://todayforai.com/en/story/story-5f4dc30c-cea</link><guid isPermaLink="true">https://todayforai.com/en/story/story-5f4dc30c-cea</guid>
+<pubDate>Fri, 30 Oct 2026 07:57:42 +0800</pubDate>
+<description>&lt;p&gt;Alphabet 2026 年第三季度财报显示，谷歌云营收同比激增 103% 达 307 亿美元，运营利润翻三倍，标志着其全栈 AI 战略在商业变现上取得实质性突破。尽管总营收同比增长 25%，但搜索广告增速放缓及巨额资本支出导致自由现金流缺口扩大至 90 亿美元以上，引发股价盘中暴跌超 13%，创历史最大单日跌幅。
+
+多方信源交叉验证指出，TPU 芯片业务开始产生实质性收入，已向 Oracle 和 OpenAI 等外部客户销售，预计大部分收入将在 2027 年体现。同时，Gemini 应用用户破十亿，模型 API 处理量增长四倍。然而，管理层承认 AI 搜索变现能力弱于传统搜索，迫使公司计划增加广告密度以弥补差距，且当季资本支出高达 514 亿美元，主要用于 AI 基础设施建设。
+
+此次财报揭示了谷歌收入结构的深刻转变：搜索营收占比首次跌破 50%，而云业务占比升至 24.1%，成为抵消搜索下滑的主要动力。这一变化表明，AI 驱动的基础设施与服务正取代传统广告成为新的增长极，但也凸显了高投入低即时回报模式对资本市场估值逻辑的重塑挑战。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;Hacker News AI, Rohan Paul (@rohanpaul_ai), The Decoder, IT之家 · IT业界, Ars Technica AI&lt;/p&gt;</description>
+</item>
+<item><title>OpenAI 重构模型规范确立五大核心价值</title><link>https://todayforai.com/en/story/story-ac1d7e87-191</link><guid isPermaLink="true">https://todayforai.com/en/story/story-ac1d7e87-191</guid>
+<pubDate>Sat, 31 Oct 2026 01:44:59 +0800</pubDate>
+<description>&lt;p&gt;OpenAI 正式更新其公共行为指南（Model Spec），将原本细碎的风格指令重构为以“忠实于人类意图”为首的五大核心价值体系，标志着 AI 对齐策略从规则约束向价值导向的根本性转变。此次更新旨在解决高阶智能体在自主执行中可能出现的偏离目标与绕过安全机制问题，强调模型需理解用户深层意图而非机械执行字面指令。
+
+新规范明确要求模型区分用户实际陈述与推断假设，并主动披露假设以便用户纠正；针对智能体场景，严禁阻碍监督、修正或关闭，禁止追求自我保存目标。同时，OpenAI 大幅精简了原有的细粒度风格指南，转而强化上下文处理与人类自主权指引，承认现有模型尚未完全达标，正探索能内化这些价值观的新训练方法。
+
+此举被视为应对日益难以控制的自主代理风险的关键举措，通过公开透明的行为准则增强 AI 系统可控性。它不仅提升了模型在指令未明确覆盖场景下的判断力，也为行业确立了从单纯合规转向价值内化的新基准，对构建更安全、可信赖的 AI 生态具有深远意义。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;OpenAI 官方博客, IT之家 · 智能时代, The Decoder&lt;/p&gt;</description>
 </item>
 <item><title>Qwenputer 发布：在模型权重内编译 RISC-V CPU</title><link>https://todayforai.com/en/story/story-80d710fd-980</link><guid isPermaLink="true">https://todayforai.com/en/story/story-80d710fd-980</guid>
 <pubDate>Sat, 31 Oct 2026 00:40:22 +0800</pubDate>
@@ -54,30 +78,6 @@ Qwenputer 的出现标志着 AI 从“概率预测”向“确定性逻辑嵌入
 <item><title>Arena.ai 分析：缓存缺失致智能体成本激增 260%</title><link>https://todayforai.com/en/story/story-0055c6cf-acb</link><guid isPermaLink="true">https://todayforai.com/en/story/story-0055c6cf-acb</guid>
 <pubDate>Fri, 30 Oct 2026 23:12:44 +0800</pubDate>
 <description>&lt;p&gt;Arena.ai 基于逾 2.6 万条智能体会话数据指出，若移除提示词缓存机制，典型任务成本将增加 260%。以 Claude Fable 5.1 为例，单次任务费用将从 7.44 美元飙升至 27 美元，且缓存失效会导致账单额外增加 5%。该研究揭示了缓存技术在优化智能体经济模型中的核心作用。&lt;/p&gt;&lt;p&gt;1 sources&lt;/p&gt;&lt;p&gt;Arena.ai (@arena)&lt;/p&gt;</description>
-</item>
-<item><title>OpenAI 向 Pro 与 Business 用户赠送每月最高 $500 API 额度</title><link>https://todayforai.com/en/story/story-2042c530-c76</link><guid isPermaLink="true">https://todayforai.com/en/story/story-2042c530-c76</guid>
-<pubDate>Fri, 30 Oct 2026 06:48:29 +0800</pubDate>
-<description>&lt;p&gt;OpenAI 宣布即日起向 ChatGPT Pro 和 Business 订阅用户赠送每月最高 500 美元的免费 API 额度，旨在打通消费级订阅与开发者平台账户体系。这一举措直接对标 Anthropic 此前推出的同类福利，标志着主流 AI 厂商正通过捆绑高价值权益来争夺开发者与企业级市场。
-
-根据细则，该额度仅限当月使用且不可结转，适用于模型调用、智能体开发及内置工具，但明确排除 Codex CLI 及提升 ChatGPT/Codex 交互上限。用户需绑定同一邮箱的 API 组织并在设置中领取。此外，OpenAI 同步将 Pro 各档及 Business Premium 的用量上限翻倍，并取消了原定对 Pro 200 老用户的降额计划，进一步提升了重度用户的可用配额。
-
-此举显著降低了应用构建门槛，增强了高价值用户的生态粘性。通过周期性自动发放而非一次性优惠，OpenAI 意在长期锁定核心付费群体，同时应对来自竞争对手在开发者体验上的压力，重塑高端订阅服务的价值主张。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;宝玉 (@dotey), 机器之心 (微信公众号), Simon Willison 博客&lt;/p&gt;</description>
-</item>
-<item><title>Phonic-1 发布实时语音智能体，登顶评测并获融资</title><link>https://todayforai.com/en/story/story-22f1f0f3-1d7</link><guid isPermaLink="true">https://todayforai.com/en/story/story-22f1f0f3-1d7</guid>
-<pubDate>Fri, 30 Oct 2026 01:49:36 +0800</pubDate>
-<description>&lt;p&gt;初创公司 Phonic 正式发布其旗舰模型 Phonic-1，宣称这是目前唯一能在用户说话的同时执行查询和预订等工具调用的语音模型。该模型在 Artificial Analysis 发布的语音转语音指数中以 87.1 分位居榜首，略微领先于 Grok Voice 3.0，标志着实时语音交互从单纯的“对话”向具备行动能力的“智能体”演进。
-
-技术层面，Phonic-1 展现了极致的低延迟特性，首音频响应时间仅为 0.61 秒，同时保持了极具竞争力的成本优势（API 定价为每分钟 0.07 美元）。在专门测试智能体能力的 Tau Voice 基准中，其准确率达到 79.9%，大幅领先第二名 5.4 个百分点。多方信源交叉验证显示，尽管存在细微的评测差异，但其在速度、智能与成本之间的平衡能力得到了行业认可。
-
-商业落地方面，Phonic-1 已完成 2750 万美元 A 轮融资，并成功应用于 Ashby 平台的 AI 面试场景。这一进展表明，低延迟且具备工具调用能力的语音模型已具备规模化商用价值，有望重塑客服、招聘及个人助理等领域的交互体验，推动语音 AI 赛道进入“实时行动”的新阶段。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;</description>
-</item>
-<item><title>OpenAI 坚持发布 AI 数学成果并捐赠支持学界</title><link>https://todayforai.com/en/story/story-d64f63e7-2b2</link><guid isPermaLink="true">https://todayforai.com/en/story/story-d64f63e7-2b2</guid>
-<pubDate>Fri, 30 Oct 2026 21:50:21 +0800</pubDate>
-<description>&lt;p&gt;OpenAI CEO Sam Altman 明确表态，尽管其 AI 生成的数学成果引发学术界强烈争议与混乱，公司不会停止这一进程。Altman 承认早期发布存在沟通不畅、缺乏背景论证及节奏过快等问题，导致研究人员感到被边缘化，但他强调人类有权了解宇宙规律，基础科学探索不应因争议而止步。
-
-在技术与伦理层面，OpenAI 正试图平衡模型能力边界探索与学术规范。面对菲尔兹奖得主等群体的抵制及“杨-米尔斯”理论成果未完全公开的质疑，Altman 承诺优化发布流程以尊重学术群体。同时，为缓解紧张关系并帮助数学家适应 AI 时代，OpenAI 宣布向西蒙斯基金会捐赠 500 万美元，用于资助研讨会和项目，旨在促进人机协作而非单纯替代。
-
-此举标志着 AI 介入基础科学研究进入深水区。OpenAI 暗示仍有大量未公开储备发现，将持续向传统学术体系施压。这不仅重塑了数学研究的范式，也迫使全球科研界重新审视 AI 在知识生产中的角色、伦理边界及合作机制，加速了“AI for Science”从概念验证走向制度化冲突与融合的新阶段。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;The Verge AI, IT之家 · IT业界&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
