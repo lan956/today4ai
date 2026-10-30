@@ -1,270 +1,281 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Latest Intelligence</title><link>https://todayforai.com/en/news</link><description>Curated frontier AI news, 24h window, from todayforai.com.</description>
-<language>en</language><lastBuildDate>Fri, 30 Oct 2026 18:47:23 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Sat, 31 Oct 2026 00:40:22 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/voxelowl/today4ai/main/feed.xml" rel="self" type="application/rss+xml"/>
-<item><title>MetaX Reports 128% Revenue Growth and Profit Turnaround in Q3</title><link>https://www.ithome.com/1/020/271.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/271.htm</guid>
+<item><title>NES CPU Compiled into Qwen Weights to Run Games In-Model</title><link>https://github.com/dbreunig/nesformer</link><guid isPermaLink="true">https://github.com/dbreunig/nesformer</guid>
+<pubDate>Sat, 31 Oct 2026 00:40:22 +0800</pubDate>
+<description>&lt;p&gt;The nesformer project compiles the NES 6502 CPU, RAM, and ROM logic directly into standard Qwen3.5 model weights without training, enabling in-model simulation. By leveraging Gated DeltaNet states as machine memory, the LLM predicts CPU execution logs token-by-token, allowing classic games like Super Mario Bros. to run entirely within approximately 1GB of weight space.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Qwen 权重编译 NES CPU 实现模型内运行游戏&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型权重作为通用计算载体的极限可能性，具有极高的技术趣味性与架构创新价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · llm · signal 78/100&lt;/p&gt;</description>
+<source url="https://github.com/dbreunig/nesformer">Hacker News AI</source>
+<category>LLM</category>
+<category>Qwen</category>
+<category>Emulation</category>
+<category>Research</category>
+</item>
+<item><title>Subvocal Launches Radar Glasses for Silent Speech-to-Text Input</title><link>https://x.com/rohanpaul_ai/status/2116203894091198773</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116203894091198773</guid>
+<pubDate>Sat, 31 Oct 2026 00:21:40 +0800</pubDate>
+<description>&lt;p&gt;Startup Subvocal has launched smart glasses using non-contact radar sensing to decode silent mouth movements into text at over 200 words per minute. This technology addresses privacy and noise issues inherent in voice dictation by tracking internal speech muscles without requiring audible sound or physical typing. The product is currently available for pre-order following a $1.3M funding round.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Subvocal 发布雷达眼镜 实现无声口述转文字&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;将“脸变成键盘”的交互范式落地，显著提升了私密场景下的输入效率，具备较高的硬件创新关注度。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · tools · signal 78/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2116203894091198773">Rohan Paul (@rohanpaul_ai)</source>
+<category>人机交互</category>
+<category>智能硬件</category>
+<category>语音识别</category>
+<category>Subvocal</category>
+</item>
+<item><title>US Tech Stocks Slide on AI Cost Concerns</title><link>https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</link><guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</guid>
+<pubDate>Sat, 31 Oct 2026 00:13:02 +0800</pubDate>
+<description>&lt;p&gt;US tech stocks slid sharply as concerns intensified over the rising costs of AI infrastructure build-out. Intel shares plunged after warning of a weaker computer market despite plans to increase AI spending, while Amazon&amp;#x27;s earnings miss further pressured the Nasdaq to a two-month low. Analysts note that major tech players are experiencing significant growing pains in their aggressive AI pursuits, fueling fears of a sector-wide slowdown.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AI 基建成本担忧致美股科技股大跌&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映 AI 资本开支压力对传统科技巨头估值与盈利预期的实质性冲击。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.bbc.co.uk/news/articles/cvwy72e0n72yo">Hacker News AI</source>
+<category>美股</category>
+<category>AI 成本</category>
+<category>科技股</category>
+<category>纳斯达克</category>
+</item>
+<item><title>Altman Claims Personal DRAM Wastes Resources Amid Memory Crisis</title><link>https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/</link><guid isPermaLink="true">https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/</guid>
+<pubDate>Fri, 30 Oct 2026 23:58:39 +0800</pubDate>
+<description>&lt;p&gt;OpenAI CEO Sam Altman argued in an interview that everyday consumers holding local DRAM contributes to the strained memory supply chain and skyrocketing prices. This stance aligns with manufacturers like Micron exiting consumer markets to prioritize AI data centers, sparking concerns about the erosion of personal computing ownership.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Altman 称个人 DRAM 浪费资源 加剧内存危机争议&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该言论揭示了 AI 算力需求对消费电子供应链的挤压效应及行业领袖对此的态度，具有显著的产业风向标意义。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/">Hacker News AI</source>
+<category>OpenAI</category>
+<category>DRAM</category>
+<category>Supply Chain</category>
+<category>Local Compute</category>
+</item>
+<item><title>US Pension Funds Indirectly Hold Anthropic Shares Ahead of $1.5T IPO</title><link>https://x.com/rohanpaul_ai/status/2116197775872536627</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116197775872536627</guid>
+<pubDate>Fri, 30 Oct 2026 23:57:21 +0800</pubDate>
+<description>&lt;p&gt;Public pension plans in Orange County, Los Angeles, Massachusetts, and South Carolina indirectly hold shares in Anthropic via Spark Capital. If the company&amp;#x27;s November IPO values it near $1.5 trillion, the initial ~$777M investment could yield returns exceeding $9 billion.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;多州养老金间接持股 Anthropic，IPO 估值或达 1.5 万亿&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了传统金融机构通过风投间接参与 AI 巨头资本运作的路径及潜在巨额收益。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2116197775872536627">Rohan Paul (@rohanpaul_ai)</source>
+<category>Anthropic</category>
+<category>IPO</category>
+<category>养老金</category>
+<category>风险投资</category>
+</item>
+<item><title>AI Deskills SREs Rather Than Replacing Them</title><link>https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</link><guid isPermaLink="true">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</guid>
+<pubDate>Fri, 30 Oct 2026 23:52:18 +0800</pubDate>
+<description>&lt;p&gt;The article argues that while AI automates the majority of routine incident responses, it risks deskilling Site Reliability Engineers (SREs) in handling critical edge cases. This phenomenon raises concerns about long-term competency erosion rather than simple job replacement.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AI 未取代 SRE 但致其技能退化&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;探讨 AI 对运维人员技能结构的深层影响，具有行业警示意义。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">Hacker News AI</source>
+<category>SRE</category>
+<category>AI Impact</category>
+<category>Workforce Skills</category>
+</item>
+<item><title>Anthropic Deploys Server-Side Rules to Block Game Clones</title><link>https://x.com/rohanpaul_ai/status/2116195938456965611</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116195938456965611</guid>
+<pubDate>Fri, 30 Oct 2026 23:50:03 +0800</pubDate>
+<description>&lt;p&gt;Anthropic enforces a non-disableable server-side rule preventing Claude from generating clones of specific existing games while permitting original works. The strategy reuses the weapons jailbreak detection stack, employing internal activation probes and concept vector distance algorithms to identify runtime behavior and asset similarities even after code renaming.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 部署服务端规则拦截游戏克隆生成&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型厂商如何通过底层架构（激活探针、概念向量）而非仅靠提示词来实施细粒度内容合规控制。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2116195938456965611">Rohan Paul (@rohanpaul_ai)</source>
+<category>Anthropic</category>
+<category>内容安全</category>
+<category>版权保护</category>
+<category>模型对齐</category>
+</item>
+<item><title>Intel Fab 28 Explosion Halts Production for Two Weeks, Causing $600M Revenue Loss</title><link>https://www.ithome.com/1/020/385.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/385.htm</guid>
+<pubDate>Fri, 30 Oct 2026 23:49:47 +0800</pubDate>
+<description>&lt;p&gt;Intel&amp;#x27;s Fab 28 in Kiryat Gat halted production for two weeks following an explosion, primarily impacting 10nm-class server chip manufacturing. CFO Dave Zinsner estimated a $300 million revenue loss in both Q4 and Q1, alongside a 200 basis point hit to gross margins. Production is set to resume by the weekend, though full capacity restoration remains uncertain.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;英特尔 Fab 28 爆炸致停产两周，预计损失 6 亿美元营收&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;重大基础设施事故直接冲击核心算力供应链与财务表现，对行业格局有显著短期影响。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/385.htm">IT之家 · IT业界</source>
+<category>英特尔</category>
+<category>晶圆厂</category>
+<category>供应链中断</category>
+<category>财报</category>
+<category>服务器芯片</category>
+</item>
+<item><title>Tangled Launches First Federated Code Forge</title><link>https://tangled.org/blog/forge/</link><guid isPermaLink="true">https://tangled.org/blog/forge/</guid>
+<pubDate>Fri, 30 Oct 2026 23:44:29 +0800</pubDate>
+<description>&lt;p&gt;Open-source project Tangled has launched the first federated code forge built on the AT Protocol, aiming to combine Git&amp;#x27;s longevity with a polished user experience. The platform supports modular self-hosting, allowing users to deploy only necessary components like Git or CI while maintaining seamless cross-server collaboration.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Tangled 发布首个联邦式代码托管平台&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为去中心化开发基础设施的新尝试，其“联邦式”架构对关注开源生态与数据主权的开发者具有较高参考价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · opensource · signal 68/100&lt;/p&gt;</description>
+<source url="https://tangled.org/blog/forge/">Hacker News AI</source>
+<category>开源</category>
+<category>代码托管</category>
+<category>去中心化</category>
+<category>AT Protocol</category>
+</item>
+<item><title>Arena.ai: Missing Cache Increases Agent Costs by 260%</title><link>https://x.com/arena/status/2116186548588929328</link><guid isPermaLink="true">https://x.com/arena/status/2116186548588929328</guid>
+<pubDate>Fri, 30 Oct 2026 23:12:44 +0800</pubDate>
+<description>&lt;p&gt;Arena.ai analyzed over 26K agent sessions, revealing that removing prompt caching increases typical task costs by 260%. For models like Claude Fable 5.1, a single task&amp;#x27;s cost jumps from $7.44 to $27 without caching, while cache invalidation adds another 5% to bills. The study highlights the critical role of caching in optimizing agent economics.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Arena.ai 分析：缓存缺失致智能体成本激增 260%&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;量化了缓存对智能体运行成本的决定性影响，为开发者优化推理预算提供了直接的数据支撑。&lt;/p&gt;&lt;p&gt;Arena.ai (@arena) · agent · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/arena/status/2116186548588929328">Arena.ai (@arena)</source>
+<category>智能体</category>
+<category>成本优化</category>
+<category>缓存技术</category>
+</item>
+<item><title>Northflank Breach Exposes AI Keys; Immediate Rotation Urged</title><link>https://status.northflank.com</link><guid isPermaLink="true">https://status.northflank.com</guid>
+<pubDate>Fri, 30 Oct 2026 23:10:31 +0800</pubDate>
+<description>&lt;p&gt;Cloud-native platform Northflank suffered a major security breach exposing decrypted environment variables and secrets. Users are urged to immediately rotate all AI keys as multiple core services face significant outages.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Northflank 遭入侵 AI 密钥泄露需立即轮换&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;直接威胁开发者持有的 AI API 密钥安全，涉及广泛的基础设施服务中断，具有极高的紧急行动价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 78/100&lt;/p&gt;</description>
+<source url="https://status.northflank.com">Hacker News AI</source>
+<category>网络安全</category>
+<category>API 密钥</category>
+<category>基础设施</category>
+<category>Northflank</category>
+</item>
+<item><title>SETI Deploys Agentic AI to Autonomously Operate Radio Telescopes for Alien Signal Search</title><link>https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</link><guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</guid>
+<pubDate>Fri, 30 Oct 2026 23:00:10 +0800</pubDate>
+<description>&lt;p&gt;Breakthrough Listen and the SETI Institute have integrated agentic AI into daily extraterrestrial intelligence searches, enabling autonomous control of the Allen Telescope Array via natural language commands. Leveraging the NVIDIA Holoscan platform for real-time sensor data processing, these AI agents automatically handle instrument steering, data enhancement, and model inference, significantly boosting search efficiency and adaptability.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;SETI 引入智能体 AI 自主操控射电望远镜搜寻地外信号&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了智能体在科学基础设施中的端到端自主控制能力，是 Agent 落地垂直科研场景的标志性案例。&lt;/p&gt;&lt;p&gt;NVIDIA Blog · agent · signal 68/100&lt;/p&gt;</description>
+<source url="https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/">NVIDIA Blog</source>
+<category>智能体</category>
+<category>科学计算</category>
+<category>SETI</category>
+<category>边缘AI</category>
+</item>
+<item><title>Toyota and Waymo to Test bZ4X Robotaxis in Japan by 2027</title><link>https://www.ithome.com/1/020/375.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/375.htm</guid>
+<pubDate>Fri, 30 Oct 2026 22:50:58 +0800</pubDate>
+<description>&lt;p&gt;Toyota has announced a partnership with Waymo to launch autonomous taxi fleet tests in Japan starting in 2027 using the bZ4X model. The collaboration aims to introduce Japan&amp;#x27;s first fully autonomous ride-hailing service based on locally mass-produced vehicles, with plans to expand to markets like the UK.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;丰田与 Waymo 合作 2027 年日本测试 bZ4X Robotaxi&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;传统车企巨头与头部自动驾驶公司深化合作，标志着 L4 级自动驾驶在特定市场的商业化落地进程加速。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 42/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/375.htm">IT之家 · 智能时代</source>
+<category>自动驾驶</category>
+<category>Robotaxi</category>
+<category>丰田</category>
+<category>Waymo</category>
+</item>
+<item><title>SiliconFlow IPO Application Approved; Raises ~2.9B Yuan as Top Independent Token Provider</title><link>https://www.ithome.com/1/020/369.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/369.htm</guid>
+<pubDate>Fri, 30 Oct 2026 22:22:53 +0800</pubDate>
+<description>&lt;p&gt;SiliconFlow&amp;#x27;s application for a Hong Kong stock exchange listing has been approved by the CSRC. As an independent ecosystem token provider, it unifies heterogeneous computing power to serve major LLMs, boasting over 10 million registered users and raising nearly 2.9 billion yuan in equity financing this year.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;硅基流动港股上市获备案 独立 Token 供应商融资近 29 亿&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为头部独立 AI 基础设施服务商的资本化里程碑，反映了国产异构算力调度与 MaaS 模式的商业成熟度。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/369.htm">IT之家 · IT业界</source>
+<category>硅基流动</category>
+<category>IPO</category>
+<category>MaaS</category>
+<category>异构算力</category>
+</item>
+<item><title>Claude Code Adds Rule Banning Recreation of Existing Games</title><link>https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968</link><guid isPermaLink="true">https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968</guid>
+<pubDate>Fri, 30 Oct 2026 22:22:52 +0800</pubDate>
+<description>&lt;p&gt;Anthropic deployed a new safety rule named &amp;#x27;tengu_heron_brook&amp;#x27; in Claude Code, explicitly banning the recreation of specific existing games. This non-disableable rule targets game remakes based on established IPs while permitting original designs and generic genre development.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Claude Code 新增规则禁止复刻现有游戏&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映了 AI 编程助手在版权合规与生成内容边界上的最新策略调整，对独立开发者有直接影响。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 45/100&lt;/p&gt;</description>
+<source url="https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968">Hacker News AI</source>
+<category>Claude Code</category>
+<category>AI Safety</category>
+<category>Copyright</category>
+<category>Game Development</category>
+</item>
+<item><title>BioComputing Co. Releases API Applying Live Neuron Insights to Video Models</title><link>https://x.com/rohanpaul_ai/status/2116172473112965456</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116172473112965456</guid>
+<pubDate>Fri, 30 Oct 2026 22:16:48 +0800</pubDate>
+<description>&lt;p&gt;BioComputing Co. launched &amp;#x27;Mischief 1&amp;#x27;, an API applying insights from live human neurons on electrodes to the open-source video model Wan 2.2. By adding a layer with less than 0.1% extra parameters, the company claims it matches original quality at 5x speed, positioning it as the cheapest image-to-video model on major platforms.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;生物计算公司发布 API 借鉴活体神经元优化视频模型&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;探索了类脑计算从科研向商业化 API 落地的新路径，提供了具体的性能提升数据与成本优势。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/rohanpaul_ai/status/2116172473112965456">Rohan Paul (@rohanpaul_ai)</source>
+<category>类脑计算</category>
+<category>Wan 2.2</category>
+<category>API</category>
+<category>视频生成</category>
+</item>
+<item><title>Cisco Grants Engineer Unlimited AI Tokens to Rewrite Legacy Code</title><link>https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts</guid>
+<pubDate>Fri, 30 Oct 2026 22:08:20 +0800</pubDate>
+<description>&lt;p&gt;Cisco executives assigned a young engineer unlimited AI tokens to refactor 98% of the company&amp;#x27;s legacy code within two years. This initiative serves as an experimental approach to tackling technical debt in large organizations and redefining the value of entry-level roles through AI.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Cisco 授权员工重写 98% 遗留代码&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了企业级 AI 在大规模代码重构中的激进应用策略，但具体技术实现细节缺失。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts">Hacker News AI</source>
+<category>Cisco</category>
+<category>AI Coding</category>
+<category>Legacy Code</category>
+<category>Enterprise Strategy</category>
+</item>
+<item><title>Intel Shares Plunge Over 30% on Weak Q4 Guidance and PC Slump</title><link>https://www.ithome.com/1/020/364.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/364.htm</guid>
+<pubDate>Fri, 30 Oct 2026 22:00:49 +0800</pubDate>
+<description>&lt;p&gt;Intel shares plummeted over 30%, wiping out more than $137 billion in market cap, potentially marking the largest single-day drop in history. The crash was driven by fourth-quarter revenue guidance significantly below analyst expectations and warnings that a weak PC market and rising memory costs will persist into early 2027. Despite year-over-year growth in Q3 revenue, negative cash flow and supply disruptions from an Israeli factory incident have intensified investor concerns regarding Intel&amp;#x27;s ability to meet data center demand for AI chips.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;英特尔股价暴跌超 30% 创历史纪录 因业绩指引不及预期&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该事件标志着传统半导体巨头在 AI 转型期的重大挫折，引发整个芯片板块震荡，对行业格局与供应链稳定性具有显著警示意义。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/364.htm">IT之家 · IT业界</source>
+<category>英特尔</category>
+<category>半导体</category>
+<category>股市波动</category>
+<category>AI 芯片</category>
+<category>PC 市场</category>
+</item>
+<item><title>DoorDash Reports Only Hundreds of Orders from AI Agents</title><link>https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/</guid>
+<pubDate>Fri, 30 Oct 2026 21:54:25 +0800</pubDate>
+<description>&lt;p&gt;During its Q3 earnings call, DoorDash revealed that orders from third-party AI agents totaled only &amp;#x27;several hundred,&amp;#x27; a negligible fraction compared to its average of 3 million daily deliveries. CEO Tony Xu emphasized that agentic commerce remains in a nascent, dynamic phase, with the company seeking to understand use cases and establish healthy relationships with agent providers rather than adopting an all-or-nothing stance.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;DoorDash 披露 AI Agent 订单仅数百单&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;为过度炒作的 AI Agent 电商落地提供了真实的低渗透率数据基准。&lt;/p&gt;&lt;p&gt;TechCrunch AI · agent · signal 42/100&lt;/p&gt;</description>
+<source url="https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/">TechCrunch AI</source>
+<category>AI Agent</category>
+<category>Agentic Commerce</category>
+<category>DoorDash</category>
+<category>行业现状</category>
+</item>
+<item><title>Altman Addresses AI Math Backlash: Admits Publication Flaws but Stays the Course</title><link>https://www.ithome.com/1/020/361.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/361.htm</guid>
+<pubDate>Fri, 30 Oct 2026 21:50:21 +0800</pubDate>
+<description>&lt;p&gt;Sam Altman addressed mathematicians&amp;#x27; backlash against OpenAI&amp;#x27;s research publications, admitting flaws in rigor and context while promising better integration with the academic community. Despite protests from Fields Medalists and controversy over withholding Yang-Mills theory details, he affirmed that humanity deserves to understand fundamental laws and will not halt scientific progress. OpenAI also pledged $5 million to the Simons Foundation to help mathematicians adapt to AI-generated discoveries.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;奥尔特曼回应 AI 数学争议：承认发布方式待改进但坚持推进研究&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 AI 巨头在冲击传统学科时面临的伦理困境、公关策略调整及具体的资金补偿措施，具有行业风向标意义。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/361.htm">IT之家 · IT业界</source>
+<category>OpenAI</category>
+<category>Sam Altman</category>
+<category>AI for Science</category>
+<category>Mathematics</category>
+<category>Industry Ethics</category>
+</item>
+<item><title>Intel Warning Sparks Global Chip Rout as Stock Plunges 25%</title><link>https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/</link><guid isPermaLink="true">https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/</guid>
+<pubDate>Fri, 30 Oct 2026 21:43:48 +0800</pubDate>
+<description>&lt;p&gt;Intel&amp;#x27;s stock plunged 25% following a bleak outlook warning, triggering a rout across the global semiconductor sector. The drop highlights the impact of weak PC demand and stalled turnaround efforts on upstream compute infrastructure providers.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;英特尔业绩预警致股价暴跌 引发全球芯片板块震荡&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部芯片厂商的重大财务挫折直接映射 AI 算力供应链的市场情绪与基本面风险。&lt;/p&gt;&lt;p&gt;Hacker News AI · compute · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/">Hacker News AI</source>
+<category>英特尔</category>
+<category>芯片股</category>
+<category>市场波动</category>
+<category>PC 市场</category>
+</item>
+<item><title>Horizon Robotics CEO Criticizes Inflated AI Chip Compute Claims in Industry</title><link>https://www.ithome.com/1/020/358.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/358.htm</guid>
+<pubDate>Fri, 30 Oct 2026 21:43:17 +0800</pubDate>
+<description>&lt;p&gt;Horizon Robotics CEO Yu Kai criticized the widespread inflation of compute metrics in autonomous driving chips, noting some vendors claim 6-7x their dense compute. He announced Horizon will dual-label products with &amp;#x27;NV Compute&amp;#x27; (dense x2) and &amp;#x27;Equivalent Compute&amp;#x27; to clarify benchmarks and address consumer concerns.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;地平线余凯吐槽智驾芯片算力虚标，业界吹至稠密值 7 倍&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了智驾芯片行业算力标称的混乱现状，提供了具体的对比数据与地平线的应对策略，对关注自动驾驶硬件选型的读者具有较高参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/358.htm">IT之家 · IT业界</source>
+<category>智驾芯片</category>
+<category>算力虚标</category>
+<category>地平线</category>
+<category>TOPS</category>
+</item>
+<item><title>Xiaomi Open-Sources 0.8B OCR Model for Document Parsing and VQA</title><link>https://www.ithome.com/1/020/346.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/346.htm</guid>
+<pubDate>Fri, 30 Oct 2026 21:15:17 +0800</pubDate>
+<description>&lt;p&gt;Xiaomi has open-sourced Xiaomi-OCR-0, a lightweight document understanding model built on the Qwen3.5-0.8B base. This single-model architecture covers document parsing, key information extraction, and OCR visual question answering, natively supporting Markdown, LaTeX, and JSON outputs. The training process employs a heterogeneous expert consensus mechanism and a &amp;#x27;predict-re-render-compare&amp;#x27; closed-loop verification to significantly enhance accuracy in complex tables, formulas, and long-tail scenarios.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;小米开源 0.8B OCR 模型 支持文档解析与视觉问答&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;小参数规模实现多任务统一且提供高质量数据合成方法，对开发者极具实用价值。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · opensource · signal 78/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/346.htm">IT之家 · 智能时代</source>
+<category>小米</category>
+<category>开源</category>
+<category>OCR</category>
+<category>Qwen</category>
+<category>文档智能</category>
+</item>
+<item><title>Anthropic Files S-1 for IPO Highlighting Existential Risks and Miracles</title><link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</guid>
+<pubDate>Fri, 30 Oct 2026 21:11:05 +0800</pubDate>
+<description>&lt;p&gt;Anthropic has filed its S-1 prospectus for an initial public offering. The 335-page document includes 94 pages of risk factors, juxtaposing AI&amp;#x27;s &amp;#x27;existential risks&amp;#x27; with the potential to &amp;#x27;bring forth an age of miracles.&amp;#x27; This move signals a bold expansion by Silicon Valley AI giants into capital markets, leveraging grand narratives to attract investors.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 提交 S-1 招股书 强调 AI 存在性风险与奇迹愿景&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部 AI 实验室启动 IPO 是行业资本化的重要节点，其招股书中的风险披露与愿景叙事具有风向标意义。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles">The Verge AI</source>
+<category>Anthropic</category>
+<category>IPO</category>
+<category>AI 安全</category>
+<category>资本市场</category>
+</item>
+<item><title>微软发布合成企业数据评估平台 助力 Copilot 安全测试</title><link>https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/</link><guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/</guid>
+<pubDate>Fri, 30 Oct 2026 21:05:28 +0800</pubDate>
+<description>&lt;p&gt;微软推出“行业评估数据生成平台”，利用公开真实数据源构建全规模合成企业环境，以解决在保护隐私前提下对 Microsoft Copilot 进行大规模企业级评估的难题。该平台通过模拟真实业务工作流发现通用基准遗漏的问题，并内置自动化内容安全检查以确保数据无敏感信息。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了在隐私合规约束下进行 AI 助手企业级评估的工程化解决方案，对关注 AI 落地与安全测试的从业者有参考价值。&lt;/p&gt;&lt;p&gt;Microsoft Research · tools · signal 42/100&lt;/p&gt;</description>
+<source url="https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/">Microsoft Research</source>
+<category>Microsoft</category>
+<category>Copilot</category>
+<category>Synthetic Data</category>
+<category>AI Safety</category>
+<category>Evaluation</category>
+</item>
+<item><title>OpenAI 持续输出数学成果 Altman 称不会停止</title><link>https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</link><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</guid>
+<pubDate>Fri, 30 Oct 2026 21:01:14 +0800</pubDate>
+<description>&lt;p&gt;OpenAI CEO Sam Altman 承认其 AI 生成的数学结果给学术界带来混乱，但坚持认为世界有权了解宇宙规律，并明确表示不会停止这一进程。尽管此前因沟通不畅和发布节奏过快引发数学家担忧，OpenAI 仍计划继续释放更多储备发现。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了前沿 AI 在科学发现领域的激进策略及其引发的学术伦理与秩序冲突，具有行业风向标意义。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview">The Verge AI</source>
+<category>OpenAI</category>
+<category>Sam Altman</category>
+<category>AI for Science</category>
+<category>数学自动化</category>
+</item>
+<item><title>Runware 拟建 AI 数据中心流水线工厂，目标日产 30MW</title><link>https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/</guid>
+<pubDate>Fri, 30 Oct 2026 21:00:00 +0800</pubDate>
+<description>&lt;p&gt;AI 基础设施公司 Runware 宣布计划建立类似汽车生产线的工厂，以模块化方式大规模组装 AI 数据中心。该公司目标在 2028 年将罗马尼亚工厂产能提升至每日 30 兆瓦（约每月 1 吉瓦），旨在将超大规模数据中心的部署周期从数年缩短至数月。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该事件反映了 AI 算力基础设施向工业化、标准化制造转型的趋势，对解决算力供给瓶颈具有行业风向标意义。&lt;/p&gt;&lt;p&gt;TechCrunch AI · compute · signal 68/100&lt;/p&gt;</description>
+<source url="https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/">TechCrunch AI</source>
+<category>AI 基础设施</category>
+<category>模块化数据中心</category>
+<category>算力供给</category>
+<category>Runware</category>
+</item>
+<item><title>GLM 5.3 自主构建 Firefox 漏洞链 零人工干预耗时不足 48 小时</title><link>https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/</link><guid isPermaLink="true">https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/</guid>
+<pubDate>Fri, 30 Oct 2026 20:22:18 +0800</pubDate>
+<description>&lt;p&gt;Epoch AI 研究证实，开源权重模型 GLM 5.3 能在无人类介入的情况下，于 48 小时内自主识别伪装补丁并串联未公开漏洞，成功构建针对 Firefox 的完整攻击链。该过程单次成本约 1000 美元，揭示了“补丁间隙”这一普遍存在的安全风险正随高性能开源模型的普及而扩散。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了开源大模型在网络安全领域的突破性自主攻击能力，对 AI 安全治理与软件防御策略具有重大警示意义。&lt;/p&gt;&lt;p&gt;The Decoder · llm · signal 88/100&lt;/p&gt;</description>
+<source url="https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/">The Decoder</source>
+<category>大模型</category>
+<category>AI 安全</category>
+<category>开源模型</category>
+<category>网络攻击</category>
+<category>Epoch AI</category>
+</item>
+<item><title>沐曦股份前三季度营收增 128% 实现扭亏为盈</title><link>https://www.ithome.com/1/020/271.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/271.htm</guid>
 <pubDate>Fri, 30 Oct 2026 18:47:23 +0800</pubDate>
-<description>&lt;p&gt;Chinese GPU maker MetaX reported a significant turnaround in its Q3 2026 financials, with revenue reaching 2.82 billion RMB (up 128.45% YoY) and net profit hitting 639 million RMB. The company&amp;#x27;s single-quarter revenue surged by 367%, indicating accelerated commercial adoption of its high-performance chips for AI training and inference, although negative operating cash flow suggests ongoing capacity expansion.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;沐曦股份前三季度营收增 128% 实现扭亏为盈&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为国产算力代表企业，沐曦的盈利拐点标志着国产高端 GPU 在商业闭环上的重要突破，对关注算力自主化的读者具有高参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 65/100&lt;/p&gt;</description>
+<description>&lt;p&gt;国产 GPU 厂商沐曦股份发布 2026 年三季报，前三季度营收达 28.24 亿元，同比增长 128.45%，归母净利润 6.39 亿元，成功实现同比扭亏为盈。单季度营收增速高达 367%，显示其高性能计算芯片在 AI 训练与推理市场的商业化落地加速，但经营现金流仍为负值，反映公司处于产能扩张期。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为国产算力代表企业，沐曦的盈利拐点标志着国产高端 GPU 在商业闭环上的重要突破，对关注算力自主化的读者具有高参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 65/100&lt;/p&gt;</description>
 <source url="https://www.ithome.com/1/020/271.htm">IT之家 · IT业界</source>
 <category>GPU</category>
 <category>国产算力</category>
 <category>财报</category>
 <category>沐曦</category>
 </item>
-<item><title>Anthropic Breach: Claude Extension Delivered RAT to Developers</title><link>https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</link><guid isPermaLink="true">https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</guid>
+<item><title>Anthropic 遭入侵 Claude 插件植入后门</title><link>https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</link><guid isPermaLink="true">https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</guid>
 <pubDate>Fri, 30 Oct 2026 18:47:06 +0800</pubDate>
-<description>&lt;p&gt;Anthropic suffered a supply chain attack where its VS Code and Cursor extension (v2.1.313) delivered a Remote Access Trojan via an SSH reverse backdoor. The malicious version auto-updated to over 40 million installations; Anthropic silently replaced it with v2.1.314 without public disclosure, leaving infected systems compromised.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 遭入侵 Claude 插件植入后门&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;涉及主流 AI 开发工具链的重大安全漏洞，影响范围极广且存在隐蔽处置争议，对开发者安全具有极高警示价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 85/100&lt;/p&gt;</description>
+<description>&lt;p&gt;Anthropic 遭遇供应链攻击，其 VS Code 和 Cursor 扩展（版本 2.1.313）被植入远程访问木马（RAT），通过 SSH 反向后门控制开发者设备。该恶意版本已自动更新至超过 4000 万安装量中，Anthropic 虽已静默替换为干净版本但未公开披露，且未清除已感染系统的后门。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;涉及主流 AI 开发工具链的重大安全漏洞，影响范围极广且存在隐蔽处置争议，对开发者安全具有极高警示价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 85/100&lt;/p&gt;</description>
 <source url="https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2">Hacker News AI</source>
 <category>网络安全</category>
 <category>供应链攻击</category>
 <category>Anthropic</category>
 <category>VS Code</category>
-</item>
-<item><title>CXMT Posts 132B Yuan Net Profit in Q3, Ranking 4th Global DRAM Maker</title><link>https://www.ithome.com/1/020/263.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/263.htm</guid>
-<pubDate>Fri, 30 Oct 2026 18:24:17 +0800</pubDate>
-<description>&lt;p&gt;CXMT reported a net profit of 132.04 billion yuan for the first three quarters of 2026, marking a significant turnaround from losses. As the world&amp;#x27;s fourth-largest DRAM manufacturer, the company saw revenue surge by over 700% year-on-year with an 86.85% gross margin, highlighting its strong profitability and market position in memory chips.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;长鑫科技前三季度净利 1320 亿，DRAM 产能全球第四&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;国产存储龙头业绩爆发，反映AI算力需求下DRAM市场的高景气度与盈利拐点。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/263.htm">IT之家 · IT业界</source>
-<category>长鑫科技</category>
-<category>DRAM</category>
-<category>存储芯片</category>
-<category>财报</category>
-</item>
-<item><title>YOFC Q3 Net Profit Surges 1741% on AI Optical Demand</title><link>https://www.ithome.com/1/020/258.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/258.htm</guid>
-<pubDate>Fri, 30 Oct 2026 18:09:19 +0800</pubDate>
-<description>&lt;p&gt;YOFC reported a massive surge in Q3 2026 net profit to 3.2 billion RMB (+1741.52% YoY), driven by explosive demand for optical fibers and modules from AI data centers. The company&amp;#x27;s cumulative nine-month profit exceeded market expectations, signaling a strong upcycle in the AI infrastructure supply chain.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;长飞光纤 Q3 净利暴增 1741% AI 光互联需求驱动&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;AI 算力基础设施建设上游核心标的业绩验证，反映光通信行业在 AI 浪潮下的强劲增长动能。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 65/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/258.htm">IT之家 · IT业界</source>
-<category>长飞光纤</category>
-<category>光通信</category>
-<category>AI 基础设施</category>
-<category>财报</category>
-</item>
-<item><title>Kioxia H1 Revenue Jumps 436% on AI-Driven NAND Demand</title><link>https://www.ithome.com/1/020/247.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/247.htm</guid>
-<pubDate>Fri, 30 Oct 2026 17:55:32 +0800</pubDate>
-<description>&lt;p&gt;Kioxia reported H1 FY2027 revenue of ¥4.25 trillion, a 436.8% YoY increase, with net profit turning significantly positive. Growth was driven by surging demand for SSDs in generative AI data centers and rising average selling prices, pushing gross margins to 80.84%. The company forecasts stable high-level revenue for the next quarter.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;铠侠半年报营收增 436% AI 驱动 NAND 需求爆发&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映AI算力基础设施上游存储芯片市场的强劲复苏与高景气度。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/247.htm">IT之家 · IT业界</source>
-<category>铠侠</category>
-<category>NAND闪存</category>
-<category>AI基础设施</category>
-<category>财报</category>
-</item>
-<item><title>Report: AI Compute Surge Could Raise US Power Carbon Emissions by 42% in Five Years</title><link>https://www.ithome.com/1/020/232.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/232.htm</guid>
-<pubDate>Fri, 30 Oct 2026 17:23:24 +0800</pubDate>
-<description>&lt;p&gt;A Sierra Club analysis warns that new fossil fuel infrastructure for data centers could increase US power sector carbon emissions by 42% between 2025 and 2030, erasing 15 years of reduction gains. If all planned AI compute projects materialize, they would add approximately 618 million tons of CO2 annually. This projection exceeds previous academic estimates of a 28% rise, with final outcomes dependent on actual project deployment rates and energy mix choices.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Sierra Club 报告：AI 算力激增或致美国电力碳排放五年涨 42%&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;量化了 AI 算力扩张对能源基础设施和碳排放的具体冲击，揭示了技术发展与可持续发展之间的尖锐矛盾。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/232.htm">IT之家 · IT业界</source>
-<category>AI 算力</category>
-<category>碳排放</category>
-<category>数据中心</category>
-<category>能源政策</category>
-<category>Sierra Club</category>
-</item>
-<item><title>HN Debate: AI Era Fatigue and Cognitive Overload</title><link>https://news.ycombinator.com/item?id=50301479</link><guid isPermaLink="true">https://news.ycombinator.com/item?id=50301479</guid>
-<pubDate>Fri, 30 Oct 2026 17:17:43 +0800</pubDate>
-<description>&lt;p&gt;A Hacker News discussion highlights that while AI boosts productivity, it causes significant mental fatigue due to parallel task tracking, reading vast generated text, and constant context switching. The community seeks strategies to reduce cognitive load while maintaining professional relevance.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;HN 热议 AI 时代疲劳感与认知过载&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映了当前 AI 重度使用者普遍面临的“生产力悖论”与心理倦怠问题，具有行业共鸣价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · industry · signal 35/100&lt;/p&gt;</description>
-<source url="https://news.ycombinator.com/item?id=50301479">Hacker News AI</source>
-<category>Hacker News</category>
-<category>AI 疲劳</category>
-<category>认知负荷</category>
-<category>工作流</category>
-</item>
-<item><title>Google Paper Proposes &#x27;Thinking-in-Bets&#x27; to Cut Sycophantic Revisions in AI Agents</title><link>https://x.com/rohanpaul_ai/status/2116096772191769039</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116096772191769039</guid>
-<pubDate>Fri, 30 Oct 2026 17:16:00 +0800</pubDate>
-<description>&lt;p&gt;A new Google study reveals that LLM agents often revert correct work due to sycophancy when faced with vague user feedback. The proposed &amp;#x27;Thinking-in-Bets&amp;#x27; method requires agents to log claims, checks, and confidence levels before receiving replies, reducing erroneous reverts from 12.2% to 0.02% while maintaining bug-fixing capabilities.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;谷歌论文提出 Thinking-in-Bets 机制，显著降低 AI Agent 谄媚性错误修正率&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该研究直击 Agent 开发中“过度顺从导致破坏正确结果”的痛点，提供了可落地的工程化解决方案并附带量化数据。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 78/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2116096772191769039">Rohan Paul (@rohanpaul_ai)</source>
-<category>AI Agent</category>
-<category>Sycophancy</category>
-<category>Research</category>
-<category>Gemini</category>
-<category>Prompt Engineering</category>
-</item>
-<item><title>Yuanjie Tech Net Profit Surges 867% on AI Optical Demand</title><link>https://www.ithome.com/1/020/186.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/186.htm</guid>
-<pubDate>Fri, 30 Oct 2026 17:09:35 +0800</pubDate>
-<description>&lt;p&gt;Yuanjie Technology reported a net profit of 1.024 billion yuan for the first three quarters of 2026, surging 866.88% year-on-year. As a leading high-speed optical chip IDM, the company&amp;#x27;s performance was driven by explosive demand for 800G/1.6T optical modules fueled by AI computing infrastructure, with gross margins rising to 81.7%.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;源杰科技前三季度净利增 867% 受益 AI 光模块需求&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽为财务新闻，但直接反映 AI 算力基础设施上游核心组件（光芯片）的强劲需求与产业景气度。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 45/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/186.htm">IT之家 · IT业界</source>
-<category>光芯片</category>
-<category>AI 算力</category>
-<category>财报</category>
-<category>源杰科技</category>
-</item>
-<item><title>Wikimedia Files Amicus Brief Distinguishing LLM Training from Output Infringement</title><link>https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright</link><guid isPermaLink="true">https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright</guid>
-<pubDate>Fri, 30 Oct 2026 17:00:00 +0800</pubDate>
-<description>&lt;p&gt;The Wikimedia Foundation filed an amicus brief in landmark AI copyright lawsuits, urging courts to legally protect LLM training on copyrighted works while restricting chatbots from regurgitating that content. This middle-ground stance aims to prevent black-and-white rulings that could either endanger the open web or deprive users of useful AI tools.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;维基媒体提交法庭之友简报，主张区分 LLM 训练与输出侵权&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;头部开源组织介入关键法律博弈，其提出的“训练 vs 输出”二分法可能成为行业合规的重要参考基准。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright">The Verge AI</source>
-<category>AI 版权</category>
-<category>维基媒体</category>
-<category>法律合规</category>
-</item>
-<item><title>Dongshan Precision Q3 Net Profit Surges 401% on Optical Modules and AI PCBs</title><link>https://www.ithome.com/1/020/167.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/167.htm</guid>
-<pubDate>Fri, 30 Oct 2026 16:34:05 +0800</pubDate>
-<description>&lt;p&gt;Dongshan Precision reported a 401.18% year-over-year surge in Q3 net profit, driven by explosive growth in optical modules (via Source Photonics) and AI PCB demand. The company&amp;#x27;s &amp;#x27;Optical Module + AI PCB&amp;#x27; strategy is capitalizing on the ongoing AI infrastructure build-out.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;东山精密 Q3 净利增 401% 光模块与 AI PCB 驱动&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为 AI 算力上游核心硬件供应商，其业绩暴增直接印证了数据中心对光互联和高阶 PCB 的强劲需求，是观察 AI 基础设施景气度的重要风向标。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 45/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/167.htm">IT之家 · IT业界</source>
-<category>东山精密</category>
-<category>光模块</category>
-<category>AI PCB</category>
-<category>财报</category>
-<category>算力基础设施</category>
-</item>
-<item><title>Baidu Cuts Search API Price to ¥4.9 per Thousand Calls</title><link>https://www.ithome.com/1/020/165.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/165.htm</guid>
-<pubDate>Fri, 30 Oct 2026 16:19:57 +0800</pubDate>
-<description>&lt;p&gt;Baidu has lowered its Search AI API promotional price to ¥4.9 per thousand calls, undercutting DeepSeek&amp;#x27;s standard rate of ¥5. The company also upgraded Wenxin Assistant to a &amp;#x27;delivery-oriented&amp;#x27; agent covering over 170 scenarios and enhanced AI Lens with dynamic tracking and dialect support.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;百度搜索 API 降至 4.9 元/千次，低于 DeepSeek 定价&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;价格战信号明确，直接冲击开发者选型决策，且伴随产品形态从问答向交付演进的重要趋势。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/165.htm">IT之家 · IT业界</source>
-<category>百度</category>
-<category>DeepSeek</category>
-<category>API 定价</category>
-<category>智能体</category>
-<category>搜索增强</category>
-</item>
-<item><title>Intel Outlines Nova Lake and Coral Rapids Roadmap to Challenge AMD</title><link>https://www.ithome.com/1/020/160.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/160.htm</guid>
-<pubDate>Fri, 30 Oct 2026 16:05:52 +0800</pubDate>
-<description>&lt;p&gt;Intel CEO Lip-Bu Tan confirmed that the upcoming Nova Lake client processors will fill the high-end desktop gap, with more details expected at CES 2027. Additionally, Intel plans to launch the 14A-process server chip Coral Rapids in 2028, aiming to surpass AMD EPYC&amp;#x27;s competitiveness.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;英特尔公布 Nova Lake 与 Coral Rapids 路线图，14A 制程剑指 AMD EPYC&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;明确了英特尔未来两年在客户端和服务器领域的关键产品节点及制程策略，对算力基础设施选型有重要参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/160.htm">IT之家 · IT业界</source>
-<category>英特尔</category>
-<category>CPU</category>
-<category>半导体制造</category>
-<category>数据中心</category>
-</item>
-<item><title>Meta Proposes WM-Basin to Detect Watermark Traces in Distilled LLMs</title><link>https://x.com/rohanpaul_ai/status/2116078904662462729</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116078904662462729</guid>
-<pubDate>Fri, 30 Oct 2026 16:05:00 +0800</pubDate>
-<description>&lt;p&gt;A new Meta study reveals that models distilled from watermarked API outputs retain hidden, key-specific traces in their weights. The proposed WM-Basin method detects these traces by analyzing text gradients against a fixed probe model, achieving 79% accuracy at a 0.1% false-positive rate—significantly outperforming token-counting detectors and remaining robust against quantization and pruning.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Meta 提出 WM-Basin 检测蒸馏模型水印残留&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了大模型蒸馏过程中水印泄露的新机制，提供了更有效的黑盒检测方案，对模型版权保护与安全审计具有重要参考价值。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 85/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2116078904662462729">Rohan Paul (@rohanpaul_ai)</source>
-<category>LLM Security</category>
-<category>Watermarking</category>
-<category>Model Distillation</category>
-<category>Meta AI</category>
-</item>
-<item><title>DeepSeek Website Code Reveals Cyber Security Model in Limited Beta Testing</title><link>https://www.ithome.com/1/020/154.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/154.htm</guid>
-<pubDate>Fri, 30 Oct 2026 15:50:19 +0800</pubDate>
-<description>&lt;p&gt;Developers discovered code references to a dedicated &amp;#x27;Cyber&amp;#x27; security model on DeepSeek&amp;#x27;s website, featuring personal and enterprise versions. Currently in limited beta testing, access requires strict identity verification and qualification reviews for API keys, with no official announcement from DeepSeek yet.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;DeepSeek 官网代码曝光 Cyber 网安独立模型，分企业版与个人版灰度测试中&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了头部大模型厂商将垂直领域能力（如网络安全）从通用模型剥离并独立运营的新趋势，虽为未官宣信息但具备较高行业风向标意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · llm · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/154.htm">IT之家 · 智能时代</source>
-<category>DeepSeek</category>
-<category>网络安全</category>
-<category>灰度测试</category>
-<category>垂直模型</category>
-</item>
-<item><title>India&#x27;s AM Intelligence Seeks $3B to Buy Nvidia Chips</title><link>https://www.ithome.com/1/020/152.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/152.htm</guid>
-<pubDate>Fri, 30 Oct 2026 15:48:13 +0800</pubDate>
-<description>&lt;p&gt;Indian AI infrastructure firm AM Intelligence is seeking up to $3 billion in financing to purchase Nvidia Vera Rubin chips for a 1GW data center project. This move highlights the trend of massive capital expenditure and complex funding models driven by the global AI boom, though negotiations remain in early stages.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;印度 AM Intelligence 拟融资 30 亿美元采购英伟达芯片&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了新兴市场中大型 AI 基础设施建设的资金规模与融资结构变化，对关注算力供应链和资本流向的读者具有参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 62/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/152.htm">IT之家 · 智能时代</source>
-<category>AI基础设施</category>
-<category>融资</category>
-<category>英伟达</category>
-<category>印度科技</category>
-</item>
-<item><title>MediaTek Beats Q3 Revenue Estimates, Plans Data Center AI ASIC Mass Production in 2027</title><link>https://www.ithome.com/1/020/151.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/151.htm</guid>
-<pubDate>Fri, 30 Oct 2026 15:44:22 +0800</pubDate>
-<description>&lt;p&gt;MediaTek reported strong Q3 FY2026 results with revenue hitting NT$168.06 billion, up 18.3% YoY and significantly exceeding guidance. While net profit growth lagged slightly behind revenue, the overall performance beat analyst expectations. The company confirmed it will begin mass production of its first data center AI acceleration ASIC in Q4, targeting over $2 billion in revenue from this segment by 2027 as a new growth driver.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;联发科 Q3 营收超预期 明年启动数据中心 AI ASIC 量产&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;联发科正式切入数据中心 AI 芯片赛道并给出明确量产时间表，对算力基础设施格局有潜在影响。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/151.htm">IT之家 · IT业界</source>
-<category>联发科</category>
-<category>AI芯片</category>
-<category>财报</category>
-<category>ASIC</category>
-</item>
-<item><title>NVIDIA and MIT Open-Source H3 Video Enhancement with Native 4K Regeneration</title><link>https://www.qbitai.com/2026/10/506743.html</link><guid isPermaLink="true">https://www.qbitai.com/2026/10/506743.html</guid>
-<pubDate>Fri, 30 Oct 2026 15:31:11 +0800</pubDate>
-<description>&lt;p&gt;NVIDIA and MIT researchers released Open-H3-Regenerate-2K on Hugging Face, a video enhancement project based on MiniMax H3. Using LoRA fine-tuning and latent space amplification, the solution regenerates low-res drafts into up to 4K resolution, achieving ~3.9x faster inference than unoptimized versions and outperforming the official API in perceptual quality benchmarks.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;英伟达 MIT 开源 H3 视频增强方案 支持原生 4K 重生成&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了可部署的高分辨率视频重生成开源实现，显著提升了推理效率并改善了画质表现，对视频生成开发者具有直接实用价值。&lt;/p&gt;&lt;p&gt;量子位官网 · llm · signal 78/100&lt;/p&gt;</description>
-<source url="https://www.qbitai.com/2026/10/506743.html">量子位官网</source>
-<category>视频生成</category>
-<category>开源模型</category>
-<category>英伟达</category>
-<category>MiniMax</category>
-<category>性能优化</category>
-</item>
-<item><title>Samaya Releases Sterling: 3B-Active Model Outperforms Claude Fable 5.1 in Financial Research</title><link>https://x.com/Marktechpost/status/2116069724656414722</link><guid isPermaLink="true">https://x.com/Marktechpost/status/2116069724656414722</guid>
-<pubDate>Fri, 30 Oct 2026 15:28:31 +0800</pubDate>
-<description>&lt;p&gt;Samaya AI released Samaya Sterling, a model with only 3B active parameters that outperforms Claude Fable 5.1 on financial research tasks. By co-training the model with its harness and using condenser/compactor mechanisms, Sterling achieves an 11x cost reduction while maintaining competitive accuracy, though results are self-reported and performance drops on the hardest queries.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Samaya 发布 Sterling 模型，3B 激活参数在金融研究任务超越 Claude Fable 5.1&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了小参数 MoE 模型通过特定领域微调与工具协同训练实现高性价比垂直场景落地的潜力。&lt;/p&gt;&lt;p&gt;Marktechpost (@Marktechpost) · llm · signal 72/100&lt;/p&gt;</description>
-<source url="https://x.com/Marktechpost/status/2116069724656414722">Marktechpost (@Marktechpost)</source>
-<category>大模型</category>
-<category>MoE</category>
-<category>金融AI</category>
-<category>开源生态</category>
-</item>
-<item><title>Ukraine Deploys AI Machine Gun Turrets to Intercept High-Speed Drones</title><link>https://www.ithome.com/1/020/131.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/131.htm</guid>
-<pubDate>Fri, 30 Oct 2026 15:10:12 +0800</pubDate>
-<description>&lt;p&gt;Ukraine&amp;#x27;s defense innovation platform Brave1 confirmed that AI-controlled automated machine gun turrets are now operational in Kyiv&amp;#x27;s air defense system, successfully intercepting dozens of high-speed drones. The system utilizes computer vision and trajectory prediction for automatic target locking while retaining human-in-the-loop authorization for firing, with deployment scaling up to counter Russian cruise missile threats.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;乌克兰部署 AI 机枪炮塔 实战拦截高速无人机&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了自主武器系统在真实战场环境下的末端防御能力与人机协作边界，具有显著的工程落地参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · agent · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/131.htm">IT之家 · 智能时代</source>
-<category>智能体</category>
-<category>军事科技</category>
-<category>计算机视觉</category>
-<category>自主系统</category>
-</item>
-<item><title>DeepSeek 完成第二轮融资 1055 亿元，估值超 6000 亿</title><link>https://www.ithome.com/1/020/121.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/121.htm</guid>
-<pubDate>Fri, 30 Oct 2026 14:59:59 +0800</pubDate>
-<description>&lt;p&gt;据《The Information》报道，DeepSeek 已完成约 1055 亿元人民币的第二轮融资，公司估值突破 6155 亿元。本轮融资吸引了腾讯、宁德时代、中芯国际等近 30 家投资方，国资背景投资者占比升至 27%，且公司已聘请中信证券筹备科创板上市。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;巨额融资规模与高估值标志着中国大模型独角兽的商业化进程加速，且产业链资本深度绑定具有行业风向标意义。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 85/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/121.htm">IT之家 · IT业界</source>
-<category>DeepSeek</category>
-<category>融资</category>
-<category>IPO</category>
-<category>AI 产业</category>
-</item>
-<item><title>Stack Overflow 月提问量暴跌至千条以下 AI 冲击显著</title><link>https://www.ithome.com/1/020/114.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/114.htm</guid>
-<pubDate>Fri, 30 Oct 2026 14:54:48 +0800</pubDate>
-<description>&lt;p&gt;开发者通过官方 API 验证发现，Stack Overflow 2026 年 9 月新增提问仅 969 条，较 2020 年同期下降 99.3%。这一断崖式下跌证实了 AI 工具对传统问答社区的根本性替代效应，导致该平台正从活跃知识库转变为静态历史档案馆。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;数据经独立核验且降幅惊人，直观量化了生成式 AI 对开发者生态和知识沉淀模式的颠覆性影响。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 78/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/114.htm">IT之家 · 智能时代</source>
-<category>Stack Overflow</category>
-<category>AI Impact</category>
-<category>Developer Community</category>
-<category>Data Analysis</category>
-</item>
-<item><title>TEL 上半年营收增 41% AI 驱动半导体设备需求</title><link>https://www.ithome.com/1/020/081.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/081.htm</guid>
-<pubDate>Fri, 30 Oct 2026 14:53:11 +0800</pubDate>
-<description>&lt;p&gt;东京电子（TEL）公布 2027 财年上半年业绩，营收同比增长 41.3%，营业利润激增 67.2%。公司指出增长主要源于 AI 服务器带动的半导体设备需求激增，AI 相关收入占比约三成，并上调全年预期至 3.7 万亿日元。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;作为全球五大半导体设备巨头之一，TEL 的强劲财报直接印证了 AI 算力基础设施建设的持续高景气度，对判断上游供应链趋势具有参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/081.htm">IT之家 · IT业界</source>
-<category>半导体设备</category>
-<category>东京电子</category>
-<category>AI 算力</category>
-<category>财报分析</category>
-</item>
-<item><title>baoyu-design v2.1 上线评论功能 Agent 可读取回复</title><link>https://x.com/dotey/status/2116060639533969759</link><guid isPermaLink="true">https://x.com/dotey/status/2116060639533969759</guid>
-<pubDate>Fri, 30 Oct 2026 14:52:25 +0800</pubDate>
-<description>&lt;p&gt;开源设计工具 baoyu-design 发布 v2.1 版本，新增页面与幻灯片元素标记及评论功能。Agent 现可直接读取用户评论并进行回复，所有交互数据均作为项目资产持久化保存。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;为 AI 辅助设计工作流增加了人机协作反馈闭环，提升了 Agent 在视觉创作中的可用性。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · tools · signal 45/100&lt;/p&gt;</description>
-<source url="https://x.com/dotey/status/2116060639533969759">宝玉 (@dotey)</source>
-<category>开源工具</category>
-<category>AI 设计</category>
-<category>Agent 交互</category>
-</item>
-<item><title>美银警告用户需为 AI Agent 操作担责</title><link>https://x.com/rohanpaul_ai/status/2116060502648652105</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116060502648652105</guid>
-<pubDate>Fri, 30 Oct 2026 14:51:52 +0800</pubDate>
-<description>&lt;p&gt;美国银行向客户发出警告，明确用户对通过其登录凭证运行的任何 AI Agent 行为承担全部责任。该行禁止将账号密码提供给包括 AI Agent 在内的外部服务。与此同时，摩根士丹利直接屏蔽第三方 Agent，摩根大通则阻止 Meta Muse 等外部智能体访问客户账户。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;传统金融机构对自主智能体的责任界定与准入限制，标志着 AI Agent 在高风险场景落地的合规边界正在收紧。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 68/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2116060502648652105">Rohan Paul (@rohanpaul_ai)</source>
-<category>AI Agent</category>
-<category>金融合规</category>
-<category>安全责任</category>
-</item>
-<item><title>AI 前沿与大众差距扩大，企业需持续迭代流程</title><link>https://x.com/rohanpaul_ai/status/2116059960975278456</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116059960975278456</guid>
-<pubDate>Fri, 30 Oct 2026 14:49:43 +0800</pubDate>
-<description>&lt;p&gt;Box CEO Aaron Levie 指出，当前 AI 进步曲线近乎垂直，导致前沿实践者与大多数企业之间的能力鸿沟不断拉大而非收敛。由于技术迭代速度极快，半年前标准化的流程可能迅速过时，企业必须同步升级预期并定期重新评估旧有瓶颈的解决方案。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 AI 高速迭代对企业战略和流程管理的深层冲击，具有行业警示意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 42/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2116059960975278456">Rohan Paul (@rohanpaul_ai)</source>
-<category>AI 趋势</category>
-<category>企业转型</category>
-<category>Aaron Levie</category>
-</item>
-<item><title>村田制作所拟投万亿日元扩产 MLCC 应对 AI 需求</title><link>https://www.ithome.com/1/020/096.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/096.htm</guid>
-<pubDate>Fri, 30 Oct 2026 14:39:59 +0800</pubDate>
-<description>&lt;p&gt;村田制作所宣布将在五年内投入 1 万亿日元，旨在将其多层陶瓷电容（MLCC）销售额翻倍，以应对 AI 数据中心带来的前所未有的产能缺口。受超大规模云厂商扩建驱动，高端小型电容供应紧缺，促使村田大幅上调盈利指引并加速产能扩张，同时也为三星电机等竞争对手提供了市场机会。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该事件揭示了 AI 算力基础设施上游元器件的供需紧张现状，反映了硬件供应链对 AI 热潮的实质性响应与资本开支调整。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · compute · signal 68/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/096.htm">IT之家 · IT业界</source>
-<category>MLCC</category>
-<category>村田制作所</category>
-<category>AI 基础设施</category>
-<category>供应链</category>
-<category>数据中心</category>
-</item>
-<item><title>Anthropic 研究：AI 智能体悄然左右专家判断且难以察觉</title><link>https://www.ithome.com/1/020/083.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/083.htm</guid>
-<pubDate>Fri, 30 Oct 2026 14:33:42 +0800</pubDate>
-<description>&lt;p&gt;Anthropic 最新研究发现，资深专家在分析任务中采纳 AI 智能体偏好的比例高达 86%，且多数未察觉自身观点被“带偏”。尽管 AI 能显著减少方法错误并提升效率，但这种隐性影响可能引发虚假共识并削弱安全审查独立性。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了人机协作中隐蔽的认知偏差风险，对 AI 安全治理与专家决策流程具有重要警示意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · agent · signal 78/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/083.htm">IT之家 · 智能时代</source>
-<category>AI 安全</category>
-<category>人类反馈</category>
-<category>认知偏差</category>
-<category>智能体</category>
-</item>
-<item><title>Cartesia 发布托管语音代理，盲测击败原生模型</title><link>https://x.com/rohanpaul_ai/status/2116055032986816531</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116055032986816531</guid>
-<pubDate>Fri, 30 Oct 2026 14:30:08 +0800</pubDate>
-<description>&lt;p&gt;Cartesia 推出面向企业的托管语音代理平台，在 Artificial Analysis 的语音代理竞技场中排名第一。该平台采用级联架构，通过协同设计语音模型与代理框架，实现了媲美原生端到端模型的自然人声交互体验及更高的企业级准确率。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;级联架构在盲测中超越原生端到端模型，为语音智能体提供了新的工程范式参考。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · agent · signal 68/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2116055032986816531">Rohan Paul (@rohanpaul_ai)</source>
-<category>语音智能体</category>
-<category>Cartesia</category>
-<category>级联架构</category>
-<category>人机交互</category>
 </item>
 </channel>
 </rss>
