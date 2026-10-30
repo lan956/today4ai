@@ -27,13 +27,13 @@
 
 此次财报揭示了谷歌收入结构的深刻转变：搜索营收占比首次跌破 50%，而云业务占比升至 24.1%，成为抵消搜索下滑的主要动力。这一变化表明，AI 驱动的基础设施与服务正取代传统广告成为新的增长极，但也凸显了高投入低即时回报模式对资本市场估值逻辑的重塑挑战。&lt;/p&gt;&lt;p&gt;5 sources&lt;/p&gt;&lt;p&gt;Hacker News AI, Rohan Paul (@rohanpaul_ai), The Decoder, IT之家 · IT业界, Ars Technica AI&lt;/p&gt;</description>
 </item>
-<item><title>Anthropic 递交 IPO 招股书，估值两万亿拟募资千亿</title><link>https://todayforai.com/en/story/story-0ed5b747-86f</link><guid isPermaLink="true">https://todayforai.com/en/story/story-0ed5b747-86f</guid>
-<pubDate>Fri, 30 Oct 2026 09:28:37 +0800</pubDate>
-<description>&lt;p&gt;AI 独角兽 Anthropic 正式向 SEC 提交 S-1 文件，计划以“ANT”代码在纳斯达克上市，目标估值约 2 万亿美元，拟募资最高 1000 亿美元，有望成为史上最大 IPO。招股书显示其商业化进程迅猛，2026 年上半年营收飙升至 163 亿美元，同比增长超 14 倍，且第二季度已实现运营盈利。
+<item><title>Artificial Analysis 发布 v5 智能指数强化抗污染评估</title><link>https://todayforai.com/en/story/story-add8001f-6fc</link><guid isPermaLink="true">https://todayforai.com/en/story/story-add8001f-6fc</guid>
+<pubDate>Fri, 30 Oct 2026 03:07:40 +0800</pubDate>
+<description>&lt;p&gt;Artificial Analysis 正式推出其智能指数的重大升级版本 v5，核心变革在于将 60% 的评估权重转移至私有测试集或保留答案的数据集。这一举措旨在应对公开基准饱和及数据泄露导致的分数虚高问题，通过引入 Cognition 的 FrontierCode 2.0 和 Terminal-Bench-Science 等高难度代理基准，显著增强了评估体系的抗污染能力与真实世界适用性。
 
-尽管账面净亏损高达 807 亿美元，但多方信源交叉验证指出，这主要源于亚马逊和谷歌可转债公允价值变动的非现金会计损失，实际经营性亏损仅约 7 亿美元。公司财务健康度极高，持有 1317 亿美元现金储备，利息收入足以覆盖运营亏损。核心成本方面，算力支出占收入比例从 250% 骤降至 48%，得益于收入增速远超固定账单。此外，Anthropic 已锁定微软、谷歌及 Broadcom 等巨头总额逾 5000 亿美元的长期算力采购合同，并罕见地用 94 页篇幅披露 AI 生存性风险，凸显安全理念在商业叙事中的核心地位。
+多方信源交叉验证显示，v5 版本整合了包括 AA-Briefcase、GDP.pdf 在内的九项特定评估数据集，覆盖推理、知识、数学及编程领域，但明确排除图像与多语言测试。同步发布的 Progress Index v1 提供了单一连续尺度，用于长期追踪模型能力的演进趋势。新标准下，部分开源模型如 Kimi K3.1 Pro 排名大幅下滑，开源与顶级闭源模型的得分差距从 3 分扩大至 12 分，揭示了旧基准对开源泛化能力的潜在高估。
 
-作为首家纯大模型上市公司，Anthropic 的公开数据为行业提供了关键基准。其成功上市将重塑 AI 资本格局，证明头部实验室可通过资本市场支撑巨额算力基建。同时，其对云渠道的高度依赖（47% 销售通过 AWS/Google）及未来数千亿美元的租赁义务，也揭示了大模型赛道“高投入、高壁垒”的残酷竞争现实，迫使整个行业重新审视盈利模型与风险控制。&lt;/p&gt;&lt;p&gt;5 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), The Verge AI, Hacker News AI&lt;/p&gt;</description>
+此次更新对 AI 行业格局产生深远影响，它遏制了针对公开榜单的过度优化行为（Benchmaxxing），迫使开发者关注模型的真实泛化能力而非刷榜技巧。同时，开源与闭源模型在严格评估下的差距拉大，挑战了此前关于开源即将追平闭源的乐观预期，为行业提供了更客观、严谨的能力对比标尺。&lt;/p&gt;&lt;p&gt;5 sources&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys), Artificial Analysis, Hacker News AI, The Decoder, Interconnects (Nathan Lambert), IT之家 · 智能时代&lt;/p&gt;</description>
 </item>
 <item><title>NVIDIA 开源 Nemotron 3.5 语音模型及数据管线</title><link>https://todayforai.com/en/story/story-7d62e199-51c</link><guid isPermaLink="true">https://todayforai.com/en/story/story-7d62e199-51c</guid>
 <pubDate>Thu, 29 Oct 2026 15:31:29 +0800</pubDate>
@@ -43,13 +43,13 @@
 
 这一全栈开源策略为开发者提供了从原始音频到定制化应用的端到端能力，打破了以往高性能语音模型闭源或部署成本高昂的局面。它不仅加速了语音交互技术在企业级应用中的落地，也为构建更智能、更具隐私保护意识的本地化语音解决方案奠定了坚实基础。&lt;/p&gt;&lt;p&gt;6 sources&lt;/p&gt;&lt;p&gt;Hugging Face Blog, TechCrunch AI, The Decoder, Hacker News AI, IT之家 · 智能时代, Marktechpost (@Marktechpost)&lt;/p&gt;</description>
 </item>
-<item><title>Artificial Analysis 发布 v5 智能指数强化抗污染评估</title><link>https://todayforai.com/en/story/story-add8001f-6fc</link><guid isPermaLink="true">https://todayforai.com/en/story/story-add8001f-6fc</guid>
-<pubDate>Fri, 30 Oct 2026 03:07:40 +0800</pubDate>
-<description>&lt;p&gt;Artificial Analysis 正式推出其智能指数的重大升级版本 v5，核心变革在于将 60% 的评估权重转移至私有测试集或保留答案的数据集。这一举措旨在应对公开基准饱和及数据泄露导致的分数虚高问题，通过引入 Cognition 的 FrontierCode 2.0 和 Terminal-Bench-Science 等高难度代理基准，显著增强了评估体系的抗污染能力与真实世界适用性。
+<item><title>Anthropic 递交 IPO 招股书，估值两万亿拟募资千亿</title><link>https://todayforai.com/en/story/story-0ed5b747-86f</link><guid isPermaLink="true">https://todayforai.com/en/story/story-0ed5b747-86f</guid>
+<pubDate>Fri, 30 Oct 2026 09:28:37 +0800</pubDate>
+<description>&lt;p&gt;AI 独角兽 Anthropic 正式向 SEC 提交 S-1 文件，计划以“ANT”代码在纳斯达克上市，目标估值约 2 万亿美元，拟募资最高 1000 亿美元，有望成为史上最大 IPO。招股书显示其商业化进程迅猛，2026 年上半年营收飙升至 163 亿美元，同比增长超 14 倍，且第二季度已实现运营盈利。
 
-多方信源交叉验证显示，v5 版本整合了包括 AA-Briefcase、GDP.pdf 在内的九项特定评估数据集，覆盖推理、知识、数学及编程领域，但明确排除图像与多语言测试。同步发布的 Progress Index v1 提供了单一连续尺度，用于长期追踪模型能力的演进趋势。新标准下，部分开源模型如 Kimi K3.1 Pro 排名大幅下滑，开源与顶级闭源模型的得分差距从 3 分扩大至 12 分，揭示了旧基准对开源泛化能力的潜在高估。
+尽管账面净亏损高达 807 亿美元，但多方信源交叉验证指出，这主要源于亚马逊和谷歌可转债公允价值变动的非现金会计损失，实际经营性亏损仅约 7 亿美元。公司财务健康度极高，持有 1317 亿美元现金储备，利息收入足以覆盖运营亏损。核心成本方面，算力支出占收入比例从 250% 骤降至 48%，得益于收入增速远超固定账单。此外，Anthropic 已锁定微软、谷歌及 Broadcom 等巨头总额逾 5000 亿美元的长期算力采购合同，并罕见地用 94 页篇幅披露 AI 生存性风险，凸显安全理念在商业叙事中的核心地位。
 
-此次更新对 AI 行业格局产生深远影响，它遏制了针对公开榜单的过度优化行为（Benchmaxxing），迫使开发者关注模型的真实泛化能力而非刷榜技巧。同时，开源与闭源模型在严格评估下的差距拉大，挑战了此前关于开源即将追平闭源的乐观预期，为行业提供了更客观、严谨的能力对比标尺。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys), Artificial Analysis, Hacker News AI, The Decoder, Interconnects (Nathan Lambert), IT之家 · 智能时代&lt;/p&gt;</description>
+作为首家纯大模型上市公司，Anthropic 的公开数据为行业提供了关键基准。其成功上市将重塑 AI 资本格局，证明头部实验室可通过资本市场支撑巨额算力基建。同时，其对云渠道的高度依赖（47% 销售通过 AWS/Google）及未来数千亿美元的租赁义务，也揭示了大模型赛道“高投入、高壁垒”的残酷竞争现实，迫使整个行业重新审视盈利模型与风险控制。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), The Verge AI, Hacker News AI&lt;/p&gt;</description>
 </item>
 <item><title>OpenAI 向 Pro 与 Business 用户赠送每月最高 $500 API 额度</title><link>https://todayforai.com/en/story/story-2042c530-c76</link><guid isPermaLink="true">https://todayforai.com/en/story/story-2042c530-c76</guid>
 <pubDate>Fri, 30 Oct 2026 06:48:29 +0800</pubDate>
