@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Hot Radar</title><link>https://todayforai.com/en/hot</link><description>Multi-source trending AI stories ranked by cross-source heat.</description>
-<language>en</language><lastBuildDate>Sun, 01 Nov 2026 00:12:55 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Sun, 01 Nov 2026 04:30:32 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/voxelowl/today4ai/main/hot.xml" rel="self" type="application/rss+xml"/>
 <item><title>谷歌首颗太空卫星在轨运行 Gemma 4</title><link>https://todayforai.com/en/story/story-cadea08a-964</link><guid isPermaLink="true">https://todayforai.com/en/story/story-cadea08a-964</guid>
 <pubDate>Sat, 31 Oct 2026 07:51:47 +0800</pubDate>
@@ -59,6 +59,14 @@
 
 若最终确认为非投资级评级，将显著限制 Anthropic 的融资渠道并大幅推高资金成本。这不仅迫使公司更依赖供应商担保债务，还可能引发市场对 AI 初创公司“烧钱换算力”模式的重新审视，警示行业在追求技术领先的同时需警惕潜在的流动性风险与回报周期错配。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, Hacker News AI, IT之家 · 智能时代&lt;/p&gt;</description>
 </item>
+<item><title>OpenAI 回应抗议翻倍 Codex 额度并合并入口</title><link>https://todayforai.com/en/story/story-1cdddab3-b11</link><guid isPermaLink="true">https://todayforai.com/en/story/story-1cdddab3-b11</guid>
+<pubDate>Sun, 01 Nov 2026 04:30:32 +0800</pubDate>
+<description>&lt;p&gt;面对用户对“价格不变、权益减半”的强烈抗议，OpenAI 紧急调整策略，宣布取消原定的 Pro 200 额度下调计划，并将 Pro 系列及 Business Premium 的 Work 与 Codex 用量额度直接翻倍。这一举措旨在平息社区不满，新额度对现有订阅用户立即生效，无需等待续订周期。
+
+在技术架构与计费模式上，OpenAI 正推动 ChatGPT 与 Codex 的深度整合。自 12 月起，Plus、Pro 和 Business 计划的聊天与工作界面将合并，原本独立的 Codex 额度将与 ChatGPT 共享单一 Token 配额池。普通对话限制将从按消息次数转变为按 Token 计价，这意味着重度编码任务将直接消耗聊天额度。官方同时提示，Fast 和 Ultrafast 模式的算力消耗分别为标准模式的 2.5 倍和 8 倍，实际产出仍受模型复杂度制约。
+
+此次调整标志着 OpenAI 从独立工具向统一智能体平台的转型。虽然初期提供了价值 2500 美元的补偿以缓解开发者担忧，但额度合并与 Token 化计费将深刻影响高频编码用户的成本结构。社区焦点已转向即将发布的 GPT-6.1 Astra 模型，期待其能从根本上缓解算力瓶颈，平衡用户体验与商业可持续性。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;新智元 (微信公众号), IT之家 · 智能时代, Rohan Paul (@rohanpaul_ai)&lt;/p&gt;</description>
+</item>
 <item><title>苹果官宣国行 Apple 智能接入阿里千问</title><link>https://todayforai.com/en/story/story-8a84df9f-b0e</link><guid isPermaLink="true">https://todayforai.com/en/story/story-8a84df9f-b0e</guid>
 <pubDate>Sat, 31 Oct 2026 07:50:42 +0800</pubDate>
 <description>&lt;p&gt;苹果公司正式宣布，将于 12 月通过 iOS 27.3 更新在中国市场上线首批 Apple Intelligence 功能，并确认阿里巴巴通义千问（Qwen）将作为核心大模型供应商。这一举措标志着自发布以来 Apple 智能在中国市场的实质性落地，结束了长期的等待与不确定性。
@@ -74,14 +82,6 @@
 多方信源交叉验证显示，该技术基于四年真实脑细胞电极培养研究，已集成至 OpenRouter 和 fal.ai。用户输入起始图像与提示词即可生成 3 或 5 秒、480p/720p 分辨率的视频片段，定价低至每秒 0.005 美元，主打低成本高速度的图生视频能力。
 
 这一突破标志着生物启发式计算从理论走向工程落地，为 AI 模型优化提供了全新范式。其极低的参数增量与显著的加速效果，可能重塑视频生成市场的成本结构，推动高性能 AI 应用的普及化。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), OpenRouter (@OpenRouter)&lt;/p&gt;</description>
-</item>
-<item><title>OpenAI 与三星深化合作应对 AI 算力内存短缺</title><link>https://todayforai.com/en/story/story-14bd1aae-9d8</link><guid isPermaLink="true">https://todayforai.com/en/story/story-14bd1aae-9d8</guid>
-<pubDate>Sat, 31 Oct 2026 20:10:48 +0800</pubDate>
-<description>&lt;p&gt;OpenAI CEO Sam Altman 近期赴韩会晤约 50 名三星高管，双方旨在通过深化存储芯片供应及数据中心建设合作，共同应对日益严峻的 AI 算力内存短缺危机。这一举措凸显了先进内存已成为制约全球 AI 基础设施扩张的关键瓶颈，推动行业巨头加速锁定核心硬件资源。
-
-在技术层面，双方将延续并强化“星际之门”（Stargate）项目合作，目标每月联合供应高达 90 万片 DRAM 晶圆。此外，合作范围还扩展至共建海上浮动式数据中心等创新基建形态。多方信源交叉验证显示，随着 AI 头部企业未来几年预计投入超 3 万亿美元建设基础设施，其中存储芯片支出占比约三分之一，供需失衡导致芯片价格大幅上涨。
-
-此次合作不仅缓解了 OpenAI 的短期算力焦虑，更重塑了 AI 硬件供应链格局。韩国在先进内存领域的主导地位吸引了 Nvidia、AMD 等巨头频繁访问与合作，标志着 AI 竞争已从算法模型延伸至底层物理基础设施的深度绑定，产业链上下游协同将成为决定 AI 落地速度的核心变量。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), IT之家 · IT业界&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
