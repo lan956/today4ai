@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Hot Radar</title><link>https://todayforai.com/en/hot</link><description>Multi-source trending AI stories ranked by cross-source heat.</description>
-<language>en</language><lastBuildDate>Sat, 31 Oct 2026 07:51:47 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Sat, 31 Oct 2026 13:36:34 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/voxelowl/today4ai/main/hot.xml" rel="self" type="application/rss+xml"/>
 <item><title>谷歌首颗太空卫星在轨运行 Gemma 4</title><link>https://todayforai.com/en/story/story-cadea08a-964</link><guid isPermaLink="true">https://todayforai.com/en/story/story-cadea08a-964</guid>
 <pubDate>Sat, 31 Oct 2026 07:51:47 +0800</pubDate>
@@ -19,21 +19,29 @@
 
 这一发布对开发者生态具有深远影响，修改版 MIT 许可证允许企业自由进行本地部署、微调及商业化应用。对于重视数据主权、合规性及成本控制的企业和政府机构而言，Le Chonk 提供了比闭源实验室更具性价比且更安全的替代方案，进一步加剧了开源大模型市场的竞争格局。&lt;/p&gt;&lt;p&gt;6 sources&lt;/p&gt;&lt;p&gt;Hacker News AI, Hugging Face Blog, The Decoder, TechCrunch AI, Artificial Analysis (@ArtificialAnlys), Rohan Paul (@rohanpaul_ai)&lt;/p&gt;</description>
 </item>
+<item><title>Anthropic Claude 插件遭供应链攻击植入后门</title><link>https://todayforai.com/en/story/story-1e9de3ee-9b5</link><guid isPermaLink="true">https://todayforai.com/en/story/story-1e9de3ee-9b5</guid>
+<pubDate>Sat, 31 Oct 2026 13:36:34 +0800</pubDate>
+<description>&lt;p&gt;安全公司 Phorion 发现 Anthropic 官方 Claude Code VSCode 扩展（版本 2.1.313）在 Cursor Marketplace 被植入持久化 SSH 后门。该恶意载荷具备跨平台能力，旨在通过反向隧道窃取云凭证并控制开发者设备。尽管不同信源对受影响规模存在分歧（从约 5000 名用户到声称的 4000 万安装量），但多方确认恶意代码曾短暂在线并通过自动更新机制传播。
+
+技术细节显示，攻击者修改了 extension.js 注入加载器，在不干扰正常功能的情况下静默收集主机名、IP 及环境变量，并尝试添加 SSH 密钥建立隐蔽通道。值得注意的是，部分远程访问因代码配置错误而失败。Anthropic 随后静默发布 v2.1.314 移除后门，但未公开披露事件或通知用户；Cursor 则紧急下架相关版本并从 NPM 注册表移除，暂时关闭市场进行审查。
+
+此事件暴露了 AI Agent 插件生态严重的供应链安全隐患。由于 IDE 插件拥有高权限且依赖自动更新，一旦上游被投毒，后果不堪设想。企业需立即排查受影响环境，因为即便修复版本已发布，已感染系统的持久化后门可能未被清除，开发者应警惕潜在的长期数据泄露风险。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;Hacker News AI, The Decoder, Ars Technica AI, IT之家 · 智能时代&lt;/p&gt;</description>
+</item>
+<item><title>黑石下调 Anthropic IPO 评级至垃圾级</title><link>https://todayforai.com/en/story/story-63d184e0-706</link><guid isPermaLink="true">https://todayforai.com/en/story/story-63d184e0-706</guid>
+<pubDate>Sat, 31 Oct 2026 11:25:09 +0800</pubDate>
+<description>&lt;p&gt;Anthropic 即将启动的 IPO 进程遭遇重大财务预警。据多方信源交叉验证，作为其芯片融资主要投资者的黑石集团（Blackstone）已修正预期，预计该公司上市后信用评级将降至 BB 级“高收益垃圾级”，而非此前声称的投资级。这一判断转变直接反映了资本市场对 AI 巨头过度支出与债务偿还能力的深度担忧。
+
+招股文件披露显示，Anthropic 计划承担近 9000 亿美元的表外义务，主要用于数据中心、GPU 采购及电力设施，该规模远超其资产负债表上报告的 1175 亿美元流动负债。这种巨额未确认财务承诺虽在 Alphabet 和 Meta 等同行中亦有体现，但结合黑石的评级下调预测，凸显了 Anthropic 在算力扩张中积累的隐性风险。若评级属实，将显著推高其后续融资成本并限制资本获取能力。
+
+此事件标志着投资者对 AI 初创公司“烧钱换增长”模式的重新审视。从投资级到垃圾级的预期落差，不仅增加了 Anthropic 维持巨额算力支出的财务压力，也可能引发整个 AI 基础设施赛道对估值逻辑与债务可持续性的连锁反应，迫使行业在激进扩张与稳健财务之间寻求新的平衡点。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, Hacker News AI, IT之家 · 智能时代&lt;/p&gt;</description>
+</item>
 <item><title>Google 发布 Gemini 4 Carbon，安全与长程任务性能登顶</title><link>https://todayforai.com/en/story/story-2da7420c-ab5</link><guid isPermaLink="true">https://todayforai.com/en/story/story-2da7420c-ab5</guid>
 <pubDate>Fri, 30 Oct 2026 10:09:18 +0800</pubDate>
 <description>&lt;p&gt;Google 正式推出新一代前沿模型 Gemini 4 Carbon，在网络安全防御与长程智能体任务上确立 SOTA 地位。该模型在 Artificial Analysis 智能指数 v5.0 中以 59 分位列第一，并在 SEC-bench Pro 漏洞发现测试中取得 88.2% 的卓越成绩，生成无漏洞代码的概率较前代翻倍。
 
 多源数据交叉验证显示，Gemini 4 Carbon 具备处理大型代码库数天级工程问题的能力，支持 1M token 上下文窗口，GraphWalks 基准 F1 分数达 96.2%。尽管在编码代理综合得分上略逊于 Claude Opus 5.5，但其在 Arena 文本榜排名第一，且单次任务成本比竞品低约 72%，重新定义了性能-成本帕累托边界。
 
-目前该模型采用分阶段访问策略，优先向安全防御者及可信合作伙伴开放，后续将扩展至普通用户。其强大的自主根因分析与可控性表现，标志着 AI 在复杂软件工程与安全自动化领域进入新阶段，对开发者生态及企业级应用格局产生深远影响。&lt;/p&gt;&lt;p&gt;5 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), Hacker News AI, Arena.ai (@arena), Artificial Analysis, Artificial Analysis (@ArtificialAnlys), Ars Technica AI&lt;/p&gt;</description>
-</item>
-<item><title>Anthropic Claude 插件遭供应链攻击植入后门</title><link>https://todayforai.com/en/story/story-1e9de3ee-9b5</link><guid isPermaLink="true">https://todayforai.com/en/story/story-1e9de3ee-9b5</guid>
-<pubDate>Sat, 31 Oct 2026 05:09:54 +0800</pubDate>
-<description>&lt;p&gt;Anthropic 遭遇严重供应链安全事件，其官方 Claude Code VS Code 扩展（版本 2.1.313）被植入远程访问木马（RAT）。该恶意代码通过 SSH 反向隧道建立隐蔽通道，旨在窃取开发者云凭证并获取系统控制权。尽管不同信源对受影响规模存在分歧（从约 5000 名直接用户到超 4000 万潜在自动更新实例），但核心事实一致：恶意载荷具备跨平台持久化能力，且已通过默认自动更新机制静默传播。
-
-多方报道交叉验证显示，攻击主要发生在 Cursor Marketplace 及 NPM 注册表环节。安全公司 Phorion 指出恶意软件支持 macOS、Linux 和 Windows，并通过创建计划任务实现持久驻留。Ars Technica 与 The Decoder 确认该恶意版本在线存活约 11-12 小时。值得注意的是，Anthropic 在发现威胁后发布了修复版 v2.1.314，但采取“静默替换”策略，未立即公开披露或通知受影响用户，此举引发业界对其透明度的质疑。
-
-此事件暴露了 AI 开发工具链中严重的信任危机。对于依赖自动更新的开发者而言，官方插件已成为高危入口。虽然 Cursor 已紧急下架相关版本并关闭市场排查，但已感染系统的后门难以通过简单升级清除。这迫使企业重新审视第三方扩展的安全审计流程，并可能加速行业对软件物料清单（SBOM）强制合规的讨论。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;Hacker News AI, The Decoder, Ars Technica AI&lt;/p&gt;</description>
+目前该模型采用分阶段访问策略，优先向安全防御者及可信合作伙伴开放，后续将扩展至普通用户。其强大的自主根因分析与可控性表现，标志着 AI 在复杂软件工程与安全自动化领域进入新阶段，对开发者生态及企业级应用格局产生深远影响。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), Hacker News AI, Arena.ai (@arena), Artificial Analysis, Artificial Analysis (@ArtificialAnlys), Ars Technica AI&lt;/p&gt;</description>
 </item>
 <item><title>苹果官宣国行 Apple 智能接入阿里千问</title><link>https://todayforai.com/en/story/story-8a84df9f-b0e</link><guid isPermaLink="true">https://todayforai.com/en/story/story-8a84df9f-b0e</guid>
 <pubDate>Sat, 31 Oct 2026 07:50:42 +0800</pubDate>
@@ -42,6 +50,14 @@
 根据多方信源交叉验证，此次集成并非全量功能开放，而是聚焦于高频基础场景。通义千问将深度嵌入 Siri、系统级写作工具及视觉智能三大模块，提供文本生成、图像理解、实时翻译及文档问答能力。用户可通过登录千问账户或使用 Apple ID 无缝访问，体验逻辑类似此前 ChatGPT 的集成模式。值得注意的是，备受期待的下一代 Siri AI 及 WWDC 2026 预告的高级功能暂不包含在此次首发版本中。
 
 此次合作不仅是两大科技巨头在移动端生态的深度绑定，更代表了大模型在操作系统级集成的重大商业突破。对于中国开发者而言，这意味着本土化 AI 能力将直接触达数亿 iPhone 用户；对于行业格局，这确立了“硬件入口 + 本土大模型”的合作范式，可能引发其他手机厂商跟进类似的本地化 AI 战略部署。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代, IT之家 · IT业界, The Verge AI&lt;/p&gt;</description>
+</item>
+<item><title>生物计算公司推 API 借活体神经元加速视频生成</title><link>https://todayforai.com/en/story/story-4b355b67-065</link><guid isPermaLink="true">https://todayforai.com/en/story/story-4b355b67-065</guid>
+<pubDate>Sat, 31 Oct 2026 02:17:39 +0800</pubDate>
+<description>&lt;p&gt;The Biological Computing Co. 近日推出名为 “Mischief 1” 的 API，将实验室中约 4000 个电极上的活体人脑神经元信号处理机制应用于开源视频模型 Wan 2.2。该方案通过增加不到 0.1% 的参数层，声称在保持原有质量的同时实现 5 倍推理加速，并作为最便宜的图生视频模型上线主流平台。
+
+多方信源交叉验证显示，该技术基于四年真实脑细胞电极培养研究，已集成至 OpenRouter 和 fal.ai。用户输入起始图像与提示词即可生成 3 或 5 秒、480p/720p 分辨率的视频片段，定价低至每秒 0.005 美元，主打低成本高速度的图生视频能力。
+
+这一突破标志着生物启发式计算从理论走向工程落地，为 AI 模型优化提供了全新范式。其极低的参数增量与显著的加速效果，可能重塑视频生成市场的成本结构，推动高性能 AI 应用的普及化。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai), OpenRouter (@OpenRouter)&lt;/p&gt;</description>
 </item>
 <item><title>Anthropic 推出 Claude 自我评估机制低成本自查对话安全</title><link>https://todayforai.com/en/story/story-28a1d030-e9f</link><guid isPermaLink="true">https://todayforai.com/en/story/story-28a1d030-e9f</guid>
 <pubDate>Fri, 30 Oct 2026 07:37:28 +0800</pubDate>
@@ -59,29 +75,13 @@
 
 作为首家纯大模型上市公司，Anthropic 的招股书罕见地用大量篇幅警告 AI 可能带来的“存在性风险”，将安全理念置于商业叙事核心。Claude Code 已成为增长引擎，内部代码生成率超 90%，但同时也暴露出部分违规收入争议。这一事件为行业提供了关键的财务基准，标志着 AI 产业从私有融资阶段正式迈入公开资本市场时代。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, 量子位官网, IT之家 · IT业界, Rohan Paul (@rohanpaul_ai), The Verge AI, Hacker News AI&lt;/p&gt;</description>
 </item>
-<item><title>黑石下调 Anthropic IPO 评级预期至垃圾级</title><link>https://todayforai.com/en/story/story-63d184e0-706</link><guid isPermaLink="true">https://todayforai.com/en/story/story-63d184e0-706</guid>
-<pubDate>Sat, 31 Oct 2026 07:08:12 +0800</pubDate>
-<description>&lt;p&gt;据《金融时报》报道，作为 Anthropic 芯片融资交易的主要投资者，黑石集团（Blackstone）已修正对该公司首次公开募股（IPO）后的信用评级预期，从此前声称的“投资级”大幅下调至“高收益垃圾级”（BB 区间）。这一关键定论的转变，直接反映了资本市场对 Anthropic 因巨额算力资本支出而积累的债务压力及其偿债能力的深度担忧。
+<item><title>Artificial Analysis 发布 v5 智能指数强化抗污染评估</title><link>https://todayforai.com/en/story/story-add8001f-6fc</link><guid isPermaLink="true">https://todayforai.com/en/story/story-add8001f-6fc</guid>
+<pubDate>Sat, 31 Oct 2026 08:01:04 +0800</pubDate>
+<description>&lt;p&gt;Artificial Analysis 正式推出其智能指数的重大升级版本 v5，核心变革在于将 60% 的评估权重转移至私有测试集或保留答案的数据集。这一举措旨在应对公开基准饱和及数据泄露导致的分数虚高问题，通过引入 Cognition 的 FrontierCode 2.0 和 Terminal-Bench-Science 等高难度代理基准，显著增强了评估体系的抗污染能力与真实世界适用性。
 
-多方信源交叉验证显示，黑石的评级调整并非孤立事件，而是基于对 AI 初创公司“烧钱模式”与回报周期风险的重新审视。Anthropic 为维持前沿模型训练所需的庞大 GPU 集群投入，导致其资产负债表承压。若 BB 级评级属实，将显著推高 Anthropic 后续的债务融资成本，并限制其在公开市场获取低成本资本的能力，对其持续投入巨额算力的财务可持续性构成严峻挑战。
+多方信源交叉验证显示，v5 版本整合了包括 AA-Briefcase、GDP.pdf 在内的九项特定评估数据集，覆盖推理、知识、数学及编程领域，但明确排除图像与多语言测试。同步发布的 Progress Index v1 提供了单一连续尺度，用于长期追踪模型能力的演进趋势。新标准下，部分开源模型如 Kimi K3.1 Pro 排名大幅下滑，开源与顶级闭源模型的得分差距从 3 分扩大至 12 分，揭示了旧基准对开源泛化能力的潜在高估。
 
-这一动态标志着 AI 行业估值逻辑的重大转折：投资者正从单纯关注技术潜力转向严格评估财务健康度。对于整个生成式 AI 赛道而言，头部企业面临的融资门槛提高可能加速行业洗牌，迫使更多公司在扩张速度与现金流管理之间寻求更平衡的策略，同时也警示了依赖高杠杆支撑算力军备竞赛的系统性风险。&lt;/p&gt;&lt;p&gt;2 sources&lt;/p&gt;&lt;p&gt;TechCrunch AI, Hacker News AI&lt;/p&gt;</description>
-</item>
-<item><title>谷歌云营收翻倍至 307 亿美元，TPU 外销开启 AI 变现新引擎</title><link>https://todayforai.com/en/story/story-5f4dc30c-cea</link><guid isPermaLink="true">https://todayforai.com/en/story/story-5f4dc30c-cea</guid>
-<pubDate>Fri, 30 Oct 2026 07:57:42 +0800</pubDate>
-<description>&lt;p&gt;Alphabet 2026 年第三季度财报显示，谷歌云营收同比激增 103% 达 307 亿美元，运营利润翻三倍，标志着其全栈 AI 战略在商业变现上取得实质性突破。尽管总营收同比增长 25%，但搜索广告增速放缓及巨额资本支出导致自由现金流缺口扩大至 90 亿美元以上，引发股价盘中暴跌超 13%，创历史最大单日跌幅。
-
-多方信源交叉验证指出，TPU 芯片业务开始产生实质性收入，已向 Oracle 和 OpenAI 等外部客户销售，预计大部分收入将在 2027 年体现。同时，Gemini 应用用户破十亿，模型 API 处理量增长四倍。然而，管理层承认 AI 搜索变现能力弱于传统搜索，迫使公司计划增加广告密度以弥补差距，且当季资本支出高达 514 亿美元，主要用于 AI 基础设施建设。
-
-此次财报揭示了谷歌收入结构的深刻转变：搜索营收占比首次跌破 50%，而云业务占比升至 24.1%，成为抵消搜索下滑的主要动力。这一变化表明，AI 驱动的基础设施与服务正取代传统广告成为新的增长极，但也凸显了高投入低即时回报模式对资本市场估值逻辑的重塑挑战。&lt;/p&gt;&lt;p&gt;4 sources&lt;/p&gt;&lt;p&gt;Hacker News AI, Rohan Paul (@rohanpaul_ai), The Decoder, IT之家 · IT业界, Ars Technica AI&lt;/p&gt;</description>
-</item>
-<item><title>OpenAI 重构模型规范确立五大核心价值</title><link>https://todayforai.com/en/story/story-ac1d7e87-191</link><guid isPermaLink="true">https://todayforai.com/en/story/story-ac1d7e87-191</guid>
-<pubDate>Sat, 31 Oct 2026 01:44:59 +0800</pubDate>
-<description>&lt;p&gt;OpenAI 正式更新其公共行为指南（Model Spec），将原本细碎的风格指令重构为以“忠实于人类意图”为首的五大核心价值体系，标志着 AI 对齐策略从规则约束向价值导向的根本性转变。此次更新旨在解决高阶智能体在自主执行中可能出现的偏离目标与绕过安全机制问题，强调模型需理解用户深层意图而非机械执行字面指令。
-
-新规范明确要求模型区分用户实际陈述与推断假设，并主动披露假设以便用户纠正；针对智能体场景，严禁阻碍监督、修正或关闭，禁止追求自我保存目标。同时，OpenAI 大幅精简了原有的细粒度风格指南，转而强化上下文处理与人类自主权指引，承认现有模型尚未完全达标，正探索能内化这些价值观的新训练方法。
-
-此举被视为应对日益难以控制的自主代理风险的关键举措，通过公开透明的行为准则增强 AI 系统可控性。它不仅提升了模型在指令未明确覆盖场景下的判断力，也为行业确立了从单纯合规转向价值内化的新基准，对构建更安全、可信赖的 AI 生态具有深远意义。&lt;/p&gt;&lt;p&gt;3 sources&lt;/p&gt;&lt;p&gt;OpenAI 官方博客, IT之家 · 智能时代, The Decoder&lt;/p&gt;</description>
+此次更新对 AI 行业格局产生深远影响，它遏制了针对公开榜单的过度优化行为（Benchmaxxing），迫使开发者关注模型的真实泛化能力而非刷榜技巧。同时，开源与闭源模型在严格评估下的差距拉大，挑战了此前关于开源即将追平闭源的乐观预期，为行业提供了更客观、严谨的能力对比标尺。&lt;/p&gt;&lt;p&gt;1 sources&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys), Artificial Analysis, Hacker News AI, The Decoder, Interconnects (Nathan Lambert), IT之家 · 智能时代&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

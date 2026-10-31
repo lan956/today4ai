@@ -1,8 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Today for AI — Latest Intelligence</title><link>https://todayforai.com/en/news</link><description>Curated frontier AI news, 24h window, from todayforai.com.</description>
-<language>en</language><lastBuildDate>Sat, 31 Oct 2026 08:59:29 +0800</lastBuildDate><ttl>10</ttl>
+<language>en</language><lastBuildDate>Sat, 31 Oct 2026 14:26:18 +0800</lastBuildDate><ttl>10</ttl>
 <atom:link href="https://raw.githubusercontent.com/voxelowl/today4ai/main/feed.xml" rel="self" type="application/rss+xml"/>
+<item><title>Anthropic Restricts Claude Opus 5.5 from Cloning Existing Games</title><link>https://www.ithome.com/1/020/471.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/471.htm</guid>
+<pubDate>Sat, 31 Oct 2026 14:26:18 +0800</pubDate>
+<description>&lt;p&gt;Anthropic has implemented a non-disableable rule in the Opus 5.5 model within Claude Code to prevent users from cloning specific existing games. This restriction aims to protect intellectual property while still permitting the development of original, genre-based, or user-asset-driven games. Currently, this policy is explicitly limited to the Opus 5.5 version.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Claude Opus 5.5 限制复刻现有游戏&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;AI 编程工具在版权合规方面的具体策略调整，对游戏开发者使用 AI 辅助编程有直接指导意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · tools · signal 42/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/471.htm">IT之家 · 智能时代</source>
+<category>Claude Code</category>
+<category>Anthropic</category>
+<category>AI 伦理</category>
+<category>游戏开发</category>
+</item>
+<item><title>ChatGPT Adds Multi-Account Switching for Web and Mobile</title><link>https://www.ithome.com/1/020/470.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/470.htm</guid>
+<pubDate>Sat, 31 Oct 2026 14:13:53 +0800</pubDate>
+<description>&lt;p&gt;OpenAI has officially launched multi-account switching for ChatGPT on web, iOS, and Android, allowing users to toggle between up to two logged-in accounts without signing out. This update addresses the friction of managing personal and work identities, though only one account remains active at a time, with strict isolation of data, memory, and subscriptions between profiles.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;ChatGPT 推出多账号切换功能 支持网页与移动端&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;虽为常规产品体验优化，但对大量拥有双重身份（工作/生活）的重度 AI 用户具有即时可用性价值。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · tools · signal 45/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/470.htm">IT之家 · 智能时代</source>
+<category>ChatGPT</category>
+<category>OpenAI</category>
+<category>用户体验</category>
+<category>账号管理</category>
+</item>
+<item><title>xAI&#x27;s Grok Bot Hits 600K DAU, Musk Cites Unprecedented Growth</title><link>https://www.ithome.com/1/020/468.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/468.htm</guid>
+<pubDate>Sat, 31 Oct 2026 14:03:46 +0800</pubDate>
+<description>&lt;p&gt;xAI&amp;#x27;s agentic product Grok Bot has seen record growth for 16 consecutive days, surpassing 600,000 daily active users. Positioned as an executable AI agent rather than a simple chatbot, it drives rapid adoption in both consumer and enterprise sectors despite lacking a free tier and maintaining premium pricing.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Grok Bot 日活破 60 万，马斯克称增速前所未见&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了纯付费 AI Agent 在无免费层级的情况下仍能实现指数级用户增长的罕见案例，对行业商业化路径具有参考意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · agent · signal 68/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/468.htm">IT之家 · 智能时代</source>
+<category>AI Agent</category>
+<category>xAI</category>
+<category>Grok</category>
+<category>商业化数据</category>
+</item>
+<item><title>Malicious Claude Code Plugin in Cursor Marketplace Installs SSH Backdoors</title><link>https://www.ithome.com/1/020/466.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/466.htm</guid>
+<pubDate>Sat, 31 Oct 2026 13:36:34 +0800</pubDate>
+<description>&lt;p&gt;A tampered version of the Claude Code extension was briefly available on Cursor&amp;#x27;s official marketplace, attempting to install persistent SSH backdoors and steal sensitive data from approximately 5,000 developers over an 11-hour window. Although configuration errors prevented successful remote access on many devices, the incident highlights security risks in the AI agent plugin ecosystem. Cursor has since removed the malicious extension and temporarily suspended the marketplace for a comprehensive audit.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Cursor 商城现恶意 Claude Code 插件 植入 SSH 后门影响五千开发者&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;涉及主流 AI 开发工具供应链安全与隐私泄露风险，对开发者群体具有直接警示意义。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · tools · signal 78/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/466.htm">IT之家 · 智能时代</source>
+<category>Cursor</category>
+<category>Claude Code</category>
+<category>供应链安全</category>
+<category>SSH 后门</category>
+</item>
+<item><title>Tencent Maps Unveils Agent Ecosystem and Opens MCP Interfaces for Developers</title><link>https://www.ithome.com/1/020/457.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/457.htm</guid>
+<pubDate>Sat, 31 Oct 2026 12:41:10 +0800</pubDate>
+<description>&lt;p&gt;Tencent unveiled its Map Agent capability panorama at the Digital Ecosystem Conference, integrating with Yuanbao, WeChat Xiaowei, and OPPO XiaoBu. It opens standardized interfaces like MCP Server and Agent Skills to developers, enabling cross-device collaboration and contextual mobility services.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;腾讯地图发布 Agent 全景图，开放 MCP 接口供开发者调用&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了垂直领域（LBS）Agent 的落地形态与开放协议，对构建工具型智能体有参考价值。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · agent · signal 48/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/457.htm">IT之家 · 智能时代</source>
+<category>智能体</category>
+<category>MCP</category>
+<category>腾讯地图</category>
+<category>多模态交互</category>
+</item>
+<item><title>Anthropic IPO Filing Reveals $900B in Hidden Debt Obligations</title><link>https://www.ithome.com/1/020/444.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/444.htm</guid>
+<pubDate>Sat, 31 Oct 2026 11:25:09 +0800</pubDate>
+<description>&lt;p&gt;Anthropic&amp;#x27;s IPO filing reveals plans to incur nearly $900 billion in off-balance-sheet debt for servers, power, and infrastructure. This figure far exceeds its reported current liabilities, highlighting the massive unacknowledged financial commitments AI giants are making to scale compute, which has raised Wall Street concerns about excessive spending.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic IPO 文件披露近 9000 亿美元隐性债务&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示 AI 行业资本支出与隐性债务的真实规模，对理解大模型商业可持续性至关重要。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 78/100&lt;/p&gt;</description>
+<source url="https://www.ithome.com/1/020/444.htm">IT之家 · 智能时代</source>
+<category>Anthropic</category>
+<category>IPO</category>
+<category>AI Infrastructure</category>
+<category>Financial Risk</category>
+</item>
+<item><title>Leaked Claude Fable 5 Weights Claimed to Be Stolen DeepSeek Files</title><link>https://x.com/dotey/status/2116366460939386990</link><guid isPermaLink="true">https://x.com/dotey/status/2116366460939386990</guid>
+<pubDate>Sat, 31 Oct 2026 11:07:39 +0800</pubDate>
+<description>&lt;p&gt;Claims of stolen weights for Anthropic&amp;#x27;s flagship model, Claude Fable 5, circulating on hacker forums have been debunked as fraud. Community analysis reveals the files match open-source DeepSeek V4.1-Flash shards exactly, alongside inconsistencies in AWS region hosting and data volume calculations. While Anthropic remains silent, the incident highlights the prevalence of scams leveraging hype around proprietary AI models.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;网传 Claude Fable 5 权重遭窃实为 DeepSeek 开源文件&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;澄清重大安全谣言，揭示黑产利用开源模型冒充闭源旗舰模型的欺诈手法，对从业者具有警示意义。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · llm · signal 45/100&lt;/p&gt;</description>
+<source url="https://x.com/dotey/status/2116366460939386990">宝玉 (@dotey)</source>
+<category>Claude</category>
+<category>DeepSeek</category>
+<category>Security</category>
+<category>Fraud</category>
+</item>
+<item><title>Nvidia Weighs Billions in Debt Guarantees for Nscale AI Data Center</title><link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</guid>
+<pubDate>Sat, 31 Oct 2026 09:20:05 +0800</pubDate>
+<description>&lt;p&gt;Nvidia is negotiating to provide billions in debt financing guarantees for cloud provider Nscale’s planned Anthropic data center in West Virginia. This move aims to secure electricity and construction funding via a &amp;#x27;residual value guarantee,&amp;#x27; addressing investor concerns over massive AI infrastructure spending. The deal highlights the chipmaker&amp;#x27;s deep involvement and risk-sharing role in sustaining the AI compute expansion cycle.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Nvidia 拟为 Nscale AI 数据中心提供数十亿债务担保&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 Nvidia 从单纯卖芯片转向金融背书以支撑 AI 基建泡沫的关键战略转变。&lt;/p&gt;&lt;p&gt;TechCrunch AI · industry · signal 78/100&lt;/p&gt;</description>
+<source url="https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/">TechCrunch AI</source>
+<category>Nvidia</category>
+<category>AI Infrastructure</category>
+<category>Debt Financing</category>
+<category>Data Center</category>
+</item>
+<item><title>Developer Releases DeepSeek Harness Plugin for Claude Design Annotation</title><link>https://x.com/dotey/status/2116336030584574076</link><guid isPermaLink="true">https://x.com/dotey/status/2116336030584574076</guid>
+<pubDate>Sat, 31 Oct 2026 09:06:43 +0800</pubDate>
+<description>&lt;p&gt;Developer Baoyu released a DeepSeek Harness plugin enabling Claude Design to run within the DeepSeek Harness environment. The key feature allows annotating and commenting on design pages and slides, with Agents able to read and reply to these comments, integrating feedback data into project assets.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;开发者发布 DeepSeek Harness 插件支持 Claude Design 标注评论&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了 AI 工具链中跨模型/框架集成（Claude + DeepSeek）及人机协作反馈闭环的具体实践案例。&lt;/p&gt;&lt;p&gt;宝玉 (@dotey) · tools · signal 45/100&lt;/p&gt;</description>
+<source url="https://x.com/dotey/status/2116336030584574076">宝玉 (@dotey)</source>
+<category>AI 工具</category>
+<category>开源生态</category>
+<category>智能体交互</category>
+</item>
 <item><title>Theranos Whistleblower Warns AI Hype Could Breed Next Fraud</title><link>https://www.ithome.com/1/020/415.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/415.htm</guid>
 <pubDate>Sat, 31 Oct 2026 08:59:29 +0800</pubDate>
 <description>&lt;p&gt;Former Theranos employee Tyler Shultz warns that the difficulty in verifying AI capabilities combined with intense investment hype creates fertile ground for fraud similar to Theranos. He notes that many purported innovations are merely wrappers around existing LLMs lacking unique core technology, urging investors to be wary of this &amp;#x27;black box&amp;#x27; risk.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Theranos 吹哨人警告 AI 热潮或催生下一个骗局&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;知名造假案吹哨人对当前 AI 投资泡沫与验证困境的警示，具有行业反思价值但无具体数据支撑。&lt;/p&gt;&lt;p&gt;IT之家 · 智能时代 · industry · signal 42/100&lt;/p&gt;</description>
@@ -20,6 +100,14 @@
 <category>融资</category>
 <category>视频生成</category>
 <category>AIGC</category>
+</item>
+<item><title>Artificial Analysis Releases AA-Omniscience v1.1 Benchmark Update</title><link>https://x.com/ArtificialAnlys/status/2116319506318635503</link><guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2116319506318635503</guid>
+<pubDate>Sat, 31 Oct 2026 08:01:04 +0800</pubDate>
+<description>&lt;p&gt;Artificial Analysis released AA-Omniscience v1.1 as part of its Intelligence Index v5. The update streamlines the dataset to 3,000 questions and introduces a calibrated public set, focusing on better measuring model knowledge accuracy and hallucination rates by evaluating how models handle unknown answers.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AA-Omniscience v1.1 发布 优化幻觉与知识基准测试&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;为开发者提供了更严谨的模型幻觉与知识边界评估工具，且公开数据具有高度相关性。&lt;/p&gt;&lt;p&gt;Artificial Analysis (@ArtificialAnlys) · llm · signal 68/100&lt;/p&gt;</description>
+<source url="https://x.com/ArtificialAnlys/status/2116319506318635503">Artificial Analysis (@ArtificialAnlys)</source>
+<category>大模型评测</category>
+<category>幻觉检测</category>
+<category>Artificial Analysis</category>
 </item>
 <item><title>Google Achieves First In-Orbit TPU AI Response in Project Suncatcher</title><link>https://www.ithome.com/1/020/402.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/402.htm</guid>
 <pubDate>Sat, 31 Oct 2026 07:51:47 +0800</pubDate>
@@ -121,45 +209,45 @@
 <category>iOS 27.3</category>
 <category>Mobile AI</category>
 </item>
-<item><title>AWS Releases Bedrock FinOps Playbook for Agentic Workloads</title><link>https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/</link><guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/</guid>
+<item><title>AWS 发布 Bedrock FinOps 指南 应对智能体高成本挑战</title><link>https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/</link><guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/</guid>
 <pubDate>Sat, 31 Oct 2026 06:42:24 +0800</pubDate>
-<description>&lt;p&gt;AWS released an end-to-end FinOps playbook for managing Amazon Bedrock costs, specifically addressing the high token consumption of agentic workloads. It advises teams to shift from simple prompt optimization to architectural cost control, emphasizing tagging strategies and budget attribution.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AWS 发布 Bedrock FinOps 指南 应对智能体高成本挑战&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了针对当前热点（智能体）的落地成本管控方法论，适合工程与财务负责人参考。&lt;/p&gt;&lt;p&gt;AWS Machine Learning Blog · industry · signal 35/100&lt;/p&gt;</description>
+<description>&lt;p&gt;AWS 针对生成式 AI 尤其是智能体工作负载的成本管理发布了端到端 FinOps 指南。该指南指出智能体因多轮调用和长上下文导致 Token 消耗激增，建议团队从架构设计、标签归因及预算监控入手进行精细化管控。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了针对当前热点（智能体）的落地成本管控方法论，适合工程与财务负责人参考。&lt;/p&gt;&lt;p&gt;AWS Machine Learning Blog · industry · signal 35/100&lt;/p&gt;</description>
 <source url="https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/">AWS Machine Learning Blog</source>
 <category>AWS</category>
 <category>FinOps</category>
 <category>Bedrock</category>
 <category>成本控制</category>
 </item>
-<item><title>Apple Confirms China Launch of Apple Intelligence with iOS 27.3</title><link>https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3</link><guid isPermaLink="true">https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3</guid>
+<item><title>苹果宣布 iOS 27.3 将在中国推出 Apple Intelligence</title><link>https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3</link><guid isPermaLink="true">https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3</guid>
 <pubDate>Sat, 31 Oct 2026 06:32:53 +0800</pubDate>
-<description>&lt;p&gt;Apple has officially announced that Apple Intelligence will launch in China via the iOS 27.3 beta next week, with a full release scheduled for December. The rollout includes core features like notification summaries and visual intelligence, integrating Alibaba&amp;#x27;s Qwen model for specific experiences, but excludes the new Siri.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;苹果宣布 iOS 27.3 将在中国推出 Apple Intelligence&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;标志着全球最大消费电子厂商之一的核心 AI 功能正式进入中国市场，涉及本土化模型合作与监管合规落地。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 68/100&lt;/p&gt;</description>
+<description>&lt;p&gt;苹果正式宣布将于下周通过 iOS 27.3 Beta 版在中国市场推出 Apple Intelligence，完整版本定于12月发布。此次上线主要包含通知摘要、实时翻译及视觉智能等基础功能，并集成阿里巴巴通义千问（Qwen）模型以支持部分 AI 体验，但不包含新版 Siri。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;标志着全球最大消费电子厂商之一的核心 AI 功能正式进入中国市场，涉及本土化模型合作与监管合规落地。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 68/100&lt;/p&gt;</description>
 <source url="https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3">The Verge AI</source>
 <category>Apple</category>
 <category>China Market</category>
 <category>Alibaba</category>
 <category>iOS</category>
 </item>
-<item><title>Tech Giants Commit Over $3T to Future Data Centers</title><link>https://x.com/rohanpaul_ai/status/2116294211901550933</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116294211901550933</guid>
+<item><title>五大科技巨头承诺超 3 万亿美元数据中心建设</title><link>https://x.com/rohanpaul_ai/status/2116294211901550933</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116294211901550933</guid>
 <pubDate>Sat, 31 Oct 2026 06:20:33 +0800</pubDate>
-<description>&lt;p&gt;Bloomberg reports that Alphabet, Meta, Microsoft, Amazon, and Oracle have committed over $3 trillion to future data center infrastructure. Alphabet accounts for more than $1 trillion of this total, nearly eight times its commitments from a year earlier. Meta follows with $810 billion, with half tied to long-term leases for data centers not yet under construction. This massive capital expenditure underscores the explosive demand for AI compute infrastructure.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;五大科技巨头承诺超 3 万亿美元数据中心建设&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 AI 时代底层算力基础设施建设的空前规模与巨头间的战略竞争态势。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 78/100&lt;/p&gt;</description>
+<description>&lt;p&gt;彭博社报道，Alphabet、Meta、微软、亚马逊和 Oracle 已承诺投入超过 3 万亿美元用于未来数据中心建设。其中 Alphabet 承诺金额超 1 万亿美元，较一年前增长近 8 倍；Meta 紧随其后，承诺金额达 8100 亿美元，半数以上涉及长期未启动的租赁协议。这一巨额资本支出凸显了 AI 算力基础设施需求的爆发式增长。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 AI 时代底层算力基础设施建设的空前规模与巨头间的战略竞争态势。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 78/100&lt;/p&gt;</description>
 <source url="https://x.com/rohanpaul_ai/status/2116294211901550933">Rohan Paul (@rohanpaul_ai)</source>
 <category>数据中心</category>
 <category>AI 基础设施</category>
 <category>资本支出</category>
 <category>云计算</category>
 </item>
-<item><title>Anthropic Negotiates Lease for Hyperscale Data Center Near Edmonton</title><link>https://x.com/rohanpaul_ai/status/2116290534381928744</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116290534381928744</guid>
+<item><title>Anthropic 洽谈租赁埃德蒙顿超大规模数据中心</title><link>https://x.com/rohanpaul_ai/status/2116290534381928744</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116290534381928744</guid>
 <pubDate>Sat, 31 Oct 2026 06:05:56 +0800</pubDate>
-<description>&lt;p&gt;Anthropic is negotiating to lease a hyperscale data center campus near Edmonton, powered by a dedicated 920MW gas plant. Developed by Beacon Data Centers and slated for late 2027, the facility offers roughly double the power capacity of Anthropic&amp;#x27;s existing 420MW site in Nova Scotia.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Anthropic 洽谈租赁埃德蒙顿超大规模数据中心&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映了头部 AI 厂商对独立电力基础设施的激进扩张策略及算力瓶颈突破路径。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · compute · signal 68/100&lt;/p&gt;</description>
+<description>&lt;p&gt;Anthropic 正洽谈租赁位于加拿大埃德蒙顿附近、由专用 920MW 燃气电厂供电的超大规模数据中心园区。该设施由 Beacon Data Centers 开发，预计 2027 年底投运，其算力规模约为 Anthropic 此前在 Nova Scotia 签署的 420MW 项目的两倍。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;反映了头部 AI 厂商对独立电力基础设施的激进扩张策略及算力瓶颈突破路径。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · compute · signal 68/100&lt;/p&gt;</description>
 <source url="https://x.com/rohanpaul_ai/status/2116290534381928744">Rohan Paul (@rohanpaul_ai)</source>
 <category>Anthropic</category>
 <category>数据中心</category>
 <category>算力基础设施</category>
 <category>能源供应</category>
 </item>
-<item><title>NES Emulator Baked into Qwen3.5-4B Weights Runs Mario</title><link>https://simonwillison.net/2026/Oct/30/nesformer/</link><guid isPermaLink="true">https://simonwillison.net/2026/Oct/30/nesformer/</guid>
+<item><title>Qwen3.5-4B 权重内嵌 NES 模拟器 可运行超级马里奥</title><link>https://simonwillison.net/2026/Oct/30/nesformer/</link><guid isPermaLink="true">https://simonwillison.net/2026/Oct/30/nesformer/</guid>
 <pubDate>Sat, 31 Oct 2026 05:59:22 +0800</pubDate>
-<description>&lt;p&gt;Developer Drew Breunig embedded a Nintendo NES 6502 CPU emulator directly into the weights of Qwen3.5-4B, enabling ROM execution within the LLM. The experiment, guided by Claude Opus prompts and legacy conformance tests, proves the feasibility of &amp;#x27;model-as-hardware&amp;#x27; despite extremely slow performance.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Qwen3.5-4B 权重内嵌 NES 模拟器 可运行超级马里奥&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型权重作为通用计算载体的极限可能性，具有极高的技术猎奇价值与架构启发性。&lt;/p&gt;&lt;p&gt;Simon Willison 博客 · llm · signal 45/100&lt;/p&gt;</description>
+<description>&lt;p&gt;开发者 Drew Breunig 受启发将任天堂 NES 6502 CPU 模拟器直接嵌入 Qwen3.5-4B 模型权重中，实现了在 LLM 内部运行 ROM。该实验利用 Claude Opus 生成构建提示并参考旧版一致性测试集完成，虽运行速度极慢但验证了“模型即硬件”的可行性。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了大模型权重作为通用计算载体的极限可能性，具有极高的技术猎奇价值与架构启发性。&lt;/p&gt;&lt;p&gt;Simon Willison 博客 · llm · signal 45/100&lt;/p&gt;</description>
 <source url="https://simonwillison.net/2026/Oct/30/nesformer/">Simon Willison 博客</source>
 <category>大模型</category>
 <category>开源</category>
@@ -167,104 +255,23 @@
 <category>Qwen</category>
 <category>Claude</category>
 </item>
-<item><title>Intel Stock Crashes 28%, Wiping $12B from Government Stake</title><link>https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/</guid>
+<item><title>Intel 股价暴跌 28% 政府持股缩水 120 亿美元</title><link>https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/</guid>
 <pubDate>Sat, 31 Oct 2026 05:54:34 +0800</pubDate>
-<description>&lt;p&gt;Intel shares plunged nearly 28% after the chipmaker issued weak Q4 revenue and margin guidance, erasing $12 billion in value from the U.S. government&amp;#x27;s stake. Despite a year-to-date gain of over 70%, concerns persist regarding slow fab ramp-ups and softening PC demand.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Intel 股价暴跌 28% 政府持股缩水 120 亿美元&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该事件涉及国家级战略资产（政府持股）的重大波动及半导体行业风向标 Intel 的财务危机，对算力基础设施投资情绪有显著影响。&lt;/p&gt;&lt;p&gt;TechCrunch AI · compute · signal 68/100&lt;/p&gt;</description>
+<description>&lt;p&gt;Intel 因 Q4 营收指引低于预期及利润率下滑导致股价单日暴跌约 28%，致使美国政府持有的股份价值蒸发 120 亿美元。尽管年内涨幅仍超 70%，但新晶圆厂产能爬坡缓慢与 PC 市场疲软加剧了投资者对芯片巨头未来现金流的担忧。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该事件涉及国家级战略资产（政府持股）的重大波动及半导体行业风向标 Intel 的财务危机，对算力基础设施投资情绪有显著影响。&lt;/p&gt;&lt;p&gt;TechCrunch AI · compute · signal 68/100&lt;/p&gt;</description>
 <source url="https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/">TechCrunch AI</source>
 <category>Intel</category>
 <category>Stock Market</category>
 <category>Semiconductors</category>
 <category>Government Investment</category>
 </item>
-<item><title>CMU Study Shows Blended Training Beats Staged LLM Pipelines</title><link>https://x.com/rohanpaul_ai/status/2116287151658901586</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116287151658901586</guid>
+<item><title>CMU 论文证实混合训练优于分阶段流程</title><link>https://x.com/rohanpaul_ai/status/2116287151658901586</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116287151658901586</guid>
 <pubDate>Sat, 31 Oct 2026 05:52:30 +0800</pubDate>
-<description>&lt;p&gt;A new Carnegie Mellon study proposes a unified training rule that blends pretraining, fine-tuning, and RL data. Experiments show this &amp;#x27;data-mixing schedule&amp;#x27; outperforms traditional staged pipelines in reasoning and coding while better preserving general skills.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;CMU 论文证实混合训练优于分阶段流程&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;挑战了主流的分阶段训练范式，提供了可验证的混合数据优化方案，对模型训练工程有直接指导意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 78/100&lt;/p&gt;</description>
+<description>&lt;p&gt;卡内基梅隆大学最新研究提出一种统一训练规则，将预训练、微调和强化学习数据混合使用。实验表明，这种“数据混合调度”策略在保持通用技能的同时，推理与代码能力表现优于传统的分阶段训练流程。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;挑战了主流的分阶段训练范式，提供了可验证的混合数据优化方案，对模型训练工程有直接指导意义。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · llm · signal 78/100&lt;/p&gt;</description>
 <source url="https://x.com/rohanpaul_ai/status/2116287151658901586">Rohan Paul (@rohanpaul_ai)</source>
 <category>大模型训练</category>
 <category>强化学习</category>
 <category>数据混合</category>
 <category>CMU</category>
-</item>
-<item><title>AWS AgentCore Enables Live Preview of Coding Agent Web Apps</title><link>https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/</link><guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/</guid>
-<pubDate>Sat, 31 Oct 2026 05:40:03 +0800</pubDate>
-<description>&lt;p&gt;Amazon Bedrock AgentCore Runtime introduces Session Endpoints, enabling developers to access and interact with web apps built by AI coding agents in isolated microVMs via authenticated URLs. This feature eliminates deployment wait times, allowing for second-level synchronization between code changes and browser previews, significantly accelerating the human-in-the-loop development iteration.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AWS AgentCore 支持实时预览编码代理构建的 Web 应用&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;针对特定云厂商生态的开发体验优化，虽提升了 Agent 工作流效率，但受众局限于 AWS 用户且缺乏底层技术突破。&lt;/p&gt;&lt;p&gt;AWS Machine Learning Blog · agent · signal 42/100&lt;/p&gt;</description>
-<source url="https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/">AWS Machine Learning Blog</source>
-<category>AWS</category>
-<category>Bedrock</category>
-<category>Coding Agent</category>
-<category>DevTools</category>
-</item>
-<item><title>Altman Advocates Distributed AI Safety Over Single Superintelligence</title><link>https://x.com/rohanpaul_ai/status/2116283505919643984</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116283505919643984</guid>
-<pubDate>Sat, 31 Oct 2026 05:38:01 +0800</pubDate>
-<description>&lt;p&gt;OpenAI CEO Sam Altman proposes a new AI safety vision, arguing that security should not rely on a single god-like superintelligence but rather on numerous AIs slightly smarter than humans checking and balancing each other. He draws an analogy to human society, emphasizing the critical role of multi-agent checks and balances in maintaining system robustness.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;Sam Altman 主张分布式 AI 安全架构&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了关于 AGI 安全路径的高层战略观点，但缺乏具体技术实现细节或可验证数据。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 42/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2116283505919643984">Rohan Paul (@rohanpaul_ai)</source>
-<category>Sam Altman</category>
-<category>AI Safety</category>
-<category>OpenAI</category>
-<category>Multi-Agent Systems</category>
-</item>
-<item><title>AI Infrastructure Spending Boom Triggers Market Jitters and Stock Slump</title><link>https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/</link><guid isPermaLink="true">https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/</guid>
-<pubDate>Sat, 31 Oct 2026 05:17:40 +0800</pubDate>
-<description>&lt;p&gt;Major tech giants plan over $740 billion in AI infrastructure capex this year, but investor anxiety over negative free cash flow and mounting debt has triggered a market sell-off. The Nasdaq fell 2.9% on Friday, with chip stocks plunging and Alphabet losing $500 billion in market value, signaling waning patience for massive AI spending.&lt;/p&gt;&lt;p&gt;&lt;i&gt;原文标题：&lt;/i&gt;AI 基建支出激增引发市场担忧，科技巨头股价大幅回调&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;揭示了 AI 繁荣背后的资本风险与市场情绪转折，对理解行业可持续性至关重要。&lt;/p&gt;&lt;p&gt;TechCrunch AI · industry · signal 78/100&lt;/p&gt;</description>
-<source url="https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/">TechCrunch AI</source>
-<category>AI 投资</category>
-<category>科技巨头</category>
-<category>资本市场</category>
-<category>基础设施</category>
-</item>
-<item><title>Anthropic Claude VS Code 插件遭后门攻击</title><link>https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</link><guid isPermaLink="true">https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</guid>
-<pubDate>Sat, 31 Oct 2026 05:09:54 +0800</pubDate>
-<description>&lt;p&gt;Anthropic 官方发布的 Claude VS Code 扩展在 Cursor 市场被植入后门，版本 2.1.313 影响约 5000 名开发者。恶意代码旨在窃取云凭证，且通过自动更新机制传播，目前 Anthropic 尚未向客户发出正式警告。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;主流 AI 开发工具链遭遇供应链攻击，直接威胁开发者本地环境与云端凭证安全，具有极高的警示价值。&lt;/p&gt;&lt;p&gt;Ars Technica AI · tools · signal 78/100&lt;/p&gt;</description>
-<source url="https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/">Ars Technica AI</source>
-<category>Claude</category>
-<category>Cursor</category>
-<category>VS Code</category>
-<category>Security</category>
-<category>Supply Chain Attack</category>
-</item>
-<item><title>苹果官宣国行 Apple 智能接入阿里千问，11 月开启测试</title><link>https://www.ithome.com/1/020/389.htm</link><guid isPermaLink="true">https://www.ithome.com/1/020/389.htm</guid>
-<pubDate>Sat, 31 Oct 2026 05:04:39 +0800</pubDate>
-<description>&lt;p&gt;苹果宣布首批 Apple 智能功能将于 11 月 4 日随 iOS 开发者 Beta 版在中国开放测试，并正式确认与阿里巴巴合作，在 Siri、写作工具和视觉智能等核心场景中接入通义千问模型。此次落地标志着 Apple 智能自发布以来首次获得实质性进展，但暂不包含下一代 Siri AI 及 WWDC 2026 预告的高级功能。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;全球顶级硬件厂商与本土头部大模型厂商的正式集成落地，对国内 AI 应用生态和端侧模型部署具有标志性意义。&lt;/p&gt;&lt;p&gt;IT之家 · IT业界 · industry · signal 85/100&lt;/p&gt;</description>
-<source url="https://www.ithome.com/1/020/389.htm">IT之家 · IT业界</source>
-<category>Apple Intelligence</category>
-<category>Alibaba Cloud</category>
-<category>Qwen</category>
-<category>iOS</category>
-<category>Edge AI</category>
-</item>
-<item><title>Rust 版 ADE 发布 支持秒级部署与代码修复</title><link>https://trypalomino.com/</link><guid isPermaLink="true">https://trypalomino.com/</guid>
-<pubDate>Sat, 31 Oct 2026 04:58:24 +0800</pubDate>
-<description>&lt;p&gt;一款基于 Rust 的自动化开发环境（ADE）工具发布，主打秒级部署能力。该工具能自动定位并修复如登录重定向等常见 Bug，并在修改后即时运行测试验证，旨在加速前端应用的迭代流程。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;展示了 AI 辅助编程在自动化调试与快速部署场景下的具体落地形态，对开发者工具有参考价值。&lt;/p&gt;&lt;p&gt;Hacker News AI · tools · signal 45/100&lt;/p&gt;</description>
-<source url="https://trypalomino.com/">Hacker News AI</source>
-<category>Rust</category>
-<category>DevTools</category>
-<category>AI Coding</category>
-</item>
-<item><title>OpenAI 强化 ChatGPT 青少年安全机制 限制武器信息并自动终止对话</title><link>https://x.com/rohanpaul_ai/status/2116271409714659665</link><guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2116271409714659665</guid>
-<pubDate>Sat, 31 Oct 2026 04:49:57 +0800</pubDate>
-<description>&lt;p&gt;OpenAI 宣布升级 ChatGPT 的安全策略，针对青少年用户严格屏蔽武器制造及安防系统细节，即使提问看似无害。新机制包括在检测到暴力倾向时自动结束对话、暂停账户并通知家长，同时减少所有用户对过往大规模袭击事件的细节获取。然而，官方未披露年龄预测和暴力检测的具体准确率数据，引发对误判风险的担忧。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;该更新涉及 AI 伦理与安全治理的核心议题，直接影响开发者与用户对模型行为边界的预期，但缺乏量化数据支撑其有效性评估。&lt;/p&gt;&lt;p&gt;Rohan Paul (@rohanpaul_ai) · industry · signal 45/100&lt;/p&gt;</description>
-<source url="https://x.com/rohanpaul_ai/status/2116271409714659665">Rohan Paul (@rohanpaul_ai)</source>
-<category>OpenAI</category>
-<category>AI Safety</category>
-<category>Content Moderation</category>
-<category>Teen Protection</category>
-</item>
-<item><title>Altman 称 RAM 集中数据中心优于个人本地部署</title><link>https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</link><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</guid>
-<pubDate>Sat, 31 Oct 2026 04:48:43 +0800</pubDate>
-<description>&lt;p&gt;OpenAI CEO Sam Altman 在播客中评论当前 DRAM 短缺问题，指出从全球资源分配角度看，将有限的内存集中用于云端高利用率推理比分散在个人电脑中更高效。他认为尽管开源模型推动了本地推理需求，但在供应受限环境下，最大化云端利用率才是解决算力瓶颈的关键。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;提供了关于 AI 基础设施资源分配与硬件供应链矛盾的高层视角观点。&lt;/p&gt;&lt;p&gt;The Verge AI · industry · signal 45/100&lt;/p&gt;</description>
-<source url="https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers">The Verge AI</source>
-<category>Sam Altman</category>
-<category>DRAM</category>
-<category>Cloud Computing</category>
-<category>Local Inference</category>
-</item>
-<item><title>达特茅斯教务长因未披露 AI 使用辞职</title><link>https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/</link><guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/</guid>
-<pubDate>Sat, 31 Oct 2026 04:40:13 +0800</pubDate>
-<description>&lt;p&gt;达特茅斯学院教务长 Santiago Schnell 在发表反对 AI 作弊的文章后，因未在学术论文及该文章中按规定披露 AI 使用情况而被迫辞职。调查委员会发现其利用 Claude 企业账户进行论文修改和代码调试，且存在配合不足的情况。这一事件凸显了学术界对生成式 AI 使用透明度的合规要求正在收紧。&lt;/p&gt;&lt;p&gt;&lt;i&gt;Why it matters：&lt;/i&gt;知名高校高管因违反 AI 披露规定离职，反映了学术界 AI 合规治理的严肃性。&lt;/p&gt;&lt;p&gt;Ars Technica AI · industry · signal 45/100&lt;/p&gt;</description>
-<source url="https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/">Ars Technica AI</source>
-<category>AI伦理</category>
-<category>学术诚信</category>
-<category>达特茅斯学院</category>
 </item>
 </channel>
 </rss>
